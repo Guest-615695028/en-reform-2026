@@ -19,17 +19,17 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
    - fat / fate / fatter, pet / pete / petting, bit / bite / bitter, rot / rote / rotten; ("Twicing rule")
    - lipid, licit, limit; icecle _- icicle;
    * BUT where the second I is part of the suffix _ing_, the first I is usually long as in _pining_, _wining_. In these cases, twice the consonant to keep short the first vowel: _winning_, _livving_.
-2. Consonant twicing without misleading the pronunciation is not chandged in TSR2.
-3. The combination _al(l)_ is one of the most difficult areas to attempt codication of the underlying rules of TS. However, the folloïng rules are reasonably watertight.
+2. Consonant twicing without misleading the pronunciation is not allways chandged in TSR2.
+3. The combination _al(l)_ is one of the most difficult areas to attempt codication of the underlying rules of TS. However, the folloïng rules are watertight.
    - For the most part, _al_ and _all_ represent the sounds `{l` as in _algebra_ and _allergy_. However, in TS can they allso represent the sound `O:l`. Usually is this sound forstwd by _au_ or _aw_ as in  _laud_ or _paw_, but the sound can allso be forstwd by _al_ as in _always_ or _all_ as in _small_. Such cases occur:
-   - In a few common words beginning with _al_ givving a meaning of totality is forstwd the sound /O:l/, those are, _albeit_, _almighty_, _almost_, _already_, _alright_, _also_, _although_, _altogether_, _always_. These AL's becumm _all_ in TSR2, i.e. _allbeït_, _allmighty_, _allmost_, _allreddy_, _allright_, _allso_, _allthough_, _alltogether_, _allways_, with no hyphen needed since _all_ is written before a consonant without ambiguation.
+   - In a few common words beginning with _al_ givving a meaning of totality is forstwd the sound /O:l/, those are, _albeit_, _almighty_, _almost_, _already_, _alright_, _also_, _although_, _altogether_, _always_. These AL's becumm _all_ in TSR2, i.e. _all-be-it_, _allmighty_, _allmost_, _allreddy_, _allright_, _allso_, _all-though_, _alltogether_, _allways_, with no hyphen needed since _all_ is written before a consonant without ambiguation.
    - Where _all_ is stressed ending or before a consonant (but W, Y), the sound `O:l` is allso forstwd, e.g.
       - _ball_, _call_, _fall_, _small_, and others;
       - _balls_, _callst_, _falls_, and others;
    - If the _all_ is folloed by a vowel are they written _awl_, like _cawled_, _fawling_, and _smawler_.
    - See section "Sub-rules" for _-ald-_, _-alk-_ and _-alt-_.
-4. The letter G: usually represents the sound `g` as in _gun_, along with the sound `dZ` before the letters E, I or Y. Exceptions to this rule are often marked in TS by inserting an U as in _guide_ and TSR follos this practice. Therefore, the word _argue_ is written as _argüe_ with diëresis.
-   - _gg_ always represents the sound `g` in TSR. It can therefore be used instead of _u_ to preserve the `g` sound against succeeding vowels that would otherwise turn it to `dZ`  (e.g. _lingger_, _longger_). It is particularly relevant for exceptions to the _ange_ sub-group where the sound is short rather than long (e.g. bangger_, hangger_). See D4 below.
+4. The letter G: usually represents the sound `g` as in _gun_, along with the sound `dZ` before the letters E, I or Y. Exceptions to this rule are often marked in TS by inserting an U as in _guide_ and TSR folloes this practice. Therefore, the word _argue_ is written as _argüe_ with diëresis.
+   - _gg_ allways represents the sound `g` in TSR. It can therefore be used instead of _u_ to preserve the `g` sound against succeeding vowels that would otherwise turn it to `dZ`  (e.g. _lingger_, _longger_). It is particularly relevant for exceptions to the _ange_ sub-group where the sound is short rather than long (e.g. bangger_, hangger_). See D4 below.
    - In cases where the sound is `dZ` but it is still necessary to keep the preceding vowel short, TSR inserts a _d_ before the _g_ as in _badger_, _lodger_, _fudge_ and others. Where _gu_ represents `gw` it is edspelt - _langwage_.
 5. The Letter S: It normally represents the sound `s` as in _sound_, but allso `z` as in _please_.
    - Based on TS formulae, S represents `s`:
@@ -38,8 +38,8 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
       - After a voiceless consonant: _clicks, cliffs, clips, its_;
       - In the prefixes _dis_ and _mis_, whose S may be voiced by the consonant after.
       - After the prefixes _con_ and _per_: _consent_, _persistent_;
-   - Where the above rules can not be applied, _s_ is often twiced in TS to retain the `s` sound: _miss, mass, missing_. TSR2 dos not change this, but ones in which a TS spelling cannot be brought within the rule above, e.g. _dizease_, _mizzerble_ (the twice _zz_ is required to keep the stressed vowel short – using _s_ would make the _i_ long). But _miser_. In TSR, some prefixes may be hyphenated to ensure predictability of the `s` sound: _re-send_, _co-signatory_.
-6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as two letters _ks_ and dus not twice it, so the leading vowels are always short, e.g. _boxing_, _sexual_.
+   - Where the above rules can not be applied, _s_ is often twiced in TS to retain the `s` sound: _miss, mass, missing_. TSR2 dus not change this, but ones in which a TS spelling cannot be brought within the rule above, e.g. _dizease_, _mizzerble_ (the twice _zz_ is required to keep the stressed vowel short – using _s_ would make the _i_ long). But _miser_. In TSR, some prefixes may be hyphenated to ensure predictability of the `s` sound: _re-send_, _co-signatory_.
+6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as two letters _ks_ and dus not twice it, so the leading vowels are allways short, e.g. _boxing_, _sexual_.
 7. The combination OW: In old spelling can this represent two sounds `oU` as in _crow_ and `aU` as in _gown_. To avoid confusion, TSR2 sees _ow_ only for the sound `aU`. Where such cases arise in TS, they becumm O/OE when ending a root: _floe_ (flow), _sloe_ (slow). In uther cases, _oa_ is seen where the sound is `oU` and the word has to be respelled for uther reasons: _soal_ (_soul_ in TS).
 8. The combination TH - `T` and `D`: In TS, both sounds are forstwd by the combination _th_. TSR continues to use this single grapheme for both phonemes. However, the folloïng rules help to choose what it sounds.
    - by default _th_ represents the sound `T` as in _thin_, _thanks_, _thimble_;
@@ -54,7 +54,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 9. The suffix _-ed_, as in TS, is normally added at the end of a word to indicate passive mood or past tense: _sifted_, _gifted_.
 10. The suffixes _-s_ and _-es_, as in TS, are normally added at the end of a word to indicate plural or third-person singular present indicative: _dishes_, _flips_, _sits_, _kicks_. TS _give_ is re-spelled _giv_ in TSR – so _givs_ plural.
 11. Some TS digraphs can represent one sound or two separate sounds, such as _ea_, _ie_; if two, the latter has a diëresis, like the verb to _creäte_.
-12. _sc_ follos the rules for the pronunciation of _c_: _scam_, _scene_, _scythe_;
+12. _sc_ folloes the rules for the pronunciation of _c_: _scam_, _scene_, _scythe_;
 13. _sch_ normally represents `sk` as in _school_; in some words, largely of German origin, the combination represents `S` as in schmaltz, but these can be treated as loanwords and italicized;
 14. schwa - TSR generally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: _about_, _ensnare_, _intelligent_, _common_, _upon_. We write _forren_ insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
 15. _-our_ (as a suffix) adopts American conventions i.e. _or_ as in _labor_, _savior_, and others.
