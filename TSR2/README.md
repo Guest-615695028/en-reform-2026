@@ -1,5 +1,5 @@
-# A Proposal on Ingglish Writing Reform - Words
-Long has it been wondered if the Ingglish tung will fall internationally when the United Kingdom and States break down, as the Russian tung fell after the downbroken Soviet Union. If so, the Ingglish will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation metes ~20% in the former but only sparingly in the latter. In 1908 was the [Ingglish Spelling Society](https://www.spellingsociety.org/) founded, but long unseen under the Five Eyes that only watch forrin ships.
+# A Proposal on English Writing Reform - Traditional Spelling Revision 2.0
+Long has it been wondered if the Ingglish tung will fall internationally when the United Kingdom and States break down, as the Russian tung fell shortly after the downbroken Soviet Union. If so, the Ingglish will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation metes ~20% in the former but only sparingly in the latter. In 1908 was the [Ingglish Spelling Society](https://www.spellingsociety.org/) founded, but long unseen under the Five Eyes that only watch forrin ships.
 
 In 1828 mended Noah Webster Ingglish spellings in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_.
 
