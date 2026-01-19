@@ -1,16 +1,16 @@
 # A Proposal on English Writing Reform - Traditional Spelling Revision 2.0
-Long has it been wondered if the Ingglish tung will fall internationally when the United Kingdom and States break down, as the Russian tung fell shortly after the downbroken Soviet Union. If so, the Ingglish will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation metes ~20% in the former but only sparingly in the latter. In 1908 was the [Ingglish Spelling Society](https://www.spellingsociety.org/) founded, but long unseen under the Five Eyes that only watch forrin ships.
+Long has it been wondered if the English tung will fall internationally when the United Kingdom and States break down, as the Russian tung fell shortly after the downbroken Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronunciation metes ~20% in the former but only sparingly in the latter. In 1908 was the [English Spelling Society](https://www.spellingsociety.org/) founded, but long unseen under the Five Eyes that only watch forrin ships.
 
-In 1828 mended Noah Webster Ingglish spellings in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_.
+In 1828 mended Noah Webster English spellings in the United States, such as _flavor_ for _flavour_, _fiber_ for _fibre_, _defense_ for _defence_, _analyze_ for _analyse_, and _catalog_ for _catalogue_.
 
 In 1920, the Simplify Spelling Board published a self-shoïng Handbook of Simplified Spelling with three parts:
-- Part 1 narrates an outline of the history of Ingglish spelling and the reforming attempts until 1920.
+- Part 1 narrates an outline of the history of English spelling and the reforming attempts until 1920.
 - Part 2 presents the arguments in favor of reform and replies to the objections that are commonly made.
 - Part 3 contains the SSB's proposed rules for simplified spelling and a list of the words that would be changed by them.
 
 Planning a "stepwise" reform, it noted that spelling should be chandged, most of which are originally the overt act of a lone writer folloed at first by minority. Thus, people are hartened to "point the way" and "set the example" by writing the reformed spellings as the handbook set forth ([confer Wikipedia](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)).
 
-In 2021 is there allso a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised), sponsored and afforded by Ingglish Spelling Society, with a degree of support and publicity reviewed in March 2025.
+In 2021 is there allso a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised), sponsored and afforded by English Spelling Society, with a degree of support and publicity reviewed in March 2025.
 
 ## THE PRINCIPAL RULES OF TSR 2.0
 1. Stressed vowels `V` are usually long in `VCV`, but short in `VCC|VC$|iCi`, as usual in TS:
@@ -57,7 +57,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 12. _sc_ folloes the rules for the pronunciation of _c_: _scam_, _scene_, _scythe_;
 13. _sch_ normally represents `sk` as in _school_; in some words, largely of German origin, the combination represents `S` as in schmaltz, but these can be treated as loanwords and italicized;
 14. schwa - TSR generally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: _about_, _ensnare_, _intelligent_, _common_, _upon_. We write _forren_ insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
-15. _-our_ (as a suffix) adopts American conventions i.e. _or_ as in _labor_, _savior_, and others.
+15. _-our_ (as a suffix) adopts Amerrican conventions i.e. _or_ as in _labor_, _savior_, and others.
 16. suffix _-ous_ is unchanged - `@s` e.g. _famous_.
 
 ## Special rules for TSR 2.0
@@ -72,18 +72,18 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
    - The formal second-person pronoun "you" may also be represented in TSR by a capital U. 
 2. Common Suffixes: A number of common word endings doo not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
    - Those involving the /S/ sound 
-      - C: -cean (ocean), -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious). 
-      - SS: -ssion (passion, confession, mission) 
-      - T: -tial (partial), -tient (patient), -tience (patience), -tion (nation, depletion, ignition, lotion, solution).
+      - C: -cean (ocean), -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious), etc. 
+      - SS: -ssion (passion, confession, mission), etc.
+      - T: -tial (partial), -tient (patient), -tience (patience), -tion (nation, depletion, ignition, lotion, solution), etc.
    - Those involving the /Z/ sound 
-      - S: -sion (invasion, adhesion, elision, explosion, confusion), -sure (embrasure, pleasure, composure), -sual (casual).
-      - Z: -zure (azure)
+      - S: -sion (invasion, adhesion, elision, explosion, confusion), -sure (embrasure, pleasure, composure), -sual (casual), etc.
+      - Z: -zure (azure).
    - The Magic E and Doubling Rules apply generally to the above suffixes. Thus _ignition_, unlike the uther examples, dus not lengthen the first _i_. 
 Similarly, the suffix _-ssion_ dus not lengthen the preceding vowel because of the doubling of S. TSR uses _ssion_ instead of -tion when the preceding vowel is stressed, but needs to be kept short; thus are there _nation_ but _nassional_; _special_ becomes _spessial_, _pleasure_ becomes _plezzure_. The combination _-cious_ observes the Magic E and Doubling Rules, so _precious_ becoumes _prescious_.
 
-3. Uther common combinations:
+3. Uther common combinations are preserved:
    - A as AW: -all (all, ball)
-   - Long A: -ange- (danger, angel), -aste (taste, waste)
+   - Long A: -ange- (dânger, ângel), -aste (tâste, wâste)
    - Long I: -ign- (benign, sign)
    - Long O: -old (old, gold, intechandging with `{ld`), -olt (bolt `{lt`), -orce (force, divorce `O:r\s`), -orne (borne `O:r\n`)
    - Others: -ould (could, would), war- (warm, warn), wor- (worm, worst).
@@ -136,7 +136,7 @@ Accent mark(´), Second accent mark(`): optional accent marks, used if they are 
 |comparison|comparation|Latin _comparatio_
 |unique|unic|Latin _unicus_
 
-_**People** cumm across GitHub every day, but **some persons** would find this repository interesting.
+_**Peeple** cumm across GitHub every day, but **some persons** would find this repository interesting.
 
 4. Which Amerrican or British words shall be used?
 As there is a larger peeple (or *there are more persons*, as seen beloe) in the United States than the United Kingdom, the Internet prefer American English than British English, but we are to be ballanced between them.
