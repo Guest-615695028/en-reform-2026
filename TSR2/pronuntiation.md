@@ -40,19 +40,21 @@ Jenneral Estuary accent is accepted midway between "Receeved Pronuntiation" of u
 
 See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents.
 
-|Letter(s)|Short/Lax|Long/Tense|Hevvy-R
-|-|-|-|-
-|`V`|`V$, VCV, VCe`|`VC$, VCC, iCi, Vrr`|`Vr$, VrC`
-|a|/æ/|/eː/|/ɑː/
-|e|/ɛ/|/iː/|/ɜː/
-|i|/ɪ/|/aɪ̯/|/ɜː/
-|o|/ɒ/|/oː/|/ɔː/
-|u|/ʌ/|/ɪʊ̯/|/ɜː/
-|w|/ʊ/|/uː/|/uː/
-|y|/ɪ/|/aɪ̯/|/ɜː/
+|Letter(s)|Short/Lax|Long/Tense|Hevvy-R|Unstressed
+|-|-|-|-|-
+|`V`|`V$, VCV, VCe`|`VC$, VCC, iCi, Vrr`|`Vr$, VrC`|`V`
+|a|/æ/|/eː/|/ɑː/|/ə/
+|e|/ɛ/|/iː/|/ɜː/|/ɪ/,/ə/
+|i|/ɪ/|/aɪ̯/|/ɜː/|/ɪ/,/ə/
+|o|/ɒ/|/oː/|/ɔː/|/ə/
+|u|/ʌ/|/ɪʊ̯/|/ɜː/|/ə/
+|w|/ʊ/|-|-|-
+|y|/ɪ/|/aɪ̯/|/ɜː/|/ɪ/
 
-- R-Hevvy vowels cum before R or RR not followed by vowels.
+- R-Hevvy vowels cum before R not folloed by vowels or R. It is advised to write "fur·ry", "star·ry", etc..
 - _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
+- There is no /ʌ/ but /ʊ/ for short U in nothern English dialects, where W is not written.
+- [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) occur with Latinate suffixes but not Germanic ones (-ed, -er, -ing, -ly, -ness, ...), allso are there disyllabic laxing triggered by _-ic_, hence _music_ → _meusic_.
 
 Multigraphic vowels ar allways long.
 |IPA|Letters
@@ -61,7 +63,7 @@ Multigraphic vowels ar allways long.
 |/eː/~/eɪ̯/|ai, ay, -ae, ei, ey
 |/ɑː/|aa, ah
 |/ɔː/|au, aw
-|/oː/~/oʊ̯/|oa
+|/oː/~/oʊ̯/|oa, -oe
 |/uː/|oo
 |/aɪ̯/|ei-, ey-, ui, uy, -ie
 |/aʊ̯/|ou, ow
