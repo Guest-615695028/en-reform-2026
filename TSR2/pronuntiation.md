@@ -54,7 +54,7 @@ See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_a
 - R-Hevvy vowels cum before R not folloed by vowels or R. It is advised to write "fur·ry", "star·ry", etc..
 - _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
 - There is no /ʌ/ but /ʊ/ for short U in nothern English dialects, where W is not written.
-- [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) occur with Latinate suffixes but not Germanic ones (-ed, -er, -ing, -ly, -ness, ...), allso are there disyllabic laxing triggered by _-ic_, hence _music_ → _meusic_.
+- [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) occur with Latinate suffixes but not Germanic ones (-ed, -er, -ing, -ly, -ness, ...), whose predicibility is vague.
 
 Multigraphic vowels ar allways long.
 |IPA|Letters
@@ -70,11 +70,7 @@ Multigraphic vowels ar allways long.
 |/ɪʊ̯/|eu, ew, -ue
 |/ɔɪ̯/|oi, oy
 
-Primary stresses ar índicàted with acute accent (´), while secondary stresses ar marked with grave accent (`).
-|Stress, in dictionaries|Long|Short
-|-|-|-
-|Primary|`"`|`'`
-|Secondary|`,`|`.`
+On dictionaries are primary stresses índicàted with acute accent (´), with secondary stresses marked with grave accent (`).
 
 Notes:
 1. Isaac Pitman's English Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral American Pronuntiation.
