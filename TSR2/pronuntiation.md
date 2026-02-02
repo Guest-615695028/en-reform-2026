@@ -1,5 +1,5 @@
 # On a Concensus on English Pronuntiation
-The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Jennerally required for a dictionary to pronounce words (also common in overseas [French](/fr/README.md) dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners.
+The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Jennerally required for a dictionary to pronounce words (also common in overseas French dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners.
 
 ```
 Symbols
@@ -12,7 +12,7 @@ $    word end
 ```
 
 ## Pronuntiation-Spelling Concordance
-Stressed vowel ar to be marked on dictionaries, with full IPA givven to and onely to irregularly pronounced words.
+Stressed vowel ar to be marked on dictionaries, with full IPA givven to and onely to irregularly pronounced words. See [here](https://en.wikipedia.org/Help:IPA/English) for more detail.
 
 ![](./epa-1847.png)
 
@@ -46,7 +46,7 @@ Notes:
 1. Isaac Pitman's English Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral Amerrican Pronuntiation.
 2. /ɜː/ was once reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States by some linguists.
 
-### Vocalic letter-sound correspondences
+#### Vocalic letter-sound correspondences
 For single-letter vowels are there these rules givven.
 |Letter(s)|Short/Lax|Long/Tense|Hevvy-R|Unstressed
 |-|-|-|-|-
@@ -63,52 +63,19 @@ For single-letter vowels are there these rules givven.
 - There is no /ʌ/ but /ʊ/ for short U in nothern English dialects, where W is not written.
 - [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) prevail in Latin words without allways twicing the folloïng consonant.
 
-Multigraphic vowels are moastly long, with unwånted ones.
-|IPA|Letters
-|-|-
-|/iː/|ea, ee, _ei_ (_-cei-_), _ey_ (_key_ → _kee_)
-|/eː/~/eɪ̯/|ai, ay, -ae, _ei_, ey
-|/ɑː/|aa, ah
-|/ɔː/|au, aw
-|/oː/~/oʊ̯/|oa, -oe, _ou_ (_soul_ → _soal_), _ow_ (_own_, _low_)
-|/uː/|oo, (eu, ew, -ue)
-|/aɪ̯/|ei-, eye, ui, uy, -ie
-|/aʊ̯/|ou, ow
-|/ɪʊ̯/|eu, ew, -ue
-|/ɔɪ̯/|oi, oy
-
-Short EA (/ɛ/, head, meant, realm), OO (/ʊ/, book, foot, good, wool), OU (/ʌ/, southern, touch) are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
+Multigraphic vowels are moastly long, but sometimes are there short EA (/ɛ/, head, meant, realm), OO (/ʊ/, book, foot, good, wool), OU (/ʌ/, southern, touch), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 
 ### Consonants
-Consonants Jennerally do not differ in accents.
-|Pronounciation|Letter(s)
-|-|-
-|/b/|b
-|/d/|d
-|/dʒ/|j, dg
-|/f/|f, ph
-|/g/|g, gg
-|/h/|h
-|/hw/|wh
-|/j/|y, (C)i(V)
-|/k/|c, k
-|/l/|l
-|/m/|m
-|/n/|n
-|/p/|p
-|/r/|r, wr
-|/s/|s-, ss, c(e/i)
-|/t/|t
-|/tʃ/|ch, t(ure), (s/t/x)ti(V)
-|/v/|v
-|/w/|w, (C)u(V)
-|/z/|z, -se
-|/ʃ/|sh, ti(V), ssi(V), ci(V), ss(ure)
-|/θ/|[th](https://en.wikipedia.org/wiki/Pronunciation_of_English_th)
-|/ð/|(V)th(V)
-|/ʒ/|zh, si(V), s(ure), z(ure)
+Consonants Jennerally do not differ in accents. So we are givving a neutral table. Precisely, there are devoiced and voiced obstuënts, namely plosives, affricates, and fricatives.
+|P/A -V|+V|F -V|+V|
+|-|-|-|-
+|/p/|/b/|/f/|/v/|
+|||/θ/|/ð/|
+|/t/|/d/|/s/|/z/|
+|/ʧ/|/ʤ/|/ʃ/|/ʒ/|
+|/k/|/ɡ/|_/x/_||
 
-*The letter X sounds as /ks/ and is treated as two consonant letters fused together.
+There are allso sonorants: voiced are /ɹ/, /l/, /m/, /n/, /ŋ/, /j/, and /w/, while devoiced are /hʷ/~/ʍ/ and /h/.
 
 ### `ough`, a highly variable letter group in English
 |Pronuntiation|Examples|Note
