@@ -1,22 +1,8 @@
 # On a Concensus on English Pronuntiation
-The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Jennerally required for a dictionary to pronounce words (also common in overseas French dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners.
-
-```
-Symbols
-a-z  true letters
-C    any consonant
-V    any vowel
-^    word beginning
-$    word end
-,    separator
-```
-
-## Pronuntiation-Spelling Concordance
-Stressed vowel ar to be marked on dictionaries, with full IPA givven to and onely to irregularly pronounced words. See [here](https://en.wikipedia.org/Help:IPA/English) for more detail.
-
+The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Jennerally required for a dictionary to pronounce words (also common in overseas French dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners. In 1850, Isaac Pitman drew a table as beloe.
 ![](./epa-1847.png)
 
-### Vowels
+## Vowels
 |[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Jenneral Estuary|Jenneral Amerrican|Jenneral Australian
 |-|-|-|-
 |/iː/|/iː/|/iː/|/ɪi/
@@ -46,7 +32,7 @@ Notes:
 1. Isaac Pitman's English Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral Amerrican Pronuntiation.
 2. /ɜː/ was once reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States by some linguists.
 
-#### Vocalic letter-sound correspondences
+### Vocalic letter-sound correspondences
 For single-letter vowels are there these rules givven.
 |Letter(s)|Short/Lax|Long/Tense|Hevvy-R|Unstressed
 |-|-|-|-|-
@@ -65,7 +51,7 @@ For single-letter vowels are there these rules givven.
 
 Multigraphic vowels are moastly long, but sometimes are there short EA (/ɛ/, head, meant, realm), OO (/ʊ/, book, foot, good, wool), OU (/ʌ/, southern, touch), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 
-### Consonants
+## Consonants
 Consonants Jennerally do not differ in accents. So we are givving a neutral table. Precisely, there are devoiced and voiced obstuënts, namely plosives, affricates, and fricatives.
 |P/A -V|+V|F -V|+V|
 |-|-|-|-
@@ -75,31 +61,16 @@ Consonants Jennerally do not differ in accents. So we are givving a neutral tabl
 |/ʧ/|/ʤ/|/ʃ/|/ʒ/|
 |/k/|/ɡ/|_/x/_||
 
-There are allso sonorants: voiced are /ɹ/, /l/, /m/, /n/, /ŋ/, /j/, and /w/, while devoiced are /hʷ/~/ʍ/ and /h/.
+There are allso sonorants: voiced are /ɹ/, /l/, /m/, /n/, /ŋ/, /j/, and /w/, while devoiced are /hʷ/~/ʍ/ and /h/. /ts/, /dz/, /tɹ/, /dɹ/ may have affricative behaving.
 
-### `ough`, a highly variable letter group in English
-|Pronuntiation|Examples|Note
-|-|-|-
-|/ʌf/|Brough, chough, clough, enough, Hough, rough, slough (see below), sough, tough|Rhymes with _-uff_. Clough and sough are also pronounced /aʊ/.
-|/ɒf/|cough, Gough, trough|Rhymes with _-off_. Trough is pronounced /trɔːθ/ (_troth_) by some speakers of American English, and a baker's _trough_ is also pronounced /troʊ/.[2]
-|/aʊ/|bough, clough, doughty, drought, plough, slough (see below), Slough, sough|Rhymes with _cow_. _Clough_ and _sough_ are also pronounced /ʌf/. _Plough_ is Jennerally spelled _plow_ in American English.
-|/oʊ/|brougham, dough, furlough, though|Rhymes with _no_, _toe_. Brougham is also pronounced /uː/.
-|/ɔː/|bought, brought, fought, nought, ought, sought, thought, wrought|Rhymes with _caught_, _taught_.
-|/uː/|brougham, slough (see below), through|Rhymes with _true_, _woo_. Brougham is also pronounced /oʊ/.
-|/ə/|borough, Poughkeepsie, thorough, Willoughby|_Borough_ and _thorough_ are pronounced /oʊ/ in American English, thus rhyming with _-urrow_.
-|/ʌp/, /əp/|hiccough|→ _hiccup_.
-|/əf/|Greenough|/ˈɡrɛnəf/ as an Australian river, and /ˈɡriːnoʊ/ as a surname.
-|/ɒk/|Clough, hough|Rhymes with -ock. _Hough_ → _hock_.
-|/ɒx/|Brough, lough, turlough|Rhymes with loch. Many speakers substitute /k/ for /x/.
-
-### Silent letters
+## Silent letters
 Some proposed simplified spellings already exist as receeved or variant spellings in old literature. In the 16th century, some Classicists tried to make English words look akin to their Greco-Latin counterparts, at times even erroneously, by adding silent letters, so
 - _det_ became _debt_,
 - _dout_ became _doubt_,
 - _sithe_ became _scythe_,
 - _iland_ became _island_,
 - _ake_ became _ache_, and so on.
-However, We propose undoing these changes. Other examples of older spellings beïng more phonetic include:
+However, We propose undooïng these changes. Other examples of older spellings beïng more phonetic include:
 - **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
 - **_agenst_** for _against_ (again +‎ -st [excrescent]),
 - **_yeeld_** for _yield_ (_cf._ Old English _ġieldan_),
@@ -112,5 +83,4 @@ However, We propose undoing these changes. Other examples of older spellings be�
 - _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_),
 - _sum_ for **_some_** ([sign words](signwords.yaml)),
 - **_tung_** for _tongue_, and many others.
-Some of spellings are occasionally to be given in dictionaries for pronuntiation, as being far from words of their origins.
-
+Some of spellings are occasionally to be givven in dictionaries for pronuntiation, as beïng far from words of their orrigins.
