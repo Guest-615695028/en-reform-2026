@@ -38,47 +38,46 @@ Stressed vowel ar to be marked on dictionaries, with full IPA givven to and onel
 
 Jenneral Estuary accent is accepted midway between "Receeved Pronuntiation" of upper class and Cockney pronounciation of loër class, proposed upon comparability with Jenneral Amerrican and Jenneral Australian accents for being class-inspecific.
 
-See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents.
+The word _**receeved** pronuntiation_ implies that the British government has never been trying to subjectively define the standard pronuntiation of English in the United Kingdom or England; though it is sumtimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internationality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronuntiation" is only practiced in 3% of population in England.
 
+See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents, [here](https://en.wikipedia.org/wiki/English_orthography) for a more comprehensive understanding.
+
+Notes:
+1. Isaac Pitman's English Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral Amerrican Pronuntiation.
+2. /ɜː/ was once reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States by some linguists.
+
+### Vocalic letter-sound correspondences
+For single-letter vowels are there these rules givven.
 |Letter(s)|Short/Lax|Long/Tense|Hevvy-R|Unstressed
 |-|-|-|-|-
 |`V`|`V$, VCV, VCe`|`VC$, VCC, iCi, Vrr`|`Vr$, VrC`|`V`
 |a|/æ/|/eː/|/ɑː/|/ə/
-|e|/ɛ/|/iː/|/ɜː/|/ɪ/,/ə/
-|i|/ɪ/|/aɪ̯/|/ɜː/|/ɪ/,/ə/
-|o|/ɒ/|/oː/|/ɔː/|/ə/
-|u|/ʌ/|/ɪʊ̯/|/ɜː/|/ə/
-|w|/ʊ/|-|-|-
-|y|/ɪ/|/aɪ̯/|/ɜː/|/ɪ/
+|e|/ɛ/|/iː/|/ɜː/|/i~ɪ/,/ə/
+|i|/ɪ/|/aɪ̯/|/ɜː/|/i~ɪ/,/ə/
+|o|/ɒ/|/oː/|/ɔː/|/u~ʊ/ (to-),/ə/
+|u|/ʌ/|/ɪʊ̯/|/ɜː/|/u~ʊ/,/ə/
+|y|/ɪ/|/aɪ̯/|/ɜː/|/i~ɪ/
 
 - R-Hevvy vowels cum before R not folloed by vowels or R. It is advised to write "fur·ry", "star·ry", etc..
 - _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
 - There is no /ʌ/ but /ʊ/ for short U in nothern English dialects, where W is not written.
-- [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) occur with Latinate suffixes but not Germanic ones (-ed, -er, -ing, -ly, -ness, ...), whose predicibility is vague.
+- [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) prevail in Latin words without allways twicing the folloïng consonant.
 
-Multigraphic vowels ar allways long.
+Multigraphic vowels are moastly long, with unwånted ones.
 |IPA|Letters
 |-|-
-|/iː/|ea, ee
-|/eː/~/eɪ̯/|ai, ay, -ae, ei, ey
+|/iː/|ea, ee, _ei_ (_-cei-_), _ey_ (_key_ → _kee_)
+|/eː/~/eɪ̯/|ai, ay, -ae, _ei_, ey
 |/ɑː/|aa, ah
 |/ɔː/|au, aw
-|/oː/~/oʊ̯/|oa, -oe
-|/uː/|oo
-|/aɪ̯/|ei-, ey-, ui, uy, -ie
+|/oː/~/oʊ̯/|oa, -oe, _ou_ (_soul_ → _soal_), _ow_ (_own_, _low_)
+|/uː/|oo, (eu, ew, -ue)
+|/aɪ̯/|ei-, eye, ui, uy, -ie
 |/aʊ̯/|ou, ow
 |/ɪʊ̯/|eu, ew, -ue
 |/ɔɪ̯/|oi, oy
 
-On dictionaries are primary stresses índicàted with acute accent (´), with secondary stresses marked with grave accent (`).
-
-Notes:
-1. Isaac Pitman's English Phonotypic Alphabet and Dezzeret runes (created 1847) suggested then-Jenneral American Pronuntiation.
-2. /ɜː/ was reccognized as the allophone of /ʌ/ before /ɹ/ in the 19th century United States.
-3. fore = foar (number 4) /foːɹ/ ≠ for /fɔɹ/
-4. Short vowels are reccognized with singgle vowels. Unstressed vowel /æ/, /ɒ/, /ʌ/ allways becum /ə/, same as unstressed final A, /ɛ/ becumes /ɪ/ or /ə/.
-
-The word _**receeved** pronuntiation_ implies that the British government has nevver been trying to subjectively define the standard pronuntiation of English in the United Kingdom or England; though it is sumtimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost all of his "reäl" powers due to incapability of speaking English, which is far from internashnality before Two World Wars in the 20th century. Also, the so-called "Receeved Pronuntiation" is only practiced in 3% of population in England.
+Short EA (/ɛ/, head, meant, realm), OO (/ʊ/, book, foot, good, wool), OU (/ʌ/, southern, touch) are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 
 ### Consonants
 Consonants Jennerally do not differ in accents.
@@ -86,7 +85,7 @@ Consonants Jennerally do not differ in accents.
 |-|-
 |/b/|b
 |/d/|d
-|/dʒ/|j, g(e/i)
+|/dʒ/|j, dg
 |/f/|f, ph
 |/g/|g, gg
 |/h/|h
@@ -105,11 +104,11 @@ Consonants Jennerally do not differ in accents.
 |/w/|w, (C)u(V)
 |/z/|z, -se
 |/ʃ/|sh, ti(V), ssi(V), ci(V), ss(ure)
-|/θ/|th
+|/θ/|[th](https://en.wikipedia.org/wiki/Pronunciation_of_English_th)
 |/ð/|(V)th(V)
 |/ʒ/|zh, si(V), s(ure), z(ure)
 
-*The letter X sounds as /ks/ and is treated as dubbled.
+*The letter X sounds as /ks/ and is treated as two consonant letters fused together.
 
 ### `ough`, a highly variable letter group in English
 |Pronuntiation|Examples|Note
@@ -127,7 +126,7 @@ Consonants Jennerally do not differ in accents.
 |/ɒx/|Brough, lough, turlough|Rhymes with loch. Many speakers substitute /k/ for /x/.
 
 ### Silent letters
-Some proposed simplified spellings already exist as standard or variant spellings in old literature. In the 16th century, some Graeco-Latin literaturists tried to make English words look akin to their Graeco-Latin counterparts, at times even erroneously, by adding silent letters, so
+Some proposed simplified spellings already exist as receeved or variant spellings in old literature. In the 16th century, some Classicists tried to make English words look akin to their Greco-Latin counterparts, at times even erroneously, by adding silent letters, so
 - _det_ became _debt_,
 - _dout_ became _doubt_,
 - _sithe_ became _scythe_,
@@ -144,9 +143,7 @@ However, We propose undoing these changes. Other examples of older spellings be�
 - **_gost_** for _ghost_,
 - **_harth_** for _hearth_,
 - _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_),
-- _sum_ for **_some_**,
+- _sum_ for **_some_** ([sign words](signwords.yaml)),
 - **_tung_** for _tongue_, and many others.
 Some of spellings are occasionally to be given in dictionaries for pronuntiation, as being far from words of their origins.
 
-sought != sort
-which != witch
