@@ -38,51 +38,51 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
       - **balls**, **callst**, **falls**, etc.;
       - **called**, **falling**, **smaller**, etc..
    - Final ALD (/ɔːld/: bald, ...), ALK (/ɔːk/: talk, walk, ...), ALT (/ɔːlt/: falter, halt, ...) normally has /ɔː/, but if you want /æl/, insert a middle-dot (·) after the first l: heral·dic, al·kane, al·lergy, al·titude.
-4. The letter G usually represents the sound /ɡ/ as in **gun**, along with the sound /d͡ʒ/ before the letters E, I or Y in Latinate words. Exceptions to this rule are often marked in TS by inserting an U as in **guide**, but _get_ → **ghet**, _girl_ → **ghirl**.
-   - GG allways represents the sound /ɡ/, preserved against succeding vowels that would otherwise turn it to /d͡ʒ/ (e.g. _lingger_, _longger_). It is particularly relevant for exceptions to the _ange_ sub-group where the sound is short rather than long (e.g. _bangger_, _hangger_).
-   - In cases where the sound is /d͡ʒ/ but not folloïng a monographic long vowel, TSR has a digraph DG as in _badger_, _lodger_, _fudge_ etc..
+4. The letter G usually represents the sound /ɡ/ as in **gun**, along with the sound /d͡ʒ/ before the letters E, I or Y in Latinate words. Exceptions to this rule are often marked in TS by inserting an U as in **guide**; if not, _get_ is **ghet**, whereas _girl_ is **ghirl**.
+   - GG allways represents the sound /ɡ/, preserved against succeding vowels that would otherwise turn it to /d͡ʒ/ (e.g. **lingger**, **longger**). It is particularly relevant for exceptions to the sub-group "-ange" where the sound is short rather than long (e.g. **bangger**, **hangger**).
+   - In cases where the sound is /d͡ʒ/ but not folloïng a monographic long vowel, TSR has a digraph DG as in **badger**, **lodger**, **fudge** etc..
    - For the **Jermanic** nature of English, initial soft G becomes J.
-5. The Letter S: It normally represents the sound /s/ as in _sound_, but allso /z/ as in _please_.
+5. The Letter S: It normally represents the sound /s/ as in **sound**, but allso /z/ as in **please**.
    - Based on TS formulae, S represents /s/:
-      - At the beginning of words: _snake_;
-      - After a hyphenable point: _home-sick_, _ran-sack_ (hyphens are recommended if hiding them misleads the pronountiation);
-      - After a voiceless consonant: _clicks_, _cliffs_, _clips_, _its_;
-      - After the prefixes _con_ and _per_: _consent_, _persistent_;
-      - After L, M, N, R but before vowel: _fallse_, _defense_, _parse_;
-   - Where the above rules can not be applied, _s_ is often twiced in TS to retain the /s/ sound: _miss, mass, missing_. In TSR 2.0, some prefixes may be hyphenated to ensure predictability of the /s/ sound: _re-send_, _co-signatory_.
-6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as the combination KS and dus not twice it, so the leading vowels are allways short, e.g. _boxing_, _sexual_.
-7. The combination OW: In old spelling can this represent two sounds /oʊ̯/ as in _crow_ and /aʊ̯/ as in _gown_. To avoid confusion, TSR2 sees _ow_ only for the sound /aʊ̯/. Where such cases arise in TS, they becumm O/OE when ending a root: _floe_ (flow), _sloe_ (slow). In Other cases, _oa_ is seen where the sound is /oʊ̯/ and the word has to be respelled for Other reasons: _soal_ (_soul_ in TS).
+      - At the beginning of words: **snake**;
+      - After a hyphenable point: **home-sick**, **ran-sack** (hyphens are recommended if hiding them misleads the pronountiation);
+      - After a voiceless consonant: **clicks**, **cliffs**, **clips**, **its**;
+      - After the prefixes "con-" and "per-": **consent**, **persistent**;
+      - After L, M, N, R but before vowel: **else**, **defense**, **parse**;
+      - In the suffix -son.
+   - Where the above rules can not be applied, **s** is often twiced in TS to retain the /s/ sound: **miss**, **mass**, **missing**. In TSR 2.0, some prefixes may be hyphenated to ensure predictability of the /s/ sound: **re-send**, **co-signatory**.
+6. The letter X: For the purposes of Magic E and twicing, TSR2 treats X as the combination KS and dus not twice it, so the leading vowels are allways short, e.g. **boxing**, **sexual**.
+7. The combination OW: In old spelling can this represent two sounds /oʊ̯/ as in **crow** and /aʊ̯/ as in **gown**. To avoid confusion, TSR2 sees OU/OW only for the sound /aʊ̯/. Where such cases arise in TS, they becumm O/OE when ending a root: **flo** (flow), **slo** (slow). In Other cases, **oa** is seen where the sound is /oʊ̯/ and the word has to be respelled for Other reasons: **soal** (_soul_).
 8. The combination TH: In TS are both sounds /θ/ and /ð/ forstwd by such combination. TSR continues to use this single grapheme for both phonemes. However, the folloïng rules help to choose what it sounds.
-   - by default _th_ represents the sound /θ/ as in _thin_, _thanks_, _thimble_;
-   - _th_ represents /ð/ between vowel letters in native words
-      - ending "-the":  _lathe_, _bathe_, _seethe_, _loathe_; 
-      - the word or prefix "with", which may be devoiced before a voiceless consonant.
-   - Beginning _th_ allso represents /ð/ in and only in the folloing roots:
-      - Personal pronouns: _thou_ (_thee_, _thy_, _thine_), _they_ (_them_, _their/s_)
-      - Demonstratives: _the_, _that_, _then(ce)_, _there_, _these_, _this_, _those_, _thither_
-      - Others: _than_, _though_ _thus_
-9. The suffix _-ed_, as in TS, is normally added at the end of a word to indicate passive mood or past tense: _sifted_, _gifted_.
-10. The suffixes _-s_ and _-es_, as in TS, are added at the end of a word to indicate plural or third-person singular present indicative: _dishes_, _flips_, _sits_, _kicks_. TS _give_ is re-spelled _giv_ in TSR – so _givs_ plural.
-11. Some TS digraphs can represent one sound or two separate sounds, such as _ea_, _ie_; if two, the latter has a diëresis, like the verb to _creäte_.
-12. _sc_ folloes the rules for the pronuntiation of _c_: _scam_, _scene_, _scythe_;
-13. _sch_ normally represents `sk` as in _school_; in some words, largely of German origin, the combination represents /s/ as in _schmaltz_ — these loanwords and italicized;
-14. schwa - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: _about_, _ensnare_, _intelligent_, _common_, _upon_. We write _forrin_ insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
-15. _-our_ (as a suffix) adopts Amerrican conventions i.e. _or_ as in _labor_, _savior_.
-16. suffix _-ous_ is unchanged - `@s` e.g. _famous_.
-17. Final S and TH that can either be devoiced or voiced are not written as Z or DH:
-    - us
+   - TH represents by default the sound /θ/ as in **thin**, **thanks**, **thimble**;
+   - TH represents /ð/ between vowel letters in native words, ending THE (**lathe**, **bathe**, **seethe**, **loathe**, ...), and the word or prefix "with", which may be devoiced before a voiceless consonant.
+   - Beginning TH allso represents /ð/ in and only in the folloing roots:
+      - Personal pronouns: thou (thee, thy, thine), they (them, their/s)
+      - Demonstratives: the, that, then(ce), there, these, this, those, thither
+      - Others: than, though, thus
+   - (As they are all function words, no changes are made thereabout.) 
+9. The suffix "-ed", as in TS, is normally added at the end of a word to indicate passive mood or past tense: **sifted**, **gifted**.
+10. The suffixes "-s" and "-es", as in TS, are added at the end of a word to indicate plural or third-person singular present indicative: **dishes**, **flips**, **sits**, **kicks**. TS _give_ is re-spelled **giv** in TSR.
+11. Some TS digraphs can represent one sound or two separate sounds. if any represent two, the latter has a diëresis, like the verb to _creäte_.
+12. "SC" folloes the rules for the pronuntiation of C: **scam**, **scene**, **scythe**;
+13. "SCH" normally represents /sk/ as in **school**; in some words, largely of German origin, the combination represents /s/ as in _schmaltz_ — these loanwords and italicized;
+14. schwa - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: **about**, **ensnare**, **intelligent**, **common**, **upon**. We write **forrin** insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
+    - The ending "-our" (pronounced /əɹ/) adopts Amerrican conventions i.e. _or_ as in _labor_, _savior_.
+    - The suffix _-ous_ (pronounced /əs/) is unchanged - // e.g. _famous_.
+15. Final S and TH that can either be devoiced or voiced are not written as Z or DH:
+    - as, us
     - is, dus, has, ses
-    - as
     - with
 
 ## Detail table
 ### Vowels
-|Pronuntiation|Sequence
+For single letters, uppercase stands for long vowels with loërcase for short ones. Multigraphic vowels are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
+|Stressed vowel|Sequence
 |-|-
 |/eː/~/eɪ̯/|A, ai, ay, eigh, -ey
 |/iː/|E, ea, ee
 |/aɪ̯/|I, Y, -ie, -ye, -uy,
-|/oː/~/oʊ̯/|O, oa,
+|/oː/~/oʊ̯/|O, oa, ough (dough, though)
 |/ɪʊ̯/|U, eu, ew, -ue
 |/ɑː/|aa, a(r)
 |/ɔː/|au, aw, o(r), ough(t), -al(k/l)
@@ -96,6 +96,26 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 |/ɒ/|o(CC/C$/rr)
 |/ʌ/|u(CC/C$/rr)
 |/ʊ/|w(CC/C$/rr)
+
+- It is advised to write "fur·ry", "star·ry", etc..
+- _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
+- There is no /ʌ/ but /ʊ/ for short U in nothern English dialects, where W is not written.
+- [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) prevail in Latin words without allways twicing the folloïng consonant.
+
+|[Unstressed vowel](https://en.wikipedia.org/wiki/Stress_and_vowel_reduction_in_English)|Sequence
+|-|-
+|/ə/|a, o, e/u(m/n/r), o(C)
+|/i~ɪ/|e, i, y, -**a**ge, ee
+|/jə/|ea, ia, ya
+|/ɵ/|o-, -o
+|/u~ʊ/|u, t**o**-
+|/ɫ̩/|al, el, ol, ul
+|/m̩/|am, em, om, um
+|/n̩/|an, -en, -on, -un
+|/ɹ̩/|ar, er, ir, or, ur, ←/ɜːɹ/
+
+- _minute_ → **minnit**
+- /ɑːɹ/ and /ɔːɹ/ are shortened in initial
 
 ## Consonants
 |Pronounciation|Letter(s)
@@ -120,58 +140,90 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 |/v/|v
 |/w/|w, (C)u(V)
 |/z/|z, -se
-|/ŋ/|ng, n(k)
+|/ŋ/|[ng](https://en.wikipedia.org/wiki/pronuntiation_of_English_ng), n(k)
 |/ʃ/|sh, ti(V), ssi(V), ci(V), ss(u-)
 |/θ/|[th](https://en.wikipedia.org/wiki/pronuntiation_of_English_th)
-|/ð/|(V)th(V)
+|/ð/|(V)th(V), dh
 |/ʒ/|zh, si(V), s(u-), z(u-)
 
-Marginal sounds
+|Marginal|consonants|
+|-|-
 |/x/|kh
 |/ʦ/|ts, tz
 |/ʣ/|ds, dz
 
 ## Issues
 ### Length of the first I in `iCi`
-The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is witnessed _whitish_, _shinier_, _lining_, _hydridic_, and so on. So, we have _finnish_, _lippid_, _limmit_.   
+The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is witnessed **whitish**, **shinier**, **lining**, **hydridic**, and so on. So, we have **finnish**, **lippid**, **limmit**.   
 ### Yodh-dropping and coälescence
 /t͡ʃ/, /d͡ʒ/, R, /ʃ/, /ʒ/, as well as L folloed by consonant, as well as D, N, TH and T in some Amerrican English dialects, wherein S sounds like /ʃ/, Z like /ʒ/, without altering the script, and even D to /d͡ʒ/, T to /t͡ʃ/ when unstressed.
 
 ## Special rules for TSR 2.0
-1. The folloing very common words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 7.
-   1. Personal pronouns and adjectives: _you(r)(s)_.
-   2. Parts of the vebs to be and to have: _are_,_was_,_were_,_have_,_having_
-   3. Small numbers: _one(th)_, _once_, _two(th)_;
-   4. Interrogatives: _what_, _where_, _who_, _whose_;
-   5. Indefinitives: _any(one/thing)_, _every_, _none_, _nothing_, _some(one/thing)_;
-   6. Self-demonstratives: _England_, _English_, _Britain_;
-   7. Others: _(n)ever_, _many_, _very_, _with_, _woman/women_.
+1. The folloing very common words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 8.
+   1. Personal pronouns and adjectives: you(r)(s).
+   2. Parts of the vebs to be and to have: are, was, were, have, having;
+   3. Small numbers: one(th), once, two(th), other;
+   4. Interrogatives: what, where, who, whose;
+   5. Indefinitives: any(one/thing), every, none, nothing, some(one/thing);
+   6. Self-demonstratives: England, English, Britain;
+   7. Others: (n)ever, many, very, with, woman/women.
    - The formal second-person pronoun "you" may also be represented in TSR by a capital U. 
 2. Common Suffixes: A number of common word endings do not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
    - Those involving the /ʃ/ sound 
       - C: -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious), etc.
       - SS: -ssion (passion, confession, mission), etc.
       - T: -tial (partial), -tient (patient), -tience (patience), -tion (nation, depletion, ignition, lotion, solution), etc.
-   - Those involving the /ʒ/ sound 
+      - S: -nsi- (tension), -rsi- (universial), etc. folloïng l, m, r, s, 
+   - Those involving the /ʒ/ sound
       - S: -sion (invasion, adhesion, elision, explosion, confusion), -sure (embrasure, pleasure, composure), -sual (casual), etc.
       - Z: -zure (azure), etc.
    - The Magic E and Doubling Rules apply generally to the above suffixes, but the single letter I therebefore are lax/short.
-Similarly, the suffix _-ssion_ dus not lengthen the preceding vowel because of the doubling of S. TSR uses _ssion_ instead of -tion when the preceding vowel is accented, but needs to be kept short; thus are there _nation_ but _nassional_; _special_ becomes _spescial_, _pleasure_ becomes _plezzure_, _precious_ becoumes _prescious_.
+Similarly, the ending "-ssion" dus not lengthen the preceding vowel because of the doubling of S. TSR uses "-ssion-" instead of -tion when the preceding vowel is accented, but needs to be kept short; thus are there _nation_ but **nassional**; _special_ becomes **spescial**, _pleasure_ becomes **plezzure**, _precious_ becoumes **prescious**.
 3. Some common combinations preserved
-   - Long A: -ange- (dânger, ângel), -aste (tâste, wâste), -**a**tional (compare _nassional_ and _rassional_)
+   - Long A: -ange- (dânger, ângel), -aste (tâste, wâste), -**a**tional (compare **nassional** and **rassional**)
    - Long I: -igm (paradigm), -ign (benign, sign); both becum -im- and -in- when folloed by vowel letter.
-   - Long ɔː final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alk) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orge (forge `o:rdʒ`) -orne (borne `o:r\n`)
+   - Long O: final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alk) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orge (forge `o:rdʒ`) -orne (borne `o:r\n`)
    - Others: -ould (could, would), war- (warm, warn), wor- (worm, worst).
-   - The combination _-le_ after a consonant at the end of a word produces the sound `@l` as in _-able_, _ible_, _iple_ and so on. The Magic E and doubling rules apply as if the preceding consonant and _l_ were a single letter. Thus: _apple_ (vowel short); _table_ (vowel long); also _ible_; thus _risible_ but _Bible_; _noble_ but _nobble_.
+   - The combination -le after a consonant at the end of a word produces the sound `@l` as in "-able", "-ible", "-iple" and so on. The Magic E and doubling rules apply as if the preceding consonant and L were a single letter. Thus: **apple** (vowel short); **table** (vowel long); also **ible**; thus **risible** but **Bible**; **noble** but **nobble**.
+
+## Silent letters
+Some proposed simplified spellings already exist as receeved or variant spellings in old literature. In the 16th century, some Classicists tried to make English words look akin to their Greco-Latin counterparts, at times even erroneously, by adding silent letters, so
+- _det_ became _debt_,
+- _dout_ became _doubt_,
+- _sithe_ became _scythe_,
+- _iland_ became _island_,
+- _ake_ became _ache_, and so on.
+We propose undooïng these changes. Other examples of older spellings beïng more phonetic include:
+- **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
+- **_agenst_** for _against_ (again +‎ -st [excrescent]),
+- **_yeeld_** for _yield_ (_cf._ Old English _ġieldan_),
+- **_bild_** for _build_ (_cf._ Old English _byldan_),
+- **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_),
+- **_sted_** for _stead_ (_cf._ Old English _stede_, also _insted_),
+- **_delite_** for _delight_ (_cf._ French _delite_),
+- **_gost_** for _ghost_,
+- **_harth_** for _hearth_,
+- _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_; rime n. = frozen dew, hoar frost),
+- _sum_ for **_some_** ([sign words](signwords.yaml)),
+- **_tung_** for _tongue_, and many others.
+Some of spellings are occasionally to be givven in dictionaries for pronuntiation, as beïng far from words of their origins.
 
 ## Added combining marks in TSR 2.0
 - Diëresis (¨): seperates the vowel (ä, ë, ï, ö, ü, ÿ) from the folloed letter.
 - Accent mark (´), Second accent mark(`): optional accent marks, used if they are not at the first place.
-   - does
+   - dó ← dough
 - Circumflex/Hat (^): marks the accented single-letter long vowels before:
-   1. two or more consonant letters, unless otherwise s;
-   2. two or more syllables not counting Anglo-Saxon suffixes: -ed, -er, -ing, -ly -ful, -ly, -y
-- Interpunct/Middle dot (·): separate consonant letters that forms "combinations preserved" or .
+   1. two or more consonant letters, unless otherwise specified;
+   2. two or more unaccented syllables not counting Anglo-Saxon suffixes (excluding slang, neologism, and free morphemes):
+      1. Declensions: -(e)s;
+      2. Conjugations: -ed, -en, -(e)s, -(e)st, -ing;
+      3. Adjective inflexions: -er, -est, -ly;
+      4. Noun formations: -dom, -er, -hood, -ness, -ship;
+      5. Diminutives: -let, -ling;
+      6. Verb formations: -en;
+      7. Adjective formations: -ful, -ly, -less, -lìke, -y.
+   3. One consonant letter and then -ic: mûsic, hydrîdic.
+- Interpunct/Middle dot (·): separate consonant letters that forms "combinations preserved" or are.
 
 ## Notes
-Norman-French words and academic words that cater to the [Great Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift), are not considered loanwords layerwise, neither do the Japanese and Koreans to Chinese imports before [the Fall of Chinese Empire to Mongols](https://en.wikipedia.org/wiki/Battle_of_Yamen).
+Norman-French words and academic words that cater to the [Great Vowel Shift](https://en.wikipedia.org/wiki/Great_Vowel_Shift), are not considered loanwords layerwise, neither do the Jappanese and Koreans to Chinese imports before [the Fall of Chinese Empire to Mongols](https://en.wikipedia.org/wiki/Battle_of_Yamen).
