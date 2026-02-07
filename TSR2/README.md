@@ -19,7 +19,8 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
    - bath / bathe, cloth / clothes;
    - fat / fate / fatter, pet / pete / petting, bit / bite / bitter, rot / rote / rotten;
    - Magic E can be stedded by all vocal letters: A, E, I, O, U, Y.
-   - Single B/C/D/F/G/K/P/S/T folloed by L/R lengthens the leading vocal.
+   - TH is seen as one rune: Þ.
+   - Single B/C/D/F/G/K/P/S/T/TH folloed by L/R lengthens the leading vocal.
 2. Twicing (dubbling) rule: Consonants are twiced to note that the leading vocal is short and accented when -ed, -er, -est, -ing and others are attached, whereas K is to CK, soft G to DG. especially those at morphemic bounds. Otherwise are there _programme_ to **program**.
 3. The combination **al(l)** is one of the most difficult areas to attempt codication of the underlying rules of TS.
    - For the most part, AL and ALL represent the sounds /æl/. However, in TS can they allso represent the sound /ɔ:l/. Usually is this sound forstwd by AU or AW as in **laud** or **paw**, but the sound can allso be forstwd by AL as in _always_ or ALL as in **small**.
@@ -79,12 +80,12 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 For single letters, uppercase stands for long vocals with loërcase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 |Stressed vocal|Sequence
 |-|-
-|/eː/~/eɪ̯/|A
+|/eː/|A, -ae
 |/eɪ̯/|ai, ay, eigh, ey
 |/iː/|E, ea, ee
 |/aɪ̯/|I, Y, -ie, -ye, -uy,
-|/oː/|O, oa, ough (dough, though)
-|/oʊ̯/|ow
+|/oː/|O, oa, -oe
+|/oʊ̯/|ow, ough (dough, though)
 |/ɪʊ̯/|U, eu, ew, -ue
 |/ɑː/|aa, a(r)
 |/ɔː/|au, aw, o(r), ough(t), -al(k/l)
