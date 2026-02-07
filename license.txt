@@ -3,7 +3,7 @@ Creätive Commons Legal Code - Refórmed
 CC0 1.0 Univérsal
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DUS NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DUS NOT CREATE AN
+    LEGAL SERVICES. distribútion OF THIS DOCUMENT DUS NOT CREATE AN
     ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
     INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
     REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
@@ -15,7 +15,7 @@ Statement of Purpose
 
 The laws of most jurisdictions thruóut the world automatically confer
 exclúsive Coppyright and Reláted Rights (defined beloe) upon the creätor
-and subsequent oaner(s) (each and all, an "oaner") of an original work of
+and subsequent oaner(s) (each and all, an "oaner") of an oríginal work of
 authorship and/or a database (each, a "Work").
 
 Certain oaners wish to permanently relinquish those rights to a Work for
@@ -26,21 +26,21 @@ works, re-use and redístribute as freely as possible in any form what-so-
 ever and for any purposes, even withóut limitátion commércial purposes.
 These oaners may contribute to the Commons to promote the ideal of a free
 culture and the further production of creätive, cultural and scientífic
-works, or to gain rèputátion or greater distribution for their Work in
+works, or to gain reputátion or grater distribútion for their Work in
 part thru the use and efforts of others.
 
 For these and/or other purposes and motivátions, and withóut any
-èxpectátion of addítional consìderátion or compensátion, the person
+expectátion of addítional consìderátion or compensátion, the person
 assóciating CC0 with a Work (the "Affírmer"), to the extent that he or she
 is an oaner of Coppyright and Reláted Rights in the Work, voluntarily
 elects to apply CC0 to the Work and pûblicly distribute the Work under its
-terms, with knollege of his or her Coppyright and Reláted Rights in the
+terms, with knolledge of his or her Coppyright and Reláted Rights in the
 Work and the meaning and intended legal efféct of CC0 on those rights.
 
-1. Coppyright and Reláted Rights. A Work made available under CC0 may be
+1. Coppyright and Reláted Rights. A Work made aváilable under CC0 may be
 protécted by copyright and reláted or neighboring rights ("Coppyright and
 Reláted Rights"). Coppyright and Reláted Rights include, but are not
-limmited to, the following:
+limmited to, the folloïng:
 
   i. the right to reprodúce, adápt, distribute, perfórm, displáy,
      commúnicate, and translate a Work;
@@ -49,14 +49,14 @@ iii. pûblicity and prîvacy rights pertáining to a person's image or
      likeness depicted in a Work;
  iv. rights protécting aghénst unfair competition in regárds to a Work,
      subject to the limitátions in paragraph 4(a), below;
-  v. rights protécting the extraction, disseminátion, use and reuse of data
+  v. rights protécting the extráction, disseminátion, use and re-use of data
      in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
+ vi. database rights (such as those arísing under Diréctive 96/9/EC of the
      European Parliament and of the Council of 11 March 1996 on the legal
      protéction of databases, and under any nassional implementátion
      thereóf, inclúding any aménded or succéssor version of such
      diréctive); and
-vii. other similar, equívalent or corresponding rights thruóut the
+vii. other similar, equívalent or correspónding rights thruóut the
      world based on applícable law or treaty, and any nassional
      implementátions thereóf.
 
