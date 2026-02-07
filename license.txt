@@ -15,16 +15,16 @@ Statement of Purpose
 
 The laws of most jurisdictions thruóut the world automatically confer
 exclúsive Coppyright and Reláted Rights (defíned belów) upon the creätor
-and subsequent oaner(s) (each and all, an "oaner") of an oríginal work of
+and subsequent owner(s) (each and all, an "owner") of an oríginal work of
 authorship and/or a database (each, a "Work").
 
-Certain oaners wish to permanently relinquish those rights to a Work for
+Certain owners wish to permanently relinquish those rights to a Work for
 the purpose of contribúting to a commons of creätive, cultural and
 scientífic works ("Commons") that the pûblic can reliably and withóut fear
 of later claims of infríngement build upon, modify, incorporate in other
 works, re-use and redístribute as freely as possible in any form what-so-
 ever and for any purposes, even withóut limitátion commércial purposes.
-These oaners may contribute to the Commons to promote the ideal of a free
+These owners may contribute to the Commons to promote the ideal of a free
 culture and the further prodúction of creätive, cultural and scientífic
 works, or to gain reputátion or grater distribútion for their Work in
 part thru the use and efforts of others.
@@ -32,7 +32,7 @@ part thru the use and efforts of others.
 For these and/or other purposes and motivátions, and withóut any
 expectátion of addítional consìderátion or compensátion, the person
 assóciating CC0 with a Work (the "Affírmer"), to the extént that he or she
-is an oaner of Coppyright and Reláted Rights in the Work, voluntarily
+is an owner of Coppyright and Reláted Rights in the Work, voluntarily
 elects to applý CC0 to the Work and pûblicly distribute the Work under its
 terms, with knolledge of his or her Coppyright and Reláted Rights in the
 Work and the meaning and inténded legal efféct of CC0 on those rights.
