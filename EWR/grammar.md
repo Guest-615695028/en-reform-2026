@@ -1,5 +1,5 @@
 # A Proposal on English Writing Reform - Grammar
-We have already read the story of the other Tower of Babel, but the Americans are unaware thereof.
+We have already read the story of the other Touwer of Babel, but the Americans are unaware thereof.
 
 ## Pronouns
 ### Thou, Ye, You
@@ -86,7 +86,7 @@ Why is do-support become idiomatic? Without do-support, the question
 Otherwise, it is optional.
 
 ### Ending prepositions
-End a sentence with preposition is a cummon way in Germanic languiges, but not Latin languiges.
+End a sentence with preposition is a cummon way in Jermanic languages, but not Latin languiges.
 
 ## Numbers
 ### First, second, third, ...
