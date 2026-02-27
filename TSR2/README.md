@@ -17,14 +17,14 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 For single letters, uppercase stands for long vocals with loërcase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 |Stressed vocal|Sequence
 |-|-
-|[/eː/](https://en.wikipedia.org/wiki/Pane-pain_merger)|A, -ae
+|[/eː/](https://en.wikipedia.org/wiki/Pane-pain_merger)|A, aa, -ae
 |/eɪ̯/|ai, ay, eigh, ey
 |/iː/|E, ea, ee
 |/aɪ̯/|I, Y, eye, -ie, -ye, -uy,
 |[/oː/](https://en.wikipedia.org/wiki/Toe-tow_merger)|O, oa, -oe
 |/oʊ̯/|ow, ough (dough, though)
 |/ɪʊ̯/|U, eu, ew, -ue
-|/ɑː/|aa, a(r)
+|/ɑː/|ah, a(r)
 |/ɔː/|au, aw, o(r), ough(t), -al(k/l)
 |/ɜː/|e/i/u/y(r)
 |/ɔɪ̯/|oi, oy
@@ -200,7 +200,7 @@ Some proposed simplified spellings already exist as receeved or variant spelling
 - _ake_ became _ache_, and so on.
 We propose undooïng these changes. Other examples of older spellings beïng more phonetic include:
 - **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
-- **_agenst_** for _against_ (again +‎ -st [excrescent]),
+- **_agenst_** for _against_ (again + -st [excrescent]),
 - **_yeeld_** for _yield_ (_cf._ Old English _ġieldan_),
 - **_bild_** for _build_ (_cf._ Old English _byldan_),
 - **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_; repronounced),
@@ -228,7 +228,7 @@ Some of spellings are occasionally to be givven in dictionaries for pronuntiatio
       6. Verb formations: -en;
       7. Adjective formations: -ful, -ly, -less, -lìke, -y.
    3. One consonant letter and then -ic, -id, -it.
-- Interpunct/Middle dot (·): separate consonant letters that forms one of the "combinations preserved" or a multigraph consonant.
+- Interpunct/Middle dot (·): separate consonant letters that forms one of the "combinations preserved" or a multigraph consonant, or written before consonantal W/Y to separate itself from the vocal letter before.
 
 ## Notes
 Norman-French words and academic words that entered before [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) and cater to the [Great vocal Shift](https://en.wikipedia.org/wiki/Great_vocal_Shift), are not considered loanwords layerwise, neither du the Japanese and Koreans to Chinese imports before [the Fall of Chinese Empire to Mongols](https://en.wikipedia.org/wiki/Battle_of_Yamen).
