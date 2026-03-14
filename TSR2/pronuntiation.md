@@ -1,5 +1,5 @@
 # On a Concensus on English Pronuntiation
-The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Generally required for a dictionary to pronounce words (also common in overseas French dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners. In 1850, Isaac Pitman drew a table as beloe.
+The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Generally required for a dictionary to pronounce words (also commun in overseas French dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners. In 1850, Isaac Pitman drew a table as beloe.
 ![](./epa-1847.png)
 
 ## Vowels

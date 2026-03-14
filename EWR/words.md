@@ -16,7 +16,7 @@ Oddnesses of derivation triggered by French are to be eliminated.
 |-|-|-
 |comparison|comparation|Latin _comparatio_ <br>(compare + -ation)
 |liaison|ligation|Latin _ligation_ <br>(compare + -ation)
-_**Peeple** cumm across GitHub every day, but **some persons** would find this repository interesting.
+
 
 4. Which Amerrican or British words shall be used?
 As there is a larger peeple (or *there are more persons*, as seen beloe) in the United States than the United Kingdom, the Internet prefer American English than British English, but we are to be ballanced between them.
@@ -25,7 +25,7 @@ As there is a larger peeple (or *there are more persons*, as seen beloe) in the 
 |-|-|-|-
 |-or|-our|-or|CSS uses `color`, not `colour`
 |-ize|-ise/ize|-ize|confer Greek _-ίζω_
-|-l-|-ll-|-l-|After unstressed vowel (commonly _-ed/-ing/-er_)
+|-l-|-ll-|-l-|After unstressed vowel (communly _-ed/-ing/-er_)
 |-er|-re|-er|Pronounced as /ɚ/ or /əɹ/; CSS uses `center`, not `centre`
 |-lyze|-lyse|-lyse|confer Greek _λύσις_
 |defense|defence|defense|confer Latin _defensa_; allso _offense_

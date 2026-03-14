@@ -5,7 +5,7 @@ In 1828 mended Noäh Webster English spellings in the United States, such as "co
 
 In 1920, the Simplify Spelling Board published a self-shoïng Handbook of Simplified Spelling with three parts:
 - Part 1 narrates an outline of the history of English spelling and the reforming attempts until 1920.
-- Part 2 presents the arguments in favor of reform and replies to the objections that are commonly made.
+- Part 2 presents the arguments in favor of reform and replies to the objections that are communly made.
 - Part 3 contains the SSB's proposed rules for simplified spelling and a list of the words that would be changed thereby.
 
 Planning a "stepwise" reform, it noted that spelling should be changed, most of which are originally the overt act of a lone writer folloed at first by minorrity. Dhuss, people are hartened to "point the way" and "set the example" by writing the reformed spellings as the handbook set forth ([confer Wikipedia](https://en.wikipedia.org/wiki/Simplified_Spelling_Board)).
@@ -105,7 +105,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 2. Twicing (dubbling) rule: Consonants are twiced to note that the leading vocal is short and accented when -ed, -er, -est, -ing and others are attached, whereas K is to CK, soft G to DG. especially those at morphemic bounds. Otherwise are there _programme_ to **program**.
 3. The combination **al(l)** is one of the most difficult areas to attempt codication of the underlying rules of TS.
    - For the most part, AL and ALL represent the sounds /æl/. However, in TS can they allso represent the sound /ɔ:l/. Usually is this sound forstwd by AU or AW as in **laud** or **paw**, but the sound can allso be forstwd by AL as in _always_ or ALL as in **small**.
-   - In a few common words beginning with AL givving a meaning of totality and sounding /ɔːl/, are replaced by ALL. If this precedes a vocal, a hyfen is added.
+   - In a few commun words beginning with AL givving a meaning of totality and sounding /ɔːl/, are replaced by ALL. If this precedes a vocal, a hyfen is added.
       - _albeit_ → **all-be-it**,
       - _almighty_ → **allmighty**,
       - _almost_ → **allmost**,
@@ -147,7 +147,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 11. Some TS digraphs can represent one sound or two separate sounds. if any represent two, the latter has a diëresis, like the verb to _creäte_.
 12. "SC" folloes the rules for the pronuntiation of C: **scam**, **scene**, **scythe**;
 13. "SCH" normally represents /sk/ as in **school**; in some words, largely of German origin, the combination represents /s/ as in _schmaltz_ — these loanwords and italicized;
-14. schwa - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; dhuss: **about**, **ensnare**, **intelligent**, **common**, **upon**. We write **forrin** insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
+14. schwa - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; dhuss: **about**, **ensnare**, **intelligent**, **commun**, **upon**. We write **forrin** insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
     - The ending "-our" (pronounced /əɹ/) adopts Amerrican conventions i.e. _or_ as in _labor_, _savior_.
     - The suffix _-ous_ (pronounced /əs/) is unchanged - // e.g. _famous_.
 15. Final S and TH that can either be devoiced or voiced are not written as Z or DH:
@@ -162,7 +162,7 @@ The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is w
 /t͡ʃ/, /d͡ʒ/, R, /ʃ/, /ʒ/, as well as L folloed by consonant, as well as D, N, TH and T in some Amerrican English dialects, wherein S sounds like /ʃ/, Z like /ʒ/, without altering the script, and even D to /d͡ʒ/, T to /t͡ʃ/ when unstressed.
 
 ## Special rules for TSR 2.0
-1. The folloing very common words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 8.1-8.3.
+1. The folloing very commun words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 8.1-8.3.
    1. Personal pronouns and adjectives: thou, you(r)(s), they.
    2. Parts of the vebs to be and to have: are, was, were, have, having;
    3. Small numbers: one(th), once, two(th), other;
@@ -172,7 +172,7 @@ The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is w
    7. Prepositions: of, to;
    8. Others: (n)ever, many, very, with, woman/women.
    - The formal second-person pronoun "you" may also be represented in TSR by a capital U. 
-2. Common Suffixes: A number of common word endings du not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
+2. Common Suffixes: A number of commun word endings du not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
    - Those involving the /ʃ/ sound 
       - C: -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious), etc.
       - SS: -ssion (passion, confession, mission), etc.
@@ -183,7 +183,7 @@ The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is w
       - Z: -zure (azure), etc.
    - The Magic E and Doubling Rules apply generally to the above suffixes, but the single letter I therebefore are lax/short.
 Similarly, the ending "-ssion" dus not lengthen the preceding vocal because of the doubling of S. TSR uses "-ssion-" instead of -tion when the preceding vocal is accented, but needs to be kept short; dhuss are there _nation_ but **nassional**; _special_ becomes **spescial**, _pleasure_ becomes **plezzure**, _precious_ becoumes **prescious**.
-3. Some common combinations preserved
+3. Some commun combinations preserved
    - Long A: -ange- (dânger, ângel), -aste (tâste, wâste), -**a**tional (compare **nassional** and **rassional**)
    - Long I: -igm (paradigm), -ign (benign, sign); both becum -im- and -in- when folloed by vocal letter.
    - Long O: final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alk) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orge (forge `o:rdʒ`) -orne (borne `o:r\n`)

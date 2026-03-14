@@ -15,7 +15,7 @@
 |b**oo**k, foot, good, wool, ...|bwk, fwt, gwd, wwl, ...<br>|/ʊ/; spook, boot, fool, food, ...
 |h**or**de, sword|hoard, soard|/oːɹ/
 |sh**or**n, sworn, torn, worn|shorne, sworne, torne, worne|/oːɹ/
-|s**ou**thern, touch, kn**ow**ledge, ...|sutthern, tuch, knolledge, ...|/uː/
+|s**ou**thern, touch, kn**ow**ledge, ...|suddhern, tuch, knolledge, ...|/uː/
 |gr**ou**p, soup, troupe, ...<br>st**ou**nd, wound, ...|groop, soop, troope, ...<br>stoond, woond, ...|/uː/
 |kn**ow**, low, show, ...|kno, lo, sho, ...|/oʊ̯/
 |f**u**ll, push, put, ...|fwll, pwsh, pwt, ...|/ʊ/; cut, dull, ...

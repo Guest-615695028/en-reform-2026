@@ -1,7 +1,9 @@
 # A Proposal on English Writing Reform - Grammar
 We have already read the story of the other Touwer of Babel, but the Americans are unaware thereof.
 
-## Pronouns
+## Nominals
+_**Peeple** cumm across GitHub every day, but **some persons** would find this repository interesting.
+
 ### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers. Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
 
@@ -20,7 +22,7 @@ These are second-person pronouns in need of mutual distinction, which is shared 
 |do|thou doest (_dust_)|thou didst
 |go|thou goest|thou wentest
 |make|thou makest|thou madest
-|give|thou givest|thou gavest
+|giv|thou givst|thou gavest
 |cost|thou costest|thou costest/costed(e)st¹
 |...|...|...
 
@@ -86,7 +88,7 @@ Why is do-support become idiomatic? Without do-support, the question
 Otherwise, it is optional.
 
 ### Ending prepositions
-End a sentence with preposition is a cummon way in Jermanic languages, but not Latin languiges.
+End a sentence with preposition is a commun way in Jermanic languages, but not Latin languiges.
 
 ## Numbers
 ### First, second, third, ...

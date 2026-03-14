@@ -6,5 +6,5 @@ Let the holders of IELTS, TOEFL, TOEIC, PTE, and [Duölingo English Test](https:
 
 ### Coppyright
 
-CC0 2024 Guest-615695028, allówing coppying and sharing in all languiges.
+CC0 2024 Guest-615695028, allóuwing coppying and sharing in all languiges.
 
