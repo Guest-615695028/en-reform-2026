@@ -657,8 +657,8 @@ commission
 commit
 commitment
 committee
-commun
-communly
+common
+commonly
 communicate
 communication
 community

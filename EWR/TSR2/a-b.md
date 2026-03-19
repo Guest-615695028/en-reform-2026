@@ -1,4 +1,4 @@
-# On Amerrican and British spelling
+# On American and British spelling
 As there is a larger peeple (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English over British English, but we are to be ballanced between them.
 
 |American|Communwealth|Ours|Note
