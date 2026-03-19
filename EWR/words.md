@@ -37,14 +37,15 @@ This is proposed as a contra-action to the French Academy suppressing Anglicisms
 |counter-|contra-|wither-
 |-ique|-ic|-y
 |-eur|-or|-er
-|-euss|-trix|(woman) -er
+|-euse|-trix|(woman) -er
 
 Oddnesses of derivation triggered by French are to be eliminated.
 |Yesterday|Today|Why
 |-|-|-
 |counter-clockwise<br>anti-clockwise|unclóckwise|[mixing word origins]
-|comparison|comparátion|Latin _comparatio, -onis_ <br>(compare + -ation)
-|liaison|ligátion|Latin _ligatio, -onis_
+|compárison|comparátion|Latin _comparatio, -onis_ <br>(compare + -ation)
+|destróy|distrúct|Latin _destruere, -uxi, -uctus_
+|liaisón|ligátion|Latin _ligatio, -onis_
 
 ## Numbers
 ### First, second, third, ...
