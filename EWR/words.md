@@ -1,6 +1,14 @@
 # A Proposal on English Writing Reform - Words
 This page talks about alterations in English word spellings beyond soundings.
 
+## Split words
+Thes words can be written split:
+- _can not_
+- _none the less_, _never the less_
+- _not withstánding_
+
+_Another_ can be written split as _an other_, on the basis of word-by-word analysis. The form "another + _number_" are to be replace by "_such number_ + other".
+
 ## To the origin
 - 1 = Old Anglo-Saxon
 - 2 = Anglicized Norman French
@@ -11,8 +19,15 @@ Words used in English from other origins are deemed as loanwords and italicized.
 Those pronounced samely are:
 |Before|After|Where|What
 |-|-|-|-
-|common|commun|3|communus
-|pronunciation|3|pronuntiatio, -nis
+|common|commun|3|_[communis](https://en.wiktionary.org/wiki/communis)_
+|connection<br>connexion|connexion|3|_[connectere, connexui, connexus](https://en.wiktionary.org/wiki/connecto)_
+|pronunciation|pronuntiation|3|_pronuntiatio_, -nis
+
+## Address odds in word forming
+The notable example is to change _comparison_ to _comparation_, as throo the normal path from Latin _comparatio (-nis)_ to English.
+- _Comparation_ is allso interpreted as "_compare_ + -ation".
+- The French has _combinaison_ for English _combination_, _conjugaison_ for _conjugation_, _terminaison_ for _termination_, and others; so this is kept in the part of [defrancization](./defrancize.md).
+- Onely are _reason_ and _ration_, _poison_ and _potion_ are kept distinct because the formers switched meanings from the latters, which are lernèd borrowings in Latin.
 
 ## Defrancogallization
 This is proposed as a contra-action to the French Academy suppressing Anglicisms. Notice the -ique, -eur/se, and others that accent the final syllable, as well as some -son words.

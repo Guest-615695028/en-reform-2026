@@ -1,24 +1,31 @@
 %YAML 2.0
+# Self-namings
 Britain: Brit-ten
 England: ING-gland
 English: ING-glish
-the: DHEE
+# Personal articles
+## 2ps
 thou: DHOU
 thee: DHEE
 thy: DHIGH
 thine: DHENE
 thyself: DHY-Self
-they: DHAY
-them: DHEM
-their: DHAIR
-theirs: DHAIRZ
-themself: DHEM-Self
-themselves: DHEM-Selvz
+## one: 3ps
+oneself: WUNSELF / WONSELF
+## 2pp/2pf
 you: YOO
 your: YOOR
 yours: YOORZ
 yourself: YOOR-self
 yourselves: YOOR-selvz
+## 3pp
+they: DHAY
+them: DHEM
+their: DHAIR
+theirs: DHAIRZ
+themselves: DHEM-Selvz
+# Demonstratives
+the: DHEE / dha / dhee
 this: DHIS
 that: DHAT
 these: DHEEZ
@@ -30,19 +37,7 @@ than: DHAN
 thus: DHUS
 though: DHO
 thither: DHIDH-er
-are: AR
-were: WER
-have: HAV
-having: HAV-ing
-one: WON / WUN
-once: WONSS / WUNSS
-oneth: WON / WUN
-two: TOO
-twoth: TOOTH
-what: WHOT
-where: WHARE
-who: WHOO
-whose: WHOOZ
+# Indefinites
 any: EN-y
 anyone: EN-y-Wun
 anything: EN-y-Thing
@@ -55,6 +50,26 @@ someone: SUM-Wun
 something: SUM-Thing
 other: UDH-er
 another: a-NUDH-er
+# Interrogatives
+what: WHOT
+where: WHARE
+who: WHOO
+whose: WHOOZ
+# Auxillary Verbs
+are: AR
+were: WER
+have: HAV
+having: HAV-ing
+do: DOO
+doest: DUST
+does: DUZ
+# Numbers
+one: WON / WUN
+once: WONSS / WUNSS
+oneth: WON / WUN
+two: TOO
+twoth: TOOTH
+# Others
 woman: WUUM-an
 women: WIM-en
 ever: EV-ver
