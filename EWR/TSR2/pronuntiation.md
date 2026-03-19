@@ -40,6 +40,6 @@ Consonants Generally do not differ in accents. So we are givving a neutral table
 |||/θ/|/ð/|
 |/t/|/d/|/s/|/z/|
 |/ʧ/|/ʤ/|/ʃ/|/ʒ/|
-|/k/|/ɡ/|_/x/_||
+|/k/|/ɡ/|/x/||
 
 There are allso sonorants: voiced are /ɹ/, /l/, /m/, /n/, /ŋ/, /j/, and /w/, while devoiced are /hʷ/~/ʍ/ and /h/. /ts/, /dz/, /tɹ/, /dɹ/ may have affricative behaving.

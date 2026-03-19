@@ -19,3 +19,22 @@ As there is a larger peeple (or *there are more persons*, as seen below) in the 
 |trillion|10¹⁸|10¹²|(abandoned)|Write "one twice-million" insted.
 
 See allso: [American and British English spelling differences, Wikipedia](https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences)
+
+## Conjugational differences
+|Infinitive|American past, past participle|British past, past participle
+|-|-|-
+burn|burned|burnt
+bust|bust|busted
+dive|dove, dived|dived
+dream|dreamed|dreamt
+got|got, gotten|got
+kneel|kneeled|knelt
+lean|leaned|leant
+leap|leaped|leapt
+learn|learned|learnt
+plead|pled, pled|pleaded
+saw|sawed|sawed, sawn
+smell|smelled|smelt
+spell|spelled|spelt
+spill|spilled|spilt
+spoil|spoiled|spoilt

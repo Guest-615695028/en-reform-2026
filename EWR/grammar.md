@@ -2,7 +2,6 @@
 We have already read the story of the other Touwer of Babel, but the Americans are unaware thereof.
 
 ## Nominals
-_**Peeple** cumm across GitHub every day, but **some persons** would find this repository interesting.
 
 ### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers. Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
@@ -89,9 +88,3 @@ Otherwise, it is optional.
 
 ### Ending prepositions
 End a sentence with preposition is a commun way in Jermanic languages, but not Latin languiges.
-
-## Numbers
-### First, second, third, ...
-But twenty-oneth, twenty-twoth, twenty-threeth...
-One hundred and oneth, one hundred and twoth, one hundred and threeth...
-We can also say "other" for "second".
