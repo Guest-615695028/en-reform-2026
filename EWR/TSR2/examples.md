@@ -1,4 +1,4 @@
-# Common examples of TSR 2.0
+# Commun examples of TSR 2.0
 |Before|After|Why
 |-|-|-
 |hatr**e**d, learned, naked, sacred, ...|hatrid, learnid, nakid, sacrid, ...|unstressed /ɪ/

@@ -1,11 +1,11 @@
-Creätive Commons Legal Code - Refórmed
+Creätive Communs Legal Code - Refórmed
 
 CC0 1.0 Univérsal
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DUS NOT PROVIDE
+    CREATIVE COMMUNS CORPORATION IS NOT A LAW FIRM AND DUS NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DUS NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMUNS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMUNS MAKES NO WARRANTIES
     REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
     PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
@@ -20,11 +20,11 @@ authorship and/or a database (each, a "Work").
 
 Certain owners wish to permanently relinquish those rights to a Work for
 the purpose of contribúting to a communs of creätive, cultural and
-scientífic works ("Commons") that the pûblic can reliably and withóut fear
+scientífic works ("Communs") that the pûblic can reliably and withóut fear
 of later claims of infríngement build upon, modify, incorporate in other
 works, re-use and redístribute as freely as possible in any form what-so-
 ever and for any purposes, even withóut limitátion commércial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
+These owners may contribute to the Communs to promote the ideal of a free
 culture and the further prodúction of creätive, cultural and scientífic
 works, or to gain reputátion or grater distribútion for their Work in
 part thru the use and efforts of others.
@@ -116,6 +116,6 @@ express Statement of Purpose.
     Further, Affírmer disclaims responsibílity for obtáining any necessary
     consents, permíssions or other rights requíred for any use of the
     Work.
- d. Affírmer understánds and acknólleges that Creative Commons is not a
+ d. Affírmer understánds and acknólleges that Creative Communs is not a
     party to this document and has no duty or obligátion with respect to
     this CC0 or use of the Work.

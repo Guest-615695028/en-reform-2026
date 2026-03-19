@@ -172,7 +172,7 @@ The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is w
    7. Prepositions: of, to;
    8. Others: (n)ever, many, very, with, woman/women.
    - The formal second-person pronoun "you" may also be represented in TSR by a capital U. 
-2. Common Suffixes: A number of commun word endings du not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
+2. Commun Suffixes: A number of commun word endings du not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
    - Those involving the /ʃ/ sound 
       - C: -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious), etc.
       - SS: -ssion (passion, confession, mission), etc.
