@@ -21,6 +21,6 @@
 9. Ten other grosses of years passed, variable empires rose by winning against [the ones](https://en.wikipedia.org/wiki/Chinese_people) who escaped the [Grate Flud](https://en.wikipedia.org/wiki/Great_Flood) by [delúging it](https://en.wikipedia.org/wiki/Yu_the_Great).
 10. Amóng them is [the one with the largest effective landmass](https://en.wikipedia.org/wiki/United_States), which conquered the other with [the largest land](https://en.wikipedia.org/wiki/Soviet_Union).
 11. Now has the 'hole world [his tongue](https://en.wikipedia.org/wiki/English_language) as [a commun speech](https://en.wikipedia.org/wiki/International_English), so [it thinks that nothing it plans to do will be impóssible](https://en.wikipedia.org/wiki/Whom_the_gods_would_destroy,_they_first_make_mad).
-12. The Lord came down again and sent [a crowned angel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire, just through [its next archénnemy](https://en.wikipedia.org/wiki/China).
+12. The Lord came down again and sent [a crouned ângel](https://en.wikipedia.org/wiki/SARS-CoV-2) into this empire, just through [its next foe](https://en.wikipedia.org/wiki/China).
 13. In the 'hole world [died thrice more peeple](https://en.wikipedia.org/wiki/COVID-19_pandemic) than repórted.
 14. The Day of Jurament comes — the Lord clensed the Erth. From there divíded the Lord [the Hell](https://en.wikipedia.org/wiki/Capitalism), [the Purgatory](https://en.wikipedia.org/wiki/Socialism) and [the Hevven](https://en.wikipedia.org/wiki/Communism).
