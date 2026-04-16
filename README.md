@@ -9,3 +9,4 @@ CC0 2024 Guest-615695028, allóuwing coppying and sharing in all languiges.
 ## When to reform?
 - Start: Today
 - Dedline: October 14, 2066 (1000th year's day of the Battle of Haestings)
+- Exemptions: The onely exemptions are computator programs.
