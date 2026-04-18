@@ -125,72 +125,69 @@ afterwards:
 again:
   adv: A1
 against:
-  prep: A2
+  prep: agénst
 age:
-  n: A1
-  v: B1
+  ? [n,v]: 1
 aged:
-  adj: B1
+  adj: 1
 agency:
-  n: B2
+  n: 1
 agenda:
-  n: B2
+  n: 3
 agent:
-  n: B1
+  n: 1
 aggressive:
-  adj: B2
+  adj: 5
 ago:
-  adv: A1
+  adv: 3
 agree:
-  v: A1
+  v: 4
 agreement:
-  n: B1
+  n: 4
 ah:
-  exclam: A2
+  exclam: 1
 ahead:
-  adv: B1
+  adv: ahéd
 aid:
-  ? [n,v]: B2
+  ? [n,v]: 1
 aim:
-  ? [v,n]: B1
+  ? [v,n]: 1
 air:
-  n: A1
+  n: 1
 aircraft:
-  n: B2
+  n: [1,6]
 airline:
-  n: A2
+  n: [1,5]
 airport:
-  n: A1
+  n: [1,5]
 alarm:
-  n: B1
-  v: B2
+  ? [n,v]: 3
 album:
-  n: B1
+  n: 1
 alcohol:
-  n: B1
+  n: 1
 alcoholic:
-  adj: B1
+  adj: [6,1]
 alive:
-  adj: A2
+  adj: 3
 all:
-  ? [det,pron]: A1
-  adv: A2
+  [det,pron,adv]: 1
 all right:
-  ? [adj./adv,exclam]: A2
+  [adj,adv,exclam]: allright
 allow:
-  v: A2
+  v: allóu
 almost:
-  adv: A2
+  adv: állmost
 alone:
-  adj./adv: A2
+  adj./adv: 3
 along:
-  ? [prep,adv]: A2
+  ? [prep,adv]: 3
 already:
-  adv: A2
+  adv: allréddy
 also:
-  adv: A1
+  adv: allso
 alter:
-  v: B2
+  v: 1
 alternative:
   n: A2
   adj: B1
