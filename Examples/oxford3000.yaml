@@ -505,101 +505,95 @@ beer:
 before:
   [prep,conj,adv]: 4
 beg:
-  v: B2
+  v: 2
 begin:
-  v: A1
+  v: 4
 beginning:
-  n: A1
+  n: 4
 behave:
-  v: A2
+  v: 4
 behaviour:
-  n: A2
+  n: -behaving
 behind:
-  [prep,adv]: A1
+  [prep,adv]: 4
 being:
-  n: B2
+  n: beïng
 belief:
-  n: B1
+  n: beleef
 believe:
-  v: A1
+  v: beleeve
 bell:
-  n: B1
+  n: 2
 belong:
-  v: A2
+  v: 4
 below:
-  [adv,prep]: A1
+  [adv,prep]: 4
 belt:
-  n: A2
+  n: 2
 bend:
-  [v,n]: B1
+  [v,n]: 2
 benefit:
-  n: A2
-  v: B1
+  n: bennefit
 bent:
-  adj: B2
+  adj: 2
 best:
-  adj: A1
-  [adv,n]: A2
+  [adj,adv,n]: 2
 bet:
-  [v,n]: B2
+  [v,n]: 2
 better:
-  adj: A1
-  adv: A2
-  n: B1
+  [adj,adv,n]: 2
 between:
-  prep: A1
-  adv: A2
+  [prep,adv]: 5
 beyond:
-  [prep,adv]: B2
+  [prep,adv]: 4
 bicycle:
-  n: A1
+  n: 2
 big:
-  adj: A1
+  adj: 2
 bike:
-  n: A1
+  n: 2
 bill:
-  n: A1
-  v: B2
+  [n,v]: 2
 billion:
-  num: A2
+  num: 2
 bin:
-  n: A2
+  n: 2
 biology:
-  n: A2
+  n: 3
 bird:
-  n: A1
+  n: 2
 birth:
-  n: A2
+  n: 2
 birthday:
-  n: A1
+  n: 2
 biscuit:
-  n: A2
+  n: 2
 bit:
-  n: A2
+  n: 2
 bite:
-  [v,n]: B1
+  [v,n]: 2
 bitter:
-  adj: B2
+  adj: 2
 black:
-  [adj,n]: A1
+  [adj,n]: 3
 blame:
-  [v,n]: B2
+  [v,n]: 3
 blank:
-  [adj,n]: A2
+  [adj,n]: 3
 blind:
-  adj: B2
+  adj: blînd
 block:
-  [n,v]: B1
+  [n,v]: 3
 blog:
-  n: A1
+  n: 3
 blonde:
-  adj: A1
+  adj: blond
 blood:
-  n: A2
+  n: blud
 blow:
-  v: A2
+  v: 3
 blue:
-  [adj,n]: A1
+  [adj,n]: 3
 board:
   n: A2
   v: B1
