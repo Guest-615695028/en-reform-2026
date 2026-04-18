@@ -7,9 +7,9 @@ ability:
 able:
   adj: 1
 about:
-  ? [prep,adv]: 3
+  [prep,adv]: 3
 above:
-  ? [prep,adv]: 3
+  [prep,adv]: 3
 abroad:
   adv: abráwd
 absolute:
@@ -17,7 +17,7 @@ absolute:
 absolutely:
   adv: 6
 academic:
-  ? [adj,n]: 5
+  [adj,n]: 5
 accept:
   v: 4
 acceptable:
@@ -34,7 +34,7 @@ accompany:
 according to:
   prep: 4
 account:
-  ? [n,v]: 4
+  [n,v]: 4
 accurate:
   adj: 1
 accuse:
@@ -48,7 +48,7 @@ acknowledge:
 acquire:
   v: 2
 across:
-  ? [prep,adv]: 2
+  [prep,adv]: 2
 act:
   v: 1
   n: 1
@@ -91,7 +91,7 @@ adult:
   n: 1
   adj: 3
 advance:
-  ? [n,v,adj]: 4
+  [n,v,adj]: 4
 advanced:
   adj: 4
 advantage:
@@ -117,7 +117,7 @@ afford:
 afraid:
   adj: 4
 after:
-  ? [prep,conj,adv]: 1
+  [prep,conj,adv]: 1
 afternoon:
   n: [7,1]
 afterwards:
@@ -127,7 +127,7 @@ again:
 against:
   prep: agénst
 age:
-  ? [n,v]: 1
+  [n,v]: 1
 aged:
   adj: 1
 agency:
@@ -149,9 +149,9 @@ ah:
 ahead:
   adv: ahéd
 aid:
-  ? [n,v]: 1
+  [n,v]: 1
 aim:
-  ? [v,n]: 1
+  [v,n]: 1
 air:
   n: 1
 aircraft:
@@ -161,7 +161,7 @@ airline:
 airport:
   n: [1,5]
 alarm:
-  ? [n,v]: 3
+  [n,v]: 3
 album:
   n: 1
 alcohol:
@@ -181,7 +181,7 @@ almost:
 alone:
   adj./adv: 3
 along:
-  ? [prep,adv]: 3
+  [prep,adv]: 3
 already:
   adv: allréddy
 also:
@@ -189,305 +189,293 @@ also:
 alter:
   v: 1
 alternative:
-  n: A2
-  adj: B1
+  [n, adj]: 4
 although:
-  conj: A2
+  conj: alldhów
 always:
-  adv: A1
+  adv: allways
 amazed:
-  adj: B1
+  adj: 3
 amazing:
-  adj: A1
+  adj: 3
 ambition:
-  n: B1
+  n: 4
 ambitious:
-  adj: B1
+  adj: 5
 among:
-  prep: A2
+  prep: 3
 amount:
-  n: A2
-  v: B2
+  [n, v]: 3
 analyse:
-  v: B1
+  v: 1
 analysis:
-  n: B1
+  n: 3
 ancient:
-  adj: A2
+  adj: 1
 and:
-  conj: A1
+  conj: 1
 anger:
-  n: B2
+  n: ânger
 angle:
-  n: B2
+  n: 1
 angry:
-  adj: A1
+  adj: 1
 animal:
-  n: A1
+  n: 1
 ankle:
-  n: A2
+  n: 1
 anniversary:
-  n: B2
+  n: 6
 announce:
-  v: B1
+  v: 4
 announcement:
-  n: B1
+  n: -annúntiation
 annoy:
-  v: B1
+  v: 4
 annoyed:
-  adj: B1
+  adj: 4
 annoying:
-  adj: B1
+  adj: 4
 annual:
-  adj: B2
+  adj: 1
 another:
-  det./pron: A1
+  det./pron: -1
 answer:
-  ? [n,v]: A1
+  [n,v]: anser
 anxious:
-  adj: B2
+  adj: 1
 any:
-  ? [det,pron]: A1
-  adv: A2
+  [det,pron,adv]: -1
 anybody:
-  pron: A2
+  pron: -1
 any more:
-  adv: A2
+  adv: -1
 anyone:
-  pron: A1
+  pron: -1
 anything:
-  pron: A1
+  pron: -1
 anyway:
-  adv: A2
+  adv: any way
 anywhere:
-  ? [adv,pron]: A2
+  [adv,pron]: -1
 apart:
-  adv: B1
+  adv: 1
 apartment:
-  n: A1
+  n: -housing
 apologize:
-  v: B1
+  v: 3
 app:
-  n: A2
+  n: 4
 apparent:
-  adj: B2
+  adj: 4
 apparently:
-  adv: B2
+  adv: 4
 appeal:
-  ? [n,v]: B2
+  [n,v]: 4
 appear:
-  v: A2
+  v: 4
 appearance:
-  n: A2
+  n: apparence
 apple:
-  n: A1
+  n: 1
 application:
-  n: B1
+  n: [7,1]
 apply:
-  v: A2
+  v: 5
 appointment:
-  n: B1
+  n: -appointing
 appreciate:
-  v: B1
+  v: 5
 approach:
-  ? [n,v]: B2
+  [n,v]: 5
 appropriate:
-  adj: B2
+  adj: 5
 approval:
-  n: B2
+  n: appróoval
 approve:
-  v: B2
+  v: appróove
 approximately:
-  adv: B1
+  adv: [5,9]
 April:
-  n: A1
+  n: 1
 architect:
-  n: A2
+  n: 1
 architecture:
-  n: A2
+  n: [7,1]
 area:
-  n: A1
+  n: area
 argue:
-  v: A2
+  v: 1
 argument:
-  n: A2
+  n: 1
 arise:
-  v: B2
+  v: 3
 arm:
-  n: A1
+  n: 1
 armed:
-  adj: B2
+  adj: 1
 arms:
-  n: B2
+  n: 1
 army:
-  n: A2
+  n: 1
 around:
-  ? [prep,adv]: A1
+  [prep,adv]: 3
 arrange:
-  v: A2
+  v: 4
 arrangement:
-  n: A2
+  n: arranging
 arrest:
-  ? [v,n]: B1
+  [v,n]: 4
 arrival:
-  n: B1
+  n: 4
 arrive:
-  v: A1
+  v: 4
 art:
-  n: A1
+  n: 1
 article:
-  n: A1
+  n: 1
 artificial:
-  adj: B2
+  adj: [6,1]
 artist:
-  n: A1
+  n: 1
 artistic:
-  adj: B2
+  adj: 4
 as:
-  prep: A1
-  ? [adv,conj]:  A2
+  [prep,adv,conj]:  1
 ashamed:
-  adj: B2
+  adj: 4
 ask:
-  v: A1
+  v: 1
 asleep:
-  adj: A2
+  adj: 4
 aspect:
-  n: B2
+  n: 4
 assess:
-  v: B2
+  v: 4
 assessment:
-  n: B2
+  n: -asséssion
 assignment:
-  n: B1
+  n: -assignátion
 assist:
-  v: B1
+  v: 4
 assistant:
-  ? [n,adj]: A2
+  [n,adj]: 4
 associate:
-  v: B2
+  v: 4
 associated:
-  adj: B2
+  adj: 4
 association:
-  n: B2
+  n: [7,4]
 assume:
-  v: B2
+  v: 4
 at:
-  prep: A1
+  prep: 1
 athlete:
-  n: A2
+  n: 5
 atmosphere:
-  n: B1
+  n: [8,1]
 attach:
-  v: B1
+  v: 4
 attack:
-  ? [n,v]: A2
+  [n,v]: 4
 attempt:
-  ? [n,v]: B2
+  [n,v]: 4
 attend:
-  v: A2
+  v: 4
 attention:
-  ? [n,exclam]: A2
+  [n,exclam]: 4
 attitude:
-  n: B1
+  n: 1
 attract:
-  v: B1
+  v: 5
 attraction:
-  n: B1
+  n: 5
 attractive:
-  adj: A2
+  adj: 5
 audience:
-  n: A2
+  n: 1
 August:
-  n: A1
+  n: 1
 aunt:
-  n: A1
+  n: 1
 author:
-  n: A2
+  n: 1
 authority:
-  n: B1
+  n: 5
 autumn:
-  n: A1
+  n: -fall
 available:
-  adj: A2
+  adj: 3
 average:
-  ? [adj,n]: A2
-  v: B1
+  [adj,n,v]: 1
 avoid:
-  v: A2
+  v: 3
 award:
-  n: A2
-  v: B1
+  [n,v]: a·wárd
 aware:
-  adj: B1
+  adj: a·wáre
 away:
-  adv: A1
+  adv: a·wáy
 awful:
-  adj: A2
+  adj: 1
 baby:
-  n: A1
+  n: 2
 back:
-  ? [n,adv]: A1
-  adj: A2
-  v: B2
+  [n,adv,adj,v]: 2
 background:
-  n: A2
+  n: 2
 backwards:
-  adv: B1
+  adv: 2
 bacteria:
-  n: B2
+  n: 5
 bad:
-  adj: A1
+  adj: 2
 badly:
-  adv: A2
+  adv: 2
 bag:
-  n: A1
+  n: 2
 bake:
-  v: B1
+  v: 2
 balance:
-  ? [n,v]: B1
+  [n,v]: ballance
 ball:
-  n: A1
+  n: 2
 ban:
-  ? [v,n]: B1
+  [v,n]: 2
 banana:
-  n: A1
+  n: banánna
 band:
-  n: A1
+  n: 2
 bank:
-  (money) n: A1
-bank:
-  (river) n: B1
+  n: 2
 bar:
-  n: A2
-  v: B2
+  [n,v]: 2
 barrier:
-  n: B2
+  n: 2
 base:
-  ? [n,v]: B1
+  [n,v]: 2
 baseball:
-  n: A2
+  n: base-ball
 based:
-  adj: A2
+  adj: 2
 basic:
-  adj: B1
+  adj: baesic
 basically:
-  adv: B2
+  adv: baesically
 basis:
-  n: B1
+  n: 2
 basketball:
-  n: A2
+  n: 2
 bath:
-  n: A1
+  n: 2
 bathroom:
-  n: A1
+  n: 2
 battery:
-  n: B1
+  n: 2
 battle:
-  n: B1
-  v: B2
+  [n,v]: 2
 be:
-  ? [v,av]: A1
+  [v,av]: A1
 beach:
   n: A1
 bean:
@@ -519,7 +507,7 @@ beer:
   n: A1
 before:
   prep: A1
-  ? [conj,adv]: A2
+  [conj,adv]: A2
 beg:
   v: B2
 begin:
@@ -531,7 +519,7 @@ behave:
 behaviour:
   n: A2
 behind:
-  ? [prep,adv]: A1
+  [prep,adv]: A1
 being:
   n: B2
 belief:
@@ -543,11 +531,11 @@ bell:
 belong:
   v: A2
 below:
-  ? [adv,prep]: A1
+  [adv,prep]: A1
 belt:
   n: A2
 bend:
-  ? [v,n]: B1
+  [v,n]: B1
 benefit:
   n: A2
   v: B1
@@ -555,9 +543,9 @@ bent:
   adj: B2
 best:
   adj: A1
-  ? [adv,n]: A2
+  [adv,n]: A2
 bet:
-  ? [v,n]: B2
+  [v,n]: B2
 better:
   adj: A1
   adv: A2
@@ -566,7 +554,7 @@ between:
   prep: A1
   adv: A2
 beyond:
-  ? [prep,adv]: B2
+  [prep,adv]: B2
 bicycle:
   n: A1
 big:
@@ -593,19 +581,19 @@ biscuit:
 bit:
   n: A2
 bite:
-  ? [v,n]: B1
+  [v,n]: B1
 bitter:
   adj: B2
 black:
-  ? [adj,n]: A1
+  [adj,n]: A1
 blame:
-  ? [v,n]: B2
+  [v,n]: B2
 blank:
-  ? [adj,n]: A2
+  [adj,n]: A2
 blind:
   adj: B2
 block:
-  ? [n,v]: B1
+  [n,v]: B1
 blog:
   n: A1
 blonde:
@@ -615,7 +603,7 @@ blood:
 blow:
   v: A2
 blue:
-  ? [adj,n]: A1
+  [adj,n]: A1
 board:
   n: A2
   v: B1
@@ -626,7 +614,7 @@ body:
 boil:
   v: A2
 bomb:
-  ? [n,v]: B1
+  [n,v]: B1
 bond:
   n: B2
 bone:
@@ -656,7 +644,7 @@ bother:
 bottle:
   n: A1
 bottom:
-  ? [n,adj]: A2
+  [n,adj]: A2
 bowl:
   n: A2
 box:
@@ -670,13 +658,13 @@ brain:
 branch:
   n: B1
 brand:
-  ? [n,v]: B1
+  [n,v]: B1
 brave:
   adj: B1
 bread:
   n: A1
 break:
-  ? [v,n]: A1
+  [v,n]: A1
 breakfast:
   n: A1
 breast:
@@ -702,15 +690,15 @@ bring:
 broad:
   adj: B2
 broadcast:
-  ? [v,n]: B2
+  [v,n]: B2
 broken:
   adj: A2
 brother:
   n: A1
 brown:
-  ? [adj,n]: A1
+  [adj,n]: A1
 brush:
-  ? [v,n]: A2
+  [v,n]: A2
 bubble:
   n: B1
 budget:
@@ -761,15 +749,15 @@ cake:
 calculate:
   v: B2
 call:
-  ? [v,n]: A1
+  [v,n]: A1
 calm:
-  ? [adj,v,n]: B1
+  [adj,v,n]: B1
 camera:
   n: A1
 camp:
-  ? [n,v]: A2
+  [n,v]: A2
 campaign:
-  ? [n,v]: B1
+  [n,v]: B1
 camping:
   n: A2
 campus:
@@ -793,17 +781,17 @@ capable:
 capacity:
   n: B2
 capital:
-  ? [n,adj]: A1
+  [n,adj]: A1
 captain:
   n: B1
 capture:
-  ? [v,n]: B2
+  [v,n]: B2
 car:
   n: A1
 card:
   n: A1
 care:
-  ? [n,v]: A2
+  [n,v]: A2
 career:
   n: A1
 careful:
@@ -825,7 +813,7 @@ case:
 cash:
   n: A2
 cast:
-  ? [n,v]: B2
+  [n,v]: B2
 castle:
   n: A2
 cat:
@@ -836,7 +824,7 @@ catch:
 category:
   n: B1
 cause:
-  ? [n,v]: A2
+  [n,v]: A2
 CD:
   n: A1
 ceiling:
@@ -880,7 +868,7 @@ champion:
 chance:
   n: A2
 change:
-  ? [v,n]: A1
+  [v,n]: A1
 channel:
   n: B1
 chapter:
@@ -888,21 +876,21 @@ chapter:
 character:
   n: A2
 characteristic:
-  ? [n,adj]: B2
+  [n,adj]: B2
 charge:
-  ? [n,v]: B1
+  [n,v]: B1
 charity:
   n: A2
 chart:
   n: A1
   v: B2
 chat:
-  ? [v,n]: A2
+  [v,n]: A2
 cheap:
   adj: A1
   adv: B1
 cheat:
-  ? [v,n]: B1
+  [v,n]: B1
 check:
   v: A1
   n: A2
@@ -913,7 +901,7 @@ cheese:
 chef:
   n: A2
 chemical:
-  ? [adj,n]: B1
+  [adj,n]: B1
 chemistry:
   n: A2
 chest:
@@ -921,7 +909,7 @@ chest:
 chicken:
   n: A1
 chief:
-  ? [adj,n]: B2
+  [adj,n]: B2
 child:
   n: A1
 childhood:
@@ -941,7 +929,7 @@ cigarette:
 cinema:
   n: A1
 circle:
-  ? [n,v]: A2
+  [n,v]: A2
 circumstance:
   n: B2
 cite:
@@ -953,11 +941,11 @@ city:
 civil:
   adj: B2
 claim:
-  ? [v,n]: B1
+  [v,n]: B1
 class:
   n: A1
 classic:
-  ? [adj,n]: B2
+  [adj,n]: B2
 classical:
   adj: A2
 classroom:
@@ -965,7 +953,7 @@ classroom:
 clause:
   n: B1
 clean:
-  ? [adj,v]: A1
+  [adj,v]: A1
 clear:
   adj: A2
   v: B1
@@ -974,7 +962,7 @@ clearly:
 clever:
   adj: A2
 click:
-  ? [v,n]: B1
+  [v,n]: B1
 client:
   n: B1
 climate:
@@ -1022,9 +1010,9 @@ coffee:
 coin:
   n: B1
 cold:
-  ? [adj,n]: A1
+  [adj,n]: A1
 collapse:
-  ? [v,n]: B2
+  [v,n]: B2
 colleague:
   n: A2
 collect:
@@ -1048,18 +1036,18 @@ come:
 comedy:
   n: A2
 comfort:
-  ? [n,v]: B2
+  [n,v]: B2
 comfortable:
   adj: A2
 command:
-  ? [n,v]: B2
+  [n,v]: B2
 comment:
   n: A2
   v: B1
 commercial:
-  ? [adj,n]: B1
+  [adj,n]: B1
 commission:
-  ? [n,v]: B2
+  [n,v]: B2
 commit:
   v: B1
 commitment:
@@ -1067,7 +1055,7 @@ commitment:
 committee:
   n: B2
 common:
-  ? [adj,n]: A1
+  [adj,n]: A1
 commonly:
   adv: B2
 communicate:
@@ -1095,7 +1083,7 @@ complain:
 complaint:
   n: B1
 complete:
-  ? [adj,v]: A1
+  [adj,v]: A1
 completely:
   adv: A2
 complex:
@@ -1114,7 +1102,7 @@ concentration:
 concept:
   n: B2
 concern:
-  ? [n,v]: B2
+  [n,v]: B2
 concerned:
   adj: B2
 concert:
@@ -1126,7 +1114,7 @@ conclusion:
 condition:
   n: A2
 conduct:
-  ? [v,n]: B2
+  [v,n]: B2
 conference:
   n: A2
 confidence:
@@ -1136,7 +1124,7 @@ confident:
 confirm:
   v: B1
 conflict:
-  ? [n,v]: B2
+  [n,v]: B2
 confuse:
   v: B1
 confused:
@@ -1154,7 +1142,7 @@ conscious:
 consequence:
   n: B1
 conservative:
-  ? [adj,n]: B2
+  [adj,n]: B2
 consider:
   v: A2
 consideration:
@@ -1176,7 +1164,7 @@ consume:
 consumer:
   n: B1
 contact:
-  ? [n,v]: B1
+  [n,v]: B1
 contain:
   v: A2
 container:
@@ -1186,7 +1174,7 @@ contemporary:
 content1:
   n: B1
 contest:
-  ? [n,v]: B2
+  [n,v]: B2
 context:
   n: A2
 continent:
@@ -1196,15 +1184,15 @@ continue:
 continuous:
   adj: B1
 contract:
-  ? [n,v]: B2
+  [n,v]: B2
 contrast:
-  ? [n,v]: B1
+  [n,v]: B1
 contribute:
   v: B2
 contribution:
   n: B2
 control:
-  ? [n,v]: A2
+  [n,v]: A2
 convenient:
   adj: B1
 conversation:
@@ -1226,19 +1214,19 @@ cool:
   adj: A1
   v: B1
 copy:
-  ? [n,v]: A2
+  [n,v]: A2
 core:
-  ? [n,adj]: B2
+  [n,adj]: B2
 corner:
   n: A2
 corporate:
   adj: B2
 correct:
-  ? [adj,v]: A1
+  [adj,v]: A1
 correctly:
   adv: A2
 cost:
-  ? [n,v]: A1
+  [n,v]: A1
 costume:
   n: B1
 cottage:
@@ -1276,7 +1264,7 @@ covered:
 cow:
   n: A1
 crash:
-  ? [n,v]: B2
+  [n,v]: B2
 crazy:
   adj: A2
 cream:
@@ -1315,7 +1303,7 @@ criticize:
 crop:
   n: B2
 cross:
-  ? [v,n]: A2
+  [v,n]: A2
 crowd:
   n: A2
 crowded:
@@ -1336,7 +1324,7 @@ cup:
 cupboard:
   n: A2
 cure:
-  ? [v,n]: B2
+  [v,n]: B2
 curly:
   adj: A2
 currency:
@@ -1349,7 +1337,7 @@ currently:
 curtain:
   n: B1
 curve:
-  ? [n,v]: B2
+  [n,v]: B2
 curved:
   adj: B2
 custom:
@@ -1360,16 +1348,16 @@ cut:
   v: A1
   n: B1
 cycle:
-  ? [n,v]: A2
+  [n,v]: A2
 dad:
   n: A1
 daily:
   adj: A2
   adv: B1
 damage:
-  ? [n,v]: B1
+  [n,v]: B1
 dance:
-  ? [n,v]: A1
+  [n,v]: A1
 dancer:
   n: A1
 dancing:
@@ -1401,7 +1389,7 @@ dear:
 death:
   n: A2
 debate:
-  ? [n,v]: B2
+  [n,v]: B2
 debt:
   n: B2
 decade:
@@ -1417,20 +1405,20 @@ decision:
 declare:
   v: B2
 decline:
-  ? [v,n]: B2
+  [v,n]: B2
 decorate:
   v: B1
 decoration:
   n: B2
 decrease:
-  ? [v,n]: B2
+  [v,n]: B2
 deep:
   adj: A2
   adv: B1
 deeply:
   adv: B2
 defeat:
-  ? [v,n]: B2
+  [v,n]: B2
 defence:
   n: B2
 defend:
@@ -1446,7 +1434,7 @@ definition:
 degree:
   n: A2
 delay:
-  ? [v,n]: B2
+  [v,n]: B2
 deliberate:
   adj: B2
 deliberately:
@@ -1454,7 +1442,7 @@ deliberately:
 delicious:
   adj: A1
 delight:
-  ? [v,n]: B2
+  [v,n]: B2
 delighted:
   adj: B2
 deliver:
@@ -1462,7 +1450,7 @@ deliver:
 delivery:
   n: B2
 demand:
-  ? [n,v]: B2
+  [n,v]: B2
 demonstrate:
   v: B2
 dentist:
@@ -1491,11 +1479,11 @@ desert:
 deserve:
   v: B2
 design:
-  ? [n,v]: A1
+  [n,v]: A1
 designer:
   n: A2
 desire:
-  ? [n,v]: B2
+  [n,v]: B2
 desk:
   n: A1
 desperate:
@@ -1557,7 +1545,7 @@ dinner:
   n: A1
 direct:
   adj: A2
-  ? [v,adv]: B1
+  [v,adv]: B1
 direction:
   n: A2
 directly:
@@ -1602,11 +1590,11 @@ dish:
 dishonest:
   adj: B2
 dislike:
-  ? [v,n]: B1
+  [v,n]: B1
 dismiss:
   v: B2
 display:
-  ? [v,n]: B2
+  [v,n]: B2
 distance:
   n: A2
 distribute:
@@ -1623,7 +1611,7 @@ division:
 divorced:
   adj: A2
 do1:
-  ? [v,av]: A1
+  [v,av]: A1
 doctor:
   n: A1
 document:
@@ -1644,23 +1632,23 @@ donate:
 door:
   n: A1
 double:
-  ? [adj,det,pron,v]: A2
+  [adj,det,pron,v]: A2
   adv: B1
 doubt:
-  ? [n,v]: B1
+  [n,v]: B1
 down:
-  ? [adv,prep]: A1
+  [adv,prep]: A1
 download:
-  ? [v,n]: A2
+  [v,n]: A2
 downstairs:
   adv: A1
   adj: A2
 downwards:
   adv: B2
 dozen:
-  ? [n,det]: B2
+  [n,det]: B2
 draft:
-  ? [n,v]: B2
+  [n,v]: B2
 drag:
   v: B2
 drama:
@@ -1672,13 +1660,13 @@ draw:
 drawing:
   n: A2
 dream:
-  ? [n,v]: A2
+  [n,v]: A2
 dress:
-  ? [n,v]: A1
+  [n,v]: A1
 dressed:
   adj: B1
 drink:
-  ? [n,v]: A1
+  [n,v]: A1
 drive:
   v: A1
   n: A2
@@ -1696,7 +1684,7 @@ drum:
 drunk:
   adj: B1
 dry:
-  ? [adj,v]: A2
+  [adj,v]: A2
 due:
   adj: B1
 during:
@@ -1712,7 +1700,7 @@ each:
 ear:
   n: A1
 early:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 earn:
   v: A2
 earth:
@@ -1722,7 +1710,7 @@ earthquake:
 easily:
   adv: A2
 east:
-  ? [n,adj,adv]: A1
+  [n,adj,adv]: A1
 eastern:
   adj: B1
 easy:
@@ -1768,7 +1756,7 @@ eighteen:
 eighty:
   num: A1
 either:
-  ? [det./pron,adv]: A2
+  [det./pron,adv]: A2
 elderly:
   adj: B2
 elect:
@@ -1794,7 +1782,7 @@ else:
 elsewhere:
   adv: B2
 email:
-  ? [n,v]: A1
+  [n,v]: A1
 embarrassed:
   adj: B1
 embarrassing:
@@ -1825,11 +1813,11 @@ empty:
 enable:
   v: B2
 encounter:
-  ? [v,n]: B2
+  [v,n]: B2
 encourage:
   v: B1
 end:
-  ? [n,v]: A1
+  [n,v]: A1
 ending:
   n: A2
 enemy:
@@ -1853,7 +1841,7 @@ enjoy:
 enormous:
   adj: A2
 enough:
-  ? [det,pron,adv]: A1
+  [det,pron,adv]: A1
 enquiry:
   n: B2
 ensure:
@@ -1883,7 +1871,7 @@ environmental:
 episode:
   n: B1
 equal:
-  ? [adj,v]: B1
+  [adj,v]: B1
   n: B2
 equally:
   adv: B1
@@ -1892,7 +1880,7 @@ equipment:
 error:
   n: A2
 escape:
-  ? [v,n]: B1
+  [v,n]: B1
 especially:
   adv: A2
 essay:
@@ -1904,7 +1892,7 @@ establish:
 estate:
   n: B2
 estimate:
-  ? [v,n]: B2
+  [v,n]: B2
 ethical:
   adj: B2
 euro:
@@ -1937,7 +1925,7 @@ everywhere:
 evidence:
   n: A2
 evil:
-  ? [adj,n]: B2
+  [adj,n]: B2
 exact:
   adj: A2
 exactly:
@@ -1956,7 +1944,7 @@ except:
   prep: A2
   conj: B1
 exchange:
-  ? [n,v]: B1
+  [n,v]: B1
 excited:
   adj: A1
 excitement:
@@ -1964,11 +1952,11 @@ excitement:
 exciting:
   adj: A1
 excuse:
-  ? [n,v]: B2
+  [n,v]: B2
 executive:
-  ? [n,adj]: B2
+  [n,adj]: B2
 exercise:
-  ? [n,v]: A1
+  [n,v]: A1
 exhibition:
   n: B1
 exist:
@@ -1998,7 +1986,7 @@ experiment:
   n: A2
   v: B1
 expert:
-  ? [n,adj]: A2
+  [n,adj]: A2
 explain:
   v: A1
 explanation:
@@ -2012,7 +2000,7 @@ explore:
 explosion:
   n: B1
 export:
-  ? [n,v]: B1
+  [n,v]: B1
 expose:
   v: B2
 express:
@@ -2027,7 +2015,7 @@ external:
   adj: B2
 extra:
   adj: A1
-  ? [n,adv]: B1
+  [n,adv]: B1
 extraordinary:
   adj: B2
 extreme:
@@ -2066,13 +2054,13 @@ false:
 familiar:
   adj: B1
 family:
-  ? [n,adj]: A1
+  [n,adj]: A1
 famous:
   adj: A1
 fan:
   n: A2
 fancy:
-  ? [v,adj]: B1
+  [v,adj]: B1
 fantastic:
   adj: A1
 far:
@@ -2092,7 +2080,7 @@ fashion:
 fashionable:
   adj: B1
 fast:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 fasten:
   v: B1
 fat:
@@ -2106,7 +2094,7 @@ favour:
   n: B1
   v: B2
 favourite:
-  ? [adj,n]: A1
+  [adj,n]: A1
 fear:
   n: A2
   v: B1
@@ -2132,13 +2120,13 @@ feeling:
 fellow:
   adj: B2
 female:
-  ? [adj,n]: A2
+  [adj,n]: A2
 fence:
   n: B1
 festival:
   n: A1
 few:
-  ? [det./adj,pron]: A1
+  [det./adj,pron]: A1
 fiction:
   n: A2
 field:
@@ -2150,7 +2138,7 @@ fifth:
 fifty:
   num: A1
 fight:
-  ? [v,n]: A2
+  [v,n]: A2
 fighting:
   n: B1
 figure:
@@ -2170,7 +2158,7 @@ final:
 finally:
   adv: A2
 finance:
-  ? [n,v]: B2
+  [n,v]: B2
 financial:
   adj: B1
 find:
@@ -2190,7 +2178,7 @@ fire:
 firm:
   n: B2
 first:
-  ? [det./num,adv]: A1
+  [det./num,adv]: A1
   n: A2
 firstly:
   adv: A2
@@ -2200,7 +2188,7 @@ fish:
 fishing:
   n: A2
 fit:
-  ? [v,adj]: A2
+  [v,adj]: A2
 fitness:
   n: B1
 five:
@@ -2215,7 +2203,7 @@ flag:
 flame:
   n: B2
 flash:
-  ? [n,v]: B2
+  [n,v]: B2
 flat:
   n: A1
   adj: A2
@@ -2226,13 +2214,13 @@ flight:
 float:
   v: B2
 flood:
-  ? [n,v]: B1
+  [n,v]: B1
 floor:
   n: A1
 flour:
   n: B1
 flow:
-  ? [v,n]: B1
+  [v,n]: B1
 flower:
   n: A1
 flu:
@@ -2241,16 +2229,16 @@ fly:
   v: A1
   n: A2
 flying:
-  ? [n,adj]: A2
+  [n,adj]: A2
 focus:
-  ? [v,n]: A2
+  [v,n]: A2
 fold:
   v: B1
   n: B2
 folding:
   adj: B2
 folk:
-  ? [n,adj]: B1
+  [n,adj]: B1
 follow:
   v: A1
 following:
@@ -2266,7 +2254,7 @@ football:
 for:
   prep: A1
 force:
-  ? [n,v]: B1
+  [n,v]: B1
 foreign:
   adj: A2
 forest:
@@ -2280,7 +2268,7 @@ forgive:
 fork:
   n: A2
 form:
-  ? [n,v]: A1
+  [n,v]: A1
 formal:
   adj: A2
 former:
@@ -2303,7 +2291,7 @@ fourteen:
 fourth:
   num: A1
 frame:
-  ? [n,v]: B1
+  [n,v]: B1
 free:
   adj: A1
   adv: A2
@@ -2339,7 +2327,7 @@ frog:
 from:
   prep: A1
 front:
-  ? [n,adj]: A1
+  [n,adj]: A1
 frozen:
   adj: B1
 fruit:
@@ -2360,7 +2348,7 @@ function:
   n: B1
   v: B2
 fund:
-  ? [n,v]: B2
+  [n,v]: B2
 fundamental:
   adj: B2
 funding:
@@ -2380,7 +2368,7 @@ future:
   n: A1
   adj: A2
 gain:
-  ? [v,n]: B2
+  [v,n]: B2
 gallery:
   n: A2
 game:
@@ -2422,7 +2410,7 @@ get:
 ghost:
   n: B1
 giant:
-  ? [adj,n]: B1
+  [adj,n]: B1
 gift:
   n: A2
 girl:
@@ -2447,7 +2435,7 @@ goal:
 god:
   n: A2
 gold:
-  ? [n,adj]: A2
+  [n,adj]: A2
 golf:
   n: A2
 good:
@@ -2469,7 +2457,7 @@ grade:
 gradually:
   adv: B2
 graduate:
-  ? [n,v]: B1
+  [n,v]: B1
 grain:
   n: B1
 grand:
@@ -2481,7 +2469,7 @@ grandmother:
 grandparent:
   n: A1
 grant:
-  ? [v,n]: B2
+  [v,n]: B2
 grass:
   n: A2
 grateful:
@@ -2489,11 +2477,11 @@ grateful:
 great:
   adj: A1
 green:
-  ? [adj,n]: A1
+  [adj,n]: A1
 greet:
   v: A2
 grey:
-  ? [adj,n]: A1
+  [adj,n]: A1
 ground:
   n: A2
 group:
@@ -2503,15 +2491,15 @@ grow:
 growth:
   n: B1
 guarantee:
-  ? [v,n]: B2
+  [v,n]: B2
 guard:
-  ? [n,v]: B1
+  [n,v]: B1
 guess:
-  ? [v,n]: A1
+  [v,n]: A1
 guest:
   n: A2
 guide:
-  ? [n,v]: A2
+  [n,v]: A2
 guilty:
   adj: B1
 guitar:
@@ -2527,7 +2515,7 @@ habit:
 hair:
   n: A1
 half:
-  ? [n,det./pron]: A1
+  [n,det./pron]: A1
   adv: A2
 hall:
   n: A2
@@ -2535,7 +2523,7 @@ hand:
   n: A1
   v: B1
 handle:
-  ? [v,n]: B2
+  [v,n]: B2
 hang:
   v: B1
 happen:
@@ -2547,11 +2535,11 @@ happiness:
 happy:
   adj: A1
 hard:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 hardly:
   adv: B1
 harm:
-  ? [n,v]: B2
+  [n,v]: B2
 harmful:
   adj: B2
 hat:
@@ -2584,7 +2572,7 @@ hearing:
 heart:
   n: A2
 heat:
-  ? [n,v]: A2
+  [n,v]: A2
 heating:
   n: B1
 heaven:
@@ -2604,11 +2592,11 @@ hell:
 hello:
   exclam./n: A1
 help:
-  ? [v,n]: A1
+  [v,n]: A1
 helpful:
   adj: A2
 her:
-  ? [pron,det]: A1
+  [pron,det]: A1
 here:
   adv: A1
 hero:
@@ -2630,7 +2618,7 @@ high:
   adv: A2
   n: B2
 highlight:
-  ? [v,n]: B1
+  [v,n]: B1
 highly:
   adv: B1
 hill:
@@ -2652,7 +2640,7 @@ historical:
 history:
   n: A1
 hit:
-  ? [v,n]: A2
+  [v,n]: A2
 hobby:
   n: A1
 hockey:
@@ -2669,14 +2657,14 @@ hollow:
 holy:
   adj: B2
 home:
-  ? [n,adv]: A1
+  [n,adv]: A1
   adj: A2
 homework:
   n: A1
 honest:
   adj: B1
 honour:
-  ? [n,v]: B2
+  [n,v]: B2
 hope:
   v: A1
   n: A2
@@ -2711,7 +2699,7 @@ however:
 huge:
   adj: A2
 human:
-  ? [adj,n]: A2
+  [adj,n]: A2
 humorous:
   adj: B2
 humour:
@@ -2728,9 +2716,9 @@ hunting:
 hurricane:
   n: B1
 hurry:
-  ? [n,v]: B1
+  [n,v]: B1
 hurt:
-  ? [v,adj]: A2
+  [v,adj]: A2
   n: B2
 husband:
   n: A1
@@ -2778,13 +2766,13 @@ immediately:
 immigrant:
   n: B1
 impact:
-  ? [n,v]: B1
+  [n,v]: B1
 impatient:
   adj: B2
 imply:
   v: B2
 import:
-  ? [n,v]: B1
+  [n,v]: B1
 importance:
   n: B1
 important:
@@ -2806,7 +2794,7 @@ improve:
 improvement:
   n: B1
 in:
-  ? [prep,adv]: A1
+  [prep,adv]: A1
 inch:
   n: B2
 incident:
@@ -2820,7 +2808,7 @@ including:
 income:
   n: B2
 increase:
-  ? [v,n]: A2
+  [v,n]: A2
 increasingly:
   adv: B2
 incredible:
@@ -2836,7 +2824,7 @@ indicate:
 indirect:
   adj: B1
 individual:
-  ? [n,adj]: A2
+  [n,adj]: A2
 indoor:
   adj: B1
 indoors:
@@ -2848,7 +2836,7 @@ industry:
 infection:
   n: B2
 influence:
-  ? [n,v]: B1
+  [n,v]: B1
 inform:
   v: B2
 informal:
@@ -2876,7 +2864,7 @@ innocent:
 insect:
   n: A2
 inside:
-  ? [prep,adv,n,adj]: A2
+  [prep,adv,n,adj]: A2
 insight:
   n: B2
 insist:
@@ -2914,7 +2902,7 @@ intense:
 intention:
   n: B1
 interest:
-  ? [n,v]: A1
+  [n,v]: A1
 interested:
   adj: A1
 interesting:
@@ -2930,7 +2918,7 @@ interpret:
 interrupt:
   v: B2
 interview:
-  ? [n,v]: A1
+  [n,v]: A1
 into:
   prep: A1
 introduce:
@@ -2958,7 +2946,7 @@ involve:
 involved:
   adj: B1
 iron:
-  ? [n,v]: B1
+  [n,v]: B1
 island:
   n: A1
 issue:
@@ -2991,7 +2979,7 @@ job:
 join:
   v: A1
 joke:
-  ? [n,v]: A2
+  [n,v]: A2
 journal:
   n: B1
 journalist:
@@ -3001,7 +2989,7 @@ journey:
 joy:
   n: B2
 judge:
-  ? [n,v]: B1
+  [n,v]: B1
 judgement:
   n: B2
 juice:
@@ -3009,7 +2997,7 @@ juice:
 July:
   n: A1
 jump:
-  ? [v,n]: A2
+  [v,n]: A2
 June:
   n: A1
 junior:
@@ -3025,12 +3013,12 @@ keen:
 keep:
   v: A1
 key:
-  ? [n,adj]: A1
+  [n,adj]: A1
   v: B1
 keyboard:
   n: B1
 kick:
-  ? [v,n]: B1
+  [v,n]: B1
 kid:
   n: A2
 kill:
@@ -3046,7 +3034,7 @@ kind:
 king:
   n: A2
 kiss:
-  ? [v,n]: B1
+  [v,n]: B1
 kitchen:
   n: A1
 knee:
@@ -3063,13 +3051,13 @@ knowledge:
 lab:
   n: A2
 label:
-  ? [n,v]: B1
+  [n,v]: B1
 laboratory:
   n: B1
 labour:
   n: B2
 lack:
-  ? [n,v]: B1
+  [n,v]: B1
 lady:
   n: A2
 lake:
@@ -3091,11 +3079,11 @@ largely:
   adv: B2
 last1:
   (final) det: A1
-  ? [adv,n]: A2
+  [adv,n]: A2
 last1:
   (taking time) v: A2
 late:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 later:
   adv: A1
   adj: A2
@@ -3103,11 +3091,11 @@ latest:
   adj: B1
   n: B2
 laugh:
-  ? [v,n]: A1
+  [v,n]: A1
 laughter:
   n: A2
 launch:
-  ? [v,n]: B2
+  [v,n]: B2
 law:
   n: A2
 lawyer:
@@ -3138,16 +3126,16 @@ learn:
 learning:
   n: A2
 least:
-  ? [det./pron,adv]: A2
+  [det./pron,adv]: A2
 leather:
   n: B1
 leave:
   v: A1
   n: B2
 lecture:
-  ? [n,v]: A2
+  [n,v]: A2
 left:
-  ? [adj,adv,n]: A1
+  [adj,adv,n]: A1
 leg:
   n: A1
 legal:
@@ -3161,7 +3149,7 @@ lend:
 length:
   n: B1
 less:
-  ? [det./pron,adv]: A2
+  [det./pron,adv]: A2
 lesson:
   n: A1
 let:
@@ -3179,15 +3167,15 @@ licence:
 lie1:
   v: A1
 lie2:
-  ? [(tell a lie) v,n]: B1
+  [(tell a lie) v,n]: B1
 life:
   n: A1
 lifestyle:
   n: A2
 lift:
-  ? [v,n]: A2
+  [v,n]: A2
 light:
-  ? [(from the sun/a lamp) n,adj]: A1
+  [(from the sun/a lamp) n,adj]: A1
   v: A2
 light:
   (not heavy) adj: A2
@@ -3199,22 +3187,22 @@ like:
 likely:
   adj: A2
 limit:
-  ? [n,v]: B1
+  [n,v]: B1
 limited:
   adj: B2
 line:
   n: A1
   v: B2
 link:
-  ? [n,v]: A2
+  [n,v]: A2
 lion:
   n: A1
 lip:
   n: B1
 liquid:
-  ? [n,adj]: B1
+  [n,adj]: B1
 list:
-  ? [n,v]: A1
+  [n,v]: A1
 listen:
   v: A1
 listener:
@@ -3222,18 +3210,18 @@ listener:
 literature:
   n: B1
 little:
-  ? [adj,det./pron]: A1
+  [adj,det./pron]: A1
   adv: A2
 live1:
   v: A1
 live2:
-  ? [adj,adv]: B1
+  [adj,adv]: B1
 lively:
   adj: B2
 living:
-  ? [adj,n]: B1
+  [adj,n]: B1
 load:
-  ? [n,v]: B2
+  [n,v]: B2
 loan:
   n: B2
 local:
@@ -3246,15 +3234,15 @@ located:
 location:
   n: B1
 lock:
-  ? [v,n]: A2
+  [v,n]: A2
 logical:
   adj: B2
 lonely:
   adj: B1
 long1:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 long-term:
-  ? [adj,adv]: B2
+  [adj,adv]: B2
 look:
   v: A1
   n: A2
@@ -3271,17 +3259,17 @@ loss:
 lost:
   adj: A2
 lot:
-  ? [pron,det,adv]: A1
+  [pron,det,adv]: A1
 loud:
-  ? [adj,adv]: A2
+  [adj,adv]: A2
 loudly:
   adv: A2
 love:
-  ? [n,v]: A1
+  [n,v]: A1
 lovely:
   adj: A2
 low:
-  ? [adj,adv]: A2
+  [adj,adv]: A2
   n: B2
 lower:
   v: B2
@@ -3302,9 +3290,9 @@ mad:
 magazine:
   n: A1
 magic:
-  ? [n,adj]: B1
+  [n,adj]: B1
 mail:
-  ? [n,v]: A2
+  [n,v]: A2
 main:
   adj: A1
 mainly:
@@ -3319,7 +3307,7 @@ make:
   v: A1
   n: B2
 male:
-  ? [adj,n]: A2
+  [adj,n]: A2
 mall:
   n: B1
 man:
@@ -3340,7 +3328,7 @@ map:
 March:
   n: A1
 mark:
-  ? [v,n]: A2
+  [v,n]: A2
 market:
   n: A1
   v: B1
@@ -3353,13 +3341,13 @@ married:
 marry:
   v: A2
 mass:
-  ? [n,adj]: B2
+  [n,adj]: B2
 massive:
   adj: B2
 master:
-  ? [n,v]: B2
+  [n,v]: B2
 match:
-  ? [(contest/correspond) n,v]: A1
+  [(contest/correspond) n,v]: A1
 matching:
   adj: B2
 material:
@@ -3370,9 +3358,9 @@ mathematics:
 maths:
   n: A2
 matter:
-  ? [n,v]: A2
+  [n,v]: A2
 maximum:
-  ? [adj,n]: B2
+  [adj,n]: B2
 May:
   n: A1
 may:
@@ -3392,7 +3380,7 @@ means:
 meanwhile:
   adv: B1
 measure:
-  ? [v,n]: B1
+  [v,n]: B1
 measurement:
   n: B2
 meat:
@@ -3424,7 +3412,7 @@ mention:
 menu:
   n: A1
 mess:
-  ? [n,v]: B1
+  [n,v]: B1
 message:
   n: A1
 metal:
@@ -3434,7 +3422,7 @@ method:
 metre:
   n: A1
 middle:
-  ? [n,adj]: A2
+  [n,adj]: A2
 midnight:
   n: A1
 might:
@@ -3444,13 +3432,13 @@ mild:
 mile:
   n: A1
 military:
-  ? [adj,n]: B2
+  [adj,n]: B2
 milk:
   n: A1
 million:
   num: A1
 mind:
-  ? [n,v]: A2
+  [n,v]: A2
 mine:
   (belongs to me) pron: A2
 mine:
@@ -3458,7 +3446,7 @@ mine:
 mineral:
   n: B2
 minimum:
-  ? [adj,n]: B2
+  [adj,n]: B2
 minister:
   n: B2
 minor:
@@ -3479,13 +3467,13 @@ mistake:
   n: A1
   v: B2
 mix:
-  ? [v,n]: B1
+  [v,n]: B1
 mixed:
   adj: B2
 mixture:
   n: B1
 mobile:
-  ? [adj,n]: A2
+  [adj,n]: A2
 model:
   n: A1
   v: B2
@@ -3500,7 +3488,7 @@ Monday:
 money:
   n: A1
 monitor:
-  ? [n,v]: B2
+  [n,v]: B2
 monkey:
   n: A2
 month:
@@ -3510,19 +3498,19 @@ mood:
 moon:
   n: A2
 moral:
-  ? [adj,n]: B2
+  [adj,n]: B2
 more:
-  ? [det./pron,adv]: A1
+  [det./pron,adv]: A1
 morning:
   n: A1
 most:
-  ? [det./pron,adv]: A1
+  [det./pron,adv]: A1
 mostly:
   adv: A2
 mother:
   n: A1
 motor:
-  ? [n,adj]: B2
+  [n,adj]: B2
 motorcycle:
   n: A2
 mount:
@@ -3541,7 +3529,7 @@ movement:
 movie:
   n: A1
 much:
-  ? [det./pron,adv]: A1
+  [det./pron,adv]: A1
 mud:
   n: B1
 multiple:
@@ -3551,7 +3539,7 @@ multiply:
 mum:
   n: A1
 murder:
-  ? [n,v]: B1
+  [n,v]: B1
 muscle:
   n: B1
 museum:
@@ -3576,9 +3564,9 @@ mystery:
 nail:
   n: B1
 name:
-  ? [n,v]: A1
+  [n,v]: A1
 narrative:
-  ? [n,adj]: B1
+  [n,adj]: B1
 narrow:
   adj: A2
   v: B2
@@ -3588,7 +3576,7 @@ national:
   adj: A2
   n: B2
 native:
-  ? [adj,n]: B1
+  [adj,n]: B1
 natural:
   adj: A1
 naturally:
@@ -3596,7 +3584,7 @@ naturally:
 nature:
   n: A2
 near:
-  ? [prep,adj,adv]: A1
+  [prep,adj,adv]: A1
 nearly:
   adv: A2
 neat:
@@ -3642,7 +3630,7 @@ news:
 newspaper:
   n: A1
 next:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
   n: B1
 next to:
   prep: A1
@@ -3659,7 +3647,7 @@ nineteen:
 ninety:
   num: A1
 no:
-  ? [exclam,det]: A1
+  [exclam,det]: A1
 no one:
   pron: A1
 nobody:
@@ -3678,7 +3666,7 @@ normal:
 normally:
   adv: A2
 north:
-  ? [n,adj,adv]: A1
+  [n,adj,adv]: A1
 northern:
   adj: B1
 nose:
@@ -3691,7 +3679,7 @@ note:
 nothing:
   pron: A1
 notice:
-  ? [v,n]: A2
+  [v,n]: A2
 notion:
   n: B2
 novel:
@@ -3720,7 +3708,7 @@ object:
   n: A1
   v: B2
 objective:
-  ? [n,adj]: B2
+  [n,adj]: B2
 obligation:
   n: B2
 observation:
@@ -3750,7 +3738,7 @@ odd:
 of:
   prep: A1
 off:
-  ? [adv,prep]: A1
+  [adv,prep]: A1
 offence:
   n: B2
 offend:
@@ -3758,7 +3746,7 @@ offend:
 offensive:
   adj: B2
 offer:
-  ? [v,n]: A2
+  [v,n]: A2
 office:
   n: A1
 officer:
@@ -3773,28 +3761,28 @@ oh:
 oil:
   n: A2
 OK:
-  ? [exclam,adj./adv]: A1
+  [exclam,adj./adv]: A1
 old:
   adj: A1
 old-fashioned:
   adj: B1
 on:
-  ? [prep,adv]: A1
+  [prep,adv]: A1
 once:
   adv: A1
   conj: B1
 one:
-  ? [num./det,pron]: A1
+  [num./det,pron]: A1
 onion:
   n: A1
 online:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 only:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 onto:
   prep: A2
 open:
-  ? [adj,v]: A1
+  [adj,v]: A1
 opening:
   n: B2
 operate:
@@ -3812,7 +3800,7 @@ oppose:
 opposed:
   adj: B2
 opposite:
-  ? [adj,adv,prep,n]: A1
+  [adj,adv,prep,n]: A1
 opposition:
   n: B2
 option:
@@ -3820,9 +3808,9 @@ option:
 or:
   conj: A1
 orange:
-  ? [n,adj]: A1
+  [n,adj]: A1
 order:
-  ? [n,v]: A1
+  [n,v]: A1
 ordinary:
   adj: A2
 organ:
@@ -3865,16 +3853,16 @@ outdoors:
 outer:
   adj: B2
 outline:
-  ? [n,v]: B2
+  [n,v]: B2
 outside:
   adv: A1
-  ? [prep,noun,adj]: A2
+  [prep,noun,adj]: A2
 oven:
   n: A2
 over:
-  ? [prep,adv]: A1
+  [prep,adv]: A1
 overall:
-  ? [adj,adv]: B2
+  [adj,adv]: B2
 owe:
   v: B2
 own:
@@ -3883,7 +3871,7 @@ own:
 owner:
   n: A2
 pace:
-  ? [n,v]: B2
+  [n,v]: B2
 pack:
   v: A2
   n: B1
@@ -3897,7 +3885,7 @@ pain:
 painful:
   adj: B1
 paint:
-  ? [v,n]: A1
+  [v,n]: A1
 painter:
   n: A2
 painting:
@@ -3921,7 +3909,7 @@ paragraph:
 parent:
   n: A1
 park:
-  ? [n,v]: A1
+  [n,v]: A1
 parking:
   n: A2
 parliament:
@@ -3954,7 +3942,7 @@ passion:
 passport:
   n: A1
 past:
-  ? [adj,n,prep]: A1
+  [adj,n,prep]: A1
   adv: A2
 path:
   n: B1
@@ -3987,7 +3975,7 @@ pepper:
 per:
   prep: A2
 per cent:
-  ? [n,adj./adv]: A2
+  [n,adj./adv]: A2
 percentage:
   n: B1
 perfect:
@@ -4007,7 +3995,7 @@ permanent:
 permission:
   n: A2
 permit:
-  ? [v,n]: B2
+  [v,n]: B2
 person:
   n: A1
 personal:
@@ -4031,7 +4019,7 @@ phenomenon:
 philosophy:
   n: B2
 phone:
-  ? [n,v]: A1
+  [n,v]: A1
 photo:
   n: A1
 photograph:
@@ -4060,13 +4048,13 @@ piece:
 pig:
   n: A1
 pile:
-  ? [n,v]: B2
+  [n,v]: B2
 pilot:
   n: A2
 pin:
-  ? [n,v]: B1
+  [n,v]: B1
 pink:
-  ? [adj,n]: A1
+  [adj,n]: A1
 pipe:
   n: B1
 pitch:
@@ -4077,7 +4065,7 @@ place:
 plain:
   adj: B2
 plan:
-  ? [n,v]: A1
+  [n,v]: A1
 plane:
   n: A1
 planet:
@@ -4088,13 +4076,13 @@ plant:
   n: A1
   v: A2
 plastic:
-  ? [n,adj]: A2
+  [n,adj]: A2
 plate:
   n: A2
 platform:
   n: A2
 play:
-  ? [v,n]: A1
+  [v,n]: A1
 player:
   n: A1
 pleasant:
@@ -4113,7 +4101,7 @@ plot:
   v: B2
 plus1:
   prep: B1
-  ? [ adj,conj,n]: B2
+  [ adj,conj,n]: B2
 pocket:
   n: A2
 poem:
@@ -4128,7 +4116,7 @@ point:
 pointed:
   adj: B2
 poison:
-  ? [n,v]: B1
+  [n,v]: B1
 poisonous:
   adj: B1
 police:
@@ -4152,7 +4140,7 @@ pool:
 poor:
   adj: A1
 pop:
-  ? [n,adj]: A2
+  [n,adj]: A2
 popular:
   adj: A1
 popularity:
@@ -4182,7 +4170,7 @@ possible:
 possibly:
   adv: B1
 post:
-  ? [n,v]: A1
+  [n,v]: A1
 poster:
   n: A2
 pot:
@@ -4190,7 +4178,7 @@ pot:
 potato:
   n: A1
 potential:
-  ? [adj,n]: B2
+  [adj,n]: B2
 pound:
   n: A1
 pour:
@@ -4211,7 +4199,7 @@ practice:
 practise:
   v: A1
 praise:
-  ? [n,v]: B2
+  [n,v]: B2
 pray:
   v: B1
 prayer:
@@ -4233,7 +4221,7 @@ prepared:
 presence:
   n: B2
 present:
-  ? [adj,n]: A1
+  [adj,n]: A1
   v: A2
 presentation:
   n: B1
@@ -4242,13 +4230,13 @@ preserve:
 president:
   n: A2
 press:
-  ? [v,n]: B1
+  [v,n]: B1
 pressure:
   n: B1
 pretend:
   v: B1
 pretty:
-  ? [adj,adv]: A1
+  [adj,adv]: A1
 prevent:
   v: A2
 previous:
@@ -4330,7 +4318,7 @@ project:
   n: A1
   v: B2
 promise:
-  ? [v,n]: A2
+  [v,n]: A2
 promote:
   v: B1
 pronounce:
@@ -4354,7 +4342,7 @@ protect:
 protection:
   n: B2
 protest:
-  ? [n,v]: B1
+  [n,v]: B1
 proud:
   adj: B1
 prove:
@@ -4368,7 +4356,7 @@ psychology:
 pub:
   n: A2
 public:
-  ? [adj,n]: A2
+  [adj,n]: A2
 publication:
   n: B2
 publish:
@@ -4383,11 +4371,11 @@ punishment:
 pupil:
   n: B2
 purchase:
-  ? [n,v]: B2
+  [n,v]: B2
 pure:
   adj: B2
 purple:
-  ? [adj,n]: A1
+  [adj,n]: A1
 purpose:
   n: A2
 pursue:
@@ -4415,7 +4403,7 @@ question:
   n: A1
   v: A2
 queue:
-  ? [n,v]: B1
+  [n,v]: B1
 quick:
   adj: A1
 quickly:
@@ -4431,9 +4419,9 @@ quite:
 quotation:
   n: B1
 quote:
-  ? [v,n]: B1
+  [v,n]: B1
 race:
-  ? [(competition) n,v]: A2
+  [(competition) n,v]: A2
 race:
   (people) n: B1
 racing:
@@ -4443,14 +4431,14 @@ radio:
 railway:
   n: A2
 rain:
-  ? [n,v]: A1
+  [n,v]: A1
 raise:
   v: A2
 range:
   n: B1
   v: B2
 rank:
-  ? [n,v]: B2
+  [n,v]: B2
 rapid:
   adj: B2
 rapidly:
@@ -4516,7 +4504,7 @@ recommend:
 recommendation:
   n: B1
 record:
-  ? [n,v]: A2
+  [n,v]: A2
 recording:
   n: A2
 recover:
@@ -4524,7 +4512,7 @@ recover:
 recycle:
   v: A2
 red:
-  ? [adj,n]: A1
+  [adj,n]: A1
 reduce:
   v: A2
 reduction:
@@ -4538,15 +4526,15 @@ reflect:
 refuse1:
   v: A2
 regard:
-  ? [v,n]: B2
+  [v,n]: B2
 region:
   n: A2
 regional:
   adj: B2
 register:
-  ? [v,n]: B2
+  [v,n]: B2
 regret:
-  ? [v,n]: B2
+  [v,n]: B2
 regular:
   adj: A2
 regularly:
@@ -4564,7 +4552,7 @@ relation:
 relationship:
   n: A2
 relative:
-  ? [adj,n]: B1
+  [adj,n]: B1
 relatively:
   adv: B2
 relax:
@@ -4574,7 +4562,7 @@ relaxed:
 relaxing:
   adj: B1
 release:
-  ? [v,n]: B1
+  [v,n]: B1
 relevant:
   adj: B2
 reliable:
@@ -4590,7 +4578,7 @@ rely:
 remain:
   v: B1
 remark:
-  ? [n,v]: B2
+  [n,v]: B2
 remember:
   v: A1
 remind:
@@ -4600,7 +4588,7 @@ remote:
 remove:
   v: A2
 rent:
-  ? [n,v]: B1
+  [n,v]: B1
 repair:
   v: A2
   n: B1
@@ -4612,7 +4600,7 @@ repeated:
 replace:
   v: A2
 reply:
-  ? [v,n]: A2
+  [v,n]: A2
 report:
   n: A1
   v: A2
@@ -4621,7 +4609,7 @@ reporter:
 represent:
   v: B1
 representative:
-  ? [n,adj]: B2
+  [n,adj]: B2
 reputation:
   n: B2
 request:
@@ -4632,17 +4620,17 @@ require:
 requirement:
   n: B2
 rescue:
-  ? [v,n]: B2
+  [v,n]: B2
 research:
-  ? [n,v]: A2
+  [n,v]: A2
 researcher:
   n: A2
 reservation:
   n: B1
 reserve:
-  ? [n,v]: B2
+  [n,v]: B2
 resident:
-  ? [n,adj]: B2
+  [n,adj]: B2
 resist:
   v: B2
 resolve:
@@ -4652,7 +4640,7 @@ resort:
 resource:
   n: B1
 respect:
-  ? [n,v]: B1
+  [n,v]: B1
 respond:
   v: A2
 response:
@@ -4664,7 +4652,7 @@ responsible:
 rest:
   (remaining part) n: A2
 rest:
-  ? [(sleep/relax) n,v]: A2
+  [(sleep/relax) n,v]: A2
 restaurant:
   n: A1
 result:
@@ -4677,17 +4665,17 @@ retire:
 retired:
   adj: B1
 return:
-  ? [v,n]: A1
+  [v,n]: A1
 reveal:
   v: B2
 review:
-  ? [n,v]: A2
+  [n,v]: A2
 revise:
   v: B1
 revolution:
   n: B2
 reward:
-  ? [n,v]: B2
+  [n,v]: B2
 rhythm:
   n: B2
 rice:
@@ -4700,7 +4688,7 @@ ride:
   v: A1
   n: A2
 right:
-  ? [adj,adv,n]: A1
+  [adj,adv,n]: A1
 ring1:
   n: A2
 ring2:
@@ -4710,7 +4698,7 @@ rise:
   v: A2
   n: B1
 risk:
-  ? [n,v]: B1
+  [n,v]: B1
 river:
   n: A1
 road:
@@ -4724,7 +4712,7 @@ rock:
 role:
   n: A2
 roll:
-  ? [v,n]: B1
+  [v,n]: B1
 romantic:
   adj: B1
 roof:
@@ -4738,7 +4726,7 @@ rope:
 rough:
   adj: B1
 round:
-  ? [adj,adv,prep]: A2
+  [adj,adv,prep]: A2
   n: B2
 route:
   n: A2
@@ -4752,7 +4740,7 @@ royal:
 rub:
   v: B2
 rubber:
-  ? [n,adj]: B2
+  [n,adj]: B2
 rubbish:
   n: A2
 rude:
@@ -4772,7 +4760,7 @@ running:
 rural:
   adj: B2
 rush:
-  ? [v,n]: B2
+  [v,n]: B2
 sad:
   adj: A1
 sadly:
@@ -4797,7 +4785,7 @@ sale:
 salt:
   n: A1
 same:
-  ? [adj,pron,adv]: A1
+  [adj,pron,adv]: A1
 sample:
   n: B1
   v: B2
@@ -4845,9 +4833,9 @@ scientific:
 scientist:
   n: A1
 score:
-  ? [v,n]: A2
+  [v,n]: A2
 scream:
-  ? [v,n]: B2
+  [v,n]: B2
 screen:
   n: A2
   v: B2
@@ -4858,7 +4846,7 @@ sculpture:
 sea:
   n: A1
 search:
-  ? [n,v]: A2
+  [n,v]: A2
 season:
   n: A2
 seat:
@@ -4874,7 +4862,7 @@ secondary:
 secondly:
   adv: A2
 secret:
-  ? [adj,n]: A2
+  [adj,n]: A2
 secretary:
   n: A2
 section:
@@ -4882,7 +4870,7 @@ section:
 sector:
   n: B2
 secure:
-  ? [v,adj]: B2
+  [v,adj]: B2
 security:
   n: B1
 see:
@@ -4990,7 +4978,7 @@ shelf:
 shell:
   n: B1
 shelter:
-  ? [n,v]: B2
+  [n,v]: B2
 shift:
   n: B1
   v: B2
@@ -5004,7 +4992,7 @@ ship:
 shirt:
   n: A1
 shock:
-  ? [n,v]: B2
+  [n,v]: B2
 shocked:
   adj: B2
 shoe:
@@ -5014,7 +5002,7 @@ shoot:
 shooting:
   n: B2
 shop:
-  ? [n,v]: A1
+  [n,v]: A1
 shopping:
   n: A1
 short:
@@ -5026,13 +5014,13 @@ should:
 shoulder:
   n: A2
 shout:
-  ? [v,n]: A2
+  [v,n]: A2
 show:
-  ? [v,n]: A1
+  [v,n]: A1
 shower:
   n: A1
 shut:
-  ? [v,adj]: A2
+  [v,adj]: A2
 shy:
   adj: B1
 sick:
@@ -5042,9 +5030,9 @@ side:
 sight:
   n: B1
 sign:
-  ? [n,v]: A2
+  [n,v]: A2
 signal:
-  ? [n,v]: B1
+  [n,v]: B1
 significant:
   adj: B2
 significantly:
@@ -5058,7 +5046,7 @@ silk:
 silly:
   adj: B1
 silver:
-  ? [n,adj]: A2
+  [n,adj]: A2
 similar:
   adj: A1
 similarity:
@@ -5070,7 +5058,7 @@ simple:
 simply:
   adv: B1
 since:
-  ? [prep,conj]: A2
+  [prep,conj]: A2
   adv: B1
 sincere:
   adj: B2
@@ -5081,7 +5069,7 @@ singer:
 singing:
   n: A2
 single:
-  ? [adj,n]: A2
+  [adj,n]: A2
 sink:
   v: B1
 sir:
@@ -5103,7 +5091,7 @@ sixty:
 size:
   n: A2
 ski:
-  ? [v,n]: A2
+  [v,n]: A2
 skiing:
   n: A2
 skill:
@@ -5120,9 +5108,9 @@ sleep:
   v: A1
   n: A2
 slice:
-  ? [n,v]: B1
+  [n,v]: B1
 slide:
-  ? [v,n]: B2
+  [v,n]: B2
 slight:
   adj: B2
 slightly:
@@ -5130,7 +5118,7 @@ slightly:
 slip:
   v: B2
 slope:
-  ? [n,v]: B2
+  [n,v]: B2
 slow:
   adj: A1
   v: B1
@@ -5143,11 +5131,11 @@ smart:
 smartphone:
   n: A2
 smell:
-  ? [v,n]: A2
+  [v,n]: A2
 smile:
-  ? [v,n]: A2
+  [v,n]: A2
 smoke:
-  ? [n,v]: A2
+  [n,v]: A2
 smoking:
   n: A2
 smooth:
@@ -5155,9 +5143,9 @@ smooth:
 snake:
   n: A1
 snow:
-  ? [n,v]: A1
+  [n,v]: A1
 so:
-  ? [adv,conj]: A1
+  [adv,conj]: A1
 soap:
   n: A2
 soccer:
@@ -5179,13 +5167,13 @@ solar:
 soldier:
   n: A2
 solid:
-  ? [adj,n]: B1
+  [adj,n]: B1
 solution:
   n: A2
 solve:
   v: A2
 some:
-  ? [det,pron]: A1
+  [det,pron]: A1
 somebody:
   pron: A1
 someone:
@@ -5197,7 +5185,7 @@ sometimes:
 somewhat:
   adv: B2
 somewhere:
-  ? [adv,pron]: A2
+  [adv,pron]: A2
 son:
   n: A1
 song:
@@ -5205,20 +5193,20 @@ song:
 soon:
   adv: A1
 sorry:
-  ? [adj,exclam]: A1
+  [adj,exclam]: A1
 sort:
   n: A2
   v: B1
 soul:
   n: B2
 sound:
-  ? [n,v]: A1
+  [n,v]: A1
 soup:
   n: A1
 source:
   n: A2
 south:
-  ? [n,adj,adv]: A1
+  [n,adj,adv]: A1
 southern:
   adj: B1
 space:
@@ -5230,7 +5218,7 @@ speaker:
 special:
   adj: A1
 specialist:
-  ? [n,adj]: B2
+  [n,adj]: B2
 species:
   n: B2
 specific:
@@ -5259,11 +5247,11 @@ spirit:
 spiritual:
   adj: B2
 split:
-  ? [v,n]: B2
+  [v,n]: B2
 spoken:
   adj: B1
 sponsor:
-  ? [v,n]: B2
+  [v,n]: B2
 spoon:
   n: A2
 sport:
@@ -5278,7 +5266,7 @@ spring:
   n: A1
   v: B1
 square:
-  ? [adj,n]: A2
+  [adj,n]: A2
 stable:
   adj: B2
 stadium:
@@ -5296,7 +5284,7 @@ stand:
   v: A1
   n: B2
 standard:
-  ? [n,adj]: B1
+  [n,adj]: B1
 star:
   n: A1
   v: A2
@@ -5307,7 +5295,7 @@ start:
   n: A2
 state:
   n: A2
-  ? [adj,v]: B1
+  [adj,v]: B1
 statement:
   n: A1
 station:
@@ -5350,7 +5338,7 @@ stomach:
 stone:
   n: A2
 stop:
-  ? [v,n]: A1
+  [v,n]: A1
 store:
   n: A2
   v: B1
@@ -5359,7 +5347,7 @@ storm:
 story:
   n: A1
 straight:
-  ? [adv,adj]: A2
+  [adv,adj]: A2
 strange:
   adj: A2
 stranger:
@@ -5373,13 +5361,13 @@ street:
 strength:
   n: B1
 stress:
-  ? [n,v]: A2
+  [n,v]: A2
 stretch:
-  ? [v,n]: B2
+  [v,n]: B2
 strict:
   adj: B2
 strike:
-  ? [v,n]: B2
+  [v,n]: B2
 string:
   n: B1
 strong:
@@ -5390,13 +5378,13 @@ structure:
   n: A2
   v: B2
 struggle:
-  ? [v,n]: B2
+  [v,n]: B2
 student:
   n: A1
 studio:
   n: B1
 study:
-  ? [n,v]: A1
+  [n,v]: A1
 stuff:
   n: B1
   v: B2
@@ -5439,7 +5427,7 @@ suit:
 suitable:
   adj: B1
 sum:
-  ? [n,v]: B2
+  [n,v]: B2
 summarize:
   v: B1
 summary:
@@ -5453,9 +5441,9 @@ Sunday:
 supermarket:
   n: A1
 supply:
-  ? [n,v]: B1
+  [n,v]: B1
 support:
-  ? [v,n]: A2
+  [v,n]: A2
 supporter:
   n: B1
 suppose:
@@ -5470,7 +5458,7 @@ surface:
 surgery:
   n: B2
 surprise:
-  ? [n,v]: A2
+  [n,v]: A2
 surprised:
   adj: A2
 surprising:
@@ -5485,7 +5473,7 @@ survey:
 survive:
   v: B1
 suspect:
-  ? [v,n]: B2
+  [v,n]: B2
 swear:
   v: B2
 sweater:
@@ -5493,7 +5481,7 @@ sweater:
 sweep:
   v: B2
 sweet:
-  ? [adj,n]: A2
+  [adj,n]: A2
 swim:
   v: A1
   n: B1
@@ -5539,9 +5527,9 @@ target:
 task:
   n: A2
 taste:
-  ? [n,v]: A2
+  [n,v]: A2
 tax:
-  ? [n,v]: B1
+  [n,v]: B1
 taxi:
   n: A1
 tea:
@@ -5555,7 +5543,7 @@ teaching:
 team:
   n: A1
 tear1:
-  ? [v,n]: B2
+  [v,n]: B2
 tear2:
   n: B2
 technical:
@@ -5569,7 +5557,7 @@ teenage:
 teenager:
   n: A1
 telephone:
-  ? [n,v]: A1
+  [n,v]: A1
 television:
   n: A1
 tell:
@@ -5592,7 +5580,7 @@ term:
 terrible:
   adj: A1
 test:
-  ? [n,v]: A1
+  [n,v]: A1
 text:
   n: A1
   v: A2
@@ -5601,9 +5589,9 @@ than:
 thank:
   v: A1
 thanks:
-  ? [exclam,n]: A1
+  [exclam,n]: A1
 that:
-  ? [det,pron,conj]: A1
+  [det,pron,conj]: A1
   adv: B1
 the:
   det: A1
@@ -5656,7 +5644,7 @@ this:
   det./pron: A1
   adv: B1
 though:
-  ? [conj,adv]: B1
+  [conj,adv]: B1
 thought:
   n: A2
 thousand:
@@ -5670,7 +5658,7 @@ three:
 throat:
   n: B1
 through:
-  ? [prep,adv]: A1
+  [prep,adv]: A1
 throughout:
   prep./adv: B1
 throw:
@@ -5682,9 +5670,9 @@ thus:
 ticket:
   n: A1
 tidy:
-  ? [adj,v]: A2
+  [adj,v]: A2
 tie:
-  ? [v,n]: A2
+  [v,n]: A2
 tight:
   adj: B1
 till:
@@ -5705,9 +5693,9 @@ title:
   n: A1
   v: B2
 to:
-  ? [prep,infinitive marker A1
+  [prep,infinitive marker A1
 today:
-  ? [adv,n]: A1
+  [adv,n]: A1
 toe:
   n: B1
 together:
@@ -5717,13 +5705,13 @@ toilet:
 tomato:
   n: A1
 tomorrow:
-  ? [adv,n]: A1
+  [adv,n]: A1
 tone:
   n: B2
 tongue:
   n: B1
 tonight:
-  ? [adv,n]: A1
+  [adv,n]: A1
 too:
   adv: A1
 tool:
@@ -5731,11 +5719,11 @@ tool:
 tooth:
   n: A1
 top:
-  ? [n,adj]: A2
+  [n,adj]: A2
 topic:
   n: A1
 total:
-  ? [adj,n]: B1
+  [adj,n]: B1
 totally:
   adv: B1
 touch:
@@ -5759,12 +5747,12 @@ tower:
 town:
   n: A1
 toy:
-  ? [n,adj]: A2
+  [n,adj]: A2
 track:
   n: A2
   v: B2
 trade:
-  ? [n,v]: B1
+  [n,v]: B1
 tradition:
   n: A2
 traditional:
@@ -5779,7 +5767,7 @@ trainer:
 training:
   n: A2
 transfer:
-  ? [v,n]: B2
+  [v,n]: B2
 transform:
   v: B2
 transition:
@@ -5792,7 +5780,7 @@ transport:
   n: A2
   v: B1
 travel:
-  ? [v,n]: A1
+  [v,n]: A1
 traveller:
   n: A2
 treat:
@@ -5806,7 +5794,7 @@ trend:
 trial:
   n: B2
 trick:
-  ? [n,v]: B1
+  [n,v]: B1
 trip:
   n: A1
   v: B2
@@ -5824,7 +5812,7 @@ true:
 truly:
   adv: B2
 trust:
-  ? [n,v]: B2
+  [n,v]: B2
 truth:
   n: B1
 try:
@@ -5841,7 +5829,7 @@ tune:
 tunnel:
   n: B2
 turn:
-  ? [v,n]: A1
+  [v,n]: A1
 TV:
   n: A1
 twelve:
@@ -5851,7 +5839,7 @@ twenty:
 twice:
   adv: A1
 twin:
-  ? [n,adj]: A2
+  [n,adj]: A2
 two:
   num: A1
 type:
@@ -5878,9 +5866,9 @@ uncomfortable:
 unconscious:
   adj: B2
 under:
-  ? [prep,adv]: A1
+  [prep,adv]: A1
 underground:
-  ? [adj,adv]: A2
+  [adj,adv]: A2
 understand:
   v: A1
 understanding:
@@ -5930,15 +5918,15 @@ until:
 unusual:
   adj: A2
 up:
-  ? [adv,prep]: A1
+  [adv,prep]: A1
 update:
-  ? [v,n]: B1
+  [v,n]: B1
 upon:
   prep: B1
 upper:
   adj: B2
 upset:
-  ? [adj,v]: B1
+  [adj,v]: B1
 upstairs:
   adv: A1
   adj: A2
@@ -6023,7 +6011,7 @@ virus:
 vision:
   n: B2
 visit:
-  ? [v,n]: A1
+  [v,n]: A1
 visitor:
   n: A1
 visual:
@@ -6037,9 +6025,9 @@ voice:
 volume:
   n: B2
 volunteer:
-  ? [n,v]: B1
+  [n,v]: B1
 vote:
-  ? [n,v]: B1
+  [n,v]: B1
 wage:
   n: B2
 wait:
@@ -6050,7 +6038,7 @@ waiter:
 wake:
   v: A1
 walk:
-  ? [v,n]: A1
+  [v,n]: A1
 wall:
   n: A1
 want:
@@ -6070,9 +6058,9 @@ wash:
 washing:
   n: A2
 waste:
-  ? [n,v,adj]: B1
+  [n,v,adj]: B1
 watch:
-  ? [v,n]: A1
+  [v,n]: A1
 water:
   n: A1
   v: B1
@@ -6115,12 +6103,12 @@ weigh:
 weight:
   n: A2
 welcome:
-  ? [exclam,v,adj]: A1
+  [exclam,v,adj]: A1
   n: A2
 well:
-  ? [adv,adj,exclam]: A1
+  [adv,adj,exclam]: A1
 west:
-  ? [n,adj,adv]: A1
+  [n,adj,adv]: A1
 western:
   adj: B1
 wet:
@@ -6132,11 +6120,11 @@ whatever:
 wheel:
   n: A2
 when:
-  ? [adv,pron,conj]: A1
+  [adv,pron,conj]: A1
 whenever:
   conj: B1
 where:
-  ? [adv,conj]: A1
+  [adv,conj]: A1
 whereas:
   conj: B2
 wherever:
@@ -6149,9 +6137,9 @@ while:
   conj: A2
   n: B1
 whisper:
-  ? [v,n]: B2
+  [v,n]: B2
 white:
-  ? [adj,n]: A1
+  [adj,n]: A1
 who:
   pron: A1
 whole:
@@ -6200,7 +6188,7 @@ wire:
 wise:
   adj: B2
 wish:
-  ? [v,n]: A2
+  [v,n]: A2
 with:
   prep: A1
 within:
@@ -6208,11 +6196,11 @@ within:
 without:
   prep: A1
 witness:
-  ? [n,v]: B2
+  [n,v]: B2
 woman:
   n: A1
 wonder:
-  ? [v,n]: B1
+  [v,n]: B1
 wonderful:
   adj: A1
 wood:
@@ -6224,7 +6212,7 @@ wool:
 word:
   n: A1
 work:
-  ? [v,n]: A1
+  [v,n]: A1
 worker:
   n: A1
 working:
@@ -6232,7 +6220,7 @@ working:
 world:
   n: A1
 worldwide:
-  ? [adj,adv]: B1
+  [adj,adv]: B1
 worried:
   adj: A2
 worry:
@@ -6252,7 +6240,7 @@ worth:
 would:
   mv: A1
 wound:
-  ? [n,v]: B2
+  [n,v]: B2
 wow:
   exclam: A2
 wrap:
@@ -6276,11 +6264,11 @@ yeah:
 year:
   n: A1
 yellow:
-  ? [adj,n]: A1
+  [adj,n]: A1
 yes:
   exclam: A1
 yesterday:
-  ? [adv,n]: A1
+  [adv,n]: A1
 yet:
   adv: A2
   conj: B2
