@@ -19,7 +19,7 @@ The English is well known for phonetic-spelling discordance among European langu
 |/ʊ/|/ʊ/|/ʊ/|/ʊ/
 |/aɪ̯/|/aɪ/|/aɪ/|/ɑe/
 |/aʊ̯/|/aʊ/|/aʊ/|/æɔ/
-|/yː/~/ɪʊ̯/|/juː/|/juː/|/jɪɯ/
+|/yː/~/ɪu̯/|/juː/|/juː/|/jɪɯ/
 |/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/oɪ/
 
 Jeneral Estuary accent is accepted midway between "Receved Pronuntiation" of upper class and Cockney pronuntiation of loër class, proposed upon comparability with Jeneral American and Jeneral Australian accents for being class-inspecific.
