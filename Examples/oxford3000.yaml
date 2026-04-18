@@ -475,39 +475,35 @@ battery:
 battle:
   [n,v]: 2
 be:
-  [v,av]: A1
+  [v,av]: 2
 beach:
-  n: A1
+  n: 2
 bean:
-  n: A2
+  n: 2
 bear:
-  (deal with) v: B2
-bear:
-  (animal) n: A2
+  [n,v]: baer
 beat:
-  v: A2
-  n: B2
+  [n,v]: 2
 beautiful:
-  adj: A1
+  adj: butiful
 beauty:
-  n: B1
+  n: buty
 because:
-  conj: A1
+  conj: 4
 become:
-  v: A1
+  v: becum
 bed:
-  n: A1
+  n: 2
 bedroom:
-  n: A1
+  n: 2
 bee:
-  n: B1
+  n: 2
 beef:
-  n: A2
+  n: 2
 beer:
-  n: A1
+  n: 2
 before:
-  prep: A1
-  [conj,adv]: A2
+  [prep,conj,adv]: 4
 beg:
   v: B2
 begin:
