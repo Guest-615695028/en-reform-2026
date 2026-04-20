@@ -703,7 +703,7 @@ burn:
 bury:
   v: {-: berry, [S,NE]: burry}
 bus:
-  n: 1
+  n: 2
 bush:
   n: bwsh
 business:
@@ -713,17 +713,17 @@ businessman:
 busy:
   adj: bizzy
 but:
-  [conj,prep]: 1
+  [conj,prep]: 2
 butter:
-  n: 1
+  n: 2
 button:
-  n: 1
+  n: 2
 buy:
-  v: 1
+  v: 2
 by:
-  [prep,adv]: 1
+  [prep,adv]: 12
 bye:
-  exclam: 1
+  exclam: 2
 cable:
   n: B2
 cafe:
