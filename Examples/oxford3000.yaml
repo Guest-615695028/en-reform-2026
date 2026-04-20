@@ -595,141 +595,135 @@ blow:
 blue:
   [adj,n]: 3
 board:
-  n: A2
-  v: B1
+  [n,v]: 2
 boat:
-  n: A1
+  n: 2
 body:
-  n: A1
+  n: boddy
 boil:
-  v: A2
+  v: 2
 bomb:
-  [n,v]: B1
+  [n,v]: 2
 bond:
-  n: B2
+  n: 2
 bone:
-  n: A2
+  n: 2
 book:
-  n: A1
-  v: A2
+  [n,v]: bwck
 boot:
-  n: A1
+  n: 2
 border:
-  n: B1
-  v: B2
+  [n,v]: 2
 bored:
-  adj: A1
+  adj: 2
 boring:
-  adj: A1
+  adj: 2
 born:
-  v: A1
+  v: 2
 borrow:
-  v: A2
+  v: 2
 boss:
-  n: A2
+  n: 2
 both:
-  det./pron: A1
+  det./pron: boath
 bother:
-  v: B1
+  v: budther
 bottle:
-  n: A1
+  n: 2
 bottom:
-  [n,adj]: A2
+  [n,adj]: 2
 bowl:
-  n: A2
+  n: 2
 box:
-  n: A1
+  n: 2
 boy:
-  n: A1
+  n: 2
 boyfriend:
-  n: A1
+  n: boyfrend
 brain:
-  n: A2
+  n: 3
 branch:
-  n: B1
+  n: 3
 brand:
-  [n,v]: B1
+  [n,v]: 3
 brave:
-  adj: B1
+  adj: 3
 bread:
-  n: A1
+  n: bred
 break:
-  [v,n]: A1
+  [v,n]: braek
 breakfast:
-  n: A1
+  n: braekfast
 breast:
-  n: B2
+  n: 3
 breath:
-  n: B1
+  n: breth
 breathe:
-  v: B1
+  v: brethe
 breathing:
-  n: B1
+  n: brething
 bride:
-  n: B1
+  n: 3
 bridge:
-  n: A2
+  n: 3
 brief:
-  adj: B2
+  adj: breef
 bright:
-  adj: A2
+  adj: 3
 brilliant:
-  adj: A2
+  adj: 3
 bring:
-  v: A1
+  v: 3
 broad:
-  adj: B2
+  adj: brawd
 broadcast:
-  [v,n]: B2
+  [v,n]: brawdcast
 broken:
-  adj: A2
+  adj: 3
 brother:
-  n: A1
+  n: brudther
 brown:
-  [adj,n]: A1
+  [adj,n]: broun
 brush:
-  [v,n]: A2
+  [v,n]: 3
 bubble:
-  n: B1
+  n: 2
 budget:
-  n: B2
+  n: 2
 build:
-  v: A1
+  v: bild
 building:
-  n: A1
+  n: bilding
 bullet:
-  n: B2
+  n: 2
 bunch:
-  n: B2
+  n: 2
 burn:
-  v: A2
-  n: B2
+  [n,v]: 2
 bury:
-  v: B1
+  v: {-: berry, [S,NE]: burry}
 bus:
-  n: A1
+  n: 1
 bush:
-  n: B2
+  n: bwsh
 business:
-  n: A1
+  n: bizness
 businessman:
-  n: A2
+  n: bizness-man
 busy:
-  adj: A1
+  adj: bizzy
 but:
-  conj: A1
-  prep: B2
+  [conj,prep]: 1
 butter:
-  n: A1
+  n: 1
 button:
-  n: A2
+  n: 1
 buy:
-  v: A1
+  v: 1
 by:
-  prep: A1
-  adv: B1
+  [prep,adv]: 1
 bye:
-  exclam: A1
+  exclam: 1
 cable:
   n: B2
 cafe:
