@@ -286,7 +286,7 @@ apply:
 appointment:
   n: -appointing
 appreciate:
-  v: 5
+  v: [5,8]
 approach:
   [n,v]: 5
 appropriate:
@@ -362,7 +362,7 @@ assist:
 assistant:
   [n,adj]: 4
 associate:
-  v: 4
+  v: [4,7]
 associated:
   adj: 4
 association:
@@ -732,7 +732,7 @@ cafe:
 cake:
   n: 2
 calculate:
-  v: 2
+  v: [2,7]
 call:
   [n,v]: 2
 calm:
@@ -812,7 +812,7 @@ CD:
 ceiling:
   n: ceeling
 celebrate:
-  v: 2
+  v: [2,7]
 celebration:
   n: [7,2]
 celebrity:
@@ -1028,7 +1028,7 @@ common:
 commonly:
   adv: communly
 communicate:
-  v: 5
+  v: [5,9]
 communication:
   n: [9,5]
 community:
@@ -1059,12 +1059,14 @@ complex:
   [n,adj]: 2
 complicate:
   v: [2,8]
+complicated:
+  adj: [2,8]
 component:
   n: 2
 computer:
   n: {-computator: 7}
 concentrate:
-  v: 5
+  v: [5,9]
 concentration:
   n: 9
 concept:
@@ -1142,7 +1144,7 @@ contain:
 container:
   n: {-contentor: 5}
 contemporary:
-  adj: 5
+  adj: [5,10]
 content:
   n: 2
 contest:
@@ -1367,7 +1369,7 @@ declare:
 decline:
   [n,v]: 5
 decorate:
-  v: 2
+  v: [2,6]
 decoration:
   n: [6,2]
 decrease:
@@ -1412,7 +1414,7 @@ delivery:
 demand:
   [n,v]: 4
 demonstrate:
-  v: 4
+  v: [4,9]
 dentist:
   n: 2
 deny:
@@ -1482,7 +1484,7 @@ diamond:
 diary:
   n: diäry
 dictionary:
-  n: 2
+  n: [2,8]
 die:
   v: 2
 diet:
@@ -1585,9 +1587,9 @@ dollar:
 domestic:
   adj: 4
 dominate:
-  v: 2
+  v: [2,6]
 donate:
-  v: 2
+  v: [2,4]
 door:
   n: dore
 double:
@@ -1826,160 +1828,164 @@ environmental:
 episode:
   n: 1
 equal:
-  [v,adj]: B1
-  n: B2
+  [n,v,adj]: 1
 equally:
-  adv: B1
+  adv: 1
 equipment:
-  n: A2
+  n: -equipping
 error:
-  n: A2
+  n: 1
 escape:
-  [n,v]: B1
+  [n,v]: 4
 especially:
-  adv: A2
+  adv: 4
 essay:
-  n: A2
+  n: 1
 essential:
-  adj: B1
+  adj: 4
 establish:
-  v: B2
+  v: {estabblish: 4}
 estate:
-  n: B2
+  n: 4
 estimate:
-  [n,v]: B2
+  n: 1
+  v: [1,6]
 ethical:
-  adj: B2
+  adj: 1
 euro:
-  n: A1
+  n: 1
 evaluate:
-  v: B2
+  v: [3,6]
 even:
-  adv: A1
-  adj: B2
+  a: 1
 evening:
-  n: A1
+  n: 1
 event:
-  n: A1
+  n: 3
 eventually:
-  adv: B1
+  adv: 3
 ever:
-  adv: A1
+  adv: evver
 every:
   det: A1
 everybody:
-  pron: A1
+  pron: -every one
 everyday:
-  adj: A2
+  adj: -daily
 everyone:
-  pron: A1
+  pron: every one
 everything:
-  pron: A1
+  pron: every thing
 everywhere:
-  adv: A2
+  adv: every where
 evidence:
-  n: A2
+  n: 1
 evil:
-  [n,adj]: B2
+  [n,adj]: 1
 exact:
-  adj: A2
+  adj: 3
 exactly:
-  adv: A2
+  adv: 3
 exam:
-  n: A1
+  n: 3
 examination:
-  n: B2
+  n: {exammination: [8,3]}
 examine:
-  v: B1
+  v: {exammin: 3}
 example:
-  n: A1
+  n: 3
 excellent:
-  adj: A2
+  adj: 1
 except:
-  prep: A2
-  conj: B1
+  v: 4
+  [prep,conj]: but
 exchange:
-  [n,v]: B1
+  n: 1
+  v: 5
+excite:
+  v: 4
 excited:
-  adj: A1
+  adj: 4
 excitement:
-  n: B1
+  n: exciment
 exciting:
-  adj: A1
+  adj: 4
 excuse:
-  [n,v]: B2
+  n: 1
+  v: 4
 executive:
-  [n,adj]: B2
+  [n,adj]: [5,1]
 exercise:
-  [n,v]: A1
+  [n,v]: [1,6]
 exhibition:
-  n: B1
+  n: [6,1]
 exist:
-  v: A2
+  v: 3
 existence:
-  n: B2
+  n: 3
 expand:
-  v: B1
+  v: 4
 expect:
-  v: A2
+  v: 4
 expectation:
-  n: B2
+  n: [7,1]
 expected:
-  adj: B1
+  adj: 4
 expedition:
-  n: B1
+  n: [6,1]
 expense:
-  n: B2
+  n: 4
 expensive:
-  adj: A1
+  adj: 4
 experience:
-  n: A2
-  v: B1
+  n: 4
+  v: -undergo
 experienced:
-  adj: B1
+  adj: undergon
 experiment:
-  n: A2
-  v: B1
+  n: 4
+  v: [4,8]
 expert:
-  [n,adj]: A2
+  [n,adj]: 1
 explain:
-  v: A1
+  v: 5
 explanation:
-  n: A2
+  n: [7,1]
 explode:
-  v: B1
+  v: 4
 exploration:
-  n: B2
+  n: [6,1]
 explore:
-  v: B1
+  v: 5
 explosion:
-  n: B1
+  n: 5
 export:
-  [n,v]: B1
+  n: 1
+  v: 4
 expose:
-  v: B2
+  v: 4
 express:
-  v: A2
+  v: 5
 expression:
-  n: A2
+  n: 5
 extend:
-  v: B2
+  v: 4
 extent:
-  n: B2
+  n: 4
 external:
-  adj: B2
+  adj: 4
 extra:
-  adj: A1
-  [n,adv]: B1
+  adj: -more
+  adv: verry
+  n: 1
 extraordinary:
-  adj: B2
+  adj: {extrordinary: [5,10]}
 extreme:
-  adj: A2
-  n: B2
+  [n,adj]: 5
 extremely:
-  adv: A2
+  adv: 5
 eye:
-  n: A1
+  n: ei
 face:
   n: A1
   v: B1
