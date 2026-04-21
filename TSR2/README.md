@@ -216,9 +216,10 @@ Some of spellings are occasionally to be givven in dictionaries for pronuntiatio
 ## Trisyllabic shortening
 Trisyllabic shortening is a commun practice in Latinate English words, where a stressed one-letter vocal is short before a lengthening combination. This occurs in every letter other than U, and common with suffixes:
 - -a, -us, -um
-- -able, -ible, -uble;
-- -ate, -ite, -ute;
-- -al, -ar;
+- -`[aiu]ble`;
+- -`[ae]n(ce|t)`;
+- -`[aiu]te`;
+- -`a[lr]`;
 - -itude;
 - -ity;
 - -ive;

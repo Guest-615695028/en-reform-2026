@@ -1221,7 +1221,7 @@ county:
 couple:
   n: cupple
 courage:
-  n: -ellen
+  n: corage
 course:
   n: coarse
 court:
@@ -1694,88 +1694,87 @@ education:
 educational:
   adj: [5,1]
 effect:
-  n: 4
+  [n,v]: 4
 effective:
-  adj: B1
+  adj: 4
 effectively:
-  adv: B1
+  adv: 4
 efficient:
-  adj: B2
+  adj: 1
 effort:
-  n: B1
+  n: 1
 egg:
-  n: A1
+  n: 1
 eight:
-  num: A1
+  num: 1
 eighteen:
-  num: A1
+  num: 6
 eighty:
-  num: A1
+  num: 6
 either:
-  [det,pron,adv]: A2
+  [det,pron,adv]: 1
 elderly:
-  adj: B2
+  adj: 1
 elect:
-  v: B2
+  v: 3
 election:
-  n: B1
+  n: 3
 electric:
-  adj: A2
+  adj: 3
 electrical:
-  adj: A2
+  adj: 3
 electricity:
-  n: A2
+  n: [7,3]
 electronic:
   adj: A2
 element:
-  n: B1
+  n: 1
 elephant:
-  n: A1
+  n: 1
 eleven:
-  num: A1
+  num: {elevven: 3}
 else:
-  adv: A1
+  adv: 1
 elsewhere:
-  adv: B2
+  adv: {else-where: 1}
 email:
-  [n,v]: A1
+  [n,v]: {e-mail: 4}
 embarrassed:
-  adj: B1
+  adj: 4
 embarrassing:
-  adj: B1
+  adj: 4
 emerge:
-  v: B2
+  v: 3
 emergency:
-  n: B1
+  n: 3
 emotion:
-  n: B1
+  n: 3
 emotional:
-  adj: B2
+  adj: 3
 emphasis:
-  n: B2
+  n: 1
 emphasize:
-  v: B2
+  v: 1
 employ:
-  v: A2
+  v: 5
 employee:
-  n: A2
+  n: 5
 employer:
-  n: A2
+  n: 5
 employment:
-  n: B1
+  n: -employing
 empty:
-  adj: A2
-  v: B1
+  [v,adj]: 1
 enable:
-  v: B2
+  v: 3
 encounter:
-  [n,v]: B2
+  [n,v]: 4
 encourage:
-  v: B1
+  v: encorage
 end:
-  [n,v]: A1
+  [n,v]: 1
 ending:
-  n: A2
+  n: 1
 enemy:
   n: B1
 energy:
@@ -6877,7 +6876,7 @@ eligible: adj. C1
 eliminate: v. B2
 elite: n. C1
 embark: v. C1
-embarrassment: n. C1
+embarrass: v. C1
 embassy: n. C1
 embed: v. C1
 embody: v. C1
