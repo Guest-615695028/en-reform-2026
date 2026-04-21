@@ -854,7 +854,7 @@ chapter:
 character:
   n: kharácter
 characteristic:
-  [n,adj]: [kháracterístic,10,3]
+  [n,adj]: kharacterístic
 charge:
   [n,v]: 3
 charity:
@@ -938,73 +938,67 @@ clever:
 click:
   [n,v]: 3
 client:
-  n: B1
+  n: cliënt
 climate:
-  n: A2
+  n: 3
 climb:
-  v: A1
-  n: B1
+  [n,v]: clime
 clock:
-  n: A1
-close1:
-  v: A1
-  n: B2
-close2:
-  adj: A2
-  adv: B1
+  n: 3
+close:
+  [n,v,adj,adv]: 3
 closed:
-  adj: A2
+  adj: 3
 closely:
-  adv: B2
+  adv: 3
 cloth:
-  n: B1
+  n: 3
 clothes:
-  n: A1
+  n: 3
 clothing:
-  n: A2
+  n: 3
 cloud:
-  n: A2
+  n: 3
 club:
-  n: A1
+  n: 3
 clue:
-  n: B1
+  n: 3
 coach:
-  n: A2
-  v: B1
+  [n,v]: 2
 coal:
-  n: B1
+  n: 2
 coast:
-  n: A2
+  n: 2
 coat:
-  n: A1
+  n: 2
 code:
-  n: A2
+  n: 2
 coffee:
-  n: A1
+  n: 2
 coin:
-  n: B1
+  n: 2
 cold:
-  [n,adj]: A1
+  [n,adj]: 2
 collapse:
-  [n,v]: B2
+  [n,v]: 5
 colleague:
-  n: A2
+  n: 5
 collect:
-  v: A2
+  v: 5
 collection:
-  n: B1
+  n: 5
 college:
-  n: A1
+  n: 2
 colour:
-  n: A1
+  n: cullor
 coloured:
-  adj: B1
+  adj: cullored
 column:
-  n: A2
+  n: collumm
 combination:
-  n: B2
+  n: [7,2]
 combine:
-  v: B1
+  v: 4
 come:
   v: A1
 comedy:
