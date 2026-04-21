@@ -990,9 +990,9 @@ collection:
 college:
   n: 2
 colour:
-  n: cullor
+  n: cullor # color
 coloured:
-  adj: cullored
+  adj: cullored # colored
 column:
   n: collumn
 combination:
@@ -1776,55 +1776,55 @@ end:
 ending:
   n: 1
 enemy:
-  n: B1
+  n: ennemy
 energy:
-  n: A2
+  n: ennergy
 engage:
-  v: B2
+  v: 4
 engaged:
-  adj: B1
+  adj: 4
 engine:
-  n: A2
+  n: enjin
 engineer:
-  n: A2
+  n: 6
 engineering:
-  n: B1
+  n: 6
 enhance:
-  v: B2
+  v: 4
 enjoy:
-  v: A1
+  v: 4
 enormous:
-  adj: A2
+  adj: 3
 enough:
-  [det,pron,adv]: A1
+  [det,pron,adv]: {enuff: 3}
 enquiry:
-  n: B2
+  n: {inquiry: 3}
 ensure:
-  v: B2
+  v: 4
 enter:
-  v: A2
+  v: 1
 entertain:
-  v: B1
+  v: 7
 entertainment:
-  n: B1
+  n: entertaining
 enthusiasm:
-  n: B2
+  n: [5,8]
 enthusiastic:
-  adj: B2
+  adj: [8,5]
 entire:
-  adj: B2
+  adj: 4
 entirely:
-  adv: B2
+  adv: 4
 entrance:
-  n: B1
+  n: 1
 entry:
-  n: B1
+  n: 1
 environment:
-  n: A2
+  n: -embedding
 environmental:
-  adj: B1
+  adj: -embeddingly
 episode:
-  n: B1
+  n: 1
 equal:
   [v,adj]: B1
   n: B2

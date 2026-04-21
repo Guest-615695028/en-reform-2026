@@ -45,18 +45,19 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 
 |[Unstressed vocal](https://en.wikipedia.org/wiki/Stress_and_vocal_reduction_in_English)|Sequence
 |-|-
-|/ə/|a, o, e/u(m/n/r), o(C)
+|/ə/|a, o, u, o(C)
 |/i~ɪ/|e, i, y, -**a**ge, ee
 |/jə/|ea, ia, ya
 |/ɵ/|o-, -o
 |/u~ʊ/|u, t**o**-
-|/ɫ̩/|al, el, ol, ul
-|/m̩/|am, em, om, um
-|/n̩/|an, -en, -on, -un
-|/ɹ̩/|ar, er, ir, or, ur, ←/ɜːɹ/
+|/ɫ̩, əɫ/|al, el, ol, ul
+|/m̩, əm/|am, em, om, um
+|/n̩, ən/|an, en, on, un
+|/ɹ̩, əɹ/|ar, er, ir, or, ur, ←/ɜːɹ/
 
 - _minute_ → **minnit**
-- /ɑːɹ/ and /ɔːɹ/ are shortened in initial
+- /ɑːɹ/ and /ɔːɹ/ are shortened in initial, not turning into /ɹ̩/~/əɹ/.
+- 
 
 ## Consonants
 |Pronounciation|Letter(s)
