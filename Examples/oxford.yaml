@@ -1163,7 +1163,7 @@ contrast:
   n: 2
   v: 6
 contribute:
-  v: 6
+  v: 2
 contribution:
   n: 8
 control:
@@ -1558,7 +1558,7 @@ display:
 distance:
   n: 2
 distribute:
-  v: 6
+  v: 2
 distribution:
   n: 8
 district:
@@ -1572,87 +1572,85 @@ divorced:
 do:
   [v,av]: -
 doctor:
-  n: A1
+  n: 2
 document:
-  n: A2
-  v: B2
+  n: 2
+  v: [6,2]
 documentary:
-  n: B1
+  n: [6,2]
 dog:
-  n: A1
+  n: 2
 dollar:
-  n: A1
+  n: 2
 domestic:
-  adj: B2
+  adj: 4
 dominate:
-  v: B2
+  v: 2
 donate:
-  v: B1
+  v: 2
 door:
-  n: A1
+  n: dore
 double:
   [v,adj,adv,det,pron]: dubble
 doubt:
-  [n,v]: B1
+  [n,v]: dout
 down:
-  [adv,prep]: A1
+  [adv,prep]: doun
 download:
-  [n,v]: A2
+  n: {dounload: 2}
+  v: {dounload: 6}
 downstairs:
-  adv: A1
-  adj: A2
+  a: dounstairs
 downwards:
-  adv: B2
+  adv: dounwards
 dozen:
-  [n,det]: B2
+  [n,det]: duzzen
 draft:
-  [n,v]: B2
+  [n,v]: 3
 drag:
-  v: B2
+  v: 3
 drama:
-  n: A2
+  n: draama
 dramatic:
-  adj: B2
+  adj: 5
 draw:
-  v: A1
+  v: 3
 drawing:
-  n: A2
+  n: 3
 dream:
-  [n,v]: A2
+  [n,v]: 3
 dress:
-  [n,v]: A1
+  [n,v]: 3
 dressed:
-  adj: B1
+  adj: 3
 drink:
-  [n,v]: A1
+  [n,v]: 3
 drive:
-  v: A1
-  n: A2
+  [n,v]: 3
 driver:
-  n: A1
+  n: 3
 driving:
-  n: A2
+  n: 3
 drop:
-  v: A2
-  n: B1
+  [n,v]: 3
 drug:
-  n: A2
+  n: 3
 drum:
-  n: B1
+  n: 3
 drunk:
-  adj: B1
+  adj: 3
 dry:
-  [v,adj]: A2
+  [v,adj]: 3
 due:
-  adj: B1
+  adj: 2
 during:
-  prep: A1
+  prep: 2
 dust:
-  n: B1
+  n: 2
 duty:
-  n: B1
+  n: 2
 DVD:
-  n: A1
+  n: -1
 each:
   det./pron./adv: A1
 ear:
