@@ -11,7 +11,7 @@ about:
 above:
   [prep,adv]: 3
 abroad:
-  adv: abráwd
+  adv: abrawd,4
 absolute:
   adj: 6
 absolutely:
@@ -40,7 +40,7 @@ accurate:
 accuse:
   v: 4
 achieve:
-  v: achéve
+  v: acheve,4
 achievement:
   n: -fulfilling
 acknowledge:
@@ -99,11 +99,11 @@ advantage:
 adventure:
   n: 4
 advertise:
-  v: advértize
+  v: advertize,4
 advertisement:
-  n: -advértizing
+  n: -advertizing,4
 advertising:
-  n: advértìzing
+  n: advertìzing,4
 advice:
   n: 4
 advise:
@@ -125,7 +125,7 @@ afterwards:
 again:
   adv: A1
 against:
-  prep: agénst
+  prep: agenst,3
 age:
   [n,v]: 1
 aged:
@@ -147,7 +147,7 @@ agreement:
 ah:
   exclam: 1
 ahead:
-  adv: ahéd
+  adv: ahed,3
 aid:
   [n,v]: 1
 aim:
@@ -175,15 +175,15 @@ all:
 all right:
   [adj,adv,exclam]: allright
 allow:
-  v: allóu
+  v: allou,4
 almost:
-  adv: állmost
+  adv: allmost
 alone:
   adj./adv: 3
 along:
   [prep,adv]: 3
 already:
-  adv: allréddy
+  adv: allreddy,5
 also:
   adv: allso
 alter:
@@ -191,7 +191,7 @@ alter:
 alternative:
   [n, adj]: 4
 although:
-  conj: alldhów
+  conj: alldho,6
 always:
   adv: allways
 amazed:
@@ -229,7 +229,7 @@ anniversary:
 announce:
   v: 4
 announcement:
-  n: -annúntiation
+  n: -annuntiation,4
 annoy:
   v: 4
 annoyed:
@@ -247,17 +247,17 @@ anxious:
 any:
   [det,pron,adv]: -1
 anybody:
-  pron: -1
+  pron: -any one
 any more:
   adv: -1
 anyone:
-  pron: -1
+  pron: any one
 anything:
-  pron: -1
+  pron: any thing
 anyway:
   adv: any way
 anywhere:
-  [adv,pron]: -1
+  [adv,pron]: any where
 apart:
   adv: 1
 apartment:
@@ -291,9 +291,9 @@ approach:
 appropriate:
   adj: 5
 approval:
-  n: appróoval
+  n: -approoving,5
 approve:
-  v: appróove
+  v: approove,5
 approximately:
   adv: [5,9]
 April:
@@ -353,9 +353,9 @@ aspect:
 assess:
   v: 4
 assessment:
-  n: -asséssion
+  n: -assessation,7
 assignment:
-  n: -assignátion
+  n: -assignation,7
 assist:
   v: 4
 assistant:
@@ -411,11 +411,11 @@ average:
 avoid:
   v: 3
 award:
-  [n,v]: a·wárd
+  [n,v]: 3
 aware:
-  adj: a·wáre
+  adj: 3
 away:
-  adv: a·wáy
+  adv: 3
 awful:
   adj: 1
 baby:
@@ -443,7 +443,7 @@ ball:
 ban:
   [n,v]: 2
 banana:
-  n: banánna
+  n: bananna,4
 band:
   n: 2
 bank:
@@ -852,9 +852,9 @@ channel:
 chapter:
   n: 3
 character:
-  n: kharácter
+  n: kharacter,5
 characteristic:
-  [n,adj]: kharacterístic
+  [n,adj]: kharacteristic,10,5
 charge:
   [n,v]: 3
 charity:
@@ -874,7 +874,7 @@ cheerful:
 cheese:
   n: 3
 chef:
-  n: -cwk
+  n: -cwck
 chemical:
   [n,adj]: khemical
 chemistry:
@@ -994,245 +994,248 @@ colour:
 coloured:
   adj: cullored
 column:
-  n: collumm
+  n: collumn
 combination:
   n: [7,2]
 combine:
   v: 4
 come:
-  v: A1
+  v: cum
 comedy:
-  n: A2
+  n: commedy
 comfort:
-  [n,v]: B2
+  n: 2
+  v: 5
 comfortable:
-  adj: A2
+  adj: 2
 command:
-  [n,v]: B2
+  [n,v]: 5
 comment:
-  n: A2
-  v: B1
+  n: 2
+  v: 5
 commercial:
-  [n,adj]: B1
+  [n,adj]: 5
 commission:
-  [n,v]: B2
+  [n,v]: 5
 commit:
-  v: B1
+  v: 5
 commitment:
-  n: B2
+  n: -commission,5
 committee:
-  n: B2
+  n: 5
 common:
-  [n,adj]: A1
+  [n,adj]: -commun
 commonly:
-  adv: B2
+  adv: -communly
 communicate:
-  v: A2
+  v: 5
 communication:
-  n: B1
+  n: [9,5]
 community:
-  n: A2
+  n: 5
 company:
-  n: A1
+  n: 2
 compare:
-  v: A1
+  v: 5
 comparison:
-  n: B1
+  n: -comparation,7
 compete:
-  v: A2
+  v: 5
 competition:
-  n: A2
+  n: 7
 competitive:
-  adj: B1
+  adj: 5
 competitor:
-  n: B1
+  n: 5
 complain:
-  v: A2
+  v: 5
 complaint:
-  n: B1
+  n: -complanction,6
 complete:
-  [v,adj]: A1
+  [v,adj]: 6
 completely:
-  adv: A2
+  adv: 6
 complex:
-  adj: B1
-  n: B2
+  [n,adj]: 2
 complicated:
-  adj: B2
+  adj: [2,8]
 component:
-  n: B2
+  n: 2
 computer:
-  n: A1
+  n: -computator,7
 concentrate:
-  v: B1
+  v: 5
 concentration:
-  n: B2
+  n: 9
 concept:
-  n: B2
+  n: 2
 concern:
-  [n,v]: B2
+  n: 2
+  v: 5
 concerned:
-  adj: B2
+  adj: 5
 concert:
-  n: A1
+  n: 2
 conclude:
-  v: B1
+  v: 6
 conclusion:
-  n: B1
+  n: 6
 condition:
-  n: A2
+  n: 5
 conduct:
-  [n,v]: B2
+  n: 2
+  v: 5
 conference:
-  n: A2
+  n: 2
 confidence:
-  n: B2
+  n: 2
 confident:
-  adj: B1
+  adj: 2
 confirm:
-  v: B1
+  v: 5
 conflict:
-  [n,v]: B2
+  n: 2
+  v: 6
 confuse:
-  v: B1
+  v: 5
 confused:
-  adj: B1
+  adj: 5
 confusing:
-  adj: B2
+  adj: 5
 connect:
-  v: A2
+  v: 5
 connected:
-  adj: A2
+  adj: 5
 connection:
-  n: B1
+  n: -connexion,5
 conscious:
-  adj: B2
+  adj: 2
 consequence:
-  n: B1
+  n: 2
 conservative:
-  [n,adj]: B2
+  [n,adj]: 5
 consider:
-  v: A2
+  v: considder,5
 consideration:
-  n: B2
+  n: considderation,5
 consist:
-  v: B1
+  v: 5
 consistent:
-  adj: B2
+  adj: 5
 constant:
-  adj: B2
+  adj: 2
 constantly:
-  adv: B2
+  adv: 2
 construct:
-  v: B2
+  v: 7
 construction:
-  n: B2
+  n: 7
 consume:
-  v: B1
+  v: 5
 consumer:
-  n: B1
+  n: -consumptor
 contact:
-  [n,v]: B1
+  n: 2
+  v: 5
 contain:
-  v: A2
+  v: 5
 container:
-  n: B1
+  n: -contentor,5
 contemporary:
-  adj: B2
-content1:
-  n: B1
+  adj: 5
+content:
+  n: 2
 contest:
-  [n,v]: B2
+  n: 2
+  v: 5
 context:
-  n: A2
+  n: 2
 continent:
-  n: A2
+  n: 2
 continue:
-  v: A2
+  v: continnue,5
 continuous:
-  adj: B1
+  adj: continnuous,5
 contract:
-  [n,v]: B2
+  n: 2
+  v: 6
 contrast:
-  [n,v]: B1
+  n: 2
+  v: 6
 contribute:
-  v: B2
+  v: 5
 contribution:
-  n: B2
+  n: 5
 control:
-  [n,v]: A2
+  [n,v]: -wield
 convenient:
-  adj: B1
+  adj: 5
 conversation:
-  n: A1
+  n: [8,2]
 convert:
-  v: B2
+  v: 5
 convince:
-  v: B1
+  v: 5
 convinced:
-  adj: B2
+  adj: 5
 cook:
-  v: A1
-  n: A2
+  [n,v]: cwck
 cooker:
-  n: A2
+  n: cwcker
 cooking:
-  n: A1
+  n: cwcking
 cool:
-  adj: A1
-  v: B1
+  [v,adj]: 2
 copy:
-  [n,v]: A2
+  [n,v]: coppy
 core:
-  [n,adj]: B2
+  [n,adj]: 2
 corner:
-  n: A2
+  n: 2
 corporate:
-  adj: B2
+  adj: 2
 correct:
-  [v,adj]: A1
+  [v,adj]: 5
 correctly:
-  adv: A2
+  adv: 5
 cost:
-  [n,v]: A1
+  [n,v]: 2
 costume:
-  n: B1
+  n: 2
 cottage:
-  n: B1
+  n: -cot
 cotton:
-  n: B1
+  n: 2
 could:
-  mv: A1
+  mv: --
 council:
-  n: B2
+  n: 2
 count:
-  v: A2
-  n: B1
+  [n,v]: 2
 country:
-  n: A1
+  n: 2
 countryside:
-  n: B1
+  n: country-side
 county:
-  n: B2
+  n: 2
 couple:
-  n: A2
+  n: cupple
 courage:
-  n: B2
+  n: -ellen
 course:
-  n: A1
+  n: coarse
 court:
-  n: B1
+  n: coart
 cousin:
-  n: A1
+  n: cussin
 cover:
-  v: A2
-  n: B1
+  [n,v]: cuvver
 covered:
-  adj: B1
+  adj: cuvvered
 cow:
-  n: A1
+  n: cou
 crash:
-  [n,v]: B2
+  [n,v]: 3
 crazy:
   adj: A2
 cream:
@@ -1600,8 +1603,7 @@ donate:
 door:
   n: A1
 double:
-  [adj,det,pron,v]: A2
-  adv: B1
+  [v,adj,adv,det,pron]: dubble
 doubt:
   [n,v]: B1
 down:

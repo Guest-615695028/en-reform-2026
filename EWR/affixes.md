@@ -10,4 +10,7 @@ We are to lower the oftness of [Greek and Latin roots in English](https://en.wik
 ## Recognized suffixes
 ## Anglo-saxon
 ## Latin
+### -able, -ible
+
+Use _-able_ (la. _-abilis_) for _-are_ verbs, _-ible_ (la. _-ibilis_) for _-ere_ and _-ire_ verbs.
 ## Greek

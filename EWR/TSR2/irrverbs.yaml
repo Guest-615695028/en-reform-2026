@@ -1,0 +1,39 @@
+# Irregular verbs
+be: 
+  present: 
+    I: am
+    thou: art
+    one: is #=he, she, it
+    we: are #=ye, you, they
+    p: beïng
+  past:
+    I: was
+    thou: wast
+    one: was
+    we: were
+    p: been
+have:
+  present:
+    thou: hast
+    one: has
+    p: havving
+  past:
+    I: had
+    thou: hadst
+    p: had
+do:
+  present:
+    thou: dust
+    one: dus
+    p: dooïng
+  past:
+    I: did
+    thou: didst
+    p: done
+say:
+  present:
+    thou: sest
+    one: ses
+  past:
+    I: sed
+    thou: sedst
