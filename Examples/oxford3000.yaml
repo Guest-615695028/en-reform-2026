@@ -11,7 +11,7 @@ about:
 above:
   [prep,adv]: 3
 abroad:
-  adv: abrawd,4
+  adv: {abrawd: 4}
 absolute:
   adj: 6
 absolutely:
@@ -40,7 +40,7 @@ accurate:
 accuse:
   v: 4
 achieve:
-  v: acheve,4
+  v: {acheve: 4}
 achievement:
   n: -fulfilling
 acknowledge:
@@ -99,11 +99,11 @@ advantage:
 adventure:
   n: 4
 advertise:
-  v: advertize,4
+  v: {advertize: 4}
 advertisement:
-  n: -advertizing,4
+  n: {-advertizing: 4}
 advertising:
-  n: advertìzing,4
+  n: {advertìzing: 4}
 advice:
   n: 4
 advise:
@@ -123,9 +123,9 @@ afternoon:
 afterwards:
   adv: [1,7]
 again:
-  adv: A1
+  adv: 3
 against:
-  prep: agenst,3
+  prep: {agenst: 3}
 age:
   [n,v]: 1
 aged:
@@ -147,7 +147,7 @@ agreement:
 ah:
   exclam: 1
 ahead:
-  adv: ahed,3
+  adv: {ahed: 3}
 aid:
   [n,v]: 1
 aim:
@@ -175,7 +175,7 @@ all:
 all right:
   [adj,adv,exclam]: allright
 allow:
-  v: allou,4
+  v: {allou: 4}
 almost:
   adv: allmost
 alone:
@@ -183,7 +183,7 @@ alone:
 along:
   [prep,adv]: 3
 already:
-  adv: allreddy,5
+  adv: {allreddy: 5}
 also:
   adv: allso
 alter:
@@ -191,7 +191,7 @@ alter:
 alternative:
   [n, adj]: 4
 although:
-  conj: alldho,6
+  conj: {alldho: 6}
 always:
   adv: allways
 amazed:
@@ -229,7 +229,7 @@ anniversary:
 announce:
   v: 4
 announcement:
-  n: -annuntiation,4
+  n: {-annuntiation: 4}
 annoy:
   v: 4
 annoyed:
@@ -291,9 +291,9 @@ approach:
 appropriate:
   adj: 5
 approval:
-  n: -approoving,5
+  n: {-approoving: 5}
 approve:
-  v: approove,5
+  v: {approove: 5}
 approximately:
   adv: [5,9]
 April:
@@ -353,9 +353,9 @@ aspect:
 assess:
   v: 4
 assessment:
-  n: -assessation,7
+  n: {-assessation: 7}
 assignment:
-  n: -assignation,7
+  n: {-assignation: 7}
 assist:
   v: 4
 assistant:
@@ -443,7 +443,7 @@ ball:
 ban:
   [n,v]: 2
 banana:
-  n: bananna,4
+  n: {bananna: 4}
 band:
   n: 2
 bank:
@@ -765,7 +765,7 @@ capacity:
 capital:
   [n,adj]: 2
 captain:
-  n: 2
+  n: capten
 capture:
   [n,v]: 2
 car:
@@ -805,9 +805,9 @@ catch:
 category:
   n: 2
 cause:
-  [n,v]: A2
+  [n,v]: 2
 CD:
-  n: A1
+  n: -1
 ceiling:
   n: ceeling
 celebrate:
@@ -829,12 +829,11 @@ century:
 ceremony:
   n: 2
 certain:
-  adj: 2
+  adj: certen
 certainly:
-  adv: 2
+  adv: certenly
 chain:
   [n,v]: 3
-  v: B2
 chair:
   [n,v]: 3
 chairman:
@@ -852,9 +851,9 @@ channel:
 chapter:
   n: 3
 character:
-  n: kharacter,5
+  n: {kharacter: 5}
 characteristic:
-  [n,adj]: kharacteristic,10,5
+  [n,adj]: {kharacteristic: [10,5]}
 charge:
   [n,v]: 3
 charity:
@@ -1020,13 +1019,13 @@ commission:
 commit:
   v: 5
 commitment:
-  n: -commission,5
+  n: {-commission: 5}
 committee:
   n: 5
 common:
-  [n,adj]: -commun
+  [n,adj]: commun
 commonly:
-  adv: -communly
+  adv: communly
 communicate:
   v: 5
 communication:
@@ -1038,7 +1037,7 @@ company:
 compare:
   v: 5
 comparison:
-  n: -comparation,7
+  n: {-comparation: 7}
 compete:
   v: 5
 competition:
@@ -1050,7 +1049,7 @@ competitor:
 complain:
   v: 5
 complaint:
-  n: -complanction,6
+  n: {-complanction: 6}
 complete:
   [v,adj]: 6
 completely:
@@ -1062,7 +1061,7 @@ complicated:
 component:
   n: 2
 computer:
-  n: -computator,7
+  n: {-computator: 7}
 concentrate:
   v: 5
 concentration:
@@ -1107,7 +1106,7 @@ connect:
 connected:
   adj: 5
 connection:
-  n: -connexion,5
+  n: {connexion: 5}
 conscious:
   adj: 2
 consequence:
@@ -1115,9 +1114,9 @@ consequence:
 conservative:
   [n,adj]: 5
 consider:
-  v: considder,5
+  v: {considder: 5}
 consideration:
-  n: considderation,5
+  n: {considderation: 5}
 consist:
   v: 5
 consistent:
@@ -1140,7 +1139,7 @@ contact:
 contain:
   v: 5
 container:
-  n: -contentor,5
+  n: {-contentor: 5}
 contemporary:
   adj: 5
 content:
@@ -1153,9 +1152,9 @@ context:
 continent:
   n: 2
 continue:
-  v: continnue,5
+  v: {continnue: 5}
 continuous:
-  adj: continnuous,5
+  adj: {continnuous: 5}
 contract:
   n: 2
   v: 6
@@ -1167,7 +1166,7 @@ contribute:
 contribution:
   n: 5
 control:
-  [n,v]: -wield
+  [n,v]: 6
 convenient:
   adj: 5
 conversation:
@@ -1207,7 +1206,7 @@ cottage:
 cotton:
   n: 2
 could:
-  mv: --
+  mv: 2
 council:
   n: 2
 count:
@@ -1237,89 +1236,83 @@ cow:
 crash:
   [n,v]: 3
 crazy:
-  adj: A2
+  adj: 3
 cream:
-  n: A1
-  adj: B1
+  [n,adj]: 3
 create:
-  v: A1
+  v: {creäte: 4}
 creation:
-  n: B2
+  n: {creätion: 4}
 creative:
-  adj: A2
+  adj: {creätive: 4}
 creature:
-  n: B2
+  n: {creature: 3, creäture: 4}
 credit:
-  n: A2
-  v: B2
+  [n,v]: creddit
 crew:
-  n: B2
+  n: 3
 crime:
-  n: A2
+  n: 3
 criminal:
-  n: A2
-  adj: B1
+  [n,adj]: 3
 crisis:
-  n: B2
+  n: 3
 criterion:
-  n: B2
+  n: 5
 critic:
-  n: B2
+  n: 3
 critical:
-  adj: B2
+  adj: 3
 criticism:
-  n: B2
+  n: 3
 criticize:
-  v: B2
+  v: 3
 crop:
-  n: B2
+  n: 3
 cross:
-  [n,v]: A2
+  [n,v]: 3
 crowd:
-  n: A2
+  n: croud
 crowded:
-  adj: A2
+  adj: crouded
 crucial:
-  adj: B2
+  adj: 3
 cruel:
-  adj: B1
+  adj: {cruël: 3}
 cry:
-  v: A2
-  n: B2
+  [n,v]: 3
 cultural:
-  adj: B1
+  adj: 2
 culture:
-  n: A1
+  n: 2
 cup:
-  n: A1
+  n: 2
 cupboard:
-  n: A2
+  n: [2,5]
 cure:
-  [n,v]: B2
+  [n,v]: 2
 curly:
-  adj: A2
+  adj: 2
 currency:
-  n: B1
+  n: 2
 current:
-  adj: B1
-  n: B2
+  [n,adj]: 2
 currently:
-  adv: B1
+  adv: 2
 curtain:
-  n: B1
+  n: curten
 curve:
-  [n,v]: B2
+  [n,v]: 2
 curved:
-  adj: B2
+  adj: 2
 custom:
-  n: B1
+  n: 2
 customer:
-  n: A1
+  n: 2
 cut:
-  v: A1
-  n: B1
+  [n,v]: 2
 cycle:
-  [n,v]: A2
+  [n,v]: 2
 dad:
   n: A1
 daily:
@@ -2998,9 +2991,8 @@ killing:
 kilometre:
   n: A1
 kind:
-  (type) n: A1
-kind:
-  (caring) adj: B1
+  n: A1
+  adj: B1
 king:
   n: A2
 kiss:
@@ -3048,10 +3040,10 @@ large:
 largely:
   adv: B2
 last1:
-  (final) det: A1
+  det: A1
   [adv,n]: A2
 last1:
-  (taking time) v: A2
+  v: A2
 late:
   [adj,adv]: A1
 later:
@@ -3137,7 +3129,7 @@ licence:
 lie1:
   v: A1
 lie2:
-  [(tell a lie) n,v]: B1
+  [ n,v]: B1
 life:
   n: A1
 lifestyle:
@@ -3145,14 +3137,14 @@ lifestyle:
 lift:
   [n,v]: A2
 light:
-  [(from the sun/a lamp) n,adj]: A1
+  [ n,adj]: A1
   v: A2
 light:
-  (not heavy) adj: A2
+  adj: A2
 like:
-  (similar) prep: A1
+  prep: A1
 like:
-  (find sb/sth pleasant) v: A1
+  v: A1
   n: B1
 likely:
   adj: A2
@@ -3317,7 +3309,7 @@ massive:
 master:
   [n,v]: B2
 match:
-  [(contest/correspond) n,v]: A1
+  [ n,v]: A1
 matching:
   adj: B2
 material:
@@ -3410,9 +3402,9 @@ million:
 mind:
   [n,v]: A2
 mine:
-  (belongs to me) pron: A2
+  pron: A2
 mine:
-  (hole in the ground) n: B1
+  n: B1
 mineral:
   n: B2
 minimum:
@@ -4391,9 +4383,9 @@ quotation:
 quote:
   [n,v]: B1
 race:
-  [(competition) n,v]: A2
+  [ n,v]: A2
 race:
-  (people) n: B1
+  n: B1
 racing:
   n: B1
 radio:
@@ -4620,9 +4612,9 @@ responsibility:
 responsible:
   adj: B1
 rest:
-  (remaining part) n: A2
+  n: A2
 rest:
-  [(sleep/relax) n,v]: A2
+  [ n,v]: A2
 restaurant:
   n: A1
 result:
@@ -4676,9 +4668,9 @@ road:
 robot:
   n: B1
 rock:
-  (stone) n: A2
+  n: A2
 rock:
-  (music) n: A2
+  n: A2
 role:
   n: A2
 roll:
@@ -4823,10 +4815,10 @@ seat:
   n: A2
   v: B2
 second1:
-  (next after the first) det./ num: A1
+  det./ num: A1
   adv: A2
 second1:
-  (unit of time) n: A1
+  n: A1
 secondary:
   adj: B1
 secondly:
@@ -4895,9 +4887,9 @@ service:
 session:
   n: B2
 set:
-  (put) v: B1
+  v: B1
 set:
-  (group) n: B1
+  n: B1
 setting:
   n: B1
 settle:
@@ -5291,9 +5283,9 @@ step:
   n: A2
   v: B2
 stick:
-  (push into/attach) v: B1
+  v: B1
 stick:
-  (piece of wood) n: B1
+  n: B1
 sticky:
   adj: B2
 stiff:
