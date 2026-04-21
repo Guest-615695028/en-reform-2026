@@ -221,6 +221,7 @@ Trisyllabic shortening is a commun practice in Latinate English words, where a s
 - -`[ae]n(ce|t)`;
 - -`[aiu]te`;
 - -`a[lr]`;
+- -`[ao]ry`;
 - -itude;
 - -ity;
 - -ive;
