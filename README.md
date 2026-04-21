@@ -4,9 +4,12 @@ As the second most spoken (after Grater Chinese) and the most widespred tung (tu
 Let the holders of IELTS, TOEFL, TOEIC, PTE, and [Duölingo English Test](https://englishtest.duolingo.com) be known to us. 
 
 ## Coppyright
-CC0 2024 Guest-615695028, allóuwing coppying and sharing in all languiges.
+CC0 2024 Guest-615695028, alluwing coppying and sharing in all languiges.
 
 ## When to reform?
 - Start: Today
 - Dedline: October 14, 2066 (1000th year's day of the Battle of Haestings)
 - Exemptions: The onely exemptions are computator programs.
+
+## Examples: The Oxford 3000™ and The Oxford 5000™
+_The Oxford 3000_ is the list of the 3000 core words in English, whose expansion _The Oxford 5000_ is with 2000 words listed outside _The Oxford 3000_. Public tables shall not be coppyrighted, and dangling inflexions (such as plural -s, non-finite -ed/-ing) are converted to base words.

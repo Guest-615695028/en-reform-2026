@@ -232,9 +232,3 @@ Some of spellings are occasionally to be givven in dictionaries for pronuntiatio
 
 ## Notes
 Norman-French words and academic words that entered before [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) and cater to the [Great vocal Shift](https://en.wikipedia.org/wiki/Great_vocal_Shift), are not considered loanwords layerwise, neither du the Japanese and Koreans to Chinese imports before [the Fall of Chinese Empire to Mongols](https://en.wikipedia.org/wiki/Battle_of_Yamen).
-
-## Attachments
-### The Oxford 3000™
-_The Oxford 3000_ is the list of the 3000 core words in English.
-### The Oxford 5000™
-_The Oxford 5000_ is an expanded core word list for advanced lerners of English, with 2000 words listed outside _The Oxford 3000_.
