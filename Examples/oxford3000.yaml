@@ -194,8 +194,8 @@ although:
   conj: {alldho: 6}
 always:
   adv: allways
-amazed:
-  adj: 3
+amaze:
+  v: 3
 amazing:
   adj: 3
 ambition:
@@ -863,7 +863,7 @@ chart:
 chat:
   [n,v]: 3
 cheap:
-  [adj,adv]: 3
+  a: 3
 cheat:
   [n,v]: 3
 check:
@@ -1056,8 +1056,8 @@ completely:
   adv: 6
 complex:
   [n,adj]: 2
-complicated:
-  adj: [2,8]
+complicate:
+  v: [2,8]
 component:
   n: 2
 computer:
@@ -1314,169 +1314,164 @@ cut:
 cycle:
   [n,v]: 2
 dad:
-  n: A1
+  n: 2
 daily:
-  adj: A2
-  adv: B1
+  a: 2
 damage:
-  [n,v]: B1
+  [n,v]: dammage
 dance:
-  [n,v]: A1
+  [n,v]: 2
 dancer:
-  n: A1
+  n: 2
 dancing:
-  n: A1
+  n: 2
 danger:
-  n: A2
+  n: dainger
 dangerous:
-  adj: A1
+  adj: {-periculous: 4, -risky: 2}
 dark:
-  adj: A1
-  n: A2
+  [adj,n]: 2
 data:
-  n: A2
+  n: 2
 date:
-  n: A1
-  v: B2
+  [n,v]: 2
 daughter:
-  n: A1
+  n: 2
 day:
-  n: A1
+  n: 2
 dead:
-  adj: A2
+  adj: ded
 deal:
-  v: A2
-  n: B1
+  [n,v]: 2
 dear:
-  adj: A1
-  exclam: A2
+  [adj,exclam]: 2
 death:
-  n: A2
+  n: deth
 debate:
-  [n,v]: B2
+  [n,v]: 4
 debt:
-  n: B2
+  n: det
 decade:
-  n: B1
+  n: deccade
 December:
-  n: A1
+  n: 4
 decent:
-  adj: B2
+  adj: 2
 decide:
-  v: A1
+  v: 4
 decision:
-  n: A2
+  n: 4
 declare:
-  v: B2
+  v: 5
 decline:
-  [n,v]: B2
+  [n,v]: 5
 decorate:
-  v: B1
+  v: 2
 decoration:
-  n: B2
+  n: [6,2]
 decrease:
-  [n,v]: B2
+  n: 2
+  v: 5
 deep:
-  adj: A2
-  adv: B1
+  a: 2
 deeply:
-  adv: B2
+  adv: 2
 defeat:
-  [n,v]: B2
+  [n,v]: 4
 defence:
-  n: B2
+  n: {defense: 4}
 defend:
-  v: B2
+  v: 4
 define:
-  v: B1
+  v: 4
 definite:
-  adj: B1
+  adj: 2
 definitely:
-  adv: A2
+  adv: 2
 definition:
-  n: B1
+  n: [6,2]
 degree:
-  n: A2
+  n: 5
 delay:
-  [n,v]: B2
+  [n,v]: 4
 deliberate:
-  adj: B2
+  adj: 4
 deliberately:
-  adv: B2
+  adv: 4
 delicious:
-  adj: A1
+  adj: 4
 delight:
-  [n,v]: B2
+  [n,v]: {delite: 4}
 delighted:
-  adj: B2
+  adj: {delited: 4}
 deliver:
-  v: B1
+  v: {delivver: 4}
 delivery:
-  n: B2
+  n: {delivver: 5}
 demand:
-  [n,v]: B2
+  [n,v]: 4
 demonstrate:
-  v: B2
+  v: 4
 dentist:
-  n: A2
+  n: 2
 deny:
-  v: B2
+  v: 4
 department:
-  n: A2
+  n: 4
 departure:
-  n: B1
+  n: 4
 depend:
-  v: A2
-depressed:
-  adj: B2
+  v: 4
+depress:
+  v: 5
 depressing:
-  adj: B2
+  adj: 5
 depth:
-  n: B2
+  n: 4
 describe:
-  v: A1
+  v: 6
 description:
-  n: A1
+  n: 6
 desert:
-  n: A2
-  v: B2
+  n: {dezzert: 2}
+  v: 4
 deserve:
-  v: B2
+  v: 4
 design:
-  [n,v]: A1
+  [n,v]: 4
 designer:
-  n: A2
+  n: 4
 desire:
-  [n,v]: B2
+  [n,v]: 4
 desk:
-  n: A1
+  n: 2
 desperate:
-  adj: B2
+  adj: 2
 despite:
-  prep: B1
+  prep: 2
 destination:
-  n: B1
+  n: 2
 destroy:
-  v: A2
+  v: {destruct: 2}
 detail:
-  n: A1
-  v: B2
+  n: 2
+  v: 4
 detailed:
-  adj: B2
+  adj: 4
 detect:
-  v: B2
+  v: 4
 detective:
-  n: A2
+  n: 4
 determine:
-  v: B1
+  v: 4
 determined:
-  adj: B1
+  adj: 4
 develop:
-  v: A2
+  v: {devellop, 4} # Too many meanings
 development:
-  n: B1
+  n: {devellopment, 4} # Too many meanings
 device:
-  n: A2
+  n: 4
 diagram:
   n: B1
 dialogue:
@@ -1663,7 +1658,7 @@ each:
 ear:
   n: A1
 early:
-  [adj,adv]: A1
+  a: A1
 earn:
   v: A2
 earth:
@@ -2043,7 +2038,7 @@ fashion:
 fashionable:
   adj: B1
 fast:
-  [adj,adv]: A1
+  a: A1
 fasten:
   v: B1
 fat:
@@ -2498,7 +2493,7 @@ happiness:
 happy:
   adj: A1
 hard:
-  [adj,adv]: A1
+  a: A1
 hardly:
   adv: B1
 harm:
@@ -3045,7 +3040,7 @@ last1:
 last1:
   v: A2
 late:
-  [adj,adv]: A1
+  a: A1
 later:
   adv: A1
   adj: A2
@@ -3177,7 +3172,7 @@ little:
 live1:
   v: A1
 live2:
-  [adj,adv]: B1
+  a: B1
 lively:
   adj: B2
 living:
@@ -3202,9 +3197,9 @@ logical:
 lonely:
   adj: B1
 long1:
-  [adj,adv]: A1
+  a: A1
 long-term:
-  [adj,adv]: B2
+  a: B2
 look:
   v: A1
   n: A2
@@ -3223,7 +3218,7 @@ lost:
 lot:
   [pron,det,adv]: A1
 loud:
-  [adj,adv]: A2
+  a: A2
 loudly:
   adv: A2
 love:
@@ -3231,7 +3226,7 @@ love:
 lovely:
   adj: A2
 low:
-  [adj,adv]: A2
+  a: A2
   n: B2
 lower:
   v: B2
@@ -3592,7 +3587,7 @@ news:
 newspaper:
   n: A1
 next:
-  [adj,adv]: A1
+  a: A1
   n: B1
 next to:
   prep: A1
@@ -3738,9 +3733,9 @@ one:
 onion:
   n: A1
 online:
-  [adj,adv]: A1
+  a: A1
 only:
-  [adj,adv]: A1
+  a: A1
 onto:
   prep: A2
 open:
@@ -3824,7 +3819,7 @@ oven:
 over:
   [prep,adv]: A1
 overall:
-  [adj,adv]: B2
+  a: B2
 owe:
   v: B2
 own:
@@ -4198,7 +4193,7 @@ pressure:
 pretend:
   v: B1
 pretty:
-  [adj,adv]: A1
+  a: A1
 prevent:
   v: A2
 previous:
@@ -5309,7 +5304,7 @@ storm:
 story:
   n: A1
 straight:
-  [adj,adv]: A2
+  a: A2
 strange:
   adj: A2
 stranger:
@@ -5830,7 +5825,7 @@ unconscious:
 under:
   [prep,adv]: A1
 underground:
-  [adj,adv]: A2
+  a: A2
 understand:
   v: A1
 understanding:
@@ -6182,7 +6177,7 @@ working:
 world:
   n: A1
 worldwide:
-  [adj,adv]: B1
+  a: B1
 worried:
   adj: A2
 worry:
