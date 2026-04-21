@@ -213,6 +213,34 @@ We propose undooïng these changes. Other examples of older spellings beïng mor
 - **_tung_** for _tongue_, and many others.
 Some of spellings are occasionally to be givven in dictionaries for pronuntiation, as beïng far from words of their origins.
 
+## Trisyllabic shortening
+Trisyllabic shortening is a commun practice in Latinate English words, where a stressed one-letter vocal is short before a lengthening combination. This occurs in every letter other than U, and common with suffixes:
+- -a, -us, -um
+- -able, -ible, -uble;
+- -ate, -ite, -ute;
+- -al, -ar;
+- -itude;
+- -ity;
+- -ive;
+- -ment;
+- -nomy;
+- -ous;
+- -ure.
+
+Likewise is there bisyllabic shortening but rarer. The onely bisyllabic shortening endings are:
+- -ic;
+- -id;
+- -i?ion.
+
+Anglo-Saxon suffixes do not trigger trisyllabic shortening. They are remooved when one analyses the length of one-letter vocals.
+1. Declensions: -(e)s;
+2. Conjugations: -ed, -en, -(e)s, -(e)st, -ing;
+3. Comparation: -er, -est;
+4. Noun formations: -dom, -er, -hood, -ness, -ship;
+5. Diminutives: -let, -ling;
+6. Verb formations: -en;
+7. Adjective/Adverb formations: -ful, -ly, -less, -lìke, -y.
+
 ## Added combining marks in TSR 2.0
 - Diëresis (¨): seperates the vocal (ä, ë, ï, ö, ü, ÿ) from the folloed letter.
 - Accent mark (´), Second accent mark(`): optional accent marks, used if they are not at the first place, or telling apart from sign words.
@@ -220,13 +248,6 @@ Some of spellings are occasionally to be givven in dictionaries for pronuntiatio
 - Circumflex/Hat (^): marks the accented single-letter long vocals before:
    1. Two or more consonant letters, unless otherwise specified;
    2. [Two or more unaccented syllables](https://en.wikipedia.org/wiki/Trisyllabic_laxing) not counting [Anglo-Saxon suffixes](../EWR/suffixes.md) (excluding slang, neologism, and free morphemes):
-      1. Declensions: -(e)s;
-      2. Conjugations: -ed, -en, -(e)s, -(e)st, -ing;
-      3. Adjective inflexions: -er, -est, -ly; (There is no declension but comparation in English, also -ly froming adverbial form)
-      4. Noun formations: -dom, -er, -hood, -ness, -ship;
-      5. Diminutives: -let, -ling;
-      6. Verb formations: -en;
-      7. Adjective formations: -ful, -ly, -less, -lìke, -y.
    3. One consonant letter and then -ic, -id, -it.
 - Interpunct/Middle dot (·): separate consonant letters that forms one of the "combinations preserved" or a multigraph consonant, or written before consonantal W/Y to separate itself from the vocal letter before.
 

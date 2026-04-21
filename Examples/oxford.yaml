@@ -180,7 +180,7 @@ allow:
 almost:
   adv: allmost
 alone:
-  adj./adv: 3
+  adj,adv: 3
 along:
   [prep,adv]: 3
 already:
@@ -240,7 +240,7 @@ annoying:
 annual:
   adj: 1
 another:
-  det./pron: -1
+  det,pron: -1
 answer:
   [n,v]: anser
 anxious:
@@ -626,7 +626,7 @@ borrow:
 boss:
   n: 2
 both:
-  det./pron: boath
+  det,pron: boath
 bother:
   v: budther
 bottle:
@@ -1652,49 +1652,49 @@ duty:
 DVD:
   n: -1
 each:
-  det./pron./adv: A1
+  [det,pron,adv]: 1
 ear:
-  n: A1
+  n: 1
 early:
-  a: A1
+  a: erly
 earn:
-  v: A2
+  v: ern
 earth:
-  n: A2
+  n: erth
 earthquake:
-  n: B1
+  n: erthquake
 easily:
-  adv: A2
+  adv: 1
 east:
-  [n,adj,adv]: A1
+  [n,adj,adv]: 1
 eastern:
-  adj: B1
+  adj: 1
 easy:
-  adj: A1
+  adj: 1
 eat:
-  v: A1
+  v: 1
 economic:
-  adj: B1
+  adj: [5,1]
 economy:
-  n: B1
+  n: 3
 edge:
-  n: B1
+  n: 3
 edit:
-  v: B2
+  v: 3
 edition:
-  n: B2
+  n: 3
 editor:
-  n: B1
+  n: 3
 educate:
-  v: B1
+  v: [1,5]
 educated:
-  adj: B1
+  adj: [5,1]
 education:
-  n: A2
+  n: [5,1]
 educational:
-  adj: B1
+  adj: [5,1]
 effect:
-  n: A2
+  n: 4
 effective:
   adj: B1
 effectively:
@@ -1712,7 +1712,7 @@ eighteen:
 eighty:
   num: A1
 either:
-  [det./pron,adv]: A2
+  [det,pron,adv]: A2
 elderly:
   adj: B2
 elect:
@@ -2082,7 +2082,7 @@ fence:
 festival:
   n: A1
 few:
-  [det./adj,pron]: A1
+  [det,adj,pron]: A1
 fiction:
   n: A2
 field:
@@ -2134,7 +2134,7 @@ fire:
 firm:
   n: B2
 first:
-  [det./num,adv]: A1
+  [det,num,adv]: A1
   n: A2
 firstly:
   adv: A2
@@ -2398,7 +2398,7 @@ good:
   adj: A1
   n: A2
 goodbye:
-  exclam./n: A1
+  exclam,n: A1
 goods:
   n: B1
 govern:
@@ -2471,7 +2471,7 @@ habit:
 hair:
   n: A1
 half:
-  [n,det./pron]: A1
+  [n,det,pron]: A1
   adv: A2
 hall:
   n: A2
@@ -2546,7 +2546,7 @@ helicopter:
 hell:
   n: B2
 hello:
-  exclam./n: A1
+  exclam,n: A1
 help:
   [n,v]: A1
 helpful:
@@ -3081,7 +3081,7 @@ learn:
 learning:
   n: A2
 least:
-  [det./pron,adv]: A2
+  [det,pron,adv]: A2
 leather:
   n: B1
 leave:
@@ -3104,7 +3104,7 @@ lend:
 length:
   n: B1
 less:
-  [det./pron,adv]: A2
+  [det,pron,adv]: A2
 lesson:
   n: A1
 let:
@@ -3165,7 +3165,7 @@ listener:
 literature:
   n: B1
 little:
-  [adj,det./pron]: A1
+  [adj,det,pron]: A1
   adv: A2
 live1:
   v: A1
@@ -3276,7 +3276,7 @@ manager:
 manner:
   n: A2
 many:
-  det./pron: A1
+  det,pron: A1
 map:
   n: A1
   v: B2
@@ -3455,11 +3455,11 @@ moon:
 moral:
   [n,adj]: B2
 more:
-  [det./pron,adv]: A1
+  [det,pron,adv]: A1
 morning:
   n: A1
 most:
-  [det./pron,adv]: A1
+  [det,pron,adv]: A1
 mostly:
   adv: A2
 mother:
@@ -3484,7 +3484,7 @@ movement:
 movie:
   n: A1
 much:
-  [det./pron,adv]: A1
+  [det,pron,adv]: A1
 mud:
   n: B1
 multiple:
@@ -3564,7 +3564,7 @@ neighbour:
 neighbourhood:
   n: B1
 neither:
-  det./pron: A2
+  det,pron: A2
   adv: B1
 nerve:
   n: B2
@@ -3614,7 +3614,7 @@ noisy:
 none:
   pron: A2
 nor:
-  conj./adv: B1
+  conj,adv: B1
 normal:
   adj: A2
   n: B1
@@ -3716,7 +3716,7 @@ oh:
 oil:
   n: A2
 OK:
-  [exclam,adj./adv]: A1
+  [exclam,adj,adv]: A1
 old:
   adj: A1
 old-fashioned:
@@ -3727,7 +3727,7 @@ once:
   adv: A1
   conj: B1
 one:
-  [num./det,pron]: A1
+  [num,det,pron]: A1
 onion:
   n: A1
 online:
@@ -3786,7 +3786,7 @@ original:
 originally:
   adv: B1
 other:
-  adj./pron: A1
+  adj,pron: A1
 otherwise:
   adv: B2
 ought:
@@ -3798,7 +3798,7 @@ ours:
 ourselves:
   pron: A2
 out:
-  adv./prep: A1
+  adv,prep: A1
 outcome:
   n: B2
 outdoor:
@@ -3821,7 +3821,7 @@ overall:
 owe:
   v: B2
 own:
-  adj./pron: A1
+  adj,pron: A1
   v: A2
 owner:
   n: A2
@@ -3930,7 +3930,7 @@ pepper:
 per:
   prep: A2
 per cent:
-  [n,adj./adv]: A2
+  [n,adj,adv]: A2
 percentage:
   n: B1
 perfect:
@@ -4808,7 +4808,7 @@ seat:
   n: A2
   v: B2
 second1:
-  det./ num: A1
+  det, num: A1
   adv: A2
 second1:
   n: A1
@@ -4894,7 +4894,7 @@ seventeen:
 seventy:
   num: A1
 several:
-  det./pron: A2
+  det,pron: A2
 severe:
   adj: B2
 sex:
@@ -5363,7 +5363,7 @@ successful:
 successfully:
   adv: B1
 such:
-  det./pron: A2
+  det,pron: A2
 sudden:
   adj: B1
 suddenly:
@@ -5596,7 +5596,7 @@ thirteen:
 thirty:
   num: A1
 this:
-  det./pron: A1
+  det,pron: A1
   adv: B1
 though:
   [conj,adv]: B1
@@ -5615,7 +5615,7 @@ throat:
 through:
   [prep,adv]: A1
 throughout:
-  prep./adv: B1
+  prep,adv: B1
 throw:
   v: A2
 Thursday:
@@ -5631,7 +5631,7 @@ tie:
 tight:
   adj: B1
 till:
-  conj./prep: B1
+  conj,prep: B1
 time:
   n: A1
   v: B2
@@ -5869,7 +5869,7 @@ unnecessary:
 unpleasant:
   adj: B1
 until:
-  conj./prep: A1
+  conj,prep: A1
 unusual:
   adj: A2
 up:
@@ -6069,9 +6069,9 @@ western:
 wet:
   adj: A2
 what:
-  pron./det: A1
+  pron,det: A1
 whatever:
-  det./pron: B1
+  det,pron: B1
 wheel:
   n: A2
 when:
@@ -6087,7 +6087,7 @@ wherever:
 whether:
   conj: B1
 which:
-  pron./det: A1
+  pron,det: A1
 while:
   conj: A2
   n: B1
@@ -6103,7 +6103,7 @@ whole:
 whom:
   pron: B2
 whose:
-  det./pron: A2
+  det,pron: A2
 why:
   adv: A1
 wide:
@@ -7042,7 +7042,7 @@ frustrated: adj. C1
 frustrating: adj. C1
 frustration: n. C1
 fulfil: v. B2
-full-time: adj./adv. B2
+full-time: adj,adv. B2
 functional: adj. C1
 fundamentally: adv. B2
 fundraising: n. C1
@@ -7546,7 +7546,7 @@ partial: adj. C1
 partially: adv. C1
 participation: n. B2
 partnership: n. B2
-part-time: adj./adv. B2
+part-time: adj,adv. B2
 passing: n. C1
 passionate: adj. B2
 passive: adj. C1
