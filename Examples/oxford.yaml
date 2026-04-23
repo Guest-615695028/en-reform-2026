@@ -144,7 +144,7 @@ ago:
 agree:
   v: 4
 agreement:
-  n: 4
+  n: {-concordance: 5}
 ah:
   exclam: 1
 ahead:
@@ -262,7 +262,7 @@ anywhere:
 apart:
   adv: 1
 apartment:
-  n: -housing
+  n: 3
 apologize:
   v: 3
 app:
@@ -276,7 +276,7 @@ appeal:
 appear:
   v: 4
 appearance:
-  n: apparence
+  n: {-apparence: 4}
 apple:
   n: 1
 application:
@@ -284,7 +284,7 @@ application:
 apply:
   v: 5
 appointment:
-  n: -appointing
+  n: {-appointing: 4}
 appreciate:
   v: [5,8]
 approach:
@@ -292,7 +292,7 @@ approach:
 appropriate:
   adj: 5
 approval:
-  n: {-approoving: 5}
+  n: {-approbation: 5}
 approve:
   v: {approove: 5}
 approximately:
@@ -324,7 +324,7 @@ around:
 arrange:
   v: 4
 arrangement:
-  n: arranging
+  n: {arrange-ment: 4}
 arrest:
   [n,v]: 4
 arrival:
@@ -460,9 +460,9 @@ baseball:
 based:
   adj: 2
 basic:
-  adj: baesic
+  adj: 2
 basically:
-  adv: baesically
+  adv: 2
 basis:
   n: 2
 basketball:
@@ -486,13 +486,13 @@ bear:
 beat:
   [n,v]: 2
 beautiful:
-  adj: butiful
+  adj: bewtiful
 beauty:
-  n: buty
+  n: bewty
 because:
   conj: 4
 become:
-  v: becum
+  v: {becum: 4}
 bed:
   n: 2
 bedroom:
@@ -534,7 +534,7 @@ belt:
 bend:
   [n,v]: 2
 benefit:
-  n: bennefit
+  n: benëfit
 bent:
   adj: 2
 best:
@@ -560,7 +560,7 @@ billion:
 bin:
   n: 2
 biology:
-  n: 3
+  n: {biölögy: 3}
 bird:
   n: 2
 birth:
@@ -582,7 +582,7 @@ blame:
 blank:
   [n,adj]: 3
 blind:
-  adj: blînd
+  adj: bleind
 block:
   [n,v]: 3
 blog:
@@ -660,9 +660,9 @@ breast:
 breath:
   n: breth
 breathe:
-  v: brethe
+  v: 3
 breathing:
-  n: brething
+  n: 3
 bride:
   n: 3
 bridge:
@@ -742,7 +742,7 @@ camera:
 camp:
   [n,v]: 2
 campaign:
-  [n,v]: 5
+  [n,v]: {campane: 5}
 camping:
   n: 2
 campus:
@@ -764,7 +764,7 @@ capable:
 capacity:
   n: 4
 capital:
-  [n,adj]: 2
+  [n,adj]: {capïtal: 2}
 captain:
   n: capten
 capture:
@@ -804,17 +804,17 @@ cat:
 catch:
   [n,v]: 2
 category:
-  n: 2
+  n: {catëgory: [2,6]}
 cause:
   [n,v]: 2
 CD:
   n: -1
 ceiling:
-  n: ceeling
+  n: celing
 celebrate:
-  v: [2,7]
+  v: {celëbrate: [2,7]}
 celebration:
-  n: [7,2]
+  n: {cëlebration: [7,2]}
 celebrity:
   n: 4
 cell:
@@ -876,7 +876,7 @@ cheese:
 chef:
   n: -cwck
 chemical:
-  [n,adj]: khemical
+  [n,adj]: khemmical
 chemistry:
   n: khemmistry
 chest:
@@ -989,9 +989,9 @@ collection:
   n: 5
 college:
   n: 2
-colour:
+colour: &colour
   n: cullor # color
-coloured:
+coloured: &coloured
   adj: cullored # colored
 column:
   n: collumn
@@ -2297,148 +2297,145 @@ furthermore:
 future:
   [n,adj]: 2
 gain:
-  [n,v]: B2
+  [n,v]: 2
 gallery:
-  n: A2
+  n: 2
 game:
-  n: A1
+  n: 2
 gang:
-  n: B2
+  n: 2
 gap:
-  n: A2
+  n: 2
 garage:
-  n: B1
+  n: 2
 garden:
-  n: A1
+  n: 2
 gas:
-  n: A2
+  n: 2
 gate:
-  n: A2
+  n: 2
 gather:
-  v: B1
+  v: gadther
 general:
-  adj: A2
+  adj: jeneral
 generally:
-  adv: B1
+  adv: jenerally
 generate:
-  v: B2
+  v: jenerate
 generation:
-  n: B1
+  n: jeneraton
 generous:
-  adj: B1
+  adj: jenerous
 genre:
-  n: B2
+  n: -jender
 gentle:
-  adj: B1
+  adj: jentle
 gentleman:
-  n: B1
+  n: jentle-man
 geography:
-  n: A1
+  n: jeögraphy
 get:
-  v: A1
+  v: 2
 ghost:
-  n: B1
+  n: goast
 giant:
-  [n,adj]: B1
+  [n,adj]: jiänt
 gift:
-  n: A2
+  n: 2
 girl:
-  n: A1
+  n: 2
 girlfriend:
-  n: A1
+  n: girlfrend
 give:
-  v: A1
+  v: giv
 glad:
-  adj: B1
+  adj: 3
 glass:
-  n: A1
+  n: 3
 global:
-  adj: B1
+  adj: 3
 glove:
-  n: B1
+  n: 3
 go:
-  v: A1
-  n: B1
+  [n,v]: 2
 goal:
-  n: A2
+  n: 2
 god:
-  n: A2
+  n: 2
 gold:
-  [n,adj]: A2
+  [n,adj]: 2
 golf:
-  n: A2
+  n: 2
 good:
-  adj: A1
-  n: A2
+  [n,adj]: gwd
 goodbye:
-  exclam,n: A1
+  [exclam,n]: gwdbye
 goods:
-  n: B1
+  n: gwds
 govern:
-  v: B2
+  v: guvvern
 government:
-  n: A2
+  n: guvverners
 grab:
-  v: B2
+  v: 3
 grade:
-  n: B1
-  v: B2
+  [n,v]: 3
 gradually:
-  adv: B2
+  adv: 3
 graduate:
-  [n,v]: B1
+  [n,v]: 3
 grain:
-  n: B1
+  n: 3
 grand:
-  adj: B2
+  adj: 3
 grandfather:
-  n: A1
+  n: grand-faather
 grandmother:
-  n: A1
+  n: grand-mudther
 grandparent:
-  n: A1
+  n: grand-parent
 grant:
-  [n,v]: B2
+  [n,v]: 3
 grass:
-  n: A2
+  n: 3
 grateful:
-  adj: B1
+  adj: 3
 great:
-  adj: A1
+  adj: grate
 green:
-  [n,adj]: A1
+  [n,adj]: 3
 greet:
-  v: A2
+  v: 3
 grey:
-  [n,adj]: A1
+  [n,adj]: gray # US
 ground:
-  n: A2
+  n: 3
 group:
-  n: A1
+  n: groop
 grow:
-  v: A1
+  v: 3
 growth:
-  n: B1
+  n: 3
 guarantee:
-  [n,v]: B2
+  [n,v]: {garrantee: [8,2]}
 guard:
-  [n,v]: B1
+  [n,v]: gard
 guess:
-  [n,v]: A1
+  [n,v]: gess
 guest:
-  n: A2
+  n: gest
 guide:
-  [n,v]: A2
+  [n,v]: gide
 guilty:
-  adj: B1
+  adj: gilty
 guitar:
-  n: A1
+  n: {gittar: [5]}
 gun:
-  n: A2
+  n: 2
 guy:
-  n: A2
+  n: 2
 gym:
-  n: A1
+  n: -jymnasium
 habit:
   n: A2
 hair:

@@ -13,6 +13,16 @@ Planning a "stepwise" reform, it noted that spelling should be changed, most of 
 In 2021 is there allso a proposition named [Traditional Spelling Revised](https://en.wikipedia.org/wiki/Traditional_Spelling_Revised), sponsored and afforded by English Spelling Society, with a degree of support and publicity reviewed in March 2025.
 
 ## Detail table
+### Letters
+|Letter|Name|Letter|Name|Letter|Name|Letter|Name|Letter|Name
+|-|-|-|-|-|-|-|-|-|-
+|A a|a|B b|be|C c|ce|D d|de|E e|e
+|F f|ef|G g|je|H h|aitch|I i|i|J j|ja
+|K k|ka|L l|el|M m|em|N n|en|O o|o
+|P p|pe|Q q|cu|R r|ar|S s|es|T t|te
+|U u|u|V v|ve|W w|oo|X x|ex|Y y|ye
+|Z z|ze
+
 ### vocals
 For single letters, uppercase stands for long vocals with loërcase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 |Stressed vocal|Sequence
@@ -216,22 +226,24 @@ Some of spellings are occasionally to be givven in dictionaries for pronuntiatio
 
 ## Trisyllabic shortening
 Trisyllabic shortening is a commun practice in Latinate English words, where a stressed one-letter vocal is short before a lengthening combination. This occurs in every letter other than U, and common with suffixes:
-- -a, -us, -um
+- -a, -us, -um, -o
 - -`[aiu]ble`;
-- -`[ae]n(ce|t)`;
+- -`[ae]nt`, `[ae]nce`;
 - -`[aiu]te`;
-- -`a[lr]`;
+- -`a[lnr]`;
 - -`[ao]ry`;
+- -graphy;
 - -itude;
 - -ity;
 - -ive;
+- -logy;
 - -ment;
 - -nomy;
 - -ous;
 - -ure.
 
 Likewise is there bisyllabic shortening but rarer. The onely bisyllabic shortening endings are:
-- -ic;
+- -ic, -iac;
 - -id;
 - -i?ion.
 
