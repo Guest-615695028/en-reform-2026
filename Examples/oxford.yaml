@@ -3135,13 +3135,13 @@ long-term:
 look:
   [n,v]: lwk
 loose:
-  adj: 2
+  adj: looce
 lord:
   n: 2
 lorry:
   n: 2
 lose:
-  v: 2 # Wrongly pronounced as "loose".
+  v: 2 # Wrongly pronounced as "looze".
 loss:
   n: 2
 lost:
@@ -3171,70 +3171,67 @@ lung:
 luxury:
   n: 2
 machine:
-  n: A1
+  n: makhine # Wrongly pronounced Frenchly as "ma-SHEEN"
 mad:
-  adj: B1
+  adj: 2
 magazine:
-  n: A1
+  n: {maggazene: [7,2]}
 magic:
-  [n,adj]: B1
+  [n,adj]: madgic
 mail:
-  [n,v]: A2
+  [n,v]: 2
 main:
-  adj: A1
+  adj: 2
 mainly:
-  adv: B1
+  adv: 2
 maintain:
-  v: B2
+  v: 2
 major:
-  adj: A2
+  adj: 2
 majority:
-  n: B2
+  n: 4
 make:
-  v: A1
-  n: B2
+  [n,v]: 2
 male:
-  [n,adj]: A2
+  [n,adj]: 2
 mall:
-  n: B1
+  n: 2
 man:
-  n: A1
+  n: 2
 manage:
-  v: A2
+  v: mannage
 management:
-  n: B1
+  n: mannaging
 manager:
-  n: A2
+  n: mannager
 manner:
-  n: A2
+  n: 2
 many:
-  det,pron: A1
+  det,pron: -1
 map:
-  n: A1
-  v: B2
+  [n,v]: 2
 March:
-  n: A1
+  n: 2
 mark:
-  [n,v]: A2
+  [n,v]: 2
 market:
-  n: A1
-  v: B1
+  [n,v]: 2
 marketing:
-  n: B1
+  n: 2
 marriage:
-  n: B1
+  n: 2
 married:
-  adj: A1
+  adj: 2
 marry:
-  v: A2
+  v: 2
 mass:
-  [n,adj]: B2
+  [n,adj]: 2
 massive:
-  adj: B2
+  adj: 2
 master:
-  [n,v]: B2
+  [n,v]: 2
 match:
-  [ n,v]: A1
+  [n,v]: 2
 matching:
   adj: B2
 material:
@@ -3988,7 +3985,7 @@ plot:
   v: B2
 plus1:
   prep: B1
-  [ adj,conj,n]: B2
+  [adj,conj,n]: B2
 pocket:
   n: A2
 poem:
@@ -4308,7 +4305,7 @@ quotation:
 quote:
   [n,v]: B1
 race:
-  [ n,v]: A2
+  [n,v]: A2
 race:
   n: B1
 racing:
@@ -4539,7 +4536,7 @@ responsible:
 rest:
   n: A2
 rest:
-  [ n,v]: A2
+  [n,v]: A2
 restaurant:
   n: A1
 result:
