@@ -244,7 +244,7 @@ Trisyllabic shortening is a commun practice in Latinate English words, where a s
 Likewise is there bisyllabic shortening but rarer. The onely bisyllabic shortening endings are:
 - -ic, -iac;
 - -id;
-- -i?ion.
+- -`i\ci\v\c?`.
 
 Anglo-Saxon suffixes do not trigger trisyllabic shortening. They are remooved when one analyses the length of one-letter vocals.
 1. Declensions: -(e)s;

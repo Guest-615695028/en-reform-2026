@@ -2525,7 +2525,7 @@ hero:
 hers:
   pron: 2
 herself:
-  pron: 2
+  pron: [2,5]
 hesitate:
   v: 2
 hey:
@@ -2545,7 +2545,7 @@ hill:
 him:
   pron: 2
 himself:
-  pron: 2
+  pron: [2,5]
 hire:
   [n,v]: 2
 his:
@@ -2635,565 +2635,541 @@ hurt:
 husband:
   n: 2
 I:
-  pron: A1
+  pron: 1
 ice:
-  n: A1
+  n: 1
 ice cream:
-  n: A1
+  n: [1,7]
 idea:
-  n: A1
+  n: {ideä: 3}
 ideal:
-  adj: A2
-  n: B2
+  [n,adj]: {ideäl: 3}
 identify:
-  v: A2
+  v: [3,1]
 identity:
-  n: B1
+  n: [3,1]
 if:
-  conj: A1
+  conj: 1
 ignore:
-  v: B1
+  v: 4
 ill:
-  adj: A2
+  a: 1
 illegal:
-  adj: B1
+  adj: 4
 illness:
-  n: A2
+  n: 1
 illustrate:
-  v: B2
+  v: 4
 illustration:
-  n: B2
+  n: [7,4]
 image:
-  n: A2
+  n: 1
 imaginary:
-  adj: B1
+  adj: [3,7]
 imagination:
-  n: B2
+  n: [7,3]
 imagine:
-  v: A1
+  v: imadgine
 immediate:
-  adj: B1
+  adj: 4
 immediately:
-  adv: A2
+  adv: 4
 immigrant:
-  n: B1
+  n: 1
 impact:
-  [n,v]: B1
+  n: 1
+  v: 4
 impatient:
-  adj: B2
+  adj: 4
 imply:
-  v: B2
+  v: 5
 import:
-  [n,v]: B1
+  [n,v]: 4
 importance:
-  n: B1
+  n: 4
 important:
-  adj: A1
+  adj: 4
 impose:
-  v: B2
+  v: 4
 impossible:
-  adj: A2
+  adj: 4
 impress:
-  v: B2
+  v: 5
 impressed:
-  adj: B2
+  adj: 5
 impression:
-  n: B1
+  n: 5
 impressive:
-  adj: B1
+  adj: 5
 improve:
-  v: A1
+  v: improove
 improvement:
-  n: B1
+  n: -improoval
 in:
-  [prep,adv]: A1
+  [prep,adv]: 1
 inch:
-  n: B2
+  n: 1
 incident:
-  n: B2
+  n: 1
 include:
-  v: A1
+  v: 5
 included:
-  adj: A2
+  adj: 5
 including:
-  prep: A2
+  prep: 5
 income:
-  n: B2
+  n: incum
 increase:
-  [n,v]: A2
+  n: 1
+  v: 5
 increasingly:
-  adv: B2
+  adv: 5
 incredible:
-  adj: A2
+  adj: 5
 incredibly:
-  adv: B1
+  adv: 5
 indeed:
-  adv: B1
+  adv: 5
 independent:
-  adj: A2
+  adj: [6,1]
 indicate:
-  v: B1
+  v: 1
 indirect:
-  adj: B1
+  adj: [6,1]
 individual:
-  [n,adj]: A2
+  [n,adj]: [6,1]
 indoor:
-  adj: B1
+  adj: {indore: 4}
 indoors:
-  adv: B1
+  adv: {indores: 4}
 industrial:
-  adj: B2
+  adj: 4
 industry:
-  n: A2
+  n: 4
 infection:
-  n: B2
+  n: 4
 influence:
-  [n,v]: B1
+  [n,v]: 4
 inform:
-  v: B2
+  v: 4
 informal:
-  adj: A2
+  adj: 4
 information:
-  n: A1
+  n: [7,1]
 ingredient:
-  n: B1
+  n: 5
 initial:
-  adj: B2
+  adj: 3
 initially:
-  adv: B2
+  adv: 3
 initiative:
-  n: B2
+  n: 3
 injure:
-  v: B1
+  v: 4
 injured:
-  adj: B1
+  adj: 4
 injury:
-  n: A2
+  n: 1
 inner:
-  adj: B2
+  adj: 1
 innocent:
-  adj: B1
+  adj: 1
 insect:
-  n: A2
+  n: 1
 inside:
-  [prep,adv,n,adj]: A2
+  n: 1
+  [prep,a]: 4
 insight:
-  n: B2
+  n: 1
 insist:
-  v: B2
+  v: 4
 inspire:
-  v: B2
+  v: 4
 install:
-  v: B2
+  v: 5
 instance:
-  n: B2
+  n: 1
 instead:
-  adv: A2
+  adv: insted
 institute:
-  n: B2
+  n: 1
 institution:
-  n: B2
+  n: [7,1]
 instruction:
-  n: A2
+  n: 6
 instructor:
-  n: A2
+  n: 6
 instrument:
-  n: A2
+  n: 6
 insurance:
-  n: B2
+  n: 4
 intelligence:
-  n: B1
+  n: 4
 intelligent:
-  adj: A2
+  adj: 4
 intend:
-  v: B1
+  v: 4
 intended:
-  adj: B2
+  adj: 4
 intense:
-  adj: B2
+  adj: 4
 intention:
-  n: B1
+  n: 4
 interest:
-  [n,v]: A1
+  n: 1
+  v: [1,6]
 interested:
-  adj: A1
+  adj: [1,6]
 interesting:
-  adj: A1
+  adj: [1,6]
 internal:
-  adj: B2
+  adj: 4
 international:
-  adj: A2
+  adj: [6,1]
 internet:
-  n: A1
+  n: [1,7]
 interpret:
-  v: B2
+  v: 4
 interrupt:
-  v: B2
+  v: 7
 interview:
-  [n,v]: A1
+  [n,v]: {intervew: [1,7]}
 into:
-  prep: A1
+  prep: 4
 introduce:
-  v: A1
+  v: [7,1]
 introduction:
-  n: A2
+  n: [7,1]
 invent:
-  v: A2
+  v: 4
 invention:
-  n: A2
+  n: 4
 invest:
-  v: B1
+  v: 4
 investigate:
-  v: B1
+  v: [4,9]
 investigation:
-  n: B2
+  n: [9,4]
 investment:
-  n: B2
+  n: -investiment
 invitation:
-  n: A2
+  n: [6,1]
 invite:
-  v: A2
+  v: 4
 involve:
-  v: A2
+  v: 4
 involved:
-  adj: B1
+  adj: 4
 iron:
-  [n,v]: B1
+  [n,v]: iërn
 island:
-  n: A1
+  n: iland
 issue:
-  n: B1
-  v: B2
+  [n,v]: 1
 IT:
-  n: B1
+  n: -1
 it:
-  pron: A1
+  pron: 1
 item:
-  n: A2
+  n: 1
 its:
-  det: A1
+  [det,pron]: 1
 itself:
-  pron: A2
+  pron: [1,4]
 jacket:
-  n: A1
+  n: 2
 jam:
-  n: A2
+  n: 2
 January:
-  n: A1
+  n: 2
 jazz:
-  n: A2
+  n: 2
 jeans:
-  n: A1
+  n: 2
 jewellery:
-  n: A2
+  n: jewelry
 job:
-  n: A1
+  n: 2
 join:
-  v: A1
+  v: 2
 joke:
-  [n,v]: A2
+  [n,v]: 2
 journal:
-  n: B1
+  n: jurnal
 journalist:
-  n: A2
+  n: jurnalist
 journey:
-  n: A1
+  n: jurney
 joy:
-  n: B2
+  n: 2
 judge:
-  [n,v]: B1
+  [n,v]: 2
 judgement:
-  n: B2
+  n: -jurament
 juice:
-  n: A1
+  n: 2
 July:
-  n: A1
+  n: 4
 jump:
-  [n,v]: A2
+  [n,v]: 2
 June:
-  n: A1
+  n: 2
 junior:
-  adj: B2
+  adj: 2
 just:
-  adv: A1
+  adv: 2
 justice:
-  n: B2
+  n: 2
 justify:
-  v: B2
+  v: 2
 keen:
-  adj: B1
+  adj: 2
 keep:
-  v: A1
+  v: 2
 key:
-  [n,adj]: A1
-  v: B1
+  [n,v,adj]: kee
 keyboard:
-  n: B1
+  n: kee board
 kick:
-  [n,v]: B1
+  [n,v]: 2
 kid:
-  n: A2
+  n: 2
 kill:
-  v: A2
+  v: 2
 killing:
-  n: B1
+  n: 2
 kilometre:
-  n: A1
+  n: kilometer
 kind:
-  n: A1
-  adj: B1
+  [n,adj]: keind
 king:
-  n: A2
+  n: 2
 kiss:
-  [n,v]: B1
+  [n,v]: 2
 kitchen:
-  n: A1
+  n: 2
 knee:
-  n: A2
+  n: 3
 knife:
-  n: A2
+  n: 3
 knock:
-  v: A2
-  n: B1
+  [n,v]: 3
 know:
-  v: A1
+  v: 3
 knowledge:
-  n: A2
+  n: knolledge
 lab:
-  n: A2
+  n: 2
 label:
-  [n,v]: B1
+  [n,v]: 2
 laboratory:
-  n: B1
+  n: [6,2]
 labour:
-  n: B2
+  n: labor
 lack:
-  [n,v]: B1
+  [n,v]: 2
 lady:
-  n: A2
+  n: 2
 lake:
-  n: A2
+  n: 2
 lamp:
-  n: A2
+  n: 2
 land:
-  n: A1
-  v: A2
+  [n,v]: 2
 landscape:
-  n: B2
+  n: 2
 language:
-  n: A1
+  n: 2
 laptop:
-  n: A2
+  n: 2
 large:
-  adj: A1
+  adj: 2
 largely:
-  adv: B2
-last1:
-  det: A1
-  [adv,n]: A2
-last1:
-  v: A2
+  adv: 2
+last:
+  [n,v,a]: 2
 late:
-  a: A1
+  a: 2
 later:
-  adv: A1
-  adj: A2
+  a: 2
 latest:
-  adj: B1
-  n: B2
+  [n,a]: 2
 laugh:
-  [n,v]: A1
+  [n,v]: laff
 laughter:
-  n: A2
+  n: lafter
 launch:
-  [n,v]: B2
+  [n,v]: 2
 law:
-  n: A2
+  n: 2
 lawyer:
-  n: A2
+  n: 2
 lay:
-  v: B1
+  v: 2
 layer:
-  n: B1
+  n: 2
 lazy:
-  adj: A2
+  adj: 2
 lead1:
-  v: A2
-  n: B1
+  [n,v]: 2
 leader:
-  n: A2
+  n: 2
 leadership:
-  n: B2
+  n: 2
 leading:
-  adj: B1
+  adj: 2
 leaf:
-  n: B1
+  n: 2
 league:
-  n: B2
+  n: 2
 lean:
-  v: B2
+  v: 2
 learn:
-  v: A1
+  v: lern
 learning:
-  n: A2
+  n: lerning
 least:
-  [det,pron,adv]: A2
+  [det,pron,adv]: 2
 leather:
-  n: B1
+  n: 2
 leave:
-  v: A1
-  n: B2
+  [n,v]: 2
 lecture:
-  [n,v]: A2
+  [n,v]: 2
 left:
-  [adj,adv,n]: A1
+  [n,a]: 2
 leg:
-  n: A1
+  n: 2
 legal:
-  adj: B1
+  adj: 2
 leisure:
-  n: B1
+  n: lezzure
 lemon:
-  n: A2
+  n: lemmon
 lend:
-  v: A2
+  v: 2
 length:
-  n: B1
+  n: 2
 less:
-  [det,pron,adv]: A2
+  [det,pron,adv]: 2
 lesson:
-  n: A1
+  n: 2
 let:
-  v: A1
+  v: 2
 letter:
-  n: A1
+  n: 2
 level:
-  n: A2
-  adj: B1
-  v: B2
+  [n,v,adj]: levvel
 library:
-  n: A1
+  n: 2
 licence:
-  n: B2
-lie1:
-  v: A1
-lie2:
-  [ n,v]: B1
+  n: 2
+lie:
+  [n,v]: 2
 life:
-  n: A1
+  n: 2
 lifestyle:
-  n: A2
+  n: life style
 lift:
-  [n,v]: A2
+  [n,v]: 2
 light:
-  [ n,adj]: A1
-  v: A2
-light:
-  adj: A2
+  [n,v,adj]: 2
 like:
-  prep: A1
-like:
-  v: A1
-  n: B1
+  [n,v,prep]: 2
 likely:
-  adj: A2
+  adj: 2
 limit:
-  [n,v]: B1
+  [n,v]: limmit
 limited:
-  adj: B2
+  adj: limmited
 line:
-  n: A1
-  v: B2
+  [n,v]: 2
 link:
-  [n,v]: A2
+  [n,v]: 2
 lion:
-  n: A1
+  n: liön
 lip:
-  n: B1
+  n: 2
 liquid:
-  [n,adj]: B1
+  [n,adj]: 2
 list:
-  [n,v]: A1
+  [n,v]: 2
 listen:
-  v: A1
+  v: lissen
 listener:
-  n: A2
+  n: lissener
 literature:
-  n: B1
+  n: [2,6]
 little:
-  [adj,det,pron]: A1
-  adv: A2
+  [a,det,pron]: 2
 live1:
-  v: A1
+  v: liv
 live2:
   a: B1
 lively:
-  adj: B2
+  adj: 2
 living:
-  [n,adj]: B1
+  [n,adj]: livving
 load:
-  [n,v]: B2
+  [n,v]: 2
 loan:
-  n: B2
+  n: 2
 local:
-  adj: A1
-  n: B1
+  [n,adj]: 2
 locate:
-  v: B1
+  v: [2,4]
 located:
-  adj: B1
+  adj: [2,4]
 location:
-  n: B1
+  n: [4,2]
 lock:
-  [n,v]: A2
+  [n,v]: 4
 logical:
-  adj: B2
+  adj: 2
 lonely:
-  adj: B1
-long1:
-  a: A1
+  adj: 2
+long:
+  a: 2
 long-term:
-  a: B2
+  a: [2,7]
 look:
-  v: A1
-  n: A2
+  [n,v]: lwk
 loose:
-  adj: B2
+  adj: 2
 lord:
-  n: B2
+  n: 2
 lorry:
-  n: A2
+  n: 2
 lose:
-  v: A1
+  v: 2 # Wrongly pronounced as "loose".
 loss:
-  n: B1
+  n: 2
 lost:
-  adj: A2
+  adj: 2
 lot:
-  [pron,det,adv]: A1
+  [pron,det,adv]: 2
 loud:
-  a: A2
+  a: 2
 loudly:
-  adv: A2
+  adv: 2
 love:
-  [n,v]: A1
+  [n,v]: luv
 lovely:
-  adj: A2
+  adj: luvly
 low:
-  a: A2
-  n: B2
+  [n,a]: 2
 lower:
-  v: B2
+  v: 2
 luck:
-  n: A2
+  n: 2
 lucky:
-  adj: A2
+  adj: 2
 lunch:
-  n: A1
+  n: 2
 lung:
-  n: B2
+  n: 2
 luxury:
-  n: B1
+  n: 2
 machine:
   n: A1
 mad:
