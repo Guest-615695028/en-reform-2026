@@ -12,4 +12,6 @@ CC0 2024 Guest-615695028, allouïng coppying and sharing in all languiges.
 - Exemptions: The onely exemptions are computator programs, trademarks, and italicized loanwords.
 
 ## Examples: The Oxford 3000™ and The Oxford 5000™
-_The Oxford 3000_ is the list of the 3000 core words in English, whose expansion includes _The Oxford 5000_ with 2000 words listed outside _The Oxford 3000_. Public tables shall not be coppyrighted, and dangling inflexions (such as plural -s, non-finite -ed/-ing) are converted to base words.
+_The Oxford 3000_ is the list of the 3000 core words in English, whose expansion includes _The Oxford 5000_ with 2000 words listed outside _The Oxford 3000_, wherein dangling inflexions (such as plural -s, non-finite -ed/-ing) are converted to base words.
+
+Public tables shall not be coppyrighted.
