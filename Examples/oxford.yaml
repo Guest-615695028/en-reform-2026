@@ -2477,173 +2477,163 @@ have to:
 he:
   pron: 2
 head:
-  n: A1
-  v: B1
+  [n,v]: hed
 headache:
-  n: A2
+  n: hed ake
 headline:
-  n: B1
+  n: hedline
 health:
-  n: A1
+  n: helth
 healthy:
-  adj: A1
+  adj: helthy
 hear:
-  v: A1
+  v: 2
 hearing:
-  n: B2
+  n: 2
 heart:
-  n: A2
+  n: hart
 heat:
-  [n,v]: A2
+  [n,v]: 2
 heating:
-  n: B1
+  n: 2
 heaven:
-  n: B2
+  n: hevven
 heavily:
-  adv: B1
+  adv: hevvily
 heavy:
-  adj: A2
+  adj: hevvy
 heel:
-  n: B2
+  n: 2
 height:
-  n: A2
+  n: hight
 helicopter:
-  n: B1
+  n: [6,2]
 hell:
-  n: B2
+  n: 2
 hello:
-  exclam,n: A1
+  exclam,n: 2
 help:
-  [n,v]: A1
+  [n,v]: 2
 helpful:
-  adj: A2
+  adj: 2
 her:
-  [pron,det]: A1
+  [pron,det]: 2
 here:
-  adv: A1
+  adv: 2
 hero:
-  n: A2
+  n: 2
 hers:
-  pron: A2
+  pron: 2
 herself:
-  pron: A2
+  pron: 2
 hesitate:
-  v: B2
+  v: 2
 hey:
-  exclam: A1
+  exclam: 2
 hi:
-  exclam: A1
+  exclam: 2
 hide:
-  v: A2
+  v: 2
 high:
-  adj: A1
-  adv: A2
-  n: B2
+  [n,a]: 2
 highlight:
-  [n,v]: B1
+  [n,v]: [2,6]
 highly:
-  adv: B1
+  adv: 2
 hill:
-  n: A2
+  n: 2
 him:
-  pron: A1
+  pron: 2
 himself:
-  pron: A2
+  pron: 2
 hire:
-  v: B1
-  n: B2
+  [n,v]: 2
 his:
-  det: A1
-  pron: A2
+  [det,pron]: 2
 historic:
-  adj: B1
+  adj: 5
 historical:
-  adj: B1
+  adj: 5
 history:
-  n: A1
+  n: 2
 hit:
-  [n,v]: A2
+  [n,v]: 2
 hobby:
-  n: A1
+  n: 2
 hockey:
-  n: A2
+  n: 2
 hold:
-  v: A2
-  n: B2
+  [n,v]: 2
 hole:
-  n: A2
+  n: 2
 holiday:
-  n: A1
+  n: holliday
 hollow:
-  adj: B2
+  adj: 2
 holy:
-  adj: B2
+  adj: 2
 home:
-  [n,adv]: A1
-  adj: A2
+  [n,a]: 2
 homework:
-  n: A1
+  n: home work
 honest:
-  adj: B1
+  adj: onnest
 honour:
-  [n,v]: B2
+  [n,v]: onnor
 hope:
-  v: A1
-  n: A2
+  [n,v]: 2
 horrible:
-  adj: B1
+  adj: 2
 horror:
-  n: B1
+  n: 2
 horse:
-  n: A1
+  n: 2
 hospital:
-  n: A1
+  n: 2
 host:
-  n: B1
-  v: B2
+  [n,v]: hoast
 hot:
-  adj: A1
+  adj: 2
 hotel:
-  n: A1
+  n: -hostel
 hour:
-  n: A1
+  n: 'our
 house:
-  n: A1
-  v: B2
+  n: houce
+  v: house
 household:
-  n: B2
+  n: houce-hold
 housing:
-  n: B2
+  n: 2
 how:
-  adv: A1
+  adv: hou
 however:
-  adv: A1
+  adv: houëvver
 huge:
-  adj: A2
+  adj: 2
 human:
-  [n,adj]: A2
+  [n,adj]: 2
 humorous:
-  adj: B2
+  adj: 2
 humour:
-  n: B2
+  n: humor
 hundred:
-  num: A1
+  num: 2
 hungry:
-  adj: A1
+  adj: 2
 hunt:
-  v: B1
-  n: B2
+  [n,v]: 2
 hunting:
-  n: B2
+  n: 2
 hurricane:
-  n: B1
+  n: [2,7]
 hurry:
-  [n,v]: B1
+  [n,v]: 2
 hurt:
-  [v,adj]: A2
+  [v,adj]: 2
   n: B2
 husband:
-  n: A1
+  n: 2
 I:
   pron: A1
 ice:
