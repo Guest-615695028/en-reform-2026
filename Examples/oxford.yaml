@@ -702,7 +702,7 @@ bunch:
 burn:
   [n,v]: 2
 bury:
-  v: {-: berry, [S,NE]: burry}
+  v: berry
 bus:
   n: 2
 bush:
@@ -3233,218 +3233,210 @@ master:
 match:
   [n,v]: 2
 matching:
-  adj: B2
+  adj: 2
 material:
-  n: A2
-  adj: B2
+  [n,adj]: 4
 mathematics:
-  n: A2
+  n: [7,2]
 maths:
-  n: A2
+  n: -mathematics
 matter:
-  [n,v]: A2
+  [n,v]: 2
 maximum:
-  [n,adj]: B2
+  [n,adj]: 2
 May:
-  n: A1
+  n: 2
 may:
-  mv: A2
+  mv: 2
 maybe:
-  adv: A1
+  adv: 2
 me:
-  pron: A1
+  pron: 2
 meal:
-  n: A1
+  n: 2
 mean:
-  v: A1
+  v: 2
 meaning:
-  n: A1
+  n: 2
 means:
-  n: B2
+  n: 2
 meanwhile:
-  adv: B1
+  adv: 2
 measure:
-  [n,v]: B1
+  [n,v]: mezzure
 measurement:
-  n: B2
+  n: mezzuring
 meat:
-  n: A1
+  n: 2
 media:
-  n: A2
+  n: 2
 medical:
-  adj: A2
+  adj: 2
 medicine:
-  n: A2
+  n: 2
 medium:
-  adj: B1
-  n: B2
+  [n,adj]: 2
 meet:
-  v: A1
+  v: 2
 meeting:
-  n: A1
+  n: 2
 melt:
-  v: B2
+  v: 2
 member:
-  n: A1
+  n: 2
 memory:
-  n: A2
+  n: 2
 mental:
-  adj: B1
+  adj: 2
 mention:
-  v: A2
-  n: B1
+  [n,v]: 2
 menu:
-  n: A1
+  n: mennu
 mess:
-  [n,v]: B1
+  [n,v]: 2
 message:
-  n: A1
+  n: 2
 metal:
-  n: A2
+  n: mettal
 method:
-  n: A2
+  n: metthod
 metre:
-  n: A1
+  n: meter
 middle:
-  [n,adj]: A2
+  [n,adj]: 2
 midnight:
-  n: A1
+  n: 2
 might:
-  mv: A2
+  [n,mv]: 2
 mild:
-  adj: B1
+  adj: meild
 mile:
-  n: A1
+  n: 2
 military:
-  [n,adj]: B2
+  [n,adj]: 4
 milk:
-  n: A1
+  n: 2
 million:
-  num: A1
+  num: 2
 mind:
-  [n,v]: A2
+  [n,v]: 2
 mine:
-  pron: A2
-mine:
-  n: B1
+  [det,pron]: 2
+  n: 2
 mineral:
-  n: B2
+  n: 2
 minimum:
-  [n,adj]: B2
+  [n,adj]: 2
 minister:
-  n: B2
+  n: 2
 minor:
-  adj: B2
+  adj: 2
 minority:
-  n: B2
+  n: 4
 minute1:
-  n: A1
+  n: minnit
 mirror:
-  n: A2
+  n: 2
 miss:
-  v: A1
+  v: 2
 missing:
-  adj: A2
+  adj: 2
 mission:
-  n: B2
+  n: 2
 mistake:
-  n: A1
-  v: B2
+  [n,v]: 5
 mix:
-  [n,v]: B1
+  [n,v]: 2
 mixed:
-  adj: B2
+  adj: 2
 mixture:
-  n: B1
+  n: 2
 mobile:
-  [n,adj]: A2
+  [n,adj]: 2
 model:
-  n: A1
-  v: B2
+  [n,v]: moddel
 modern:
-  adj: A1
+  adj: moddern
 modify:
-  v: B2
+  v: moddify
 moment:
-  n: A1
+  n: 2
 Monday:
-  n: A1
+  n: Munday
 money:
-  n: A1
+  n: munny
 monitor:
-  [n,v]: B2
+  [n,v]: monnitor
 monkey:
-  n: A2
+  n: monky
 month:
-  n: A1
+  n: munth
 mood:
-  n: B1
+  n: 2
 moon:
-  n: A2
+  n: 2
 moral:
-  [n,adj]: B2
+  [n,adj]: morral
 more:
-  [det,pron,adv]: A1
+  [det,pron,adv]: 2
 morning:
-  n: A1
+  n: 2
 most:
-  [det,pron,adv]: A1
+  [det,pron,adv]: moast
 mostly:
-  adv: A2
+  adv: moastly
 mother:
-  n: A1
+  n: mudther
 motor:
-  [n,adj]: B2
+  [n,adj]: 2
 motorcycle:
-  n: A2
+  n: [2,7]
 mount:
-  v: B2
+  v: 2
 mountain:
-  n: A1
+  n: 2
 mouse:
-  n: A1
+  n: 2
 mouth:
-  n: A1
+  n: 2
 move:
-  v: A1
-  n: B1
+  [n,v]: moove
 movement:
-  n: A2
+  n: mooving
 movie:
-  n: A1
+  n: moovie
 much:
-  [det,pron,adv]: A1
+  [det,pron,adv]: 2
 mud:
-  n: B1
+  n: 2
 multiple:
-  adj: B2
+  adj: 2
 multiply:
-  v: B2
+  v: 2
 mum:
-  n: A1
+  n: 2
 murder:
-  [n,v]: B1
+  [n,v]: 2
 muscle:
-  n: B1
+  n: mussel
 museum:
-  n: A1
+  n: {museüm: 4}
 music:
-  n: A1
+  n: 2
 musical:
-  adj: A2
-  n: B1
+  [n,adj]: 2
 musician:
-  n: A2
+  n: 4
 must:
-  mv: A1
+  mv: 2
 my:
-  det: A1
+  det: 2
 myself:
-  pron: A2
+  pron: 2
 mysterious:
-  adj: B2
+  adj: 5
 mystery:
-  n: B1
+  n: 2
 nail:
   n: B1
 name:
