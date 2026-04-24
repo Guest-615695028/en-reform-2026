@@ -324,7 +324,7 @@ around:
 arrange:
   v: 4
 arrangement:
-  n: {arrange-ment: 4}
+  n: {arrainging: 4}
 arrest:
   [n,v]: 4
 arrival:
@@ -354,9 +354,9 @@ aspect:
 assess:
   v: 4
 assessment:
-  n: {-assessation: 7}
+  n: {assessation: [7,1]}
 assignment:
-  n: {-assignation: 7}
+  n: {assignation: [7,1]}
 assist:
   v: 4
 assistant:
@@ -1678,7 +1678,7 @@ eat:
 economic:
   adj: [5,1]
 economy:
-  n: 3
+  n: econnomy
 edge:
   n: 3
 edit:
@@ -1730,7 +1730,7 @@ electricity:
 electronic:
   adj: A2
 element:
-  n: 1
+  n: {element: 1}
 elephant:
   n: 1
 eleven:
@@ -2437,49 +2437,45 @@ guy:
 gym:
   n: -jymnasium
 habit:
-  n: A2
+  n: habbit
 hair:
-  n: A1
+  n: 2
 half:
-  [n,det,pron]: A1
-  adv: A2
+  n: haaf
 hall:
-  n: A2
+  n: 2
 hand:
-  n: A1
-  v: B1
+  [n,v]: 2
 handle:
-  [n,v]: B2
+  [n,v]: 2
 hang:
-  v: B1
+  v: 2
 happen:
-  v: A1
+  v: 2
 happily:
-  adv: A2
+  adv: 2
 happiness:
-  n: B1
+  n: 2
 happy:
-  adj: A1
+  adj: 2
 hard:
-  a: A1
+  a: 2
 hardly:
-  adv: B1
+  adv: 2
 harm:
-  [n,v]: B2
+  [n,v]: 2
 harmful:
-  adj: B2
+  adj: 2
 hat:
-  n: A1
+  n: 2
 hate:
-  v: A1
-  n: B1
+  [n,v]: 2
 have:
-  v: A1
-  av: A2
+  [v,av]: 2
 have to:
-  mv: A1
+  mv: 2
 he:
-  pron: A1
+  pron: 2
 head:
   n: A1
   v: B1
@@ -6513,9 +6509,9 @@ automatic:
 automatically:
   adv: B2
 autonomy:
-  n: C1
+  n: autonnomy
 availability:
-  n: C1
+  n: [8,3]
 await:
   v: C1
 awareness:

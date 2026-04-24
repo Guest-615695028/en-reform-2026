@@ -113,7 +113,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
    - Magic E can be stedded by all vocal letters: A, E, I, O, U, Y.
    - TH is seen as one rune: Þ.
    - Single B/C/D/F/G/K/P/S/T/TH folloed by L/R lengthens the leading vocal.
-2. Twicing (dubbling) rule: Consonants are twiced to note that the leading vocal is short and accented when -ed, -er, -est, -ing and others are attached, whereas K is to CK, soft G to DG. especially those at morphemic bounds. Otherwise are there _programme_ to **program**.
+2. Twicing (dubbling) rule: Consonants are twiced to note that the leading vocal is short and accented when -ed, -er, -est, -ing and others are attached, whereas K is to CK, soft G to DG. especially those at morphemic bounds. _See the section "Trisyllabic laxing" for more information._
 3. The combination **al(l)** is one of the most difficult areas to attempt codication of the underlying rules of TS.
    - For the most part, AL and ALL represent the sounds /æl/. However, in TS can they allso represent the sound /ɔ:l/. Usually is this sound forstwd by AU or AW as in **laud** or **paw**, but the sound can allso be forstwd by AL as in _always_ or ALL as in **small**.
    - In a few commun words beginning with AL givving a meaning of totality and sounding /ɔːl/, are replaced by ALL. If this precedes a vocal, a hyfen is added.
@@ -168,7 +168,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 
 ## Issues
 ### Length of the first I in `iCi`
-The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is witnessed **whitish**, **shinier**, **lining**, **hydridic**, and so on. So, we have **finnish**, **limmit**, and others. (-ic, -id keeps the preceding accented vocal short even before one consonant letter)
+The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is witnessed **whitish**, **shinier**, **lining**, and so on. So, we have **finnish**, **limmit**, and others. (-ic, -id keeps the preceding accented vocal short even before one consonant letter)
 ### Yodh-dropping and coälescence
 /t͡ʃ/, /d͡ʒ/, R, /ʃ/, /ʒ/, as well as L folloed by consonant, as well as D, N, TH and T in some Amerrican English dialects, wherein S sounds like /ʃ/, Z like /ʒ/, without altering the script, and even D to /d͡ʒ/, T to /t͡ʃ/ when unstressed.
 
@@ -210,18 +210,18 @@ Some proposed simplified spellings already exist as receeved or variant spelling
 - _iland_ became _island_,
 - _ake_ became _ache_, and so on.
 We propose undooïng these changes. Other examples of older spellings beïng more phonetic include:
-- **_frend_** for _friend_ (acceptable, as on Shakespeare's grave),
-- **_agenst_** for _against_ (again + -st [excrescent]),
-- **_yeeld_** for _yield_ (_cf._ Old English _ġieldan_),
-- **_bild_** for _build_ (_cf._ Old English _byldan_),
-- **_cort_** for _court_ (_cf._ French _cort_, Latin _cohort_; repronounced),
-- **_sted_** for _stead_ (_cf._ Old English _stede_, also _insted_),
-- **_delite_** for _delight_ (_cf._ French _delite_),
-- **_gost_** for _ghost_,
-- **_harth_** for _hearth_,
-- _rime_ for **_rhyme_** (_cf._ greek _ρυθμός_; rime n. = frozen dew, frost),
-- _sum_ for **_some_** ([sign words](signwords.yaml)),
-- **_tung_** for _tongue_, and many others.
+- _frend_ for _friend_ (acceptable, as on Shakespeare's grave),
+- _agenst_ for _against_ (again + -st [excrescent]),
+- _yeeld_ for _yield_ (_cf._ Old English _ġieldan_),
+- _bild_ for _build_ (_cf._ Old English _byldan_),
+- _cort_ for _court_ (_cf._ French _cort_, Latin _cohort_; repronounced),
+- _sted_ for _stead_ (_cf._ Old English _stede_, also _insted_),
+- _delite_ for _delight_ (_cf._ French _delite_),
+- _gost_ for _ghost_,
+- _harth_ for _hearth_,
+- _rime_ for _rhyme_ (_cf._ greek _ρυθμός_; rime n. = frozen dew, frost),
+- _sum_ for _some_ ([sign words](signwords.yaml)),
+- _tung_ for _tongue_, and many others.
 Some of spellings are occasionally to be givven in dictionaries for pronuntiation, as beïng far from words of their origins.
 
 ## Trisyllabic shortening
@@ -238,7 +238,6 @@ Trisyllabic shortening is a commun practice in Latinate English words, where a s
 - -ive;
 - -logy;
 - -ment;
-- -nomy;
 - -ous;
 - -ure.
 
