@@ -1,5 +1,5 @@
 # A Proposal on English Writing Reform - Traditional Spelling Revision 2.0
-Long has it been wondered if the English tung will fall internationally when the United Kingdom and States break down, as the Russian tung fell shortly after the downbroken Soviet Union. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronuntiation metes ~20% in the former but only sparingly in the latter. In 1908 was the [English Spelling Society](https://www.spellingsociety.org/) founded, but long unseen under the Five Eyes that only watch forrin ships.
+Long has it been wondered if the English tung will fall internationally when the United Kingdom and States brake doun, as the Russian tung fell shortly after the Soviet Union dounbroken. If so, the English will fall quicklier than Russian as the inconsistency of spelling-to-pronuntiation metes ~20% in the former but only sparingly in the latter. In 1908 was the [English Spelling Society](https://www.spellingsociety.org/) founded, but long unseen under the Five Eyes that only watch forrin ships.
 
 In 1828 mended Noäh Webster English spellings in the United States, such as "colour" with "color" (CUL-ler), "centre" with "center", "defence" with "defense", "plough" with "plow", "draught" with "draft" and "gaol" with "jail".
 
@@ -27,15 +27,16 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 For single letters, uppercase stands for long vocals with loërcase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 |Stressed vocal|Sequence
 |-|-
-|[/eː/](https://en.wikipedia.org/wiki/Pane-pain_merger)|A, aa, -ae
+|[/eː/](https://en.wikipedia.org/wiki/Pane-pain_merger)|A, ae
 |/eɪ̯/|ai, ay, eigh, ey
 |/iː/|E, ea, ee
-|/aɪ̯/|I, Y, eye, -ie, -ye, -uy,
+|/aɪ̯/|I, Y, ei, -ie, -ye, -uy,
 |[/oː/](https://en.wikipedia.org/wiki/Toe-tow_merger)|O, oa, -oe
 |/oʊ̯/|ow, ough (dough, though)
-|/ɪʊ̯/|U, eu, ew, -ue
-|/ɑː/|ah, a(r)
-|/ɔː/|au, aw, o(r), ough(t), -al(k/l)
+|[/yː/](https://en.wikipedia.org/wiki/Muse-mews_merger)|U, ui
+|/ɪʊ̯/|eu, ew, -ue
+|/ɑː/|aa, ah, a(r)
+|/ɔː/|au, aw, o(r), ough(t), al(k/l)
 |/ɜː/|e/i/u/y(r)
 |/ɔɪ̯/|oi, oy
 |/uː/|oo, (ch/j/l/r/sh/zh)U/ue/eu/ew
@@ -256,7 +257,7 @@ Anglo-Saxon suffixes do not trigger trisyllabic shortening. They are remooved wh
 7. Adjective/Adverb formations: -ful, -ly, -less, -lìke, -y.
 
 ## Added combining marks in TSR 2.0
-- Diëresis (¨): seperates the vocal (ä, ë, ï, ö, ü, ÿ) from the folloed letter.
+- Diëresis (¨): seperates the vocal (ä, ë, ï, ö, ü, ÿ) from the followed letter.
 - Accent mark (´), Second accent mark(`): optional accent marks, used if they are not at the first place, or telling apart from sign words.
    - áre (100 m²)
 - Circumflex/Hat (^): marks the accented single-letter long vocals before:
