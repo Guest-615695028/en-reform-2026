@@ -2825,7 +2825,7 @@ interesting:
 internal:
   adj: 4
 international:
-  adj: [6,1]
+  adj: {internassional: [6,1]}
 internet:
   n: [1,7]
 interpret:
@@ -3438,146 +3438,136 @@ mysterious:
 mystery:
   n: 2
 nail:
-  n: B1
+  n: 2
 name:
-  [n,v]: A1
+  [n,v]: 2
 narrative:
-  [n,adj]: B1
+  [n,adj]: 2
 narrow:
-  adj: A2
-  v: B2
+  [v,adj]: 2
 nation:
-  n: B1
+  n: 2
 national:
-  adj: A2
-  n: B2
+  [n,adj]: nassional
 native:
-  [n,adj]: B1
+  [n,adj]: 2
 natural:
-  adj: A1
+  adj: 2
 naturally:
-  adv: B1
+  adv: 2
 nature:
-  n: A2
+  n: 2
 near:
-  [prep,adj,adv]: A1
+  [prep,adj,adv]: 2
 nearly:
-  adv: A2
+  adv: 2
 neat:
-  adj: B2
+  adj: 2
 necessarily:
-  adv: B1
+  adv: 3
 necessary:
-  adj: A2
+  adj: 3
 neck:
-  n: A2
+  n: 2
 need:
-  v: A1
-  n: A2
-  mv: B1
+  [n,v]: 2
 needle:
-  n: B1
+  n: 2
 negative:
-  adj: A1
-  n: B2
+  [n,adj]: 2
 neighbour:
-  n: A1
+  n: neighbor
 neighbourhood:
-  n: B1
+  n: neighborhood
 neither:
-  det,pron: A2
-  adv: B1
+  [adv,det,pron]: 2
 nerve:
-  n: B2
+  n: 2
 nervous:
-  adj: A2
+  adj: 2
 net:
-  n: B1
+  n: 2
 network:
-  n: A2
+  n: 2
 never:
-  adv: A1
+  adv: nevver
 nevertheless:
-  adv: B2
+  adv: nevver the less
 new:
-  adj: A1
+  adj: 2
 news:
-  n: A1
+  n: 2
 newspaper:
-  n: A1
+  n: 2
 next:
-  a: A1
-  n: B1
+  [n,a]: 2
 next to:
-  prep: A1
+  prep: 2
 nice:
-  adj: A1
+  adj: 2
 night:
-  n: A1
+  n: 2
 nightmare:
-  n: B2
+  n: [2,7]
 nine:
-  num: A1
+  num: 2
 nineteen:
-  num: A1
+  num: [6,2]
 ninety:
-  num: A1
+  num: 2
 no:
-  [exclam,det]: A1
+  [exclam,det]: 2
 no one:
-  pron: A1
+  pron: -1
 nobody:
-  pron: A1
+  pron: 2
 noise:
-  n: A2
+  n: 2
 noisy:
-  adj: A2
+  adj: 2
 none:
-  pron: A2
+  pron: -1
 nor:
-  conj,adv: B1
+  conj,adv: 2
 normal:
-  adj: A2
-  n: B1
+  [n,adj]: 2
 normally:
-  adv: A2
+  adv: 2
 north:
-  [n,adj,adv]: A1
+  [n,adj,adv]: 2
 northern:
-  adj: B1
+  adj: 2
 nose:
-  n: A1
+  n: 2
 not:
-  adv: A1
+  adv: 2
 note:
-  n: A1
-  v: B1
+  [n,v]: 2
 nothing:
-  pron: A1
+  pron: notthing
 notice:
-  [n,v]: A2
+  [n,v]: 2
 notion:
-  n: B2
+  n: 2
 novel:
-  n: A2
+  n: novvel
 November:
-  n: A1
+  n: 4
 now:
-  adv: A1
-  conj: B1
+  adv: nou
 nowhere:
-  adv: A2
+  adv: no-where
 nuclear:
-  adj: B1
+  adj: {nucleär: 2}
 number:
-  n: A1
-  v: A2
+  n: 2
+  v: 2
 numerous:
-  adj: B2
+  adj: 2
 nurse:
-  n: A1
+  n: 2
 nut:
-  n: A2
+  n: 2
 obey:
   v: B2
 object:
