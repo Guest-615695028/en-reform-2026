@@ -5,7 +5,7 @@ We are to loër the oftness of [Greek and Latin roots in English](https://en.wik
 |-|-
 |forseeable|forseeingly<br>previsible
 |talkative|talky<br>conversative
-|waitress|woman waiter
+|waitress|(woman/girl) waiter
 
 ## Recognized suffixes
 

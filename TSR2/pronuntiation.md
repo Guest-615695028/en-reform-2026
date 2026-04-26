@@ -2,24 +2,24 @@
 The English is well known for phonetic-spelling discordance among European languages, so that an IPA notation is Jenerally required for a dictionary to pronounce words (also commun in overseas French dictionaries), which has been rising into concern of hundreds to thousands of millions of world English learners. In 1850, Isaac Pitman drew a table as beloe.
 ![](./epa-1847.png)
 
-## vocals
+## Vocals
 |[EPA](https://en.wikipedia.org/wiki/English_Phonotypic_alphabet)|Jeneral Estuary|Jeneral American|Jeneral Australian
 |-|-|-|-
 |/iː/|/iː/|/iː/|/ɪi/
-|/eː/~/eɪ̯/|/eɪ/|/eɪ/|/æɪ/
+|/eɪ̯/|/eɪ/|/eɪ/|/æɪ/
 |/ɑː/|/ɑː/|/ɑː/|/ɑː/
 |/ɔː/|/ɔː/|/ɔː/|/oː/
-|/oː/~/oʊ̯/|/əʊ/|/oʊ/|/əʉ/
+|/oʊ̯/|/əʊ/|/oʊ/|/əʉ/
 |/uː/|/uː/|/uː/|/ʊu/
 |/ɪ/|/ɪ/|/ɪ/|/ɪ/
 |/ɛ/|/e/|/ɛ/|/e/
 |/æ/|/æ/|/æ/|/æ/
-|/ɒ/|/ɒ/|/ɑ/, /ɔ/|/ɔ/
+|/ɒ/|/ɒ/|/ɑ/~/ɔ/|/ɔ/
 |/ʌ/|/ɐ/|/ʌ/|/ɐ/
 |/ʊ/|/ʊ/|/ʊ/|/ʊ/
 |/aɪ̯/|/aɪ/|/aɪ/|/ɑe/
 |/aʊ̯/|/aʊ/|/aʊ/|/æɔ/
-|/yː/~/ɪu̯/|/juː/|/juː/|/jɪɯ/
+|/ɪu̯/|/juː/|/juː/|/jɪɯ/
 |/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/oɪ/
 
 Jeneral Estuary accent is accepted midway between "Receved Pronuntiation" of upper class and Cockney pronuntiation of loër class, proposed upon comparability with Jeneral American and Jeneral Australian accents for being class-inspecific.
@@ -49,5 +49,6 @@ The combinations /ts/, /dz/, /tɹ/, /dɹ/ may have affricative behaving.
 These words are not reformed orthographically, but phonetically. Derivations not listed. Lax-tense pairs
 |Words|Before|After
 |-|-|-
+|cement|ce-MENT|CE-ment
 |indict|in-DITE|in-DICT
-|
+|police|po-LECE|PO-lice
