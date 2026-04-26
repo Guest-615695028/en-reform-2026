@@ -1,5 +1,5 @@
 # A Proposal on English Writing Reform - Affixes
-We are to lower the oftness of [Greek and Latin roots in English](https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English) outside professional texts, avoiding attaching Greek and Latin affixes to Jermanic roots, such as:
+We are to loër the oftness of [Greek and Latin roots in English](https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English) outside professional texts, avoiding attaching Greek and Latin affixes to Jermanic roots, such as:
 
 |Insted of|We write
 |-|-
@@ -8,9 +8,13 @@ We are to lower the oftness of [Greek and Latin roots in English](https://en.wik
 |waitress|woman waiter
 
 ## Recognized suffixes
-## Anglo-saxon
-## Latin
-### -able, -ible
 
+### Anglo-saxon
+
+### Latin
+#### from nominals
 Use _-able_ (la. _-abilis_) for _-are_ verbs, _-ible_ (la. _-ibilis_) for _-ere_ and _-ire_ verbs.
-## Greek
+#### from verbs
+_-ion_, _-ive_, _-or_ (agent), _ory_, and _ure_, are attached to past participle stems.
+
+### Greek

@@ -1,9 +1,9 @@
-# Ingglish Swaadesh List
+# English Swaadesh List in new orthography
 1: I
 2: thou
-3: "he, she, it"
+3: [he, she, it]
 4: we
-5: "ye, you"
+5: [ye, you]
 6: they
 7: this
 8: that
@@ -77,7 +77,7 @@
 76: mouth
 77: tooth
 78: tung
-79: "nail, fingernail"
+79: [nail, fingernail]
 80: fwt
 81: leg
 82: knee
@@ -87,7 +87,7 @@
 86: guts
 87: neck
 88: back
-89: "brest, chest"
+89: [brest, chest]
 90: hart
 91: livver
 92: drink
@@ -119,8 +119,8 @@
 118: dig
 119: swim
 120: fly
-121: wauk
-122: cumm
+121: walk
+122: cum
 123: lie
 124: sit
 125: stand
@@ -194,7 +194,7 @@
 193: smooth
 194: wet
 195: dry
-196: "right, correct"
+196: [right, correct]
 197: near
 198: far
 199: right

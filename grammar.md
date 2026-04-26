@@ -49,23 +49,6 @@ In Indeuropean EU languages: (by descending relativity to English)
 |Yugoslavic|ti|vi|vi
 |Bulgarian|ти|ви|ви
 
-### A user, an user
-> The answer is found here by **an user** who is writing this article.
-
-Due to the variable accents scattered in world Englishes, the indifinite article _a_ becomes _an_ when followed by a vowel letter or _h_ before an unstressed vowel, and whence does _thy_ become _thine_. _e. g._,
-- "An European" is attested at the beginning in [_Application of fresh mortar tests to poultices used for the desalination of historical masonry_](https://link.springer.com/article/10.1617/s11527-010-9695-4), from _Materials and Structures_ (fr. _Materiaux et Constructions_).
-- ["An user"](https://www.jstor.org/stable/jeductechsoci.6.3.43), ["an utility"](https://www.jstor.org/stable/2662838) and others can be found in correct English sentences by [Bing Dictionary](https://cn.bing.com/dict).
-- "Night" by Elie Wiesel: "...Or was it really an hallucination?"
-
-The only words beginning with vowel letters after _a_ or _thy_ rather than _an_ or _thine_ are _one_, _once_ and _oneth_, all exempted from orthographic reformation.
-
-### A group of nearly homophonic examples
-An [ewe](https://en.wiktionary.org/wiki/ewe) (/ɪʊ̯/) is a female sheep. (Old English _eowu_)
-
-A [yew](https://en.wiktionary.org/wiki/yew) (/jɪʊ̯/) is an evergreen coniferous tree or bush of the genus Taxus. (Old English _īw_, _ēow_)
-
-"[You](https://en.wiktionary.org/wiki/you)" (/ju:/) is the formal second-person pronoun in English, no matter one or many. (Old English _eow_).
-
 ## Verbs
 ### Do-support
 In English, the use of the auxiliary verb do (or one of its inflected forms e.g. _does_, _did_), to form negated clauses and constructions which require subject–auxiliary inversion, such as questions, is used optionally as an auxiliary even in simple declarative sentences, usually as a means of adding emphasis (e.g. "I did shut the fridge."). This is nearly unseen in other European Union official languages.

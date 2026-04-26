@@ -176,7 +176,7 @@ all:
 all right:
   [adj,adv,exclam]: allright
 allow:
-  v: {allou: 4}
+  v: 4
 almost:
   adv: allmost
 alone:
@@ -528,7 +528,7 @@ bell:
 belong:
   v: 4
 below:
-  [adv,prep]: 4
+  [adv,prep]: beloe
 belt:
   n: 2
 bend:

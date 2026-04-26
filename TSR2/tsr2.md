@@ -50,7 +50,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 
 - It is advised to write "fur·ry", "star·ry", etc. to maintain /ɑːɹ/, /ɜːɹ/, /ɔːɹ/.
 - In most of modern English dialects are there /eː/ and /oː/ before /r/, /eɪ̯/ and /oʊ̯/ otherwise.
-- _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _owr_.
+- _ear_ /ɜːɹ/ becums _er_, _our_ /oːɹ/~/ɔːɹ/ becums _oar_.
 - There is no /ʌ/ but /ʊ/ for short U in nothern English dialects, where W is not written.
 - [Trisyllabic laxing/shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) prevail in Latin words without allways twicing the following consonant.
 

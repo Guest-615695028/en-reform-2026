@@ -4,21 +4,16 @@ Britain: Brit-ten
 England: ING-gland
 English: ING-glish
 ## Personal articles
-### 2ps
 thou: DHOU
 thee: DHEE
 thy: DHIGH
 thine: DHENE
 thyself: DHY-Self
-### one: 3ps
-oneself: WUNSELF / WONSELF
-### 2pp/2pf
 you: YOO
 your: YOOR
 yours: YOORZ
 yourself: YOOR-self
 yourselves: YOOR-selvz
-## 3pp
 they: DHAY
 them: DHEM
 their: DHAIR
@@ -67,3 +62,5 @@ fourth: FOARTH
 # Others
 woman: WUUM-an
 women: WIM-en
+# Compounds of these words
+oneself: WUNSELF / WONSELF

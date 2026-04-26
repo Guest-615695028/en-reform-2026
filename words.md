@@ -39,7 +39,7 @@ This is proposed as a contra-action to the French Academy suppressing Anglicisms
 |-eur|-or|-er
 |-euse|-trix|(woman) -er
 
-Even a correct Latinate word _digital_ is replaced by the French Academy with _numérique_ (numeric) to describe electronic computers and relatives, for such meaning cums from English. Therefor are we lower
+Even a correct Latinate word _digital_ is replaced by the French Academy with _numérique_ (numeric) to describe electronic computers and relatives, for such meaning cums from English. Therefor are we loër
 
 Oddnesses of derivation triggered by French are to be eliminated.
 |Yesterday|Today|Why

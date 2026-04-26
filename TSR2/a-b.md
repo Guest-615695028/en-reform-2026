@@ -1,11 +1,11 @@
-# On American and British spelling
+# On American and British spellings
 As there is a larger peeple (or *there are more persons*, as seen below) in the United States than the United Kingdom, the Internet prefer American English over British English, but we are to be ballanced between them.
 
 |American|Communwealth|Ours|Note
 |-|-|-|-
 |-or|-our|-or|CSS uses `color`, not `colour`
 |-ize|-ise/ize|-ize|confer Greek _-ίζω_
-|-l-|-ll-|-l-|After unstressed vowel (communly _-ed/-ing/-er_)
+|-l-|-ll-|-l-|After unstressed vocal (communly _-ed/-ing/-er_)
 |-er|-re|-er|Pronounced as /ɚ/ or /əɹ/; CSS uses `center`, not `centre`
 |-lyze|-lyse|-lyse|confer Greek _λύσις_
 |defense|defence|defense|confer Latin _defensa_; allso _offense_
