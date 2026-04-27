@@ -110,7 +110,7 @@ commitment: -commission
 common: commun
 commonly: communly
 comparison: -comparation
-complaint: -complanction
+complaint: -complancture
 computer: -computator
 connection: connexion
 consider: considder
@@ -131,7 +131,6 @@ course: coarse
 court: coart
 cousin: cussin
 cover: cuvver
-covered: cuvvered
 create: creäte
 creation: creätion
 creative: creätive
@@ -161,7 +160,6 @@ diamond: diämond
 diary: diäry
 diet: diët
 discover: discuvver
-discovery: discuvvery
 dishonest: disonnest
 dislike: -hate
 door: dore
@@ -329,10 +327,9 @@ listener: lissener
 live1: liv
 live2: B1
 living: livving
-long-term: [2,7]
 look: lwk
 loose: looce
-lose: 2 # Wrongly pronounced as "looze".
+# lose: Wrongly pronounced as "looze".
 love: luv
 lovely: luvly
 low: lo
@@ -419,184 +416,23 @@ punishment: -punition
 push: pwsh
 put: pwt
 quiet: quiët
-race: A2
-race: B1
-racing: B1
-radio: A1
-railway: A2
-rain: A1
-raise: A2
-range: B1
-  v: B2
-rank: B2
-rapid: B2
-rapidly: B2
-rare: B1
-rarely: B1
-rate: A2
-  v: B2
-rather: A2
-raw: B2
-reach: A2
-  n: B2
-react: A2
-reaction: B1
-read: A1
-reader: A1
-reading: A1
-ready: A1
-real: A1
-realistic: B2
-reality: B1
-realize: A2
-really: A1
-reason: A1
-reasonable: B2
+rather: raddher
+read: {adj: red}
+ready: reddy
+real: reäl
+reasonable: -rational
 recall: B2
-receipt: B1
-receive: A2
-recent: A2
-recently: A2
-reception: A2
-recipe: A2
-recognize: A2
-recommend: A2
-recommendation: B1
-record: A2
-recording: A2
-recover: B2
-recycle: A2
-red: A1
-reduce: A2
-reduction: B2
-refer: A2
-reference: B1
-reflect: B1
-refuse1: A2
-regard: B2
-region: A2
-regional: B2
-register: B2
-regret: B2
-regular: A2
-regularly: B1
-regulation: B2
-reject: B1
-relate: B1
-related: B1
-relation: B1
-relationship: A2
-relative: B1
-relatively: B2
-relax: A1
-relaxed: B1
-relaxing: B1
-release: B1
-relevant: B2
-reliable: B1
-relief: B2
-religion: B1
-religious: B1
-rely: B2
-remain: B1
-remark: B2
-remember: A1
-remind: B1
-remote: B1
-remove: A2
-rent: B1
-repair: A2
-  n: B1
-repeat: A1
-  n: B1
-repeated: B1
-replace: A2
-reply: A2
-report: A1
-  v: A2
-reporter: A2
-represent: B1
-representative: B2
-reputation: B2
-request: A2
-  v: B1
-require: B1
-requirement: B2
-rescue: B2
-research: A2
-researcher: A2
-reservation: B1
-reserve: B2
-resident: B2
-resist: B2
-resolve: B2
-resort: B2
-resource: B1
-respect: B1
-respond: A2
-response: A2
-responsibility: B1
-responsible: B1
-rest: A2
-rest: A2
-restaurant: A1
-result: A1
-  v: B1
-retain: B2
-retire: B1
-retired: B1
-return: A1
-reveal: B2
-review: A2
-revise: B1
-revolution: B2
-reward: B2
-rhythm: B2
-rice: A1
-rich: A1
-rid: B2
-ride: A1
-  n: A2
-right: A1
-ring1: A2
-ring2: A2
-  n: B1
-rise: A2
-  n: B1
-risk: B1
-river: A1
-road: A1
-robot: B1
-rock: A2
-rock: A2
-role: A2
-roll: B1
-romantic: B1
-roof: A2
-room: A1
-root: B2
-rope: B1
-rough: B1
-round: A2
-  n: B2
-route: A2
-routine: A1
-  adj: B2
-row1: B1
-royal: B1
-rub: B2
-rubber: B2
-rubbish: A2
-rude: A2
-rugby: B1
-rule: A1
-  v: B1
-run: A1
-  n: A2
-runner: A2
-running: A2
-rural: B2
-rush: B2
+receipt: -recepture
+receive: receeve
+recipe: recipë
+record: {n: reccord}
+relief: releef
+river: rivver
+rough: ruff
+route: roote
+routine: -wont
+row1: ro
+royal: -regal
 sad: A1
 sadly: A2
 safe: A2
@@ -641,7 +477,7 @@ screen: A2
 script: B1
 sculpture: B1
 sea: A1
-search: A2
+search: serch
 season: A2
 seat: A2
   v: B2
@@ -1246,9 +1082,7 @@ via: B2
 victim: B1
 victory: B2
 video: A1
-view: A2
-  v: B1
-viewer: B1
+view: vew
 village: A1
 violence: B2
 violent: B1
