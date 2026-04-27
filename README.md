@@ -9,7 +9,7 @@ CC0 2024 Guest-615695028, allouïng coppying and sharing in all languiges.
 ## When to reform?
 - Start: During the reign of Charles III of England.
 - Dedline: October 14, 2066 (1000th year's day of the Battle of Haestings)
-- Exemptions: The onely exemptions are computator programs, trademarks, and italicized loanwords.
+- Exemptions: The onely exemptions are computator programs, trademarks, non-Anglophone proper names, and italicized loan-words.
 
 ## Examples: The Oxford 3000™ and The Oxford 5000™
 _The Oxford 3000_ is the list of the 3000 core words in English, whose expansion includes _The Oxford 5000_ with 2000 words listed outside _The Oxford 3000_, wherein dangling inflexions (such as plural -s, non-finite -ed/-ing) are converted to base words.

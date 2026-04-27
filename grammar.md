@@ -2,7 +2,6 @@
 We have already read the story of the other Touwer of Babel, but the Americans are unaware thereof.
 
 ## Nominals
-
 ### Thou, Ye, You
 These are second-person pronouns in need of mutual distinction, which is shared among most Indo-European languages by first-language speakers. Pronouns *thou*, *ye*, and *you* are used where Germans uses *du*, *ihr* and *Sie*.
 
@@ -68,6 +67,3 @@ Why is do-support become idiomatic? Without do-support, the question
 3. In Yes-no questions, The subject is not a single pronoun.
 
 Otherwise, it is optional.
-
-### Ending prepositions
-End a sentence with preposition is a commun way in Jermanic languages, but not Latin languiges.

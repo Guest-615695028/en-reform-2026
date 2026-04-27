@@ -22,9 +22,11 @@ The English is well known for phonetic-spelling discordance among European langu
 |/ɪu̯/|/juː/|/juː/|/jɪɯ/
 |/ɔɪ̯/|/ɔɪ/|/ɔɪ/|/oɪ/
 
-Jeneral Estuary accent is accepted midway between "Receved Pronuntiation" of upper class and Cockney pronuntiation of loër class, proposed upon comparability with Jeneral American and Jeneral Australian accents for being class-inspecific.
+* Careful variants are givven for each accent.
 
-The word _**receeved** pronuntiation_ implies that the British government has never been trying to subjectively define the standard pronuntiation of English in the United Kingdom or England; though it is sumtimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost moast of his powers due to incapability of speaking English, which is far from internassionality before Two World Wars in the 20th century. Allso, the so-called "Receeved Pronuntiation" is only practiced in 3% of population in England.
+Jeneral Estuary accent is accepted midway between "Receved Pronuntiation" of upper class and Cockney pronuntiation of loër class, proposed upon comparability with Jeneral American and Jeneral Australian accents for being class-inspecific. Indeed is the so-called "Receeved Pronuntiation" only practiced in 3% of population in England (with an upper bound at 10%, which may not be reached), and is ["Reälly Posh"](https://glasgowguardian.co.uk/2023/11/23/rp-received-pronunciation-or-just-really-posh/).
+
+The word _**receved** pronuntiation_ implies that the British government has never been trying to subjectively define the standard pronuntiation of English in the United Kingdom or England; though it is sumtimes referred as "the King/Queen's English", the Kings and Queens has never exercised their power to regulate English, as one thereamong, [George I](https://en.wikipedia.org/wiki/George_I_of_Great_Britain) (28 May 1660 – 11 June 1727) lost moast of his powers due to incapability of speaking English, which is far from internassionality before Two World Wars in the 20th century.
 
 See [here](https://en.wikipedia.org/wiki/Sound_correspondences_between_English_accents) for more accents, [here](https://en.wikipedia.org/wiki/English_orthography) for a more comprehensive understanding.
 

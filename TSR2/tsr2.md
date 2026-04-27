@@ -32,7 +32,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 |/iː/|E, ea, ee
 |/aɪ̯/|I, Y, ei, -ie, -ye, -uy,
 |[/oː/](https://en.wikipedia.org/wiki/Toe-tow_merger)|O, oa, -oe
-|/oʊ̯/|ow, ough (dough, though)
+|/oʊ̯/|ow
 |[/yː/](https://en.wikipedia.org/wiki/Muse-mews_merger)|U, ui
 |/ɪʊ̯/|eu, ew, -ue
 |/ɑː/|aa, ah, a(r)
@@ -158,7 +158,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 10. The suffixes "-s" and "-es", as in TS, are added at the end of a word to indicate plural or third-person singular present indicative: **dishes**, **flips**, **sits**, **kicks**. TS _give_ is re-spelled **giv** in TSR.
 11. Some TS digraphs can represent one sound or two separate sounds. if any represent two, the latter has a diëresis, like the verb to _creäte_.
 12. "SC" folloes the rules for the pronuntiation of C: **scam**, **scene**, **scythe**;
-13. "SCH" normally represents /sk/ as in **school**; in some words, largely of German origin, the combination represents /s/ as in _schmaltz_ — these loanwords and italicized;
+13. "SCH" normally represents /sk/ as in **school**; in some words, largely of German origin, the combination represents /s/ as in _schmaltz_ — these loan-words and italicized;
 14. schwa - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; dhuss: **about**, **ensnare**, **intelligent**, **commun**, **upon**. We write **forrin** insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
     - The ending "-our" (pronounced /əɹ/) adopts Amerrican conventions i.e. _or_ as in _labor_, _savior_.
     - The suffix _-ous_ (pronounced /əs/) is unchanged - // e.g. _famous_.
@@ -267,4 +267,4 @@ Anglo-Saxon suffixes do not trigger trisyllabic shortening. They are remooved wh
 - Interpunct/Middle dot (·): separate consonant letters that forms one of the "combinations preserved" or a multigraph consonant, or written before consonantal W/Y to separate itself from the vocal letter before.
 
 ## Notes
-Norman-French words and academic words that entered before [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) and cater to the [Great vocal Shift](https://en.wikipedia.org/wiki/Great_vocal_Shift), are not considered loanwords layerwise, neither du the Japanese and Koreans to Chinese imports before [the Fall of Chinese Empire to Mongols](https://en.wikipedia.org/wiki/Battle_of_Yamen).
+Norman-French words and academic words that entered before [Hundred Years' War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) and cater to the [Great vocal Shift](https://en.wikipedia.org/wiki/Great_vocal_Shift), are not considered loan-words layerwise, neither du the Japanese and Koreans to Chinese imports before [the Fall of Chinese Empire to Mongols](https://en.wikipedia.org/wiki/Battle_of_Yamen).

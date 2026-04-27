@@ -10,7 +10,7 @@ Thes words can be written split:
 _Another_ can be written split as _an other_, on the basis of word-by-word analysis. The form "another + _number_" are to be replace by "_such number_ + other".
 
 ## To the origin
-True loanwords are italicized, which is words other than:
+True loan-words are italicized, which is words other than:
 - Anglo-Saxon and Anglicized Dutch/Nordic words;
 - Anglicized Norman-French words borrowed before 1453;
 - Anglicized Classical Latin and Greek words.
