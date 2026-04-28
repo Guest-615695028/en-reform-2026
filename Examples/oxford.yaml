@@ -467,183 +467,22 @@ unique: -unic
 unknown: unknone
 unnecessary: -innecessary
 unpleasant: -inplacent
-vacation: A1
-valley: A2
-valuable: B1
-value: B1
-  v: B2
-van: A2
-variety: A2
-various: B1
-vary: B2
-vast: B2
-vegetable: A1
-vehicle: A2
-venue: B2
-version: B1
-very: A1
-  adj: B2
-via: B2
-victim: B1
-victory: B2
-video: A1
-view: vew
-village: A1
-violence: B2
-violent: B1
-virtual: B2
-virus: A2
-vision: B2
-visit: A1
-visitor: A1
-visual: B2
-vital: B2
-vitamin: B2
-voice: A2
-volume: B2
-volunteer: B1
-vote: B1
-wage: B2
-wait: A1
-  n: A2
-waiter: A1
-wake: A1
-walk: A1
-wall: A1
-want: A1
-war: A2
-warm: A1
-  v: B1
-warn: B1
-warning: B1
-wash: A1
-  n: A2
-washing: A2
-waste: B1
-watch: A1
-water: A1
-  v: B1
-wave: A2
-  v: B1
-way: A1
-  adv: B2
-we: A1
-weak: A2
-weakness: B2
-wealth: B2
-wealthy: B2
-weapon: B1
+wealth: welth
+weapon: weppon
 wear: ware
-weather: A1
-web: A2
-website: A1
-wedding: A2
-Wednesday: A1
-week: A1
-weekend: A1
-weigh: B1
-weight: A2
-welcome: A1
-  n: A2
-well: A1
-west: A1
-western: B1
-wet: A2
-what: A1
-whatever: B1
-wheel: A2
-when: A1
-whenever: B1
-where: A1
-whereas: B2
-wherever: B2
-whether: B1
-which: A1
-while: A2
-  n: B1
-whisper: B2
-white: A1
-who: A1
-whole: A2
-  n: B1
-whom: B2
-whose: A2
-why: A1
-wide: A2
-widely: B2
-wife: A1
-wild: A2
-wildlife: B2
-will: A1
-  n: B1
-willing: B2
-win: A1
-  n: B1
-wind1: A2
-wind2: B2
-window: A1
-wine: A1
-wing: B1
-winner: A2
-winter: A1
-wire: B2
-wise: B2
-wish: A2
-with: A1
-within: B1
-without: A1
-witness: B2
-woman: A1
-wonder: B1
-wonderful: A1
-wood: A2
-wooden: A2
-wool: B1
-word: A1
-work: A1
-worker: A1
-working: A2
-world: A1
-worldwide: B1
-worried: A2
-worry: A2
-  n: B1
-worse: A2
-  adv: B1
-  n: B2
-worst: A2
-  adv: B1
-  n: B2
-worth: B1
-  n: B2
-would: A1
-wound: B2
-wow: A2
-wrap: B2
-write: A1
-writer: A1
-writing: A1
-written: B1
-wrong: A1
-  adv: B1
-  n: B2
-yard: B1
-yeah: A1
-year: A1
-yellow: A1
-yes: A1
-yesterday: A1
-yet: A2
-  conj: B2
-you: A1
-young: A1
-  n: B1
-your: A1
-yours: A2
-yourself: A1
-youth: B1
-zero: A2
-zone: B2
+weather: weddher
+Wednesday: Wensday
+welcome: welcom
+whole: hole
+wild: weild
+wildlife: weild life
+wind: [wind, weind]
+window: windo
+wood: wwd
+wooden: wwdden
+wool: wwl
+yellow: yello
+youth: yuth
 
 # Oxford 5000
 abolish: C1
