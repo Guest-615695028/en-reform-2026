@@ -26,10 +26,7 @@ appearance: -apparence
 appointment: -appointing
 approval: -approbation
 approve: approove
-area: area
-arrangement: arrainging
-assessment: assessation
-assignment: assignation
+art: árt
 autumn: -fall
 balance: ballance
 banana: bananna
@@ -43,8 +40,8 @@ being: beïng
 belief: beleef
 believe: beleeve
 below: beloe
-benefit: benëfit
-biology: biölögy
+benefit: bennefit
+biology: biöllogy
 blind: bliind
 blonde: blond
 blood: blud
@@ -74,14 +71,9 @@ busy: bizzy
 cafe: -cafeteria
 campaign: campane
 cannot: can not
-capable: câpable
-capital: capïtal
 captain: capten
 castle: cassle
-category: catëgory
 ceiling: celing
-celebrate: celëbrate
-celebration: cëlebration
 centre: center
 certain: certen
 certainly: certenly
@@ -92,8 +84,8 @@ chef: -cwck
 chemical: khemmical
 chemistry: khemmistry
 chief: cheef
-child: chiild
-childhood: chiildhood
+child: cheild
+childhood: cheildhood
 cigarette: ciggaret
 citizen: cittizen
 city: citty
@@ -132,9 +124,6 @@ court: coart
 cousin: cussin
 cover: cuvver
 create: creäte
-creation: creätion
-creative: creätive
-creature: creature
 credit: creddit
 cruel: cruël
 curtain: curten
@@ -173,7 +162,6 @@ earth: erth
 earthquake: erthquake
 economic: econnomic
 economy: econnomy
-electronic: A2
 element: elëment
 eleven: elevven
 elsewhere: else-where
@@ -190,17 +178,11 @@ environment: -embedding
 environmental: -embeddingly
 equipment: -equipping
 establish: estabblish
-ever: evver
-every: A1
-everybody: -every one
 everyday: -daily
-everyone: every one
-everything: every thing
-everywhere: every where
 examination: exammination
 examine: exammin
 extraordinary: extrordinary
-eye: ii
+eye: ei
 failure: fail
 family: fammily
 fashionable: factionable
@@ -209,20 +191,21 @@ favour: favor
 favourite: faevorite
 fellow: fello
 field: feeld
-find: fiind
-finding: fiinding
+find: feind
+finding: feinding
 finger: fingger
 finish: finnish
 flood: flud
 floor: flore
 flow: flo
+flower: flower
 follow: follo
 following: folloïng
 foot: fwt
 football: fwtball
 foreign: forrin
 forest: forrest
-forever: for evver
+forever: for ever
 forgive: forgiv
 fourteen: forteen
 friend: frend
@@ -280,7 +263,7 @@ honest: onnest
 honour: onnor
 host: hoast
 hotel: -hostel
-hour: 'our
+hour: óur
 house: {n: houce}
 household: houce-hold
 humour: humor
@@ -306,13 +289,12 @@ judgement: -jurament
 key: kee
 keyboard: kee board
 kilometre: kilometer
-kind: kiind
+kind: keind
 know: kno
 knowledge: knolledge
 labour: labor
 laugh: laff
 laughter: lafter
-lead1: 2
 learn: lern
 learning: lerning
 leisure: lezzure
@@ -346,11 +328,12 @@ menu: mennu
 metal: mettal
 method: metthod
 metre: meter
-mild: miild
+mild: meild
 minute1: minnit
 model: moddel
 modern: moddern
 modify: moddify
+Monday: Munday
 money: munny
 monitor: monnitor
 monkey: monky
@@ -366,10 +349,9 @@ muscle: mussel
 museum: museüm
 narrow: narro
 national: nassional
-neighbour: niighbor
-neighbourhood: niighborhood
-never: nevver
-nevertheless: nevver the less
+neighbour: neighbor
+neighbourhood: neighborhood
+nevertheless: never the less
 nothing: notthing
 novel: novvel
 nuclear: nucleär
@@ -421,7 +403,6 @@ read: {adj: red}
 ready: reddy
 real: reäl
 reasonable: -rational
-recall: B2
 receipt: -recepture
 receive: receeve
 recipe: recipë
@@ -431,397 +412,41 @@ river: rivver
 rough: ruff
 route: roote
 routine: -wont
-row1: ro
+row: [ro, row]
 royal: -regal
-sad: A1
-sadly: A2
-safe: A2
-safety: B1
-sail: A2
-  n: B1
-sailing: A2
-sailor: B1
-salad: A1
-salary: A2
-sale: A2
-salt: A1
-same: A1
-sample: B1
-  v: B2
-sand: B1
-sandwich: A1
-satellite: B2
-satisfied: B2
-satisfy: B2
-Saturday: A1
-sauce: A2
-save: A2
-saving: B2
-say: A1
-scale: B2
-scan: B1
-scared: A2
-scary: A2
-scene: A2
-schedule: A2
-  v: B2
-scheme: B2
-school: A1
-science: A1
-scientific: B1
-scientist: A1
-score: A2
-scream: B2
-screen: A2
-  v: B2
-script: B1
-sculpture: B1
-sea: A1
+safety: -safeness
+salad: sallad
+Saturday: Satturday
+schedule: skhedule
+scheme: -skhema
+school: skhool
+science: sciënce
+scientific: sciëntific
+scientist: sciëntist
 search: serch
-season: A2
-seat: A2
-  v: B2
-second1:
-  det, num: A1
-  adv: A2
-second1: A1
-secondary: B1
-secondly: A2
-secret: A2
-secretary: A2
-section: A1
-sector: B2
-secure: B2
-security: B1
-see: A1
-seed: B1
-seek: B2
-seem: A2
-select: B2
-selection: B2
-self: B2
-sell: A1
-send: A1
-senior: B2
-sense: A2
-  v: B2
-sensible: B1
-sensitive: B2
-sentence: A1
-  v: B2
-separate: A2
-  v: B1
-September: A1
-sequence: B2
-series: A2
-serious: A2
-seriously: B1
-servant: B1
-serve: A2
-service: A2
-session: B2
-set: B1
-set: B1
-setting: B1
-settle: B2
-seven: A1
-seventeen: A1
-seventy: A1
-several: A2
-severe: B2
-sex: B1
-sexual: B1
-shade: B2
-shadow: B2
-shake: A2
-  n: B1
-shall: A2
-shallow: B2
-shame: B2
-shape: A2
-  v: B2
-share: A1
-  n: B1
-sharp: B1
-she: A1
-sheep: A1
-sheet: A2
-shelf: B1
-shell: B1
-shelter: B2
-shift: B1
-  v: B2
-shine: B1
-shiny: B1
-ship: A2
-  v: B2
-shirt: A1
-shock: B2
-shocked: B2
-shoe: A1
-shoot: B1
-shooting: B2
-shop: A1
-shopping: A1
-short: A1
-shot: B2
-should: A1
-shoulder: A2
-shout: A2
-show: A1
-shower: A1
-shut: A2
-shy: B1
-sick: A1
-side: A2
-sight: B1
-sign: A2
-signal: B1
-significant: B2
-significantly: B2
-silence: B2
-silent: B1
-silk: B2
-silly: B1
-silver: A2
-similar: A1
-similarity: B1
-similarly: B1
-simple: A2
-simply: B1
-since: A2
-  adv: B1
-sincere: B2
-sing: A1
-singer: A1
-singing: A2
-single: A2
-sink: B1
-sir: A2
-sister: A1
-sit: A1
-site: A2
-situation: A1
-six: A1
-sixteen: A1
-sixty: A1
-size: A2
-ski: A2
-skiing: A2
-skill: A1
-skin: A2
-skirt: A1
-sky: A2
-slave: B2
-sleep: A1
-  n: A2
-slice: B1
-slide: B2
-slight: B2
-slightly: B1
-slip: B2
-slope: B2
-slow: A1
-  v: B1
-slowly: A2
-small: A1
-smart: B1
-smartphone: A2
-smell: A2
-smile: A2
-smoke: A2
-smoking: A2
-smooth: B1
-snake: A1
-snow: A1
-so: A1
-soap: A2
-soccer: A2
-social: A2
-society: A2
-sock: A2
-soft: A2
-software: B1
-soil: B1
-solar: B2
-soldier: A2
-solid: B1
-solution: A2
-solve: A2
-some: A1
-somebody: A1
-someone: A1
-something: A1
-sometimes: A1
-somewhat: B2
-somewhere: A2
-son: A1
-song: A1
-soon: A1
-sorry: A1
-sort: A2
-  v: B1
-soul: B2
-sound: A1
-soup: A1
-source: A2
-south: A1
-southern: B1
-space: A1
-speak: A1
-speaker: A2
-special: A1
-specialist: B2
-species: B2
-specific: A2
-specifically: B1
-speech: A2
-speed: A2
-  v: B2
-spell: A1
-spelling: A1
-spend: A1
-spending: B1
-spicy: B1
-spider: A2
-spirit: B1
-spiritual: B2
-split: B2
-spoken: B1
-sponsor: B2
-spoon: A2
-sport: A1
-spot: B1
-  v: B2
-spread: B1
-  n: B2
-spring: A1
-  v: B1
-square: A2
-stable: B2
-stadium: B1
-staff: B1
-stage: A2
-  v: B2
-stair: A2
-stamp: A2
-stand: A1
-  n: B2
-standard: B1
-star: A1
-  v: A2
-stare: B2
-start: A1
-  n: A2
-state: A2
-  [v,adj]: B1
-statement: A1
-station: A1
-statistic: B1
-statue: B1
-status: B2
-stay: A1
-  n: A2
-steady: B2
-steal: A2
-steel: B2
-steep: B2
-step: A2
-  v: B2
-stick: B1
-stick: B1
-sticky: B2
-stiff: B2
-still: A1
-  adj: B1
-stock: B2
-stomach: A2
-stone: A2
-stop: A1
-store: A2
-  v: B1
-storm: A2
-story: A1
-straight: A2
-strange: A2
-stranger: B1
-strategy: A2
-stream: B2
-street: A1
-strength: B1
-stress: A2
-stretch: B2
-strict: B2
-strike: B2
-string: B1
-strong: A1
-strongly: B1
-structure: A2
-  v: B2
-struggle: B2
-student: A1
-studio: B1
-study: A1
-stuff: B1
-  v: B2
-stupid: A2
-style: A1
-subject: A1
-  adj: B2
-submit: B2
-substance: B1
-succeed: A2
-success: A1
-successful: A2
-successfully: B1
-such: A2
-sudden: B1
-suddenly: A2
-suffer: B1
-sugar: A1
-suggest: A2
-suggestion: A2
-suit: A2
-  v: B1
-suitable: B1
-sum: B2
-summarize: B1
-summary: B1
-summer: A1
-sun: A1
-Sunday: A1
-supermarket: A1
-supply: B1
-support: A2
-supporter: B1
-suppose: A2
-sure: A1
-  adv: A2
-surely: B1
-surface: B1
-surgery: B2
-surprise: A2
-surprised: A2
-surprising: A2
-surround: B2
-surrounding: B2
-survey: A2
-  v: B2
-survive: B1
-suspect: B2
-swear: B2
-sweater: A1
-sweep: B2
-sweet: A2
-swim: A1
-  n: B1
-swimming: A1
-switch: B1
-  n: B2
-symbol: A2
-sympathy: B2
-symptom: B1
-system: A2
+second: secund
+seven: sevven
+seventeen: sevventeen
+seventy: sevventy
+shoe: shoo
+show: sho
+shower: shower
+ski: skee
+skiing: skeeïng
+slow: slo
+snow: sno
+soul: soal
+soup: soop
+source: sorce
+southern: suddhern
+spread: spred
+steady: steddy
+stomach: stomakh
+study: studdy
+succeed: succede
+suit: sute
+suitable: sutable
+sweater: swetter
 table: A1
 tablet: A2
 tail: B1
