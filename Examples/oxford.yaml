@@ -4,8 +4,6 @@ achieve: acheve
 acknowledge: acknolledge
 actress: -actrix
 advertise: advertize
-advertisement: -advertizing
-advertising: advertìzing
 against: agenst
 ahead: ahed
 all right: allright
@@ -62,11 +60,9 @@ broad: brawd
 broadcast: brawdcast
 brother: bruddher
 build: bild
-building: bilding
 bury: berry
 bush: bwsh
 business: bizness
-businessman: bizness-man
 busy: bizzy
 cafe: -cafeteria
 campaign: campane
@@ -93,14 +89,12 @@ civil: civvil
 clever: clevver
 client: cliënt
 climb: clime
-colour: cullor # color
-coloured: cullored # colored
+[colour, color]: cullor
 column: collumn
 come: cum
 comedy: commedy
 commitment: -commission
 common: commun
-commonly: communly
 comparison: -comparation
 complaint: -complancture
 computer: -computator
@@ -116,15 +110,15 @@ cooker: cwcker
 cooking: cwcking
 copy: coppy
 cottage: -cot
-countryside: country-side
+country: cuntry
+countryside: cuntry-side
 couple: cupple
 courage: corage
-course: coarse
+course: corce
 court: coart
 cousin: cussin
 cover: cuvver
 create: creäte
-credit: creddit
 cruel: cruël
 curtain: curten
 damage: dammage
@@ -160,7 +154,6 @@ early: erly
 earn: ern
 earth: erth
 earthquake: erthquake
-economic: econnomic
 economy: econnomy
 element: elëment
 eleven: elevven
@@ -192,7 +185,6 @@ favourite: faevorite
 fellow: fello
 field: feeld
 find: feind
-finding: feinding
 finger: fingger
 finish: finnish
 flood: flud
@@ -200,7 +192,6 @@ floor: flore
 flow: flo
 flower: flower
 follow: follo
-following: folloïng
 foot: fwt
 football: fwtball
 foreign: forrin
@@ -216,9 +207,7 @@ full: fwl
 fully: fwlly
 gather: gaddher
 general: jeneral
-generally: jenerally
 generate: jenerate
-generation: jeneraton
 generous: jenerous
 genre: -keind
 gentle: jentle
@@ -320,10 +309,8 @@ machine: makhine # Wrongly pronounced Frenchly as "ma-SHEEN"
 magazine: maggazene
 magic: madgic
 manage: mannage
-management: mannaging
-manager: mannager
-measure: mezzure
-measurement: mezzuring
+measure: -mensure
+measurement: -mensuration
 menu: mennu
 metal: mettal
 method: metthod
@@ -343,7 +330,7 @@ most: moast
 mostly: moastly
 mother: muddher
 move: moove
-movement: mooving
+movement: [mooving, moovement]
 movie: moovie
 muscle: mussel
 museum: museüm
@@ -447,193 +434,29 @@ succeed: succede
 suit: sute
 suitable: sutable
 sweater: swetter
-table: A1
-tablet: A2
-tail: B1
-take: A1
-tale: B2
-talent: B1
-talented: B1
-talk: A1
-  n: A2
-tall: A1
-tank: B2
-tape: B1
-target: A2
-  v: B2
-task: A2
-taste: A2
-tax: B1
-taxi: A1
-tea: A1
-teach: A1
-teacher: A1
-teaching: A2
-team: A1
-tear1: B2
-tear2: B2
+taxi: taxy
+tear1: [tare, tear]
 technical: B1
-technique: B1
-technology: A2
-teenage: A2
-teenager: A1
-telephone: A1
-television: A1
-tell: A1
-temperature: A2
-temporary: B2
-ten: A1
-tend: B1
-tennis: A1
-tent: B1
-term: A2
-  v: B2
-terrible: A1
-test: A1
-text: A1
-  v: A2
-than: A1
-thank: A1
-thanks: A1
-that: A1
-  adv: B1
-the: A1
-theatre: A1
-their: A1
-theirs: B1
-them: A1
-theme: B1
-themselves: A2
-then: A1
-theory: B1
-therapy: B2
-there: A1
-therefore: B1
-they: A1
-thick: A2
-thief: A2
-thin: A2
-thing: A1
-think: A1
-thinking: A2
-third: A1
-  n: A2
-thirsty: A1
-thirteen: A1
-thirty: A1
-this: A1
-  adv: B1
-though: B1
-thought: A2
-thousand: A1
-threat: B2
-threaten: B2
-three: A1
-throat: B1
-through: A1
-throughout: B1
-throw: A2
-Thursday: A1
-thus: B2
-ticket: A1
-tidy: A2
-tie: A2
-tight: B1
-till: B1
-time: A1
-  v: B2
-tin: B1
-tiny: B1
-tip: A2
-  v: B1
-tired: A1
-title: A1
-  v: B2
-to:
-  [prep,infinitive marker A1
-today: A1
-toe: B1
-together: A1
-toilet: A1
-tomato: A1
-tomorrow: A1
-tone: B2
-tongue: B1
-tonight: A1
-too: A1
-tool: A2
-tooth: A1
-top: A2
-topic: A1
-total: B1
-totally: B1
-touch: A2
-  n: B1
-tough: B2
-tour: A2
-  v: B1
-tourism: A2
-tourist: A1
-towards: A2
-towel: A2
-tower: A2
-town: A1
-toy: A2
-track: A2
-  v: B2
-trade: B1
-tradition: A2
-traditional: A2
-traffic: A1
-train: A1
-  v: A2
-trainer: A2
-training: A2
-transfer: B2
-transform: B2
-transition: B2
-translate: B1
-translation: B1
-transport: A2
-  v: B1
-travel: A1
-traveller: A2
-treat: B1
-treatment: B1
-tree: A1
-trend: B1
-trial: B2
-trick: B1
-trip: A1
-  v: B2
-tropical: B2
-trouble: A2
-  v: B2
-trousers: A1
-truck: A2
-true: A1
-truly: B2
-trust: B2
-truth: B1
-try: A1
-  n: B2
-T-shirt: A1
-tube: B1
-Tuesday: A1
-tune: B2
-tunnel: B2
-turn: A1
-TV: A1
-twelve: A1
-twenty: A1
-twice: A1
-twin: A2
-two: A1
-type: A1
-  v: B1
-typical: A2
-typically: B1
-tyre: B1
+technique: -tekhnic
+technology: tekhnology
+theatre: theäter
+theory: theöry
+thief: theef
+threat: thret
+threaten: thretten
+throw: thro
+today: today
+together: togedther
+tomorrow: tomorrow
+tongue: tung
+tonight: tonight
+touch: tuch
+tough: tuff
+tour: toor
+towards: to-wards
+travel: travvel
+trouble: trubble
+truth: trueth
 ugly: B1
 ultimately: B2
 umbrella: A1
