@@ -1,5 +1,7 @@
-# Oxford 3000
-abroad: abrawd
+# Oxford 3000 
+# https://www.oxfordlearnersdictionaries.com
+# /external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000.pdf
+abroad: abraud
 achieve: acheve
 acknowledge: acknolledge
 actress: -actrix
@@ -52,12 +54,12 @@ bother: boddher
 bowl: boal
 boyfriend: boyfrend
 bread: bred
-break: braek
-breakfast: braekfast
+break: brake
+breakfast: brake-fast
 breath: breth
 brief: breef
-broad: brawd
-broadcast: brawdcast
+broad: braud
+broadcast: braudcast
 brother: bruddher
 build: bild
 bury: berry
@@ -482,6 +484,8 @@ yellow: yello
 youth: yuth
 
 # Oxford 5000
+# https://www.oxfordlearnersdictionaries.com
+# /external/pdf/wordlists/oxford-3000-5000/The_Oxford_5000.pdf
 abolish: abollish
 accomplishment: -accompletion
 accountable: -accomputable
@@ -501,84 +505,22 @@ arguable: -arguble
 arrow: arro
 astonish: astonnish
 autonomy: autonnomy
-backdrop: C1
-backing: C1
-backup: C1
-badge: B2
-bail: C1
-balanced: B2
-ballet: B2
-balloon: B2
-ballot: C1
-banner: C1
-bare: C1
-barely: B2
-bargain: B2
-barrel: C1
-basement: B2
-basket: B2
-bass1: C1
-bat: B,v: C1
-battlefield: C1
-bay: C1
-beam: C1
-beast: C1
-behalf: C1
-beloved: C1
-bench: C1
-benchmark: C1
-beneath: C1
-beneficial: B2
-beneficiary: C1
-beside: B2
-besides: B2
-betray: C1
-bias: B2
-bid: B2
-bind: C1
-biography: C1
-biological: B2
-bishop: C1
-bizarre: C1
-blade: C1
-blanket: B2
-blast: C1
-bleed: C1
-blend: C1
-bless: C1
-blessing: C1
-blow: B2
-boast: C1
-bold: B2
-bombing: B2
-bonus: C1
-booking: B2
-boom: C1
-boost: B2
-bounce: C1
-bound: B2
-boundary: C1
-bow1: C1
-breach: C1
-breakdown: C1
-breakthrough: C1
-breed: C1
-brick: B2
-briefly: B2
-broadband: C1
-broadcaster: B2
-broadly: B2
-browser: C1
-brutal: C1
-buck: C1
-buddy: C1
-buffer: C1
-bug: B2
-bulk: C1
-burden: C1
-bureaucracy: C1
-burial: C1
-burst: C1
+ballot: [ball, ball-lot]
+bass: [bace, bass]
+beloved: beluvved
+bias: biäs
+bind: beind
+bizarre: bizar
+blow: blo
+bough: bow
+bow: [bow, bo]
+breakdown: brake-down
+breakthrough: brake-through
+broadband: braud-band
+broadcaster: brawd-caster
+broadly: brawdly
+browse: brose
+bureaucracy: burocracy
 cabin: B2
 cabinet: C1
 calculation: C1
@@ -2347,7 +2289,7 @@ wipe: C1
 wisdom: B2
 wit: C1
 withdraw: B2
-withdrawal: C1
+withdrawal: withdrawing
 workforce: B2
 workout: C1
 workplace: B2
@@ -2364,4 +2306,6 @@ youngster: C1
 
 # Others
 abolishment: abolition
+crumb: crum
+limb: lim
 tomb: toom
