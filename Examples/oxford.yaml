@@ -15,14 +15,8 @@ also: allso
 although: alldho
 always: allways
 answer: anser
-anybody: -any one
-anyone: any one
-anything: any thing
-anyway: any way
-anywhere: any where
 appearance: -apparence
-appointment: -appointing
-approval: -approbation
+approval: -approoval
 approve: approove
 art: árt
 autumn: -fall
@@ -540,55 +534,12 @@ contender: -contentor
 cooperate: coöperate
 coordinate: coördinate
 copyright: coppyright
-corporation: B2
-correction: C1
-correlate: C1
-correlation: C1
-correspond: C1
-correspondence: C1
-correspondent: C1
-corresponding: C1
-corridor: B2
-corrupt: C1
-corruption: C1
-costly: C1
-councillor: C1
-counselling: C1
-counsellor: C1
-counter:
-  (long flat surface) n: B2
-counter:
-  (argue against) v: C1
-counterpart: C1
-countless: C1
-coup: C1
-courtesy: C1
-coverage: B2
-crack: B2
-craft: B,v: C1
-crawl: C1
-creativity: B2
-creator: C1
-credibility: C1
-credible: C1
-creep: C1
-critically: B2
-critique: C1
-crown: C1
-crude: C1
-cruise: B2
-crush: C1
-crystal: C1
-cue: B2
-cult: C1
-cultivate: C1
-curiosity: C1
-curious: B2
-curriculum: B2
-custody: C1
-cute: B2
-cutting: C1
-cynical: C1
+counselling: counseling
+counsellor: counselor
+coup: coop
+courtesy: curtesy
+coverage: covverage
+critique: -critic
 dairy: B2
 dam: C1
 damaging: C1
@@ -962,10 +913,7 @@ grace: C1
 graphic: B2
 graphics: B2
 grasp: C1
-grave:
-  (for dead person) n: C1
-grave:
-  (serious) adj: C1
+grave: C1
 gravity: C1
 greatly: B2
 greenhouse: B2
@@ -994,8 +942,7 @@ hardware: C1
 harmony: C1
 harsh: C1
 harvest: C1
-hatred:
-  ,C1
+hatred: hatrèd
 haunt: C1
 hazard: C1
 headquarters: B2
@@ -1004,7 +951,7 @@ healthcare: B2
 heighten: C1
 helmet: B2
 hence: B2
-herb: B2
+herb: {US: erb}
 heritage: C1
 hidden: B2
 hierarchy: C1
@@ -1017,8 +964,7 @@ historian: B2
 homeland: C1
 homeless: B2
 honesty: B2
-hook:
-   [n,v]: hwck
+hook: hwck
 hopeful: C1
 hopefully: B2
 horizon: C1
