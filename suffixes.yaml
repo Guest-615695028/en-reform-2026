@@ -53,21 +53,21 @@ NESS:
 ment: .
 
 ## Classical
-able: .
-ible: .
+able: [.,ate]
+ible: [.,ite]
 al: .
 ar: .
 ic: .
 ion: .
   ication: [y,icate]
-  ation: ["",e,ate]
+  ation: [.,ate]
 ity: .
   osity: ous
 ive: [.,ion]
 ism: .
 ist: [.,ism]
 ment: .
-or: .
+or: []
 
 #* Vocal-leading Suffixes may dubble the ending consonant on instances of "".
 #* . may allow a silent E consumed by the leading vocal.
