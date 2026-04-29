@@ -14,7 +14,6 @@ already: allreddy
 also: allso
 although: alldho
 always: allways
-announcement: -annuntiation
 answer: anser
 anybody: -any one
 anyone: any one
@@ -211,7 +210,7 @@ generous: jenerous
 genre: -keind
 gentle: jentle
 gentleman: jentle-man
-geography: jeography
+geography: jeögraphy
 ghost: goast
 giant: jiänt
 girlfriend: girlfrend
@@ -374,7 +373,7 @@ presence: prezzence
 present: n,adj
 priority: priörity
 profit: -profect
-programme: -program
+programme: program
 proper: propper
 prove: proove
 public: pubblic
@@ -439,7 +438,7 @@ technical: B1
 technique: -tekhnic
 technology: tekhnology
 [theatre,theater]: theäter
-theory: theory
+theory: theöry
 thief: theef
 threat: thret
 threaten: thretten
@@ -526,7 +525,7 @@ casualty: -casuality
 catalogue: catalog
 certainty: certity
 challenging: challendging
-chaos: khaos
+chaos: khaös
 characterize: kharacterize
 choir: quire
 chronic: khronic
@@ -956,7 +955,7 @@ glorious: C1
 glory: C1
 golden: B2
 goodness: B2
-gorgeous: gorgeous
+gorgeous: gorgeöus
 governance: C1
 governor: B2
 grace: C1
@@ -2138,9 +2137,3 @@ wrist:
 yell: C1
 yield: C1
 youngster: C1
-
-# Others
-abolishment: abolition
-crumb: crum
-limb: lim
-tomb: toom

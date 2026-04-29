@@ -1,14 +1,15 @@
 # Sign words kept not reformed
 ## Self-namings
-Britain: Brit-ten
-England: ING-gland
-English: ING-glish
+Britain: Brit-ten+
+England: ING-gland+
+English: ING-glish+
 ## Personal articles
 thou: DHOU
 thee: DHEE
 thy: DHIGH
 thine: DHENE
 thyself: DHY-Self
+oneself: WUNSELF / WONSELF
 you: YOO
 your: YOOR
 yours: YOORZ
@@ -19,38 +20,49 @@ them: DHEM
 their: DHAIR
 theirs: DHAIRZ
 themselves: DHEM-Selvz
-# Demonstratives
-the: DHEE / dha / dhee
+## Demonstratives
+the: [DHEE,dha,dhee]
 this: DHIS
 that: DHAT
 these: DHEEZ
 those: DHOAZ
-there: DHARE
+there: DHARE+
 then: DHEN
-thence: DHENSS
+thence: DHENSS+
 than: DHAN
 thus: DHUS
 though: DHO
-thither: DHIDH-er
-# Indefinites
-any: EN-y
-many: MEN-y
-every: EV-ry
-some: SUM
-other: UDH-er
-another: a-NUDH-er
-# Interrogatives
+thither: DHIDH-er+
+hence: HENSS+
+here: HERE+
+hither: HIDH-er+
+## Indefinites
+any: EN-ny+
+many: MEN-ny
+every: EV-a-ry+
+some: SUM+
+other: UDH-er+
+another: a-NUDH-er+
+## Interrogatives
 what: WHOT
-where: WHARE
+where: WHARE+
+whither: WHIDH-er
 who: WHOO
 whom: WHOOM
 whose: WHOOZ
-whose: WHOOZ
-# Auxillary Verbs
+## Auxillary Verbs
 are: AR
 were: WER
 have: HAV
 do: DOO
+could: CWD
+couldst: CWTST
+should: SHWD
+shouldst: SHWTST
+would: WWD
+wouldst: WWDST
+shall: SHAL
+shalt: SHALT
 # Numbers
 one: WON / WUN
 once: WONSS / WUNSS
@@ -59,14 +71,14 @@ two: TOO
 twoth: TOOTH
 four: FORE
 fourth: FOARTH
-fourteen: fourteen
-fourteenth: FOARTH
 # Particles
 of: OV
 to: TOO
 with: WIDH
 # Others
-woman: WUUM-an
-women: WIM-en
-# Compounds of these words
-oneself: WUNSELF / WONSELF
+ever: EV-er
+never: NEV-er
+people: PEE-pel
+woman: +WUUM-an+
+women: +WIM-en+
+yes: YESS

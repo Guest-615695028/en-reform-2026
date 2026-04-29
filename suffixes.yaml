@@ -1,0 +1,73 @@
+# Suffixes not to interrupt the reform
+## Anglo-Saxon
+S:
+  N: PL
+  V: 3SG-PRS-IND
+  ches: ch
+  shes: sh
+  ies: y
+  ses: s
+  xes: x
+  zes: z
+  s: .
+ED:
+  V: [PPRT,PST,ADJ]
+  N: ADJ
+  cked: [c,k,ck]
+  ied: y
+  ed: .
+ING:
+  V: [APRT,GER,ADJ,N]
+  ying: [ie,y]
+  ing: .
+ER:
+  [ADJ,ADV]: CMPR
+  [N,V]: N
+  ier: [ie, y]
+  er: .
+ST: # Also -st after verbs
+  [ADJ,ADV]: SPRL
+  V: 2SG-PRS-IND
+  iest: [y,ie]
+  est: .
+  st: .
+LY:
+  ADJ: ADV
+  N: ADJ
+  ically: [ic,ical]
+  ily: y
+  lly: ll
+  uly: ue
+  ly: [.,le,l]
+NESS: 
+  ADJ: N
+  iness: y
+  ness: .
+.: {}
+  y: .
+  en: .
+  dom: .
+  hood: .
+  ship: .
+## Norman-French
+ment: .
+
+## Classical
+able: .
+ible: .
+al: .
+ar: .
+ic: .
+ion: .
+  ication: [y,icate]
+  ation: ["",e,ate]
+ity: .
+  osity: ous
+ive: [.,ion]
+ism: .
+ist: [.,ism]
+ment: .
+or: .
+
+#* Vocal-leading Suffixes may dubble the ending consonant on instances of "".
+#* . may allow a silent E consumed by the leading vocal.

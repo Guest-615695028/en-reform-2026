@@ -102,9 +102,6 @@ For single letters, uppercase stands for long vocals with loërcase for short on
 |/ð/|(V)th(V), dh
 |/ʒ/|zh, si(V), s(u-), z(u-)
 
-|Marginal|consonants|
-|-|-
-
 ## THE PRINCIPAL RULES OF TSR 2.0
 1. Magic E rule: accented vocals are usually long in `VCV'`, but short in `VCC|VC$`, as usual in TS:
    - pan / pane, set / scene, snip / snipe, rot / rote, run / rune; ("Magic E")
@@ -133,7 +130,7 @@ For single letters, uppercase stands for long vocals with loërcase for short on
       - **called**, **falling**, **smaller**, etc..
    - Final ALD (/ɔːld/: bald, ...), ALK (/ɔːk/: talk, walk, ...), ALT (/ɔːlt/: falter, halt, ...) normally has /ɔː/, but if you want /æl/, insert a middle-dot (·) after the first l: heral·dic, al·kane, al·lergy, al·titude.
 4. The letter G usually represents the sound /ɡ/ as in **gun**, along with the sound /d͡ʒ/ before the letters E, I or Y in Latinate words. Exceptions to this rule are often marked in TS by inserting an U as in **guide**; this is disfavored other than long I.
-   - GG allways represents the sound /ɡ/, preserved against succeding vocals that would otherwise turn it to /d͡ʒ/ (e.g. **lingger**, **longger**). It is particularly relevant for exceptions to the sub-group "-ange" where the sound is short rather than long (e.g. **bangger**, **hangger**).
+   - GG allways represents the sound /ɡ/, preserved against succeding vocals that would otherwise turn it to /d͡ʒ/ (e.g. **lingger**, **longger**). It is particularly relevant for exceptions to the sub-groop "-ange" where the sound is short rather than long (e.g. **bangger**, **hangger**).
    - In cases where the sound is /d͡ʒ/ but not following a monographic long vocal, TSR has a digraph DG as in **badger**, **lodger**, **fudge** etc..
    - For the **Jermanic** nature of English, initial soft G becomes J.
 5. The Letter S: It normally represents the sound /s/ as in **sound**, but allso /z/ as in **please**.
@@ -156,13 +153,13 @@ For single letters, uppercase stands for long vocals with loërcase for short on
    - (As they are all function words, no changes are made thereabout.)
 9. The suffix "-ed", as in TS, is normally added at the end of a word to indicate passive mood or past tense: **sifted**, **gifted**.
 10. The suffixes "-s" and "-es", as in TS, are added at the end of a word to indicate plural or third-person singular present indicative: **dishes**, **flips**, **sits**, **kicks**. TS _give_ is re-spelled **giv** in TSR.
-11. Some TS digraphs can represent one sound or two separate sounds. if any represent two, the latter has a diëresis, like the verb to _creäte_.
-12. "SC" folloes the rules for the pronuntiation of C: **scam**, **scene**, **scythe**;
-13. "SCH" normally represents /sk/ as in **school**; in some words, largely of German origin, the combination represents /s/ as in _schmaltz_ — these loan-words and italicized;
-14. schwa - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: **about**, **ensnare**, **intelligent**, **commun**, **upon**. We write **forrin** insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
+11. Some TS digraphic vocals can represent one sound or two separate sounds. if any represent two, the latter has a diëresis, like the verb to _creäte_.
+12. The digraph "CH" sounds like /k/ for Greek chi, so are reformed into "KH"; Elsewhere are there C or K: _ache_ becums _ake_, but _anchor_ becums _ancor_ (Latin _ancora_).
+13. "SC" folloes the rules for the pronuntiation of C: **scam**, **scene**, **scythe**.
+14. _schwa_ - TSR jennerally retains the TS spelling for unaccented syllables, except where the TS combination is itself irregular; thus: **about**, **ensnare**, **intelligent**, **commun**, **upon**. We write **forrin** insted of _foreign_; the key here is to pronounce the word carefully at dictation speed; if the sound of the unaccented syllable is not what the letters predict, then respelling may be necessary.
     - The ending "-our" (pronounced /əɹ/) adopts Amerrican conventions i.e. _or_ as in _labor_, _savior_.
     - The suffix _-ous_ (pronounced /əs/) is unchanged - // e.g. _famous_.
-15. S and TH that can either be devoiced or voiced are not written as Z or DH:
+15. S and TH that can either be devoiced or voiced are not written as SS, Z or DH:
     - as, us
     - is, dus, has, ses
     - with
@@ -174,37 +171,7 @@ The TSR 1.0 has the first I short as in _finish_, _lipid_, _limit_, whereas is w
 ### Yodh-dropping and coälescence
 /t͡ʃ/, /d͡ʒ/, R, /ʃ/, /ʒ/, as well as L folloed by consonant, as well as D, N, TH and T in some Amerrican English dialects, wherein S sounds like /ʃ/, Z like /ʒ/, without altering the script, and even D to /d͡ʒ/, T to /t͡ʃ/ when unstressed.
 
-## Special rules for TSR 2.0
-1. The folloing very commun words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 8.1-8.3.
-   1. Personal pronouns and adjectives: thou, you(r)(s), they.
-   2. Parts of the vebs to be and to have: are, was, were, have, having;
-   3. Small numbers: one(th), once, two(th), other;
-   4. Interrogatives: what, where(-), who, whose;
-   5. Indefinitives: another, any(one/thing), every, none, nothing, other(-), some(one/thing);
-   6. Self-demonstratives: England, English, Britain;
-   7. Prepositions: of, to, with;
-   8. Others: (n)ever, many, very, woman/women.
-   - The formal second-person pronoun "you" may also be represented in TSR by a capital U outside Wales.
-2. Commun Suffixes: A number of commun word endings du not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
-   - Those involving the /ʃ/ sound
-      - C: -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious), etc.
-      - SS: -ssion (passion, confession, mission), etc.
-      - T: -tial (partial), -tient (patient), -tience (patience), -tion (nation, depletion, ignition, lotion, solution), etc.
-      - S: -nsi- (tension), -rsi- (universial), etc. following l, m, r, s,
-   - Those involving the /ʒ/ sound
-      - S: -sion (invasion, adhesion, elision, explosion, confusion), -sure (embrasure, pleasure, composure), -sual (casual), etc.
-      - Z: -zure (azure), etc.
-   - The Magic E and Doubling Rules apply generally to the above suffixes, but the single letter I therebefore are lax/short.
-Similarly, the ending "-ssion" dus not lengthen the preceding vocal because of the doubling of S. TSR uses "-ssion-" instead of -tion when the preceding vocal is accented, but needs to be kept short; thus are there _nation_ but **nassional**; _special_ becomes **spescial**, _pleasure_ becomes **plezzure**, _precious_ becoumes **prescious**.
-3. Some commun combinations preserved
-   - Long A: -ange- (dânger, ângel), -aste (tâste, wâste), -**a**tional (compare **nassional** and **rassional**)
-   - Long I: -igm (paradigm), -ign (benign, sign); both becum -im- and -in- when folloed by vocal letter.
-   - Long O: final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alk) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orge (forge `o:rdʒ`) -orne (borne `o:r\n`)
-   - All bâsic prepositions attached to "here", "there", and "where" are accented.
-   - Others: -ould (could, should, would), war- (warm, warn), wor- (worm, worst).
-   - The combination -le after a consonant at the end of a word produces the sound `@l` as in "-able", "-ible", "-iple" and so on. The Magic E and doubling rules apply as if the preceding consonant and L were a single letter. Dhuss: **apple** (vocal short); **table** (vocal long); also **ible**; thus **risible** but **Bible**; **noble** but **nobble**.
-
-## Silent letters
+### Silent letters
 Some proposed simplified spellings already exist as receeved or variant spellings in old literature. In the 16th century, some Classicists tried to make English words lwk akin to their Græco-Latin counterparts, at times even mistakenly, by adding unsounding letters, so
 - _det_ became _debt_,
 - _dout_ became _doubt_,
@@ -226,15 +193,47 @@ We propose undooïng these changes. Other examples of older spellings beïng mor
 - _tung_ for _tongue_, and many others.
 Some of spellings are occasionally to be givven in dictionaries for pronuntiation, as beïng far from words of their origins.
 
-## Trisyllabic shortening
-[Trisyllabic shortening](https://en.wikipedia.org/wiki/Trisyllabic_laxing) is a commun practice in Latinate English words, where a stressed one-letter vocal is short before a single consonant letter or B/C/CH/D/F/G/P/PH/S/T/TH+L/R, and then another vocal, whilst a two-letter vocal is fused into one. This occurs in every letter other than U, and can be told by dictionaries using hyphenation points, wherefor the consonant letter folloïng such short vocal letters are not dubbled if Latin.
+### Trisyllabic shortening/laxing
+[Trisyllabic shortening/laxing](https://en.wikipedia.org/wiki/Trisyllabic_laxing) is a commun practice in Latinate English words, where a stressed one-letter vocal is short before a single consonant letter or B/C/CH/D/F/G/P/PH/S/T/TH+L/R, and then another vocal, whilst a two-letter vocal is fused into one. This occurs in every letter other than U, and can be told by dictionaries using hyphenation points, wherefor the consonant letter folloïng such short vocal letters are not dubbled if Latin.
 
-Likewise is there bisyllabic shortening but rarer. Such consonant is not dubbles as in classical Latin and and latinization of classical Greek.
+Likewise is there bisyllabic shortening/laxing but rarer. Such consonant is not dubbles as in classical Latin and and latinization of classical Greek.
 
-Anglo-Saxon suffixes do not trigger trisyllabic shortening. They are remooved when one analyses the length of one-letter vocals. All Anglo-Saxon words with short vocals in lengthening combinations are to be reformed.
+Anglo-Saxon suffixes jenerally do not trigger trisyllabic shortening. They are remooved when one analyses the length of one-letter vocals. All Anglo-Saxon words with short vocals in lengthening combinations are to be reformed.
+
+## Special rules for TSR 2.0
+1. The folloing very commun words keep their original and irregular spelling, along with the said voiced-th words in Principal Rule 8.1-8.3.
+   1. Personal pronouns and adjectives: thou, you(r)(s), they.
+   2. Parts of the vebs to be and to have: are, was, were, have, having;
+   3. Small numbers: one(th), once, two(th), other;
+   4. Interrogatives: what, where(-), who, whose;
+   5. Indefinitives: another, any(one/thing), every, none, nothing, other(-), some(one/thing);
+   6. Self-demonstratives: England, English, Britain;
+   7. Prepositions: of, to, with;
+   8. Others: (n)ever, many, very, woman/women.
+   - The formal second-person pronoun "you" may also be represented in TSR by a capital U outside Wales.
+2. Commun Suffixes: A number of commun word endings du not comply fully with the normal rules of TS but can usually be relied on to represent particular sounds; these are retained in their original spelling.
+   - Those involving the /ʃ/ sound
+      - C: -cial (facial, special, official), -cian (musician), -cient (prescient), -cience (conscience), -cion (suspicion), -cious (spacious, specious, meretricious, atrocious), etc.
+      - SS: -ssion (passion, confession, mission), etc.
+      - T: -tial (partial), -tient (patient), -tience (patience), -tion (nation, depletion, ignition, lotion, solution), etc.
+      - S: -nsi- (tension), -rsi- (universial), etc. following l, m, r, s,
+   - Those involving the /ʒ/ sound
+      - S: -sion (invasion, adhesion, elision, explosion, confusion), -sure (embrasure, pleasure, composure), -sual (casual), etc.
+      - Z: -zure (azure), etc.
+   - The Magic E and Doubling Rules apply jenerally to the above suffixes, but the single letter I therebefore are lax/short.
+Similarly, the ending "-ssion" dus not lengthen the preceding vocal because of the doubling of S. TSR uses "-ssion-" instead of -tion when the preceding vocal is accented, but needs to be kept short; thus are there _nation_ but **nassional**; _special_ becomes **spescial**, _pleasure_ becomes **plezzure**, _precious_ becoumes **prescious**.
+3. Some commun combinations preserved
+   - Long A: -ange- (dânger, ângel), -aste (tâste, wâste), -**a**tional (compare **nassional** and **rassional**).
+   - Long I: -igm (paradigm), -ign (benign, sign); both becum -im- and -in- when folloed by vocal letter.
+   - Long O: final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ak) (folk, yolk, ...), [-oll](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Al) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orge (forge `o:rdʒ`) -orne (borne `o:r\n`)
+   - All bâsic prepositions attached to "here", "there", and "where" are accented.
+   - Others: -ould (could, should, would), war- (warm, warn), wor- (worm, worst).
+   - Thus are these modal verbs considered as sign-words: could(st), should(st), would(st), shall, shalt
 
 ## Added combining marks in TSR 2.0
-- Diëresis (¨): seperates the vocal (ä, ë, ï, ö, ü, ÿ) from the followed letter.
+### Diëresis (¨)
+Seperates the vocal (ä, ë, ï, ö, ü, ÿ) from the followed letter. When two independent vocal letters are adjacent, one is 
+
 - Accent mark (´), Second accent mark(`): are used in dictionaries. optional accent marks, used if they are not at the first place, or telling apart from functional words.
    - áre (100 m²), árt, dúst, óur, ...
 - Interpunct/Middle dot (·): separate consonant letters that forms one of the "combinations preserved" or a multigraph consonant, or written before consonantal W/Y to separate itself from the vocal letter before.
