@@ -53,4 +53,6 @@ These words are not reformed orthographically, but phonetically. Derivations not
 |-|-|-
 |cement|ce-MENT|CE-ment
 |indict|in-DITE|in-DICT
-|police|po-LECE|PO-lice
+|machine|ma-SHEEN|Ma-khine
+|marine|ma-REEN|MA-rine
+|police|po-LECE|PO-liss
