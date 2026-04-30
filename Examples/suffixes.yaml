@@ -1,4 +1,11 @@
 # Suffixes not to interrupt the reform
+#
+# The instances of "." test the folloïng options:
+# 1. barely remove the suffix;
+# 2. add a silent E;
+# 3. 
+# The Issues are open for discussions on more suffixes or hyper-corrections.
+
 ## Anglo-Saxon
 S:
   N: PL
@@ -43,31 +50,31 @@ NESS:
   ADJ: N
   iness: y
   ness: .
-.: {}
-  y: .
-  en: .
-  dom: .
-  hood: .
-  ship: .
-## Norman-French
-ment: .
-
-## Classical
+y: .
+en: .
+dom: .
+hood: .
+ship: .
+## Latin
+ment:
+  ament: ate
 able: [.,ate]
 ible: [.,ite]
 al: .
-ar: .
+ar: #-al after l
+  ular: le
+  ar: .
+ate: [.,a,us]
 ic: .
-ion: .
+ion:
   ication: [y,icate]
   ation: [.,ate]
+  tion: [te]
 ity: .
   osity: ous
 ive: [.,ion]
 ism: .
 ist: [.,ism]
 ment: .
-or: []
-
-#* Vocal-leading Suffixes may dubble the ending consonant on instances of "".
-#* . may allow a silent E consumed by the leading vocal.
+or:
+  tor: 
