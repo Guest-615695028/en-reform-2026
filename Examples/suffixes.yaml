@@ -55,26 +55,7 @@ en: .
 dom: .
 hood: .
 ship: .
-## Latin
-ment:
-  ament: ate
-able: [.,ate]
-ible: [.,ite]
-al: .
-ar: #-al after l
-  ular: le
-  ar: .
-ate: [.,a,us]
-ic: .
-ion:
-  ication: [y,icate]
-  ation: [.,ate]
-  tion: [te]
-ity: .
-  osity: ous
-ive: [.,ion]
-ism: .
-ist: [.,ism]
+## Latin and Greek
 ment: .
-or:
-  tor: 
+---
+-hood: hwd
