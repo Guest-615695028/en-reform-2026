@@ -9,6 +9,8 @@ thee: DHEE
 thy: DHIGH
 thine: DHENE
 thyself: DHY-Self
+one: WON / WUN
+ones: WONZ / WUNZ
 oneself: WUNSELF / WONSELF
 you: YOO
 your: YOOR
@@ -64,9 +66,8 @@ wouldst: WWDST
 shall: SHAL
 shalt: SHALT
 # Numbers
-one: WON / WUN
-once: WONSS / WUNSS
-oneth: WON / WUN
+#* one, ones, oneself
+oneth: WONTH / WUNTH
 two: TOO
 twoth: TOOTH
 four: FORE
