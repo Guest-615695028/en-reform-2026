@@ -39,12 +39,14 @@ hence: HENSS+
 here: HERE+
 hither: HIDH-er+
 ## Indefinites
-any: EN-ny+
+any: EN-ny
+every: EV-a-ry
 many: MEN-ny
-every: EV-a-ry+
-some: SUM+
-other: UDH-er+
-another: a-NUDH-er+
+most: MOAST
+mostly: MOAST-ly
+some: SUM
+other: UDH-er
+another: a-NUDH-er
 ## Interrogatives
 what: WHOT
 where: WHARE+
@@ -76,10 +78,18 @@ fourth: FOARTH
 of: OV
 to: TOO
 with: WIDH
+# Negators
+never: NEV-er
+none: NON / NUN
+nothing: NOTH-ing
+nowhere: NO-where
 # Others
 ever: EV-er
-never: NEV-er
 people: PEE-pel
-woman: +WUUM-an+
-women: +WIM-en+
 yes: YESS
+---
+# Derived form these words
+- - [any,some,every]
+  - [body,how,one,thing,time,where]
+- - [here,there,where]
+  - [_prepositions_]
