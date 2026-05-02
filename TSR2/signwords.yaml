@@ -39,14 +39,17 @@ hence: HENSS+
 here: HERE+
 hither: HIDH-er+
 ## Indefinites
-any: EN-ny
-every: EV-a-ry
+any: EN-ny+
+every: EV-a-ry+
 many: MEN-ny
 most: MOAST
 mostly: MOAST-ly
-some: SUM
+some: SUM+
 other: UDH-er
 another: a-NUDH-er
+none: NON / NUN
+nothing: NOTH-ing
+nowhere: NO-where
 ## Interrogatives
 what: WHOT
 where: WHARE+
@@ -77,14 +80,11 @@ fourth: FOARTH
 # Particles
 of: OV
 to: TOO
-with: WIDH
-# Negators
-never: NEV-er
-none: NON / NUN
-nothing: NOTH-ing
-nowhere: NO-where
-# Others
+with: WIDHz
+# Functional adverbs
 ever: EV-er
+never: NEV-er
+
 people: PEE-pel
 yes: YESS
 ---
@@ -92,4 +92,4 @@ yes: YESS
 - - [any,some,every]
   - [body,how,one,thing,time,where]
 - - [here,there,where]
-  - [_prepositions_]
+  - [...] # reserved
