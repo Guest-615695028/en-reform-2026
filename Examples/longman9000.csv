@@ -1,5 +1,5 @@
-# word,quad,pos
-a,-,article determiner
+word,quad,pos
+a,-,article/determiner
 abandon,1,verb
 abbreviate,-,-
 abbreviation,-,-
@@ -15,7 +15,7 @@ abortion,-,-
 about,1,preposition
 about,2,adverb
 about,3,adjective
-above,1,adverb preposition
+above,1,adverb/preposition
 above,2,adjective
 abroad,-,-
 abrupt,-,-
@@ -168,7 +168,7 @@ affluent,-,-
 afford,-,-
 affordable,-,-
 afraid,-,-
-after,1,preposition conjunction adverb
+after,1,preposition/conjunction/adverb
 after-effect,-,-
 aftermath,-,-
 afternoon,1,noun
@@ -227,7 +227,7 @@ alignment,-,-
 alike,1,adjective
 alike,2,adverb
 alive,-,-
-all,1,determiner predeterminer pronou
+all,1,determiner/predeterminer/pronou
 all,2,adverb
 allegation,-,-
 allege,-,-
@@ -243,6 +243,7 @@ allocate,-,-
 allocation,-,-
 allow,-,-
 allowance,-,-
+all,-,adjective/adverb/interjection
 allude,-,-
 ally,1,noun
 almighty,-,-
@@ -255,7 +256,6 @@ aloud,-,-
 alphabet,-,-
 alphabetical,-,-
 already,-,-
-alright,-,adjective adverb interjection
 also,-,-
 altar,-,-
 alter,-,-
@@ -299,7 +299,7 @@ amuse,-,-
 amused,-,-
 amusement,-,-
 amusing,-,-
-an,-,article determiner
+an,-,article/determiner
 anaesthetic,-,-
 anagram,-,-
 analogous,-,-
@@ -348,7 +348,7 @@ antique,2,noun
 antonym,-,-
 anxiety,-,-
 anxious,-,-
-any,1,determiner pronoun
+any,1,determiner/pronoun
 any,2,adverb
 anybody,-,-
 anyhow,-,-
@@ -450,7 +450,7 @@ artificial,-,-
 artist,-,-
 artistic,-,-
 artwork,-,-
-as,1,preposition adverb
+as,1,preposition/adverb
 as,2,conjunction
 ascend,-,-
 ascertain,-,-
@@ -670,7 +670,7 @@ battle,2,verb
 battlefield,-,-
 bay,1,noun
 bazaar,-,-
-be,1,auxiliary verb
+be,1,auxiliary/verb
 be,2,verb
 beach,1,noun
 beacon,-,-
@@ -709,7 +709,7 @@ beginning,-,-
 behalf,-,-
 behave,-,-
 behaviour,-,-
-behind,1,preposition adverb
+behind,1,preposition/adverb
 being,1,noun
 belief,-,-
 believe,-,-
@@ -747,7 +747,7 @@ beverage,-,-
 beware,-,-
 bewildered,-,-
 bewildering,-,-
-beyond,1,preposition adverb
+beyond,1,preposition/adverb
 bias,1,noun
 biased,-,-
 bibliography,-,-
@@ -775,7 +775,7 @@ bird,-,-
 birth,-,-
 birthday,-,-
 biscuit,-,-
-bit,1,adverb pronoun
+bit,1,adverb/pronoun
 bit,2,noun
 bite,1,verb
 bite,2,noun
@@ -881,7 +881,7 @@ born,1,verb
 borrow,-,-
 boss,1,noun
 bossy,-,-
-both,1,determiner predeterminer pron
+both,1,determiner/predeterminer/pron
 bother,1,verb
 bottle,1,noun
 bottom,1,noun
@@ -1081,7 +1081,7 @@ campaigner,-,-
 camping,-,-
 campsite,-,-
 campus,-,-
-can,1,modal verb
+can,1,modal/verb
 can,2,noun
 canal,-,-
 cancel,-,-
@@ -1653,7 +1653,7 @@ considerable,-,-
 considerably,-,-
 considerate,-,-
 consideration,-,-
-considering,1,preposition conjunction
+considering,1,preposition/conjunction
 consist,-,-
 consistency,-,-
 consistent,-,-
@@ -2000,7 +2000,7 @@ danger,-,-
 dangerous,-,-
 dangerously,-,-
 dangle,-,-
-dare,1,verb modal verb
+dare,1,verb/modal/verb
 daring,1,adjective
 dark,1,adjective
 dark,2,noun
@@ -2416,7 +2416,7 @@ divorce,2,verb
 divorced,-,-
 dizzy,-,-
 DNA,-,-
-do,1,auxiliary verb
+do,1,auxiliary/verb
 do,2,verb
 dock,1,noun
 doctor,1,noun
@@ -2462,7 +2462,7 @@ doubt,2,verb
 doubtful,-,-
 doubtless,-,-
 dough,-,-
-down,1,adverb preposition adjective
+down,1,adverb/preposition/adjective
 download,1,verb
 downstairs,1,adverb
 downtown,-,-
@@ -2553,7 +2553,7 @@ dye,2,verb
 dynamic,1,adjective
 dynamic,2,noun
 dynasty,-,-
-each,-,pronoun adverb
+each,-,pronoun/adverb
 each,-,pronoun
 eager,-,-
 eagle,1,noun
@@ -2618,7 +2618,7 @@ eighteen,-,-
 eighth,1,adjective
 eighty,-,-
 either,1,conjunction
-either,2,determiner pronoun
+either,2,determiner/pronoun
 either,3,adverb
 eject,-,-
 elaborate,1,adjective
@@ -2731,7 +2731,7 @@ enlist,-,-
 enormous,-,-
 enormously,-,-
 enough,1,adverb
-enough,2,determiner pronoun
+enough,2,determiner/pronoun
 enrich,-,-
 enrol,-,-
 ensue,-,-
@@ -2855,7 +2855,7 @@ exasperating,-,-
 exceed,-,-
 excellence,-,-
 excellent,-,-
-except,1,conjunction preposition
+except,1,conjunction/preposition
 exception,-,-
 exceptional,-,-
 exceptionally,-,-
@@ -3084,7 +3084,7 @@ fertility,-,-
 festival,-,-
 fetch,1,verb
 fever,-,-
-few,-,pronoun adjective
+few,-,pronoun/adjective
 fiancé,-,-
 fiancée,-,-
 fibre,-,-
@@ -3339,7 +3339,7 @@ freeway,-,-
 freeze,1,verb
 freeze,2,noun
 freezer,-,-
-freezing,1,adjective adverb
+freezing,1,adjective/adverb
 freezing,2,noun
 freight,1,noun
 frenzy,-,-
@@ -3383,7 +3383,7 @@ fuel,2,verb
 fulfil,-,-
 fulfilling,-,-
 full,1,adjective
-full,-,1 noun
+full,-,1/noun
 full-time,-,adverb
 fully,-,-
 fumes,-,-
@@ -3681,10 +3681,10 @@ haircut,-,-
 hairdresser,-,-
 hairdryer,-,-
 hairstyle,-,-
-half,1,predeterminer pronoun adjectiv
+half,1,predeterminer/pronoun/adjectiv
 half,2,noun
 half,3,adverb
-half-brother,-,half14 hearted adjective half15 sister noun
+half-brother,-,half14/hearted/adjective/half15/sister/noun
 halfway,-,adverb
 hall,-,-
 Halloween,-,-
@@ -3745,7 +3745,7 @@ hatred,-,-
 haul,1,verb
 haunt,1,verb
 haunted,-,-
-have,1,auxiliary verb
+have,1,auxiliary/verb
 have,2,verb
 have,3,verb
 haven,-,-
@@ -4201,7 +4201,7 @@ inscription,-,-
 insect,-,-
 insecure,-,-
 insert,1,verb
-inside,1,adverb preposition
+inside,1,adverb/preposition
 inside,2,noun
 inside,3,adjective
 insight,-,-
@@ -4485,9 +4485,9 @@ large,1,adjective
 largely,-,-
 large-scale,-,-
 laser,-,-
-last,1,determiner adjective
+last,1,determiner/adjective
 last,2,adverb
-last,3,noun pronoun
+last,3,noun/pronoun
 last,4,verb
 lasting,-,-
 lastly,-,-
@@ -4539,7 +4539,7 @@ learning,-,-
 lease,1,noun
 lease,2,verb
 leash,1,noun
-least,1,determiner pronoun
+least,1,determiner/pronoun
 least,2,adverb
 leather,-,-
 leave,1,verb
@@ -4576,7 +4576,7 @@ length,-,-
 lengthy,-,-
 lens,-,-
 less,1,adverb
-less,2,determiner pronoun
+less,2,determiner/pronoun
 lessen,-,-
 lesser,-,-
 lesson,-,-
@@ -4667,7 +4667,7 @@ literature,-,-
 litre,-,-
 litter,1,noun
 little,1,adjective
-little,2,determiner pronoun
+little,2,determiner/pronoun
 little,3,adverb
 live,1,verb
 live,2,adjective
@@ -4721,7 +4721,7 @@ lose,-,-
 loser,-,-
 loss,-,-
 lost,2,adjective
-lot,1,pronoun adverb
+lot,1,pronoun/adverb
 lot,2,noun
 lottery,-,-
 loud,1,adjective
@@ -4817,7 +4817,7 @@ manufacture,1,verb
 manufacturer,-,-
 manufacturing,-,-
 manuscript,-,-
-many,-,pronoun adjective
+many,-,pronoun/adjective
 map,1,noun
 map,2,verb
 maple,-,-
@@ -4881,7 +4881,7 @@ maturity,-,-
 maximize,-,-
 maximum,1,adjective
 maximum,2,noun
-may,1,modal verb
+may,1,modal/verb
 May,-,-
 maybe,-,-
 mayor,-,-
@@ -4973,7 +4973,7 @@ midnight,-,-
 midst,1,noun
 midway,-,adverb
 midwife,-,-
-might,1,modal verb
+might,1,modal/verb
 might,2,noun
 mighty,1,adjective
 migrant,-,-
@@ -5096,7 +5096,7 @@ morale,-,-
 morality,-,-
 morally,-,-
 more,1,adverb
-more,2,determiner pronoun
+more,2,determiner/pronoun
 moreover,-,-
 morning,1,noun
 morning,2,interjection
@@ -5107,7 +5107,7 @@ mosque,-,-
 mosquito,-,-
 moss,-,-
 most,1,adverb
-most,2,determiner pronoun
+most,2,determiner/pronoun
 mostly,-,-
 motel,-,-
 moth,-,-
@@ -5144,7 +5144,7 @@ Mr,-,-
 Mrs,-,-
 Ms,-,-
 much,1,adverb
-much,2,determiner pronoun
+much,2,determiner/pronoun
 mud,-,-
 muddy,1,adjective
 mug,1,noun
@@ -5172,7 +5172,7 @@ music,-,-
 musical,1,adjective
 musical,2,noun
 musician,-,-
-must,1,modal verb
+must,1,modal/verb
 mustard,-,-
 muster,1,verb
 mutate,-,-
@@ -5218,7 +5218,7 @@ naughty,-,-
 naval,-,-
 navigation,-,-
 navy,-,-
-near,1,adverb preposition
+near,1,adverb/preposition
 near,2,adjective
 near,3,verb
 nearby,-,-
@@ -5245,7 +5245,7 @@ negotiator,-,-
 neighbour,-,-
 neighbourhood,-,-
 neighbouring,-,-
-neither,1,determiner pronoun
+neither,1,determiner/pronoun
 neither,2,adverb
 neither,3,conjunction
 nephew,-,-
@@ -5265,13 +5265,13 @@ news,-,-
 newsletter,-,-
 newspaper,-,-
 New,-,noun
-New,-,Day noun
-New,-,Eve noun
-next,1,determiner adjective
+New,-,Day/noun
+New,-,Eve/noun
+next,1,determiner/adjective
 next,2,adverb
 next,3,pronoun
-next,-,1 adverb
-next,-,kin noun
+next,-,1/adverb
+next,-,kin/noun
 next,-,preposition
 nice,-,-
 nicely,-,-
@@ -5411,7 +5411,7 @@ odds,-,-
 odour,-,-
 of,-,-
 of,-,adverb
-off,1,adverb preposition adjective
+off,1,adverb/preposition/adjective
 offence,-,-
 offend,-,-
 offender,-,-
@@ -5428,7 +5428,7 @@ offspring,-,-
 often,-,-
 oil,1,noun
 OK,1,interjection
-OK,2,adjective adverb
+OK,2,adjective/adverb
 old,-,-
 old,-,noun
 old-fashioned,-,-
@@ -5437,7 +5437,7 @@ olive,-,noun
 omission,-,-
 omit,-,-
 on,1,preposition
-on,2,adjective adverb
+on,2,adjective/adverb
 once,1,adverb
 once,2,conjunction
 one,1,number
@@ -5514,9 +5514,9 @@ originate,-,-
 ornament,1,noun
 orphan,1,noun
 orthodox,-,-
-other,-,adjective pronoun
+other,-,adjective/pronoun
 otherwise,-,-
-ought,-,modal verb
+ought,-,modal/verb
 ounce,-,-
 our,-,-
 ours,-,-
@@ -5543,7 +5543,7 @@ outrage,2,verb
 outrageous,-,-
 outright,1,adjective
 outset,-,-
-outside,1,adverb preposition
+outside,1,adverb/preposition
 outside,2,adjective
 outside,3,noun
 outsider,-,-
@@ -5555,7 +5555,7 @@ outweigh,-,-
 oval,-,-
 oven,-,-
 over,1,preposition
-over,2,adverb adjective
+over,2,adverb/adjective
 overall,1,adjective
 overall,2,adverb
 overcast,-,-
@@ -5588,7 +5588,7 @@ overwhelmingly,-,-
 owe,-,-
 owing,-,preposition
 owl,-,-
-own,1,adjective pronoun
+own,1,adjective/pronoun
 own,2,verb
 owner,-,-
 ownership,-,-
@@ -5674,7 +5674,7 @@ particularly,-,-
 partly,-,-
 partner,1,noun
 partnership,-,-
-part,-,speech noun
+part,-,speech/noun
 part-time,-,-
 party,1,noun
 pass,1,verb
@@ -5690,7 +5690,7 @@ passive,2,noun
 passport,-,-
 password,-,-
 past,1,adjective
-past,2,preposition adverb
+past,2,preposition/adverb
 past,3,noun
 pasta,-,-
 paste,1,verb
@@ -5756,7 +5756,7 @@ pepper,1,noun
 per,-,-
 per,-,adverb
 perceive,-,-
-percent,1,adjective adverb
+percent,1,adjective/adverb
 percent,2,noun
 percentage,-,-
 perception,-,-
@@ -5937,7 +5937,7 @@ point,2,verb
 pointed,-,-
 pointer,-,-
 pointless,-,-
-point,-,view noun
+point,-,view/noun
 poised,-,-
 poison,1,noun
 poison,2,verb
@@ -6315,7 +6315,7 @@ quantity,-,-
 quarrel,1,noun
 quarrel,2,verb
 quarter,1,noun
-quarterly,1,adjective adverb
+quarterly,1,adjective/adverb
 queen,1,noun
 query,1,noun
 query,2,verb
@@ -6821,7 +6821,7 @@ rotation,-,-
 rotten,1,adjective
 rough,1,adjective
 roughly,-,-
-round,1,adverb preposition
+round,1,adverb/preposition
 round,2,adjective
 round,3,noun
 round,4,verb
@@ -7082,7 +7082,7 @@ seventeen,-,-
 seventh,1,adjective
 seventy,-,-
 sever,-,-
-several,1,determiner pronoun
+several,1,determiner/pronoun
 severe,-,-
 severely,-,-
 sew,-,-
@@ -7229,7 +7229,7 @@ simulated,-,-
 simulation,-,-
 simultaneous,-,-
 sin,1,noun
-since,-,conjunction adverb
+since,-,conjunction/adverb
 sincere,-,-
 sincerely,-,-
 sing,-,-
@@ -7369,8 +7369,8 @@ software,-,-
 soil,1,noun
 solar,-,-
 solar,-,noun
-soldier,1,noun sold
-out,-,sole 1
+soldier,1,noun/sold
+out,-,sole/1
 adjective,-,2
 noun,-,-
 solely,-,-
@@ -7554,7 +7554,7 @@ stand,2,noun
 standard,1,noun
 standard,2,adjective
 standardize,-,-
-standard,-,living noun
+standard,-,living/noun
 standpoint,-,-
 staple,1,noun
 star,1,noun
@@ -7740,7 +7740,7 @@ successful,-,-
 succession,-,-
 successive,-,-
 successor,-,-
-such,-,predeterminer prono
+such,-,predeterminer/prono
 suck,1,verb
 sudden,-,-
 suddenly,-,-
@@ -8015,10 +8015,10 @@ thanks,1,interjection
 thanks,2,noun
 Thanksgiving,-,-
 thank,-,interjection
-that,1,determiner pronoun
+that,1,determiner/pronoun
 that,2,conjunction
 that,3,adverb
-the,1,definite article determiner
+the,1,definite/article/determiner
 the,2,adverb
 theatre,-,-
 theatrical,-,-
@@ -8062,7 +8062,7 @@ thirst,1,noun
 thirsty,-,-
 thirteen,-,-
 thirty,-,-
-this,1,determiner pronoun
+this,1,determiner/pronoun
 this,2,adverb
 thorn,-,-
 thorough,-,-
@@ -8087,7 +8087,7 @@ thrilling,-,-
 thrive,-,-
 throat,-,-
 throne,-,-
-through,1,preposition adverb
+through,1,preposition/adverb
 throughout,-,adverb
 throw,1,verb
 throw,2,noun
@@ -8116,7 +8116,7 @@ tight,2,adverb
 tighten,-,-
 tightly,-,-
 tile,1,noun
-till,1,preposition conjunction
+till,1,preposition/conjunction
 tilt,1,verb
 timber,-,-
 time,1,noun
@@ -8293,7 +8293,7 @@ trillion,-,-
 trim,1,verb
 trip,1,noun
 trip,2,verb
-triple,1,adjective predeterminer
+triple,1,adjective/predeterminer
 triple,2,verb
 triumph,1,noun
 triumphant,-,-
@@ -8405,7 +8405,7 @@ underground,1,adjective
 underline,-,-
 underlying,-,-
 undermine,-,-
-underneath,1,preposition adverb
+underneath,1,preposition/adverb
 underpants,-,-
 underpin,-,-
 underscore,-,-
@@ -8461,7 +8461,7 @@ universe,-,-
 university,-,-
 unjust,-,-
 unkind,-,-
-unknown,1,adjective adverb
+unknown,1,adjective/adverb
 unlawful,-,-
 unleash,-,-
 unless,-,-
@@ -8514,7 +8514,7 @@ unwilling,-,-
 unwise,-,-
 unwrap,-,-
 unzip,-,-
-up,1,adverb preposition adjective
+up,1,adverb/preposition/adjective
 upbringing,-,-
 upcoming,-,-
 update,1,verb
@@ -8526,11 +8526,11 @@ upload,1,verb
 upon,-,-
 upper,1,adjective
 upper,-,noun
-upright,1,adjective adverb
+upright,1,adjective/adverb
 uprising,-,-
 upset,1,adjective
 upset,2,verb
-upside,-,1 adverb
+upside,-,1/adverb
 upstairs,1,adverb
 up-to-date,-,-
 upward,-,-
@@ -8546,7 +8546,7 @@ use,1,verb
 use,2,noun
 used,1,adjective
 used,2,adjective
-used,-,modal verb
+used,-,modal/verb
 useful,-,-
 usefulness,-,-
 useless,-,-
@@ -8772,7 +8772,7 @@ wavelength,-,-
 wax,1,noun
 way,1,noun
 way,2,adverb
-way,-,life noun
+way,-,life/noun
 we,-,-
 weak,-,-
 weaken,-,-
@@ -8818,17 +8818,17 @@ western,1,adjective
 wet,1,adjective
 wet,2,verb
 whale,1,noun
-what,-,determiner predetermi
-whatever,1,determiner pronoun
+what,-,determiner/predetermi
+whatever,1,determiner/pronoun
 whatever,2,adverb
 whatsoever,-,-
 wheat,-,-
 wheel,1,noun
 wheel,2,verb
 wheelchair,-,-
-when,-,conjunction pronoun
+when,-,conjunction/pronoun
 whenever,-,conjunction
-where,-,conjunction pronoun
+where,-,conjunction/pronoun
 whereabouts,1,adverb
 whereabouts,2,noun
 whereas,-,-
@@ -8878,13 +8878,13 @@ wild,1,adjective
 wilderness,-,-
 wildlife,-,-
 wildly,-,-
-will,1,modal verb
+will,1,modal/verb
 will,2,noun
 willing,-,-
 willingness,-,-
 wildlife,-,-
 wildly,-,-
-will,1,modal verb
+will,1,modal/verb
 will,2,noun
 willing,-,-
 willingness,-,-
@@ -8947,7 +8947,7 @@ working,1,adjective
 working,-,noun
 workload,-,-
 workman,-,-
-work,-,art noun
+work,-,art/noun
 workplace,-,-
 workshop,-,-
 workstation,-,-
