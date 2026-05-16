@@ -514,7 +514,7 @@ autonomy: autonomy
 autumn: autumn
 availability: availabilïty
 available: available
-avalanche: [-snowslide:
+avalanche: [-snowslide, snowslip]
 avenue: -brawdway
 average: avverage
 avert: avert
@@ -533,10 +533,7 @@ awkward: awkward
 axe: ax
 axis: axis
 baby:
-bachelor:
-back:
-back:
-back:
+bachelor: bakhelor
 back:
 backbone:
 backfire:
@@ -552,7 +549,6 @@ bacteria:
 bad:
 badge:
 badly:
-bad-tempered:
 baffle:
 bag:
 baggage:
@@ -561,9 +557,8 @@ bait:
 bake:
 baker:
 bakery:
-balance:
-balance:
-balanced:
+balance: ballance
+balanced: ballanced
 balcony:
 bald:
 ball:
