@@ -539,13 +539,10754 @@ awful: awful
 awkward: awkward
 axe: ax
 axis: axis
+
+
+baby: 
+  - noun
+bachelor: -
+back: 
+  - adverb
+  - noun
+  - verb
+  - adjective
+backbone: -
+backfire: -
+background: -
+backing: -
+backpack: -
+backslash: -
+backup: -
+backward: -
+backwards: -
+bacon: -
+bacteria: -
+bad: 
+  - adjective
+badge: -
+badly: -
+bad-tempered: -
+baffle: 
+  - verb
+bag: 
+  - noun
+baggage: -
+bail: 
+  - noun
+bait: 
+  - noun
+bake: -
+baker: -
+bakery: -
+balance: 
+  - noun
+  - verb
+balanced: -
+balcony: -
+bald: -
+ball: 
+  - noun
+ballad: -
+ballerina: -
+ballet: -
+balloon: 
+  - noun
+ballot: 
+  - noun
+ban: 
+  - noun
+  - verb
+banal: -
+banana: -
+band: 
+  - noun
+bandage: 
+  - noun
+bang: 
+  - noun
+  - verb
+banish: -
+bank: 
+  - noun
+banker: -
+banking: -
+bankrupt: 
+  - adjective
+bankruptcy: -
+banner: -
+banquet: -
+baptism: -
+baptize: -
+bar: 
+  - noun
+  - verb
+barbaric: -
+barbecue: 
+  - noun
+bar,-,noun
+bare: 
+  - adjective
+barely: -
+bargain: 
+  - noun
+  - verb
+bark: 
+  - verb
+  - noun
+barrage: 
+  - noun
+barrel: 
+  - noun
+barren: -
+barricade: 
+  - noun
+barrier: -
+base: 
+  - verb
+  - noun
+baseball: -
+basement: -
+basic: -
+basically: -
+basics: -
+basin: -
+basis: -
+basket: -
+basketball: -
+bat: 
+  - noun
+batch: -
+bath: 
+  - noun
+bathe: 
+  - verb
+bathroom: -
+bathtub: -
+battery: -
+battle: 
+  - noun
+  - verb
+battlefield: -
+bay: 
+  - noun
+bazaar: -
+be: 
+  - auxiliary/verb
+  - verb
+beach: 
+  - noun
+beacon: -
+bead: -
+beak: -
+beam: 
+  - noun
+  - verb
+bean: 
+  - noun
+bear: 
+  - verb
+  - noun
+beard: 
+  - noun
+beast: -
+beat: 
+  - verb
+  - noun
+beautiful: -
+beauty: -
+because: 
+  - conjunction
+  - preposition
+beckon: -
+become: -
+bed: 
+  - noun
+bedroom: -
+bee: -
+beef: 
+  - noun
+beep: -
+beer: -
+before: 
+  - conjunction
+  - preposition
+  - adverb
+beforehand: -
+beg: -
+beggar: 
+  - noun
+begin: -
+beginner: -
+beginning: -
+behalf: -
+behave: -
+behaviour: -
+behind: 
+  - preposition/adverb
+being: 
+  - noun
+belief: -
+believe: -
+believer: -
+bell: -
+belly: 
+  - noun
+belong: -
+belongings: -
+below,-,preposition
+belt: 
+  - noun
+bench: 
+  - noun
+benchmark: 
+  - noun
+bend: 
+  - verb
+beneath,-,preposition
+beneficial: -
+beneficiary: -
+benefit: 
+  - noun
+  - verb
+benign: -
+berry: -
+beside: -
+besides,-,preposition
+best: 
+  - adjective
+  - adverb
+  - noun
+bet: 
+  - verb
+  - noun
+betray: -
+betrayal: -
+better: 
+  - adjective
+  - adverb
+  - noun
+between,-,preposition
+beverage: -
+beware: -
+bewildered: -
+bewildering: -
+beyond: 
+  - preposition/adverb
+bias: 
+  - noun
+biased: -
+bibliography: -
+bicycle: 
+  - noun
+bid: 
+  - noun
+  - verb
+bidder: -
+big: 
+  - adjective
+big-headed: -
+bike: 
+  - noun
+bikini: -
+bilateral: -
+bilingual: -
+bill: 
+  - noun
+billion: -
+bin: 
+  - noun
+bind: 
+  - verb
+binoculars: -
+biography: -
+biological: -
+biologist: -
+biology: -
+biotechnology: -
+bird: -
+birth: -
+birthday: -
+biscuit: -
+bit: 
+  - adverb/pronoun
+  - noun
+bite: 
+  - verb
+  - noun
+bitter: 
+  - adjective
+bitterly: -
+bizarre: -
+black: 
+  - adjective
+  - noun
+blackboard: -
+blackmail: 
+  - noun
+  - verb
+blade: -
+blame: 
+  - verb
+  - noun
+bland: -
+blank: 
+  - adjective
+blanket: 
+  - noun
+blare: -
+blast: 
+  - noun
+  - verb
+blatant: -
+blaze: 
+  - noun
+  - verb
+bleach: 
+  - noun
+bleak: -
+bleed: -
+blend: 
+  - verb
+bless: -
+blessing: -
+blind: 
+  - adjective
+  - verb
+  - noun
+blink: 
+  - verb
+bliss: -
+blister: 
+  - noun
+blizzard: -
+block: 
+  - noun
+  - verb
+blog: -
+bloke: -
+blond: -
+blonde: 
+  - adjective
+blood: 
+  - noun
+blossom: 
+  - noun
+  - verb
+blot: 
+  - verb
+blouse: -
+blow: 
+  - verb
+  - noun
+blue: 
+  - adjective
+  - noun
+blunt: 
+  - adjective
+bluntly: -
+blur: 
+  - noun
+  - verb
+blurred: -
+blush: 
+  - verb
+board: 
+  - noun
+  - verb
+boast: 
+  - verb
+  - noun
+boastful: -
+boat: -
+body: -
+bodyguard: -
+body,-,noun
+boil: 
+  - verb
+boiler: -
+boiling,-,adverb
+bold: -
+bolster: 
+  - verb
+bolt: 
+  - noun
+  - verb
+bomb: 
+  - noun
+  - verb
+bombard: -
+bomber: -
+bombing: -
+bond: 
+  - noun
+bone: 
+  - noun
+bonus: -
+book: 
+  - noun
+  - verb
+bookcase: -
+booking: -
+booklet: -
+bookshelf: -
+bookshop: -
+boom: 
+  - noun
+  - verb
+boost: 
+  - verb
+  - noun
+boot: 
+  - noun
+booth: -
+border: 
+  - noun
+borderline: 
+  - adjective
+  - verb
+  - noun
+bored: -
+boredom: -
+boring: -
+born: 
+  - verb
+borrow: -
+boss: 
+  - noun
+bossy: -
+both: 
+  - determiner/predeterminer/pron
+bother: 
+  - verb
+bottle: 
+  - noun
+bottom: 
+  - noun
+  - adjective
+bounce: 
+  - verb
+  - adjective
+boundary: -
+bouquet: -
+bout: -
+boutique: 
+  - noun
+bow: 
+  - verb
+  - noun
+bowel: -
+bowl: 
+  - noun
+bowling: -
+box: 
+  - noun
+  - verb
+boxer: -
+boxer,-,noun
+boxing: -
+boy: 
+  - noun
+boycott: 
+  - verb
+  - noun
+boyfriend: -
+bra: -
+bracelet: -
+bracket: 
+  - noun
+brag: -
+brain: 
+  - noun
+brainstorm: 
+  - noun
+brainwave: -
+brainy: -
+brake: 
+  - noun
+  - verb
+branch: 
+  - noun
+brand: 
+  - noun
+  - verb
+brand-new: -
+brass: -
+brave: 
+  - adjective
+bravery: -
+breach: 
+  - noun
+  - verb
+bread: -
+breadth: -
+break: 
+  - verb
+  - noun
+breakdown: -
+breakfast: -
+breakthrough: -
+breast: 
+  - noun
+breath: -
+breathe: -
+breathing: -
+breed: 
+  - verb
+  - noun
+breeze: 
+  - noun
+brew: 
+  - verb
+brewery: -
+bribe: 
+  - verb
+  - noun
+bribery: -
+brick: 
+  - noun
+bride: -
+bridegroom: -
+bridesmaid: -
+bridge: 
+  - noun
+  - verb
+brief: 
+  - adjective
+  - noun
+  - verb
+briefcase: -
+briefing: -
+briefly: -
+bright: -
+brilliant: -
+bring: -
+brink: -
+brisk: -
+broad: 
+  - adjective
+broadband: -
+broadcast: 
+  - noun
+  - verb
+broaden: -
+broadly: -
+brochure: -
+  - adjective
+broker: 
+  - noun
+bronze: 
+  - noun
+  - adjective
+broom: -
+brother: 
+  - noun
+brother-in-law: -
+brow: -
+brown: 
+  - adjective
+  - noun
+browse: -
+browser: -
+bruise: 
+  - noun
+  - verb
+brunch: -
+brush: 
+  - noun
+  - verb
+brutal: -
+bubble: 
+  - noun
+bucket: 
+  - noun
+bud: 
+  - noun
+budget: 
+  - noun
+buffet: 
+  - noun
+bug: 
+  - noun
+build: 
+  - verb
+  - noun
+builder: -
+building: -
+built-in: -
+bulb: -
+bulk: 
+  - noun
+bull: 
+  - noun
+bullet: -
+bulletin: -
+bully: 
+  - noun
+  - verb
+bum: 
+  - noun
+bump: 
+  - verb
+  - noun
+bumpy: -
+bunch: 
+  - noun
+bundle: 
+  - noun
+bungalow: -
+burden: 
+  - noun
+bureau: -
+bureaucracy: -
+bureaucrat: -
+bureaucratic: -
+burger: -
+burglar: -
+burglar,-,noun
+burglary: -
+burial: -
+burn: 
+  - verb
+  - noun
+burning: 
+  - adjective
+  - adjective
+burst: 
+  - verb
+  - noun
+bury: -
+bus: 
+  - noun
+bush: -
+business: -
+businessman: -
+bus,-,noun
+bust: 
+  - verb
+  - noun
+busy: 
+  - adjective
+but: 
+  - conjunction
+  - preposition
+butcher: 
+  - noun
+butter: 
+  - noun
+butterfly: -
+buttock: -
+button: 
+  - noun
+buy: 
+  - verb
+buyer: -
+buzz: 
+  - verb
+by: 
+  - preposition
+  - adverb
+bye: 
+  - interjection
+cab: -
+cabbage: -
+cabin: -
+cabinet: -
+cable: 
+  - noun
+café: -
+cafeteria: -
+cage: 
+  - noun
+cake: 
+  - noun
+calcium: -
+calculate: -
+calculation: -
+calculator: -
+calendar: -
+calf: -
+call: 
+  - verb
+  - noun
+call,-,noun
+calm: 
+  - adjective
+  - noun
+  - verb
+calorie: -
+camel: -
+camera: -
+camp: 
+  - noun
+  - verb
+campaign: 
+  - noun
+  - verb
+campaigner: -
+camping: -
+campsite: -
+campus: -
+can: 
+  - modal/verb
+  - noun
+canal: -
+cancel: -
+cancellation: -
+cancer: -
+candid: -
+candidate: -
+candle: -
+candy: -
+cane: 
+  - noun
+cannot,-,verb
+canoe: 
+  - noun
+can,-,noun
+can't: -
+canvas: -
+canyon: -
+cap: 
+  - noun
+capability: -
+capable: -
+capacity: -
+cape: -
+capital: 
+  - noun
+  - adjective
+capitalism: -
+capitalist: 
+  - noun
+  - adjective
+capital,-,noun
+captain: 
+  - noun
+capture: 
+  - verb
+car: -
+caravan: -
+carbohydrate: -
+carbon: -
+card: 
+  - noun
+cardigan: -
+care: 
+  - noun
+  - verb
+career: 
+  - noun
+carefree: -
+careful: -
+carefully: -
+careless: -
+carer: -
+caretaker: -
+cargo: -
+caring: -
+carnival: -
+car,-,noun
+carpenter: -
+carpet: 
+  - noun
+carriage: -
+carrier,-,noun
+carrot: -
+carry: 
+  - verb
+cart: 
+  - noun
+carton: -
+cartoon: -
+carve: -
+case: 
+  - noun
+cash: 
+  - noun
+cash,-,noun
+casino: -
+cast: 
+  - verb
+  - noun
+castle: -
+casual: -
+casualty: -
+cat: -
+catalogue: 
+  - noun
+catalyst: -
+catastrophe: -
+catastrophic: -
+catch: 
+  - verb
+  - noun
+categorize: -
+category: -
+cater: -
+cathedral: -
+cattle: -
+cause: 
+  - verb
+  - noun
+caution: 
+  - noun
+  - verb
+cautious: -
+cautiously: -
+cave: 
+  - noun
+CD: -
+cease: 
+  - verb
+ceasefire: -
+ceiling: -
+celebrate: -
+celebration: -
+celebrity: -
+cell: -
+cellar: -
+cellphone: -
+cement: 
+  - noun
+cemetery: -
+censor: 
+  - verb
+censorship: -
+census: -
+cent: -
+centimetre: -
+central: -
+central,-,noun
+centre: 
+  - noun
+  - verb
+century: -
+ceramics: -
+cereal: -
+ceremony: -
+certain: 
+  - adjective
+certainly: -
+certainty: -
+certificate: -
+cf: -
+chain: 
+  - noun
+chair: 
+  - noun
+  - verb
+chairman: -
+chalk: 
+  - noun
+challenge: 
+  - noun
+  - verb
+challenging: -
+chamber: -
+champagne: -
+champion: 
+  - noun
+  - verb
+championship: -
+chance: 
+  - noun
+change: 
+  - verb
+  - noun
+channel: 
+  - noun
+  - verb
+chant: 
+  - verb
+  - noun
+chaos: -
+chaotic: -
+chap: -
+chapel: -
+chapter: -
+character: -
+characteristic: 
+  - noun
+  - adjective
+characterize: -
+charge: 
+  - noun
+  - verb
+charisma: -
+charismatic: -
+charity: -
+charm: 
+  - noun
+  - verb
+charming: -
+chart: 
+  - noun
+  - verb
+charter: 
+  - noun
+chase: 
+  - verb
+  - noun
+chat: 
+  - verb
+  - noun
+cheap: 
+  - adjective
+cheat: 
+  - verb
+  - noun
+check: 
+  - verb
+  - noun
+checked: -
+checklist: -
+checkout: -
+checkpoint: -
+cheek: 
+  - noun
+cheer: 
+  - noun
+  - verb
+cheerful: -
+cheese: -
+chef: -
+chemical: 
+  - noun
+  - adjective
+chemist: -
+chemistry: -
+cheque: -
+cherish: -
+cherry: -
+chess: -
+chest: -
+chew: 
+  - verb
+chewing,-,noun
+chick: -
+chicken: 
+  - noun
+chief: 
+  - adjective
+  - noun
+chiefly: -
+child: -
+childcare: -
+childhood: -
+chill: 
+  - noun
+  - verb
+chilli: -
+chilly: -
+chimney: -
+chimpanzee: -
+chin: -
+chip: 
+  - noun
+  - verb
+chocolate: -
+choice: 
+  - noun
+choir: -
+choke: 
+  - verb
+cholesterol: -
+choose: -
+chop: 
+  - verb
+chord: -
+chore: -
+chorus: 
+  - noun
+Christmas: -
+chronic: -
+chronicle: 
+  - noun
+chuckle: -
+chunk: -
+chunky: -
+church: -
+churn: 
+  - verb
+cigar: -
+cigarette: -
+cinema: -
+circle: 
+  - noun
+  - verb
+circuit: -
+circular: 
+  - adjective
+circulate: -
+circulation: -
+circumstance: -
+circus: -
+citation: -
+cite: -
+citizen: -
+citizenship: -
+city: -
+civic: -
+civil: -
+civilian: -
+civilization: -
+claim: 
+  - verb
+  - noun
+clan: -
+clap: 
+  - verb
+clarify: -
+clarity: -
+clash: 
+  - verb
+  - noun
+clasp: 
+  - verb
+class: 
+  - noun
+  - verb
+classic: 
+  - adjective
+  - noun
+classical: -
+classification: -
+classified: -
+classify: -
+classmate: -
+classroom: -
+clause: -
+claw: 
+  - noun
+clay: -
+clean: 
+  - adjective
+  - verb
+cleaner: -
+clear: 
+  - adjective
+  - verb
+  - adverb
+clearance: -
+clearing: -
+clearly: -
+clench: -
+cleric: -
+clerk: 
+  - noun
+clever: -
+cliché: -
+click: 
+  - verb
+  - noun
+client: -
+cliff: -
+climate: -
+climate,-,noun
+climax: 
+  - noun
+climb: 
+  - verb
+  - noun
+climber: -
+climbing: -
+clinch: 
+  - verb
+cling: -
+clinic: -
+clinical: -
+clip: 
+  - noun
+  - verb
+cloak: 
+  - noun
+clock: 
+  - noun
+clone: 
+  - noun
+  - verb
+close: 
+  - verb
+  - adjective
+  - adverb
+  - noun
+closed: -
+closely: -
+closet: 
+  - noun
+closing: 
+  - adjective
+closure: -
+cloth: -
+clothe: -
+clothes: -
+clothing: -
+cloud: 
+  - noun
+cloudy: -
+clown: 
+  - noun
+club: 
+  - noun
+clue: 
+  - noun
+clumsy: -
+cluster: 
+  - noun
+clutch: 
+  - verb
+  - noun
+c/o: -
+coach: 
+  - noun
+  - verb
+coal: -
+coalition: -
+coarse: -
+coast: 
+  - noun
+coastline: -
+coat: 
+  - noun
+cock: 
+  - noun
+cocktail: -
+cocoa: -
+code: 
+  - noun
+  - verb
+coffee: -
+coffin: -
+cognitive: -
+coherent: -
+cohesion: -
+coil: 
+  - verb
+coin: 
+  - noun
+coincide: -
+coincidence: -
+cola: -
+cold: 
+  - adjective
+  - noun
+collaborate: -
+collaboration: -
+collaborative: -
+collapse: 
+  - verb
+  - noun
+collar: 
+  - noun
+colleague: -
+collect: 
+  - verb
+collection: -
+collective: 
+  - adjective
+collectively: -
+collector: -
+college: -
+collide: -
+collision: -
+colloquial: -
+colon: -
+colonel: -
+colonial: 
+  - adjective
+colony: -
+colour: 
+  - noun
+  - verb
+coloured: 
+  - adjective
+colourful: -
+colouring: -
+column: -
+columnist: -
+comb: 
+  - noun
+  - verb
+combat: 
+  - noun
+  - verb
+combination: -
+combine: 
+  - verb
+combined: -
+come: 
+  - verb
+comeback: -
+comedian: -
+comedy: -
+comet: -
+comfort: 
+  - noun
+  - verb
+comfortable: -
+comfortably: -
+comic: 
+  - adjective
+  - noun
+comma: -
+command: 
+  - noun
+  - verb
+commander: -
+commemorate: -
+commence: -
+commend: -
+comment: 
+  - noun
+  - verb
+commentary: -
+commentator: -
+commerce: -
+commercial: 
+  - adjective
+  - noun
+commercially: -
+commission: 
+  - noun
+  - verb
+commissioner: -
+commit: -
+commitment: -
+committed: -
+committee: -
+commodity: -
+common: 
+  - adjective
+  - noun
+commonly: -
+commonplace: 
+  - adjective
+common,-,noun
+communal: -
+communicate: -
+communication: -
+communion: -
+communism: -
+communist: 
+  - noun
+community: -
+commute: 
+  - verb
+commuter: -
+compact: 
+  - adjective
+companion: -
+company: -
+comparable: -
+comparative: 
+  - adjective
+comparatively: -
+compare: 
+  - verb
+comparison: -
+compartment: -
+compass: -
+compassion: -
+compassionate: -
+compatible: 
+  - adjective
+compel: -
+compelling: -
+compensate: -
+compensation: -
+compete: -
+competence: -
+competent: -
+competition: -
+competitive: -
+competitor: -
+compile: -
+complain: -
+complaint: -
+complement: 
+  - verb
+complementary: -
+complete: 
+  - adjective
+  - verb
+completely: -
+completion: -
+complex: 
+  - adjective
+  - noun
+complexity: -
+complicate: -
+complicated: -
+complication: -
+compliment: 
+  - noun
+  - verb
+comply: -
+component: 
+  - noun
+compose: -
+composer: -
+composition: -
+compound: 
+  - noun
+comprehend: -
+comprehension: -
+comprehensive: -
+comprise: -
+compromise: 
+  - noun
+  - verb
+compulsory: -
+computer: -
+computing: -
+conceal: -
+concede: -
+conceited: -
+conceivable: -
+conceive: -
+concentrate: 
+  - verb
+concentration: -
+concept: -
+conception: -
+conceptual: -
+concern: 
+  - noun
+  - verb
+concerned: -
+concerning: -
+concert: -
+concession: -
+concise: -
+conclude: -
+conclusion: -
+concrete: 
+  - adjective
+  - noun
+condemn: -
+condemnation: -
+condense: -
+condition: 
+  - noun
+conditional: 
+  - adjective
+condom: -
+condominium: -
+conduct: 
+  - verb
+  - noun
+conductor: -
+cone: 
+  - noun
+confer: -
+conference: -
+confess: -
+confession: -
+confide: -
+confidence: -
+confident: -
+confidential: -
+confidentiality: -
+confine: -
+confirm: -
+confirmation: -
+confiscate: -
+conflict: 
+  - noun
+  - verb
+conflicting: -
+conform: -
+confront: -
+confrontation: -
+confuse: -
+confused: -
+confusing: -
+confusion: -
+congested: -
+congestion: -
+congratulate: -
+congratulation: -
+congregation: -
+conjunction: -
+conjure: -
+connect: -
+connected: -
+connection: -
+connotation: -
+conquer: -
+conquest: -
+conscience: -
+conscientious: -
+conscious: -
+consciously: -
+consciousness: -
+consecutive: -
+consensus: -
+consent: 
+  - noun
+  - verb
+consequence: -
+consequent: -
+consequently: -
+conservation: -
+conservative: 
+  - adjective
+conserve: 
+  - verb
+consider: -
+considerable: -
+considerably: -
+considerate: -
+consideration: -
+considering: 
+  - preposition/conjunction
+consist: -
+consistency: -
+consistent: -
+consolation: -
+consolidate: -
+consonant: 
+  - noun
+consortium: -
+conspicuous: -
+conspiracy: -
+conspire: -
+constant: 
+  - adjective
+  - noun
+constantly: -
+constituency: -
+constituent: 
+  - noun
+  - adjective
+constitute: -
+constitution: -
+constitutional: 
+  - adjective
+constrain: -
+constraint: -
+construct: 
+  - verb
+construction: -
+constructive: -
+construe: -
+consult: -
+consultancy: -
+consultant: -
+consultation: -
+consume: -
+consumer: -
+consumption: -
+contact: 
+  - noun
+  - verb
+contain: -
+container: -
+contaminate: -
+contemplate: -
+contemporary: 
+  - adjective
+  - noun
+contempt: -
+contend: -
+contender: -
+content: 
+  - noun
+  - adjective
+contention: -
+contentious: -
+contest: 
+  - noun
+  - verb
+context: -
+continent: 
+  - noun
+continental: -
+contingency: -
+contingent: 
+  - adjective
+continual: -
+continuation: -
+continue: -
+continuity: -
+continuous: -
+continuum: -
+contour: -
+contract: 
+  - noun
+  - verb
+contractor: -
+contradict: -
+contradiction: -
+contradictory: -
+contrary: 
+  - noun
+contrast: 
+  - noun
+  - verb
+contribute: -
+contribution: -
+contributor: -
+control: 
+  - noun
+  - verb
+controlled: -
+controller: -
+controversial: -
+controversy: -
+convene: -
+convenience: -
+convenience,-,noun
+convenient: -
+conveniently: -
+convention: -
+conventional: -
+converge: -
+conversation: -
+conversely: -
+conversion: -
+convert: 
+  - verb
+convertible: 
+  - adjective
+convey: -
+convict: 
+  - verb
+conviction: -
+convince: -
+convinced: -
+convincing: -
+convoy: 
+  - noun
+cook: 
+  - verb
+  - noun
+cookie: -
+cooking: 
+  - noun
+cool: 
+  - adjective
+  - verb
+cooler: -
+cooperate: -
+cooperation: -
+cooperative: 
+  - adjective
+coordinate: 
+  - verb
+  - noun
+coordination: -
+coordinator: -
+cop: 
+  - noun
+cope: 
+  - verb
+copper: -
+copy: 
+  - noun
+  - verb
+copyright: -
+cord: 
+  - noun
+core: 
+  - noun
+corn: -
+corner: 
+  - noun
+corollary: -
+coroner: -
+corporate: -
+corporation: -
+corps: -
+corpse: -
+correct: 
+  - adjective
+  - verb
+correction: -
+correlate: 
+  - verb
+correlation: -
+correspond: -
+correspondence: -
+correspondent: -
+corresponding: -
+corridor: -
+corrupt: 
+  - adjective
+  - verb
+corruption: -
+cosmetics: -
+cosmic: -
+cost: 
+  - noun
+  - verb
+costly: -
+costume: -
+cosy: 
+  - adjective
+cottage: -
+cotton: 
+  - noun
+couch: 
+  - noun
+cough: 
+  - verb
+  - noun
+could,-,verb
+council: -
+councillor: -
+counselling: -
+counsellor: -
+count: 
+  - verb
+  - noun
+counter: 
+  - noun
+  - verb
+counteract: -
+counterpart: -
+counterproductive: -
+countless: -
+country: 
+  - noun
+countryside: -
+county: -
+coup: -
+couple: 
+  - noun
+coupon: -
+courage: -
+courageous: -
+course: 
+  - noun
+coursebook: -
+court: 
+  - noun
+courteous: -
+courtesy: 
+  - noun
+courtroom: -
+courtyard: -
+cousin: -
+cover: 
+  - verb
+  - noun
+coverage: -
+cow: 
+  - noun
+cowboy: -
+co-worker: -
+crab: -
+crack: 
+  - verb
+  - noun
+crackle: -
+craft: 
+  - noun
+craftsman: -
+crafty: -
+cram: -
+cramped: -
+crane: 
+  - noun
+crash: 
+  - verb
+  - noun
+crate: 
+  - noun
+crater: -
+crawl: 
+  - verb
+crayon: 
+  - noun
+crazy: 
+  - adjective
+creak: -
+cream: 
+  - noun
+create: -
+creation: -
+creative: 
+  - adjective
+creativity: -
+creator: -
+creature: -
+credentials: -
+credibility: -
+credible: -
+credit: 
+  - noun
+  - verb
+credit,-,noun
+creek: -
+creep: 
+  - verb
+creepy: -
+crew: 
+  - noun
+cricket: -
+crime: -
+criminal: 
+  - adjective
+  - noun
+cripple: 
+  - verb
+crisis: -
+crisp: 
+  - adjective
+criterion: -
+critic: -
+critical: -
+critically: -
+criticism: -
+criticize: -
+critique: 
+  - noun
+crocodile: -
+crook: 
+  - noun
+crooked: -
+crop: 
+  - noun
+cross: 
+  - verb
+  - noun
+  - adjective
+crossing: -
+crossroads: -
+crosswalk: -
+crossword: -
+crouch: -
+crowd: 
+  - noun
+  - verb
+crowded: -
+crown: 
+  - noun
+crucial: -
+crude: 
+  - adjective
+cruel: -
+cruelty: -
+cruise: 
+  - noun
+  - verb
+crumble: 
+  - verb
+crunchy: -
+crusade: 
+  - noun
+crush: 
+  - verb
+crust: -
+cry: 
+  - verb
+  - noun
+crystal: -
+cub: -
+cube: 
+  - noun
+cubic: -
+cucumber: -
+cue: 
+  - noun
+cuisine: -
+culminate: -
+cult: 
+  - noun
+cultivate: -
+cultural: -
+culturally: -
+culture: 
+  - noun
+culture,-,noun
+cumulative: -
+cunning: 
+  - adjective
+cup: 
+  - noun
+cupboard: -
+curator: -
+curb: 
+  - verb
+cure: 
+  - noun
+  - verb
+curfew: -
+curiosity: -
+curious: -
+curiously: -
+curl: 
+  - verb
+  - noun
+curly: -
+currant: -
+currency: -
+current: 
+  - adjective
+  - noun
+current,-,noun
+currently: -
+curriculum: -
+curry: 
+  - noun
+curse: 
+  - verb
+  - noun
+cursor: -
+curtail: -
+curtain: 
+  - noun
+curve: 
+  - noun
+  - verb
+curved: -
+cushion: 
+  - noun
+custard: -
+custody: -
+custom: 
+  - noun
+customary: -
+customer: -
+cut: 
+  - verb
+  - noun
+cute: -
+CV: -
+cycle: 
+  - noun
+  - verb
+cyclist: -
+cylinder: -
+cynic: -
+cynical: -
+dad: -
+daddy: -
+daily: 
+  - adjective
+  - adverb
+dairy: -
+dam: 
+  - noun
+damage: 
+  - noun
+  - verb
+damaged: -
+damaging: -
+damp: 
+  - adjective
+dance: 
+  - noun
+  - verb
+dancer: -
+danger: -
+dangerous: -
+dangerously: -
+dangle: -
+dare: 
+  - verb/modal/verb
+daring: 
+  - adjective
+dark: 
+  - adjective
+  - noun
+darken: -
+darkness: -
+darling: 
+  - noun
+dart: 
+  - verb
+  - noun
+dash: 
+  - verb
+  - noun
+data: -
+database: -
+date: 
+  - noun
+  - verb
+dated: -
+daughter: -
+daughter-in-law: -
+daunting: -
+dawn: 
+  - noun
+  - verb
+day: -
+daydream: 
+  - verb
+daylight: -
+daytime: -
+day-to-day: -
+dazzle: -
+dead: 
+  - adjective
+deadline: -
+deadly: 
+  - adjective
+deaf: -
+deal: 
+  - noun
+  - verb
+dealer: -
+dealing: -
+dear: 
+  - interjection
+  - adjective
+  - noun
+death: -
+debate: 
+  - noun
+  - verb
+debit,-,noun
+debris: -
+debt: -
+debut: 
+  - noun
+decade: -
+decay: 
+  - verb
+  - noun
+deceased: -
+deceive: -
+December: -
+decent: -
+deception: -
+decide: -
+decidedly: -
+decision: -
+decisive: -
+deck: 
+  - noun
+declaration: -
+declare: -
+decline: 
+  - noun
+  - verb
+decorate: -
+decoration: -
+decorative: -
+decrease: 
+  - verb
+  - noun
+decree: 
+  - noun
+dedicate: -
+dedicated: -
+dedication: -
+deduce: -
+deduct: -
+deduction: -
+deed: -
+deem: -
+deep: 
+  - adjective
+  - adverb
+deepen: -
+deeply: -
+deer: -
+default: 
+  - noun
+defeat: 
+  - noun
+  - verb
+defect: 
+  - noun
+defective: -
+defence: -
+defend: -
+defender: -
+defensive: 
+  - adjective
+defer: -
+defiance: -
+deficiency: -
+deficit: -
+define: -
+definite: -
+definitely: -
+definition: -
+definitive: -
+deflect: -
+defy: -
+degree: -
+delay: 
+  - noun
+  - verb
+delegate: 
+  - noun
+  - verb
+delegation: -
+delete: -
+deliberate: 
+  - adjective
+deliberately: -
+delicate: -
+delicious: -
+delight: 
+  - noun
+  - verb
+delighted: -
+delightful: -
+deliver: -
+delivery: -
+demand: 
+  - noun
+  - verb
+demanding: -
+demise: -
+democracy: -
+democratic: -
+demographic: 
+  - adjective
+demolish: -
+demolition: -
+demon: -
+demonstrate: -
+demonstration: -
+demonstrator: -
+denial: -
+denote: -
+denounce: -
+dense: -
+density: -
+dental: -
+dentist: -
+deny: -
+depart: -
+department: -
+department,-,noun
+departure: -
+depend: -
+dependable: -
+dependence: -
+dependent: 
+  - adjective
+depict: -
+deploy: -
+deport: -
+deposit: 
+  - noun
+  - verb
+depot: -
+depressed: -
+depressing: -
+depression: -
+deprivation: -
+deprive: -
+deprived: -
+depth: -
+deputy: -
+derive: -
+descend: -
+descendant: -
+descent: -
+describe: -
+description: -
+descriptive: -
+desert: 
+  - noun
+  - verb
+deserted: -
+deserve: -
+design: 
+  - noun
+  - verb
+designate: 
+  - verb
+designer: 
+  - noun
+desirable: -
+desire: 
+  - noun
+  - verb
+desk: -
+desktop: -
+despair: 
+  - noun
+desperate: -
+desperately: -
+desperation: -
+despise: -
+despite: -
+dessert: -
+destination: -
+destined: -
+destiny: -
+destroy: -
+destruction: -
+destructive: -
+detach: -
+detail: 
+  - noun
+detailed: -
+detain: -
+detect: -
+detection: -
+detective: -
+detector: -
+detention: -
+deter: -
+deteriorate: -
+determination: -
+determine: -
+determined: -
+deterrent: -
+detrimental: -
+devastate: -
+devastated: -
+devastating: -
+develop: -
+developed: -
+developer: -
+developing: -
+development: -
+developmental: -
+deviation: -
+device: -
+devil: -
+devious: -
+devise: -
+devote: -
+devoted: -
+devotion: -
+devour: -
+diagnose: -
+diagnosis: -
+diagnostic: -
+diagonal: -
+diagram: 
+  - noun
+dial: 
+  - noun
+  - verb
+dialect: -
+dialogue: -
+diameter: -
+diamond: -
+diary: -
+dice: 
+  - noun
+dictate: 
+  - verb
+dictator: -
+dictatorship: -
+dictionary: -
+die: 
+  - verb
+diesel: -
+diet: 
+  - noun
+  - verb
+dietary: -
+differ: -
+difference: -
+different: -
+differentiate: -
+difficult: -
+difficulty: -
+dig: 
+  - verb
+digest: 
+  - verb
+digestion: -
+digit: -
+digital: -
+dignified: -
+dignity: -
+dilemma: -
+dilute: 
+  - verb
+dim: 
+  - adjective
+dimension: -
+diminish: -
+dine: -
+diner: -
+dining,-,noun
+dinner: -
+dinosaur: -
+dip: 
+  - verb
+  - noun
+diploma: -
+diplomacy: -
+diplomat: -
+diplomatic: -
+dire: -
+direct: 
+  - adjective
+  - verb
+direction: -
+directive: 
+  - noun
+directly: 
+  - adverb
+director: -
+directory: -
+dirt: -
+dirty: 
+  - adjective
+disability: -
+disabled: -
+disadvantage: 
+  - noun
+disadvantaged: -
+disagree: -
+disagreement: -
+disappear: -
+disappearance: -
+disappoint: -
+disappointed: -
+disappointing: -
+disappointment: -
+disapproval: -
+disapprove: -
+disaster: -
+disastrous: -
+disbelief: -
+disc: -
+discard: 
+  - verb
+discern: -
+discharge: 
+  - verb
+disciple: -
+discipline: 
+  - noun
+  - verb
+disclose: -
+disclosure: -
+discomfort: -
+disconnect: 
+  - verb
+discount: 
+  - noun
+  - verb
+discourage: -
+discouraged: -
+discourse: 
+  - noun
+discover: -
+discovery: -
+discredit: 
+  - verb
+discreet: -
+discrepancy: -
+discretion: -
+discriminate: -
+discrimination: -
+discuss: -
+discussion: -
+disease: -
+disgrace: 
+  - noun
+disgraceful: -
+disguise: 
+  - verb
+  - noun
+disgust: 
+  - noun
+  - verb
+disgusted: -
+disgusting: -
+dish: 
+  - noun
+dishwasher: -
+disk: -
+dislike: 
+  - verb
+  - noun
+dismal: -
+dismantle: -
+dismay: 
+  - noun
+dismiss: -
+dismissal: -
+disobedient: -
+disobey: -
+disorder: -
+disorganized: -
+disparity: -
+dispatch: 
+  - verb
+dispense: -
+disperse: -
+displace: -
+display: 
+  - noun
+  - verb
+disposal: -
+dispose: -
+disposition: -
+dispute: 
+  - noun
+  - verb
+disregard: 
+  - verb
+disrupt: -
+disruption: -
+dissatisfaction: -
+dissatisfied: -
+dissent: 
+  - noun
+dissertation: -
+dissolve: -
+distance: 
+  - noun
+distant: -
+distinct: -
+distinction: -
+distinctive: -
+distinctly: -
+distinguish: -
+distinguished: -
+distort: -
+distract: -
+distraction: -
+distress: 
+  - noun
+  - verb
+distressed: -
+distribute: -
+distribution: -
+distributor: -
+district: -
+distrust: 
+  - noun
+  - verb
+disturb: -
+disturbance: -
+disturbing: -
+ditch: 
+  - noun
+ditto: 
+  - adverb
+dive: 
+  - verb
+  - noun
+diver: -
+diverse: -
+diversify: -
+diversion: -
+diversity: -
+divert: -
+divide: 
+  - verb
+divine: 
+  - adjective
+division: -
+divorce: 
+  - noun
+  - verb
+divorced: -
+dizzy: -
+DNA: -
+do: 
+  - auxiliary/verb
+  - verb
+dock: 
+  - noun
+doctor: 
+  - noun
+doctrine: -
+document: 
+  - noun
+  - verb
+documentary: 
+  - noun
+documentation: -
+dodge: 
+  - verb
+dodgy: -
+dog: 
+  - noun
+  - verb
+doll: 
+  - noun
+dollar: -
+dolphin: -
+domain: -
+dome: -
+domestic: 
+  - adjective
+dominance: -
+dominant: 
+  - adjective
+dominate: -
+domination: -
+donate: -
+donation: -
+donkey: -
+donor: -
+doom: 
+  - verb
+  - noun
+door: 
+  - noun
+doorstep: 
+  - noun
+doorway: -
+dose: 
+  - noun
+dot: 
+  - noun
+  - verb
+double: 
+  - adjective
+  - noun
+  - verb
+  - adverb
+double5: -
+double,-,verb
+doubt: 
+  - noun
+  - verb
+doubtful: -
+doubtless: -
+dough: -
+down: 
+  - adverb/preposition/adjective
+download: 
+  - verb
+downstairs: 
+  - adverb
+downtown: -
+downwards: -
+dozen: -
+Dr: -
+draft: 
+  - noun
+drag: 
+  - verb
+dragon: -
+drain: 
+  - verb
+  - noun
+drainage: -
+drama: -
+dramatic: -
+dramatically: -
+drape: -
+drastic: -
+draw: 
+  - verb
+  - noun
+drawback: -
+drawer: -
+drawing: -
+dread: 
+  - verb
+dreadful: -
+dream: 
+  - noun
+  - verb
+dress: 
+  - noun
+  - verb
+dressing: -
+dressing,-,noun
+dribble: 
+  - verb
+dried: -
+drift: 
+  - verb
+  - noun
+drill: 
+  - noun
+  - verb
+drink: 
+  - verb
+  - noun
+drinker: -
+drinking,-,noun
+drip: 
+  - verb
+  - noun
+drive: 
+  - verb
+  - noun
+driver: -
+driveway: -
+driving,-,noun
+drizzle: 
+  - verb
+drop: 
+  - verb
+  - noun
+drought: -
+drown: -
+drug: 
+  - noun
+drugstore: -
+drum: 
+  - noun
+drummer: -
+  - adjective
+dry: 
+  - adjective
+  - verb
+dryer: -
+dual: -
+dual,-,noun
+dubious: -
+duck: 
+  - noun
+due: 
+  - adjective
+  - adverb
+dull: 
+  - adjective
+dumb: 
+  - adjective
+dump: 
+  - verb
+  - noun
+duo: -
+duplicate: 
+  - verb
+  - adjective
+  - noun
+duration: -
+during: -
+dusk: -
+dust: 
+  - noun
+  - verb
+dusty: -
+duty: -
+duvet: -
+DVD: -
+dwell: -
+dwindle: -
+dye: 
+  - noun
+  - verb
+dynamic: 
+  - adjective
+  - noun
+dynasty: -
+each,-,pronoun/adverb
+each,-,pronoun
+eager: -
+eagle: 
+  - noun
+ear: -
+earache: -
+early: 
+  - adjective
+  - adverb
+earn: -
+earnest: 
+  - adjective
+earnings: -
+earring: -
+earth: 
+  - noun
+earthquake: -
+ease: 
+  - noun
+  - verb
+easily: -
+east: 
+  - noun
+  - adjective
+  - adverb
+Easter: -
+eastern: -
+easy: 
+  - adjective
+  - adverb
+eat: -
+eccentric: 
+  - adjective
+echo: 
+  - verb
+  - noun
+eclipse: 
+  - noun
+  - verb
+eco-friendly: -
+ecological: -
+ecology: -
+economic: -
+economical: -
+economically: -
+economics: -
+economist: -
+economy: 
+  - noun
+ecosystem: -
+ecstasy: -
+ecstatic: -
+edge: 
+  - noun
+edit: -
+edition: -
+editor: -
+editorial: 
+  - noun
+educate: -
+educated: -
+education: -
+educational: -
+effect: 
+  - noun
+effective: -
+effectively: -
+efficiency: -
+efficient: -
+effort: -
+e.g.: -
+egg: 
+  - noun
+ego: -
+eight,-,noun
+eighteen: -
+eighth: 
+  - adjective
+eighty: -
+either: 
+  - conjunction
+  - determiner/pronoun
+  - adverb
+eject: -
+elaborate: 
+  - adjective
+elastic: 
+  - noun
+elbow: 
+  - noun
+elder: 
+  - adjective
+  - noun
+elderly: -
+eldest: -
+elect: 
+  - verb
+election: -
+electoral: -
+electorate: -
+electric: -
+electrical: -
+electrician: -
+electricity: -
+electronic: -
+electronics: -
+elegant: -
+element: -
+elementary: -
+elephant: -
+elevate: -
+elevator: -
+eleven,-,noun
+eleventh: 
+  - adjective
+elicit: -
+eligible: -
+eliminate: -
+elimination: -
+elite: 
+  - noun
+  - adjective
+else: -
+elsewhere: -
+elusive: -
+email: 
+  - noun
+  - verb
+embargo: 
+  - noun
+embark: -
+embarrass: -
+embarrassed: -
+embarrassing: -
+embarrassment: -
+embassy: -
+embed: 
+  - verb
+embody: -
+embrace: 
+  - verb
+  - noun
+emerge: -
+emergence: -
+emergency: -
+emigrate: -
+eminent: -
+emission: -
+emit: -
+emotion: -
+emotional: -
+empathy: -
+emperor: -
+emphasis: -
+emphasize: -
+empire: -
+empirical: -
+employ: 
+  - verb
+employee: -
+employer: -
+employment: -
+empower: -
+empty: 
+  - adjective
+  - verb
+emulate: -
+enable: -
+enclose: -
+encompass: -
+encounter: 
+  - verb
+  - noun
+encourage: -
+encouragement: -
+encouraging: -
+encyclopedia: -
+end: 
+  - noun
+  - verb
+endanger: -
+endangered: -
+endeavour: 
+  - verb
+ending: -
+endless: -
+endorse: -
+endorsement: -
+endure: -
+enemy: -
+energetic: -
+energy: -
+enforce: -
+enforcement: -
+engage: -
+engaged: -
+engagement: -
+engine: -
+engineer: 
+  - noun
+engineering: -
+enhance: -
+enhanced: -
+enjoy: -
+enjoyable: -
+enjoyment: -
+enlarge: -
+enlist: -
+enormous: -
+enormously: -
+enough: 
+  - adverb
+  - determiner/pronoun
+enrich: -
+enrol: -
+ensue: -
+ensure: -
+enter: -
+enterprise: -
+entertain: -
+entertaining: 
+  - adjective
+entertainment: -
+enthusiasm: -
+enthusiast: -
+enthusiastic: -
+entire: -
+entirely: -
+entitle: -
+entitlement: -
+entity: -
+entrance: 
+  - noun
+entrepreneur: -
+entrust: -
+entry: -
+envelope: -
+envious: -
+environment: -
+environmental: -
+environmentalist: -
+environmentally,-,adjective
+envisage: -
+envoy: -
+envy: 
+  - verb
+  - noun
+epic: 
+  - noun
+epidemic: -
+episode: -
+equal: 
+  - adjective
+  - verb
+  - noun
+equality: -
+equally: -
+equate: -
+equation: -
+equilibrium: -
+equip: -
+equipment: -
+equitable: -
+equivalent: 
+  - adjective
+  - noun
+era: -
+eradicate: -
+erase: -
+eraser: -
+erect: 
+  - verb
+erode: -
+erosion: -
+error: -
+erupt: -
+escalate: -
+escalator: -
+escape: 
+  - verb
+  - noun
+escort: 
+  - verb
+especially: -
+essay: 
+  - noun
+essence: -
+essential: 
+  - adjective
+essentially: -
+establish: -
+established: -
+establishment: -
+estate: -
+estate,-,noun
+estimate: 
+  - noun
+  - verb
+estimation: -
+etc.: -
+eternal: -
+ethic: -
+ethical: -
+ethnic: 
+  - adjective
+euro: -
+evacuate: -
+evade: -
+evaluate: -
+evaluation: -
+evaporate: -
+even: 
+  - adverb
+  - adjective
+  - verb
+evening: 
+  - noun
+evenly: -
+event: -
+eventual: -
+eventually: -
+ever: -
+every: -
+everybody: -
+everyday: -
+everyone: -
+everything: -
+everywhere: -
+evidence: 
+  - noun
+evident: -
+evidently: -
+evil: 
+  - adjective
+  - noun
+evoke: -
+evolution: -
+evolutionary: -
+evolve: -
+exacerbate: -
+exact: 
+  - adjective
+exactly: -
+exaggerate: -
+exaggeration: -
+exam: -
+examination: -
+examine: -
+example: -
+exasperated: -
+exasperating: -
+exceed: -
+excellence: -
+excellent: -
+except: 
+  - conjunction/preposition
+exception: -
+exceptional: -
+exceptionally: -
+excerpt: -
+excess: 
+  - noun
+  - adjective
+excessive: -
+exchange: 
+  - noun
+  - verb
+excite: -
+excited: -
+excitement: -
+exciting: -
+exclaim: -
+exclamation: -
+exclamation,-,noun
+exclude: -
+excluding: -
+exclusion: -
+exclusive: 
+  - adjective
+exclusively: -
+excursion: -
+excuse: 
+  - verb
+  - noun
+execute: -
+execution: -
+executive: 
+  - noun
+  - adjective
+exemplify: -
+exempt: 
+  - adjective
+exemption: -
+exercise: 
+  - noun
+  - verb
+exert: -
+exhaust: 
+  - verb
+  - noun
+exhausted: -
+exhausting: -
+exhaustion: -
+exhibit: 
+  - verb
+  - noun
+exhibition: -
+exile: 
+  - noun
+exist: -
+existence: -
+existing: -
+exit: 
+  - noun
+  - verb
+exorbitant: -
+exotic: -
+expand: -
+expansion: -
+expect: -
+expectation: -
+expedition: -
+expel: -
+expenditure: -
+expense: -
+expensive: -
+experience: 
+  - noun
+  - verb
+experienced: -
+experiment: 
+  - noun
+  - verb
+experimental: -
+expert: 
+  - noun
+  - adjective
+expertise: -
+expire: -
+explain: -
+explanation: -
+explanatory: -
+explicit: -
+explode: -
+exploit: 
+  - verb
+exploitation: -
+exploration: -
+explore: -
+explorer: -
+explosion: -
+explosive: 
+  - adjective
+  - noun
+export: 
+  - noun
+  - verb
+expose: -
+express: 
+  - verb
+  - adjective
+  - noun
+expression: -
+expressly: -
+exquisite: -
+extend: -
+extended: -
+extension: -
+extensive: -
+extent: -
+exterior: 
+  - noun
+external: -
+extinct: -
+extinction: -
+extra: 
+  - adjective
+  - adverb
+extract: 
+  - verb
+  - noun
+extraordinarily: -
+extraordinary: -
+extravagant: -
+extreme: 
+  - adjective
+  - noun
+extremely: -
+extremist: -
+extrovert: -
+eye: 
+  - noun
+eyebrow: -
+eyelid: -
+eyewitness: -
+fabric: -
+fabulous: -
+face: 
+  - noun
+  - verb
+facet: -
+facial: 
+  - adjective
+facilitate: -
+facility: -
+fact: -
+factor: 
+  - noun
+factory: -
+factual: -
+faculty: -
+fade: -
+fail: 
+  - verb
+failure: -
+faint: 
+  - adjective
+  - verb
+fair: 
+  - adjective
+  - noun
+fairly: -
+fairness: -
+fairy: -
+faith: -
+faithful: 
+  - adjective
+fake: 
+  - noun
+  - adjective
+fall: 
+  - verb
+  - noun
+false: -
+fame: -
+familiar: 
+  - adjective
+familiarity: -
+family: -
+famine: -
+famous: -
+fan: 
+  - noun
+  - verb
+fancy: 
+  - verb
+  - noun
+  - adjective
+fantastic: -
+fantasy: -
+far: 
+  - adverb
+  - adjective
+fare: 
+  - noun
+farewell: 
+  - noun
+farm: 
+  - noun
+  - verb
+farmer: -
+farmhouse: -
+farming: -
+far-reaching: -
+fascinate: -
+fascinated: -
+fascinating: -
+fascination: -
+fashion: 
+  - noun
+  - verb
+fashionable: -
+fast: 
+  - adjective
+  - adverb
+fasten: -
+fat: 
+  - adjective
+  - noun
+fatal: -
+fate: -
+father: 
+  - noun
+father-in-law: -
+fatigue: -
+fattening: -
+faucet: -
+fault: 
+  - noun
+faulty: -
+favour: 
+  - noun
+  - verb
+favourable: -
+favourite: 
+  - adjective
+  - noun
+fear: 
+  - noun
+  - verb
+fearful: -
+feasible: -
+feast: 
+  - noun
+  - verb
+feat: -
+feather: 
+  - noun
+feature: 
+  - noun
+  - verb
+February: -
+federal: -
+fee: -
+feeble: -
+feed: 
+  - verb
+feedback: -
+feel: 
+  - verb
+  - noun
+feeling: 
+  - noun
+fellow: 
+  - adjective
+fellowship: -
+female: 
+  - adjective
+  - noun
+feminine: -
+feminist: -
+fence: 
+  - noun
+ferocious: -
+ferry: 
+  - noun
+fertile: -
+fertility: -
+festival: -
+fetch: 
+  - verb
+fever: -
+few,-,pronoun/adjective
+fiancé: -
+fiancée: -
+fibre: -
+fiction: -
+fictional: -
+fictitious: -
+field: 
+  - noun
+  - verb
+fierce: -
+fiercely: -
+fiery: -
+fifteen,-,noun
+fifth: 
+  - adjective
+fifty,-,noun
+fight: 
+  - verb
+  - noun
+fighter: -
+fighting: -
+figurative: -
+figure: 
+  - noun
+  - verb
+file: 
+  - noun
+  - verb
+fill: 
+  - verb
+film: 
+  - noun
+  - verb
+film-maker: -
+filter: 
+  - noun
+  - verb
+filthy: 
+  - adjective
+fin: -
+final: 
+  - adjective
+  - noun
+finalize: -
+finally: -
+finance: 
+  - noun
+  - verb
+financial: -
+find: 
+  - verb
+  - noun
+finding: -
+fine: 
+  - adjective
+  - adverb
+  - verb
+  - noun
+finely: -
+finger: 
+  - noun
+fingernail: -
+fingerprint: -
+finish: 
+  - verb
+  - noun
+finite: -
+fire: 
+  - noun
+  - verb
+fire,-,noun
+firearm: -
+fire,-,noun
+firefighter: -
+fireplace: -
+fire,-,noun
+firework: -
+firm: 
+  - noun
+  - adjective
+first: 
+  - adjective
+  - adverb
+  - noun
+  - pronoun
+first,-,noun
+first-class: -
+firstly: -
+first,-,noun
+fish: 
+  - noun
+  - verb
+fisherman: -
+fishing: -
+fist: -
+fit: 
+  - verb
+  - adjective
+  - noun
+fitness: -
+five,-,noun
+fix: 
+  - verb
+fixed: -
+flabby: -
+flag: 
+  - noun
+flame: 
+  - noun
+flap: 
+  - noun
+  - verb
+flare: 
+  - verb
+flash: 
+  - verb
+  - noun
+flashlight: -
+flat: 
+  - adjective
+  - noun
+  - adverb
+flatten: -
+flatter: -
+flavour: 
+  - noun
+flaw: -
+flawed: -
+flee: -
+fleet: 
+  - noun
+flesh: 
+  - noun
+flexibility: -
+flexible: -
+flick: 
+  - verb
+flicker: 
+  - verb
+flight: -
+flight,-,noun
+flimsy: -
+fling: 
+  - verb
+flip: 
+  - verb
+float: 
+  - verb
+  - noun
+flock: 
+  - noun
+flood: 
+  - verb
+  - noun
+floor: 
+  - noun
+flour: 
+  - noun
+flourish: 
+  - verb
+flow: 
+  - noun
+  - verb
+flower: 
+  - noun
+  - verb
+flu: -
+fluctuate: -
+fluctuation: -
+fluent: -
+fluid: 
+  - noun
+flush: 
+  - verb
+flute: -
+flutter: 
+  - verb
+fly: 
+  - verb
+  - noun
+foam: 
+  - noun
+focus: 
+  - verb
+  - noun
+focussed: -
+fog: 
+  - noun
+foggy: -
+foil: 
+  - noun
+fold: 
+  - verb
+  - noun
+folder: -
+folk: 
+  - noun
+follow: -
+follower: -
+following: 
+  - adjective
+  - noun
+  - preposition
+follow-up: 
+  - noun
+fond: -
+font: -
+food: -
+fool: 
+  - noun
+  - verb
+foolish: -
+foolproof: -
+foot: 
+  - noun
+footage: -
+football: -
+footballer: -
+footnote: -
+footpath: -
+footstep: -
+for: 
+  - preposition
+  - conjunction
+forbid: -
+force: 
+  - noun
+  - verb
+forecast: 
+  - noun
+  - verb
+forefront: -
+forehead: -
+foreign: -
+foreigner: -
+foreman: -
+foremost: -
+forensic: -
+foresee: -
+forest: -
+forever: -
+foreword: -
+forge: 
+  - verb
+forget: -
+forgive: -
+forgiveness: -
+fork: 
+  - noun
+form: 
+  - noun
+  - verb
+formal: 
+  - adjective
+formality: -
+formally: -
+format: 
+  - noun
+formation: -
+former: 
+  - adjective
+formerly: -
+formidable: -
+formula: -
+formulate: -
+fort: -
+forth: -
+forthcoming: -
+fortnight: -
+fortress: -
+fortunate: -
+fortunately: -
+fortune: -
+forty: -
+forum: -
+forward: 
+  - adverb
+  - adjective
+  - verb
+fossil: -
+fossil,-,noun
+foster: 
+  - verb
+  - adjective
+foul: 
+  - adjective
+  - verb
+foundation: -
+founder: 
+  - noun
+fountain: -
+four,-,noun
+fourteen: -
+fourth: 
+  - adjective
+  - pronoun
+fox: 
+  - noun
+fraction: -
+fracture: 
+  - verb
+  - noun
+fragile: -
+fragment: 
+  - noun
+fragrance: -
+frail: -
+frame: 
+  - noun
+  - verb
+framework: -
+franchise: 
+  - noun
+frank: 
+  - adjective
+frankly: -
+frantic: -
+fraud: -
+freak: 
+  - noun
+  - adjective
+free: 
+  - adjective
+  - verb
+  - adverb
+freedom: -
+freelance,-,adverb
+freely: -
+freeway: -
+freeze: 
+  - verb
+  - noun
+freezer: -
+freezing: 
+  - adjective/adverb
+  - noun
+freight: 
+  - noun
+frenzy: -
+frequency: -
+frequent: 
+  - adjective
+frequently: -
+fresh: 
+  - adjective
+freshly: -
+freshman: -
+friction: -
+Friday: -
+fridge: -
+friend: 
+  - noun
+friendly: 
+  - adjective
+friendship: -
+fright: -
+frighten: -
+frightened: -
+frightening: -
+fringe: 
+  - noun
+frog: -
+from: -
+front: 
+  - noun
+  - adjective
+frontier: -
+frost: 
+  - noun
+frown: 
+  - verb
+  - noun
+  - adjective
+fruit: 
+  - noun
+fruitful: -
+frustrate: -
+frustrated: -
+frustrating: -
+frustration: -
+fry: 
+  - verb
+  - noun
+frying,-,noun
+fuel: 
+  - noun
+  - verb
+fulfil: -
+fulfilling: -
+full: 
+  - adjective
+full,-,1/noun
+full-time,-,adverb
+fully: -
+fumes: -
+fun: 
+  - noun
+  - adjective
+function: 
+  - noun
+  - verb
+functional: -
+fund: 
+  - noun
+  - verb
+fundamental: -
+fundamentally: -
+funding: -
+funeral: -
+fungus: -
+funny: -
+fur: 
+  - noun
+furious: -
+furnace: -
+furnish: -
+furniture: -
+further: 
+  - adverb
+  - adjective
+  - verb
+furthermore: -
+fury: -
+fuss: 
+  - noun
+futile: -
+future: 
+  - adjective
+  - noun
+gain: 
+  - verb
+  - noun
+galaxy: -
+gale: -
+gallery: -
+gallon: -
+gallop: 
+  - verb
+gamble: 
+  - verb
+gambling: -
+game: 
+  - noun
+gang: 
+  - noun
+gangster: -
+gap: -
+garage: 
+  - noun
+garbage: -
+garden: 
+  - noun
+gardener: -
+garlic: -
+garment: -
+gas: 
+  - noun
+gasoline: -
+gasp: 
+  - verb
+  - noun
+gate: 
+  - noun
+gateway: -
+gather: 
+  - verb
+gathering: -
+gauge: 
+  - noun
+  - verb
+gay: 
+  - adjective
+  - noun
+gaze: 
+  - verb
+  - noun
+gear: 
+  - noun
+gel: 
+  - noun
+gem: -
+gender: -
+gene: -
+general: 
+  - adjective
+generalization: -
+generalize: -
+generally: -
+generate: -
+generation: -
+generator: -
+generic: -
+generosity: -
+generous: -
+genetic: -
+genetics: -
+genius: -
+genocide: -
+genre: -
+gentle: -
+gentleman: -
+gently: -
+genuine: -
+genuinely: -
+geographical: -
+geography: -
+geology: -
+geometry: -
+germ: -
+gesture: 
+  - noun
+  - verb
+get: -
+ghastly: -
+ghetto: -
+ghost: 
+  - noun
+giant: 
+  - adjective
+  - noun
+gift: 
+  - noun
+gifted: -
+gigantic: -
+giggle: 
+  - verb
+  - noun
+gin: -
+ginger: 
+  - noun
+giraffe: -
+girl: -
+girlfriend: -
+give: 
+  - verb
+  - adjective
+glacier: -
+glad: -
+glamorous: -
+glamour: -
+glance: 
+  - verb
+  - noun
+gland: -
+glare: 
+  - verb
+  - noun
+glass: 
+  - noun
+gleam: 
+  - verb
+glimpse: 
+  - noun
+glitter: 
+  - verb
+global: -
+globalization: -
+global,-,noun
+globe: -
+gloom: -
+gloomy: -
+glorious: -
+glory: 
+  - noun
+glossary: -
+glossy: 
+  - adjective
+glove: -
+glow: 
+  - noun
+  - verb
+glue: 
+  - noun
+go: 
+  - verb
+  - noun
+goal: -
+goalkeeper: -
+goat: -
+god: -
+goddess: -
+going: 
+  - noun
+gold: 
+  - noun
+  - adjective
+golden: -
+golf: -
+good: 
+  - adjective
+  - noun
+good: -
+goodbye: -
+good: -
+good-looking: -
+good,-,interjection
+goodness: -
+good: -
+goods: -
+goodwill: -
+goose: 
+  - noun
+gorgeous: -
+gossip: 
+  - noun
+  - verb
+govern: -
+government: -
+governmental: -
+governor: -
+gown: -
+grab: 
+  - verb
+grace: 
+  - noun
+graceful: -
+grade: 
+  - noun
+  - verb
+gradual: -
+gradually: -
+graduate: 
+  - noun
+  - verb
+graduation: -
+graffiti: -
+grain: -
+gram: -
+grammar: -
+grammatical: -
+grand: 
+  - adjective
+grandad: -
+grandchild: -
+granddaughter: -
+grandfather: -
+grandma: -
+grandmother: -
+grandpa: -
+grandparent: -
+grandson: -
+granny: 
+  - noun
+grant: 
+  - verb
+  - noun
+grape: -
+grapefruit: -
+graph: -
+graphic: -
+grasp: 
+  - verb
+  - noun
+grass: 
+  - noun
+grateful: -
+gratitude: -
+grave: 
+  - noun
+  - adjective
+gravel: -
+graveyard: -
+gravity: -
+gravy: -
+graze: 
+  - verb
+great: 
+  - adjective
+greatly: -
+greed: -
+greedy: -
+green: 
+  - adjective
+  - noun
+greenhouse,-,noun
+greet: -
+greeting: -
+grey: 
+  - adjective
+  - noun
+grid: -
+grief: -
+grievance: -
+grieve: -
+grill: 
+  - verb
+  - noun
+grim: -
+grin: 
+  - verb
+  - noun
+grind: 
+  - verb
+grip: 
+  - noun
+  - verb
+gripping: -
+groan: 
+  - verb
+grocery: -
+groom: 
+  - noun
+  - verb
+groove: -
+gross: 
+  - adjective
+grotesque: 
+  - adjective
+ground: 
+  - noun
+  - verb
+group: 
+  - noun
+  - verb
+grove: -
+grow: -
+growl: -
+grown-up: 
+  - adjective
+  - noun
+growth: -
+gruesome: -
+grumble: -
+grumpy: -
+grunt: 
+  - verb
+guarantee: 
+  - verb
+  - noun
+guard: 
+  - noun
+  - verb
+guardian: -
+guerrilla: -
+guess: 
+  - verb
+  - noun
+guest: 
+  - noun
+guidance: -
+guide: 
+  - noun
+  - verb
+guideline: -
+guilt: 
+  - noun
+guilty: -
+guitar: -
+guitarist: -
+gulf: -
+gum: 
+  - noun
+gun: 
+  - noun
+gunman: -
+gut: 
+  - noun
+gutter: 
+  - noun
+guy: -
+gym: -
+gymnastics: -
+gypsy: -
+habit: -
+habitat: -
+hack: 
+  - verb
+hail: 
+  - verb
+hair: -
+haircut: -
+hairdresser: -
+hairdryer: -
+hairstyle: -
+half: 
+  - predeterminer/pronoun/adjectiv
+  - noun
+  - adverb
+half-brother,-,half14/hearted/adjective/half15/sister/noun
+halfway,-,adverb
+hall: -
+Halloween: -
+hallway: -
+halt: 
+  - noun
+  - verb
+halve: -
+ham: 
+  - noun
+hamburger: -
+hammer: 
+  - noun
+  - verb
+hamper: 
+  - verb
+hand: 
+  - noun
+  - verb
+handbag: -
+handbook: -
+handful: -
+handicap: 
+  - noun
+handkerchief: -
+handle: 
+  - verb
+  - noun
+handlebars: -
+handout: -
+handsome: -
+handy: -
+hang: 
+  - verb
+  - noun
+hangover: -
+happen: -
+happily: -
+happiness: -
+happy: -
+harass: -
+harassment: -
+harbour: 
+  - noun
+hard: 
+  - adjective
+  - adverb
+harden: -
+hardly: -
+hardship: -
+hardware: -
+hard-working: -
+harm: 
+  - noun
+  - verb
+harmful: -
+harmless: -
+harmony: -
+harsh: -
+harvest: 
+  - noun
+  - verb
+haste: -
+hastily: -
+hat: -
+hatch: 
+  - verb
+hate: 
+  - verb
+  - noun
+hatred: -
+haul: 
+  - verb
+haunt: 
+  - verb
+haunted: -
+have: 
+  - auxiliary/verb
+  - verb
+  - verb
+haven: -
+hay: -
+hazard: 
+  - noun
+hazardous: -
+he: 
+  - pronoun
+head: 
+  - noun
+  - verb
+headache: -
+heading: -
+headline: 
+  - noun
+headmaster: -
+headphones: -
+headquarters: -
+head,-,noun
+heal: -
+health: -
+health,-,noun
+healthy: -
+heap: 
+  - noun
+hear: -
+hearing: -
+heart: 
+  - noun
+heart,-,noun
+heat: 
+  - noun
+  - verb
+heated: -
+heater: -
+heating: -
+heave: 
+  - verb
+heaven: -
+heavenly: -
+heavily: -
+heavy: 
+  - adjective
+hedge: 
+  - noun
+heel: 
+  - noun
+hefty: -
+height: -
+heighten: -
+heir: -
+helicopter: -
+hell: 
+  - noun
+hello,-,noun
+helmet: -
+help: 
+  - verb
+  - noun
+helper: -
+helpful: -
+helping: -
+helpless: -
+hemisphere: -
+hen: -
+hence: -
+her: 
+  - determiner
+  - pronoun
+herald: 
+  - verb
+herb: -
+herd: 
+  - noun
+here: -
+hereditary: -
+heritage: 
+  - noun
+hero: -
+heroic: -
+heroine: -
+hers: -
+herself: -
+hesitate: -
+hesitation: -
+heterosexual: -
+hey: -
+hi: -
+  - adjective
+hide: 
+  - verb
+hierarchical: -
+hierarchy: -
+high: 
+  - adjective
+  - adverb
+  - noun
+high-level: -
+highlight: 
+  - verb
+  - noun
+highly: -
+high,-,noun
+high-speed: -
+high-tech: -
+highway: -
+hijack: 
+  - verb
+hike: 
+  - noun
+  - verb
+hiking: -
+hilarious: -
+hill: -
+hillside: -
+hilly: -
+him: -
+himself: -
+hinder: -
+hint: 
+  - noun
+  - verb
+hip: 
+  - noun
+hire: 
+  - verb
+his,-,pronoun
+hiss: -
+historian: -
+historic: -
+historical: -
+history: -
+hit: 
+  - verb
+  - noun
+hitchhike: -
+hitherto: -
+hobby: -
+hockey: -
+hold: 
+  - verb
+  - noun
+holder: -
+hole: 
+  - noun
+holiday: 
+  - noun
+hollow: 
+  - adjective
+holy: -
+home: 
+  - noun
+  - adverb
+  - adjective
+  - verb
+homeland: -
+homeless: -
+homeowner: -
+homepage: -
+homesick: -
+homework: -
+homicide: -
+homogeneous: -
+homosexual: -
+honest: -
+honestly: -
+honesty: -
+honey: -
+honeymoon: 
+  - noun
+honorary: -
+honour: 
+  - noun
+  - verb
+honourable: -
+hood: -
+hoof: 
+  - noun
+hook: 
+  - noun
+  - verb
+hooray: -
+hop: 
+  - verb
+hope: 
+  - verb
+  - noun
+hopeful: 
+  - adjective
+hopefully: -
+hopeless: -
+horizon: -
+horizontal: 
+  - adjective
+horn: 
+  - noun
+horrendous: -
+horrible: -
+horrific: -
+horrify: -
+horror: -
+horse: 
+  - noun
+hose: 
+  - noun
+hospital: -
+hospitality: -
+host: 
+  - noun
+  - verb
+hostage: -
+hostel: -
+hostile: -
+hostility: -
+hot: 
+  - adjective
+hotel: -
+hour: -
+house: 
+  - noun
+household: 
+  - noun
+  - adjective
+housewife: -
+housework: -
+housing: -
+hover: -
+how: -
+however: 
+  - adverb
+  - conjunction
+howl: 
+  - verb
+  - noun
+hub: -
+huddle: 
+  - verb
+hug: 
+  - verb
+  - noun
+huge: -
+hugely: -
+hum: 
+  - verb
+human: 
+  - adjective
+  - noun
+humanitarian: -
+humanity: -
+human,-,noun
+humble: 
+  - adjective
+humid: -
+humidity: -
+humiliate: -
+humiliation: -
+humorous: -
+humour: 
+  - noun
+hundred,-,noun
+hunger: 
+  - noun
+hungry: -
+hunt: 
+  - verb
+  - noun
+hunter: -
+hunting: -
+hurdle: 
+  - noun
+hurl: -
+hurricane: -
+hurry: 
+  - verb
+  - noun
+hurt: 
+  - verb
+  - adjective
+  - noun
+hurtful: -
+husband: 
+  - noun
+hut: -
+hybrid: -
+hydrogen: -
+hygiene: -
+hygienic: -
+hymn: -
+hyphen: -
+hypocrisy: -
+hypocritical: -
+hypothesis: -
+hypothetical: -
+hysteria: -
+hysterical: -
+I: 
+  - pronoun
+ice: 
+  - noun
+iceberg: -
+ice,-,noun
+icon: -
+icy: -
+idea: -
+ideal: 
+  - adjective
+  - noun
+idealistic: -
+ideally: -
+identical: -
+identifiable: -
+identification: -
+identify: -
+identity: -
+ideological: -
+ideology: -
+idiom: -
+idiomatic: -
+idiot: -
+idle: 
+  - adjective
+idol: -
+i.e.: -
+if: 
+  - conjunction
+ignorance: -
+ignorant: -
+ignore: -
+ill: 
+  - adjective
+illegal: 
+  - adjective
+illicit: -
+illness: -
+illuminate: -
+illusion: -
+illustrate: -
+illustration: -
+image: -
+imagery: -
+imaginary: -
+imagination: -
+imaginative: -
+imagine: -
+imbalance: -
+imitate: -
+imitation: -
+immaculate: -
+immature: -
+immediate: -
+immediately: 
+  - adverb
+immense: -
+immensely: -
+immigrant: -
+immigrate: -
+immigration: -
+imminent: -
+immune: -
+immunity: -
+impact: 
+  - noun
+impair: -
+impartial: -
+impatient: -
+imperfect: 
+  - adjective
+impetus: -
+implement: 
+  - verb
+implicate: -
+implication: -
+implicit: -
+imply: -
+import: 
+  - noun
+  - verb
+importance: -
+important: -
+importantly: -
+importer: -
+impose: -
+imposition: -
+impossible: 
+  - adjective
+impress: -
+impression: -
+impressive: -
+imprison: -
+imprisonment: -
+improve: -
+improved: -
+improvement: -
+impulse: -
+impulsive: -
+in: 
+  - preposition
+  - adverb
+inability: -
+inaccurate: -
+inadequate: -
+inappropriate: -
+inbox: -
+incapable: -
+incentive: -
+inch: 
+  - noun
+incident: -
+incidentally: -
+inclination: -
+inclined: -
+include: -
+including: -
+inclusion: -
+inclusive: -
+income: -
+incompatible: -
+incomplete: 
+  - adjective
+incomprehensible: -
+inconsiderate: -
+inconsistent: -
+inconvenient: -
+incorporate: -
+incorrect: -
+increase: 
+  - verb
+  - noun
+increasingly: -
+incredible: -
+incredibly: -
+incur: -
+indecisive: -
+indeed: -
+indefinite: -
+indefinitely: -
+independence: -
+independent: -
+index: 
+  - noun
+indicate: -
+indication: -
+indicative: 
+  - adjective
+indicator: -
+indict: -
+indictment: -
+indifference: -
+indifferent: -
+indirect: -
+indispensable: -
+indistinguishable: -
+individual: 
+  - adjective
+  - noun
+individuality: -
+individually: -
+indoor: -
+indoors: -
+induce: -
+indulge: -
+industrial: -
+industrialist: -
+industrialized: -
+industry: -
+ineffective: -
+inefficient: -
+inequality: -
+inevitable: -
+inevitably: -
+inexpensive: -
+inexperienced: -
+infamous: -
+infant: 
+  - noun
+infect: -
+infection: -
+infectious: -
+infer: -
+inference: -
+inferior: 
+  - adjective
+infinite: -
+infinitely: -
+infinitive: -
+inflation: -
+inflict: -
+influence: 
+  - noun
+  - verb
+influential: -
+inform: -
+informal: -
+informant: -
+information: -
+informative: -
+informed: -
+infrastructure: -
+infringe: -
+ingenious: -
+ingredient: -
+inhabit: -
+inhabitant: -
+inherent: -
+inherit: -
+inheritance: -
+inhibit: -
+inhibition: -
+initial: 
+  - adjective
+  - noun
+initially: -
+initiate: 
+  - verb
+initiative: -
+inject: -
+injection: -
+injure: -
+injured: -
+injury: -
+injustice: -
+ink: 
+  - noun
+inmate: -
+inn: -
+innate: -
+inner: -
+innocence: -
+innocent: 
+  - adjective
+innovation: -
+innovative: -
+input: 
+  - noun
+  - verb
+inquire: -
+inquiry: -
+insane: -
+inscription: -
+insect: -
+insecure: -
+insert: 
+  - verb
+inside: 
+  - adverb/preposition
+  - noun
+  - adjective
+insight: -
+insignificant: -
+insincere: -
+insist: -
+inspect: -
+inspection: -
+inspector: -
+inspiration: -
+inspire: -
+install: -
+installation: -
+instance: 
+  - noun
+instant: 
+  - adjective
+  - noun
+instantly: -
+instead: -
+instinct: -
+instinctive: -
+institute: 
+  - noun
+institution: -
+institutional: -
+instruct: -
+instruction: -
+instructor: -
+instrument: -
+insufficient: -
+insult: 
+  - verb
+  - noun
+insulting: -
+insurance: -
+insure: -
+intact: -
+integral: -
+integrate: -
+integration: -
+integrity: -
+intellect: -
+intellectual: 
+  - adjective
+  - noun
+intelligence: -
+intelligent: -
+intend: -
+intense: -
+intensify: -
+intensity: -
+intensive: -
+intent: 
+  - adjective
+  - noun
+intention: -
+intentional: -
+interact: -
+interaction: -
+interactive: -
+intercept: -
+interest: 
+  - noun
+  - verb
+interested: -
+interesting: -
+interface: 
+  - noun
+interfere: -
+interference: -
+interim: 
+  - adjective
+interior: 
+  - noun
+  - adjective
+intermediate: 
+  - adjective
+internal: -
+international: 
+  - adjective
+Internet: -
+interpret: -
+interpretation: -
+interpreter: -
+interrogation: -
+interrupt: -
+intersection: -
+interval: -
+intervene: -
+intervention: -
+interview: 
+  - noun
+  - verb
+interviewer: -
+intimate: 
+  - adjective
+intimidate: -
+into: -
+intolerable: -
+intolerance: -
+intricate: -
+intrigue: 
+  - verb
+intrinsic: -
+introduce: -
+introduction: -
+introductory: -
+introvert: -
+intrude: -
+intruder: -
+intrusion: -
+intuition: -
+invade: -
+invalid: 
+  - adjective
+invalidate: -
+invaluable: -
+invariably: -
+invasion: -
+invent: -
+invention: -
+inventory: -
+inverted,-,noun
+invest: -
+investigate: -
+investigation: -
+investigator: -
+investment: -
+investor: -
+invisible: -
+invitation: -
+invite: 
+  - verb
+invoice: 
+  - noun
+involve: -
+involved: -
+involvement: -
+inward: -
+iron: 
+  - noun
+  - verb
+ironic: -
+ironically: -
+irony: -
+irrational: -
+irregular: 
+  - adjective
+irrelevant: -
+irresistible: -
+irresponsible: -
+irritate: -
+irritated: -
+irritating: -
+island: -
+isolate: -
+isolated: -
+isolation: -
+issue: 
+  - noun
+  - verb
+it: 
+  - pronoun
+IT: -
+itch: 
+  - verb
+itchy: -
+item: -
+its: -
+itself: -
+ivory: -
+jacket: -
+jail: 
+  - noun
+  - verb
+jam: 
+  - noun
+  - verb
+January: -
+jar: 
+  - noun
+jargon: -
+jaw: 
+  - noun
+jazz: 
+  - noun
+jealous: -
+jealousy: -
+jeans: -
+jelly: -
+jerk: 
+  - verb
+jet: 
+  - noun
+jewel: -
+jewellery: -
+jigsaw: -
+job: -
+jog: 
+  - verb
+jogging: -
+join: 
+  - verb
+joint: 
+  - adjective
+joke: 
+  - noun
+  - verb
+journal: -
+journalism: -
+journalist: -
+journey: 
+  - noun
+joy: 
+  - noun
+judge: 
+  - noun
+  - verb
+judgment: -
+judo: -
+jug: -
+juggle: -
+juice: 
+  - noun
+juicy: -
+July: -
+jump: 
+  - verb
+  - noun
+jumper: -
+junction: -
+June: -
+jungle: -
+junior: 
+  - adjective
+  - noun
+junk: 
+  - noun
+jury: -
+just: 
+  - adverb
+  - adjective
+justice: -
+justification: -
+justified: -
+justify: -
+karate: -
+keen: 
+  - adjective
+keep: 
+  - verb
+ketchup: -
+kettle: -
+key: 
+  - noun
+  - adjective
+  - verb
+keyboard: 
+  - noun
+kick: 
+  - verb
+  - noun
+kid: 
+  - noun
+  - verb
+kidnap: -
+kidney: -
+kill: 
+  - verb
+killer: 
+  - noun
+killing: -
+kilo: -
+kilogram: -
+kilometre: -
+kind: 
+  - noun
+  - adjective
+kindly: 
+  - adverb
+kindness: -
+king: -
+kingdom: -
+kiss: 
+  - verb
+  - noun
+kit: 
+  - noun
+kitchen: -
+kite: 
+  - noun
+kitten: -
+knee: 
+  - noun
+kneel: -
+knife: 
+  - noun
+knight: 
+  - noun
+knit: -
+knitting: -
+knock: 
+  - verb
+  - noun
+knot: 
+  - noun
+know: 
+  - verb
+knowledge: -
+  - adjective
+lab: -
+label: 
+  - noun
+  - verb
+laboratory: -
+labour: 
+  - noun
+  - verb
+labourer: -
+lace: 
+  - noun
+lack: 
+  - noun
+  - verb
+lacking: -
+lad: -
+ladder: 
+  - noun
+lady: -
+lag: 
+  - verb
+lake: -
+lamb: 
+  - noun
+lamp: -
+land: 
+  - noun
+  - verb
+landing: -
+landlord: -
+landmark: -
+landowner: -
+landscape: 
+  - noun
+lane: -
+language: -
+lap: 
+  - noun
+laptop: -
+large: 
+  - adjective
+largely: -
+large-scale: -
+laser: -
+last: 
+  - determiner/adjective
+  - adverb
+  - noun/pronoun
+  - verb
+lasting: -
+lastly: -
+last-minute: -
+last,-,noun
+late: 
+  - adjective
+  - adverb
+lately: -
+later: 
+  - adverb
+latest: 
+  - adjective
+latter: 
+  - noun
+  - adjective
+laugh: 
+  - verb
+  - noun
+laughter: -
+launch: 
+  - verb
+  - noun
+laundry: -
+lavatory: -
+lavish: 
+  - adjective
+  - verb
+law: -
+lawful: -
+lawmaker: -
+lawn: -
+lawsuit: -
+lawyer: -
+  - verb
+  - adjective
+layer: 
+  - noun
+layout: -
+lazy: -
+lead: 
+  - verb
+  - noun
+leader: -
+leadership: -
+leading: 
+  - adjective
+leaf: 
+  - noun
+leaflet: 
+  - noun
+league: -
+leak: 
+  - verb
+  - noun
+lean: 
+  - verb
+leap: 
+  - verb
+  - noun
+learn: -
+learner: -
+learning: -
+lease: 
+  - noun
+  - verb
+leash: 
+  - noun
+least: 
+  - determiner/pronoun
+  - adverb
+leather: -
+leave: 
+  - verb
+  - noun
+lecture: 
+  - noun
+  - verb
+lecturer: -
+ledge: -
+left: 
+  - adjective
+  - adverb
+  - noun
+left-hand: -
+left-handed: -
+left-wing: -
+leg: 
+  - noun
+legacy: 
+  - noun
+legal: -
+legalize: -
+legally: -
+legend: 
+  - noun
+legendary: -
+legislation: -
+legislative: -
+legislator: -
+legislature: -
+legitimate: 
+  - adjective
+leisure: -
+leisure,-,noun
+lemon: 
+  - noun
+lemonade: -
+lend: -
+lender: -
+length: -
+lengthy: -
+lens: -
+less: 
+  - adverb
+  - determiner/pronoun
+lessen: -
+lesser: -
+lesson: -
+lest: -
+let: 
+  - verb
+letdown: -
+lethal: -
+let's: -
+letter: 
+  - noun
+lettuce: -
+level: 
+  - noun
+  - adjective
+  - verb
+lever: 
+  - noun
+liability: -
+liable: -
+liaison: -
+liar: -
+libel: 
+  - noun
+liberal: 
+  - adjective
+  - noun
+liberate: -
+liberty: -
+librarian: -
+library: -
+licence: -
+licensed: -
+lick: 
+  - verb
+lid: -
+lie: 
+  - verb
+  - verb
+  - noun
+life: -
+lifelong: -
+lifespan: -
+lifestyle: -
+lifetime: -
+lift: 
+  - verb
+  - noun
+light: 
+  - noun
+  - adjective
+  - verb
+lighting: -
+lightly: -
+lightning: 
+  - noun
+like: 
+  - preposition
+  - verb
+  - noun
+  - conjunction
+like5: -
+likelihood: -
+likely: 
+  - adjective
+  - adverb
+likewise: -
+limb: -
+lime: 
+  - noun
+limit: 
+  - noun
+  - verb
+limitation: -
+limited: -
+line: 
+  - noun
+  - verb
+linen: -
+liner: -
+linger: -
+linguist: -
+linguistic: -
+linguistics: -
+lining: -
+link: 
+  - verb
+  - noun
+lion: -
+lip: -
+lipstick: -
+liquid: 
+  - noun
+  - adjective
+liquor: -
+list: 
+  - noun
+  - verb
+listen: 
+  - verb
+listener: -
+listing: -
+literacy: -
+literal: -
+literally: -
+literary: -
+literature: -
+litre: -
+litter: 
+  - noun
+little: 
+  - adjective
+  - determiner/pronoun
+  - adverb
+live: 
+  - verb
+  - adjective
+  - adverb
+lively: -
+liver: -
+livestock: -
+living: 
+  - adjective
+  - noun
+living,-,noun
+lizard: -
+load: 
+  - noun
+  - verb
+loaf: 
+  - noun
+loan: 
+  - noun
+  - verb
+lobby: 
+  - noun
+  - verb
+lobster: -
+local: 
+  - adjective
+locally: -
+locate: -
+location: -
+lock: 
+  - verb
+  - noun
+locker: -
+lodge: 
+  - verb
+  - noun
+loft: 
+  - noun
+log: 
+  - noun
+  - verb
+logic: -
+logical: -
+logo: -
+lonely: -
+lonesome: -
+long: 
+  - adjective
+  - adverb
+  - verb
+long-distance: -
+long-term: -
+look: 
+  - verb
+  - noun
+loom: 
+  - verb
+loop: 
+  - noun
+loose: 
+  - adjective
+loosely: -
+loosen: -
+lorry: -
+lose: -
+loser: -
+loss: -
+  - adjective
+lot: 
+  - pronoun/adverb
+  - noun
+lottery: -
+loud: 
+  - adjective
+  - adverb
+lounge: 
+  - noun
+  - verb
+love: 
+  - verb
+  - noun
+lovely: -
+lover: -
+loving: -
+low: 
+  - adjective
+  - adverb
+  - noun
+lower: 
+  - adjective
+  - verb
+loyal: -
+loyalty: -
+luck: 
+  - noun
+luckily: -
+lucky: -
+lucrative: -
+luggage: -
+lump: 
+  - noun
+lunch: 
+  - noun
+lunchtime: -
+lung: -
+lure: 
+  - verb
+  - noun
+lurk: -
+luxurious: -
+luxury: -
+lyric: 
+  - noun
+machine: 
+  - noun
+machinery: -
+mad: -
+madam: -
+madness: -
+magazine: -
+magic: 
+  - noun
+  - adjective
+magical: -
+magistrate: -
+magnet: -
+magnetic: -
+magnificent: -
+magnitude: -
+maid: -
+maiden,-,noun
+mail: 
+  - noun
+  - verb
+mailbox: -
+main: 
+  - adjective
+main,-,noun
+mainland: -
+mainly: -
+mainstream: 
+  - noun
+maintain: -
+maintenance: -
+major: 
+  - adjective
+  - noun
+  - verb
+majority: -
+make: 
+  - verb
+  - noun
+maker: -
+make-up: -
+male: 
+  - adjective
+  - noun
+mall: -
+mama: 
+  - noun
+mammal: -
+man: 
+  - noun
+  - verb
+manage: -
+management: -
+manager: -
+managerial: -
+mandate: 
+  - noun
+mandatory: -
+maniac: -
+manifest: 
+  - verb
+manipulate: -
+mankind: -
+man-made: -
+manner: -
+manoeuvre: 
+  - noun
+mansion: -
+manslaughter: -
+manual: 
+  - adjective
+  - noun
+manufacture: 
+  - verb
+manufacturer: -
+manufacturing: -
+manuscript: -
+many,-,pronoun/adjective
+map: 
+  - noun
+  - verb
+maple: -
+mar: -
+marathon: 
+  - noun
+marble: -
+march: 
+  - verb
+  - noun
+March: -
+margarine: -
+margin: -
+marginal: -
+marine: -
+marital: -
+maritime: -
+mark: 
+  - verb
+  - noun
+marked: -
+markedly: -
+marker: -
+market: 
+  - noun
+marketing: -
+marketplace: -
+marriage: -
+married: -
+marry: -
+martyr: 
+  - noun
+marvellous: -
+masculine: -
+mask: 
+  - noun
+mass: 
+  - noun
+  - adjective
+massacre: 
+  - noun
+  - verb
+massage: 
+  - noun
+massive: -
+mast: -
+master: 
+  - noun
+  - verb
+masterpiece: -
+mat: 
+  - noun
+match: 
+  - noun
+  - verb
+matching: -
+mate: 
+  - noun
+  - verb
+material: 
+  - noun
+  - adjective
+maternal: -
+maternity: 
+  - adjective
+math: -
+mathematical: -
+mathematics: -
+maths: -
+matter: 
+  - noun
+  - verb
+mattress: -
+mature: 
+  - adjective
+  - verb
+maturity: -
+maximize: -
+maximum: 
+  - adjective
+  - noun
+may: 
+  - modal/verb
+May: -
+maybe: -
+mayor: -
+maze: -
+me: -
+meadow: -
+meal: -
+mean: 
+  - verb
+  - adjective
+meaning: -
+meaningful: -
+meaningless: -
+means: -
+meantime: -
+meanwhile: -
+measure: 
+  - verb
+  - noun
+measurement: -
+meat: -
+mechanic: -
+mechanical: -
+mechanism: -
+medal: 
+  - noun
+media: -
+mediate: -
+medical: 
+  - adjective
+medication: -
+medicine: -
+medieval: -
+meditation: -
+medium: 
+  - adjective
+  - noun
+meet: 
+  - verb
+  - noun
+meeting: -
+megabyte: -
+melody: -
+melon: -
+melt: -
+member: -
+membership: -
+memoir: -
+memorable: -
+memorial: 
+  - noun
+memorize: -
+memory: -
+menace: 
+  - noun
+mend: 
+  - verb
+mental: -
+mentality: -
+mention: 
+  - verb
+  - noun
+mentor: 
+  - noun
+menu: -
+merchandise: 
+  - noun
+merchant: -
+mercy: -
+mere: 
+  - adjective
+merely: -
+merge: -
+merger: -
+merit: 
+  - noun
+  - verb
+merry: -
+mess: 
+  - noun
+  - verb
+message: 
+  - noun
+messenger: 
+  - noun
+messy: -
+metal: -
+metaphor: -
+metaphorical: -
+meter: 
+  - noun
+method: -
+methodology: -
+metre: -
+microphone: -
+microscope: -
+microwave: 
+  - noun
+midday: -
+middle: 
+  - noun
+  - adjective
+middle,-,noun
+middle-aged: -
+middle,-,noun
+middle-class: -
+middle,-,noun
+midnight: -
+midst: 
+  - noun
+midway,-,adverb
+midwife: -
+might: 
+  - modal/verb
+  - noun
+mighty: 
+  - adjective
+migrant: -
+migrate: -
+migration: -
+mild: 
+  - adjective
+mildly: -
+mile: -
+milestone: -
+militant: -
+military: 
+  - adjective
+  - noun
+militia: -
+milk: 
+  - noun
+mill: 
+  - noun
+millennium: -
+millimetre: -
+million: -
+millionaire: -
+mind: 
+  - noun
+  - verb
+mine: 
+  - pronoun
+  - noun
+  - verb
+miner: -
+mineral: -
+mingle: -
+miniature: 
+  - adjective
+minimal: -
+minimize: -
+minimum: 
+  - adjective
+  - noun
+mining: -
+minister: 
+  - noun
+ministry: -
+minor: 
+  - adjective
+  - noun
+minority: -
+mint: 
+  - noun
+minus: 
+  - preposition
+  - noun
+minute: 
+  - noun
+  - adjective
+miracle: -
+mirror: 
+  - noun
+  - verb
+mischief: -
+miserable: -
+misery: -
+misfortune: -
+mishap: -
+misjudge: -
+mislead: -
+misleading: -
+miss: 
+  - verb
+  - noun
+missile: -
+missing: -
+mission: -
+missionary: 
+  - noun
+mist: 
+  - noun
+mistake: 
+  - noun
+  - verb
+mistaken: -
+mister: -
+misty: -
+misunderstand: -
+misunderstanding: -
+misuse: 
+  - verb
+mix: 
+  - verb
+  - noun
+mixed: -
+mixture: -
+moan: 
+  - verb
+mob: 
+  - noun
+mobile: 
+  - noun
+  - adjective
+mobile,-,noun
+mobility: -
+mobilize: -
+mock: 
+  - verb
+mode: -
+model: 
+  - noun
+  - adjective
+moderate: 
+  - adjective
+moderately: -
+modern: -
+modernize: -
+modest: -
+modification: -
+modify: -
+module: -
+moist: -
+moisture: -
+mole: -
+molecule: -
+mom: -
+moment: -
+momentarily: -
+momentary: -
+momentum: -
+mommy: -
+monarch: -
+monarchy: -
+Monday: -
+money: -
+monitor: 
+  - verb
+  - noun
+monkey: 
+  - noun
+monopoly: -
+monster: 
+  - noun
+month: -
+monthly: 
+  - adjective
+monument: -
+mood: -
+moon: 
+  - noun
+moral: 
+  - adjective
+  - noun
+morale: -
+morality: -
+morally: -
+more: 
+  - adverb
+  - determiner/pronoun
+moreover: -
+morning: 
+  - noun
+  - interjection
+mortality: -
+mortgage: 
+  - noun
+mosaic: -
+mosque: -
+mosquito: -
+moss: -
+most: 
+  - adverb
+  - determiner/pronoun
+mostly: -
+motel: -
+moth: -
+mother: 
+  - noun
+mother-in-law: -
+motif: -
+motion: 
+  - noun
+motivate: -
+motivation: -
+motive: 
+  - noun
+motor: 
+  - noun
+motorcycle: -
+motorist: -
+motorway: -
+mould: 
+  - noun
+mound: -
+mount: 
+  - verb
+  - noun
+mountain: -
+mountainous: -
+mourn: -
+mouse: 
+  - noun
+moustache: -
+mouth: 
+  - noun
+move: 
+  - verb
+  - noun
+movement: -
+movie: -
+movie,-,noun
+movie,-,noun
+moving: -
+MP: -
+Mr: -
+Mrs: -
+Ms: -
+much: 
+  - adverb
+  - determiner/pronoun
+mud: -
+muddy: 
+  - adjective
+mug: 
+  - noun
+  - verb
+multicultural: -
+multinational: 
+  - adjective
+  - noun
+multiple: 
+  - adjective
+multiply: -
+multitude: -
+mum: 
+  - noun
+mumble: -
+mummy: -
+mundane: -
+municipal: -
+murder: 
+  - noun
+  - verb
+murderer: -
+murmur: 
+  - verb
+muscle: 
+  - noun
+muscular: -
+museum: -
+mushroom: 
+  - noun
+music: -
+musical: 
+  - adjective
+  - noun
+musician: -
+must: 
+  - modal/verb
+mustard: -
+muster: 
+  - verb
+mutate: -
+mutation: -
+mutter: -
+mutual: -
+mutually: -
+my: 
+  - determiner
+myself: -
+mysterious: -
+mystery: 
+  - noun
+mystical: -
+myth: -
+mythology: -
+nail: 
+  - noun
+naive: -
+naked: -
+name: 
+  - noun
+  - verb
+namely: -
+nap: 
+  - noun
+narrate: -
+narrative: -
+narrator: -
+narrow: 
+  - adjective
+  - verb
+narrowly: -
+nasty: -
+nation: -
+national: 
+  - adjective
+nationalism: -
+nationality: -
+nationally: -
+national,-,noun
+nationwide: -
+native: 
+  - adjective
+  - noun
+native,-,noun
+natural: 
+  - adjective
+naturally: -
+nature: -
+naughty: -
+naval: -
+navigation: -
+navy: -
+near: 
+  - adverb/preposition
+  - adjective
+  - verb
+nearby: -
+nearly: -
+neat: -
+necessarily: -
+necessary: 
+  - adjective
+necessitate: -
+necessity: -
+neck: 
+  - noun
+necklace: -
+necktie: -
+need: 
+  - verb
+  - noun
+needle: 
+  - noun
+needless: -
+needy: -
+negative: 
+  - adjective
+neglect: 
+  - verb
+  - noun
+negotiate: -
+negotiation: -
+negotiator: -
+neighbour: -
+neighbourhood: -
+neighbouring: -
+neither: 
+  - determiner/pronoun
+  - adverb
+  - conjunction
+nephew: -
+nerve: 
+  - noun
+nervous: -
+nest: 
+  - noun
+net: 
+  - noun
+  - adjective
+network: 
+  - noun
+neutral: 
+  - adjective
+never: -
+nevertheless: -
+new: -
+newcomer: -
+newly: -
+news: -
+newsletter: -
+newspaper: -
+New,-,noun
+New,-,Day/noun
+New,-,Eve/noun
+next: 
+  - determiner/adjective
+  - adverb
+  - pronoun
+next,-,1/adverb
+next,-,kin/noun
+next,-,preposition
+nice: -
+nicely: -
+niche: 
+  - noun
+nickname: -
+niece: -
+night: -
+nightclub: -
+nightmare: -
+nine: -
+nineteen: -
+ninety: -
+ninth: 
+  - adjective
+nitrogen: -
+no: 
+  - adverb
+  - determiner
+noble: 
+  - adjective
+nobody: 
+  - pronoun
+nod: 
+  - verb
+  - noun
+noise: 
+  - noun
+noisy: -
+nominal: -
+nominate: -
+nomination: -
+none: 
+  - pronoun
+nonetheless: -
+non-fiction: -
+nonsense: -
+nonstop: -
+noon: -
+no,-,pronoun
+nor,-,adverb
+norm: -
+normal: 
+  - adjective
+normality: -
+normally: -
+north: 
+  - noun
+  - adjective
+  - adverb
+northeast: 
+  - noun
+  - adjective
+northern: -
+northwest: 
+  - noun
+  - adjective
+nose: 
+  - noun
+nostalgia: -
+nostalgic: -
+nosy: 
+  - adjective
+not: -
+notable: -
+notably: -
+note: 
+  - noun
+  - verb
+notebook: -
+nothing: 
+  - pronoun
+notice: 
+  - verb
+  - noun
+noticeable: -
+noticeboard: -
+notify: -
+notion: -
+notorious: -
+notwithstanding,-,adverb
+noun: -
+novel: 
+  - noun
+  - adjective
+novelist: -
+novelty: -
+November: -
+now: 
+  - adverb
+  - conjunction
+nowadays: -
+nowhere: -
+nuclear: -
+nude: 
+  - adjective
+nuisance: -
+numb: 
+  - adjective
+number: 
+  - noun
+  - verb
+numerical: -
+numerous: -
+nurse: 
+  - noun
+  - verb
+nursery: -
+nursery,-,noun
+nursing: -
+nut: 
+  - noun
+nutrient: -
+nutrition: -
+nutritional: -
+nylon: -
+oak: -
+oath: -
+obedience: -
+obedient: -
+obese: -
+obesity: -
+obey: -
+object: 
+  - noun
+  - verb
+objection: -
+objective: 
+  - noun
+  - adjective
+obligation: -
+obligatory: -
+oblige: -
+obscene: -
+obscure: 
+  - adjective
+  - verb
+observation: -
+observe: -
+observer: -
+obsess: -
+obsession: -
+obsolete: -
+obstacle: -
+obstruction: -
+obtain: -
+obvious: -
+obviously: -
+occasion: 
+  - noun
+occasional: -
+occasionally: -
+occupant: -
+occupation: -
+occupational: -
+occupy: -
+occur: -
+occurrence: -
+ocean: -
+o'clock: -
+October: -
+odd: -
+oddly: -
+odds: -
+odour: -
+of: -
+of,-,adverb
+off: 
+  - adverb/preposition/adjective
+offence: -
+offend: -
+offender: -
+offensive: 
+  - adjective
+offer: 
+  - verb
+  - noun
+office: -
+officer: -
+official: 
+  - noun
+  - adjective
+officially: -
+offset: 
+  - verb
+offspring: -
+often: -
+oil: 
+  - noun
+OK: 
+  - interjection
+  - adjective/adverb
+old: -
+old,-,noun
+old-fashioned: -
+olive: -
+olive,-,noun
+omission: -
+omit: -
+on: 
+  - preposition
+  - adjective/adverb
+once: 
+  - adverb
+  - conjunction
+one: 
+  - number
+  - pronoun
+  - determiner
+  - adjective
+one,-,pronoun
+oneself: -
+ongoing: -
+onion: -
+online: -
+only: 
+  - adverb
+  - adjective
+  - conjunction
+onset: -
+onto: -
+onwards: -
+opaque: -
+open: 
+  - adjective
+  - verb
+opening: 
+  - noun
+  - adjective
+openly: -
+opera: -
+operate: -
+operation: -
+operational: -
+operator: -
+opinion: -
+opponent: -
+opportunity: -
+oppose: -
+opposed: -
+opposite: 
+  - preposition
+  - adjective
+  - noun
+opposition: -
+oppression: -
+oppressive: -
+opt: -
+optical: -
+optimal: -
+optimism: -
+optimistic: -
+optimum: -
+option: -
+optional: -
+or: -
+oral: 
+  - adjective
+orange: 
+  - noun
+  - adjective
+orbit: 
+  - verb
+  - noun
+orchard: -
+orchestra: -
+ordeal: -
+order: 
+  - noun
+  - verb
+orderly: 
+  - adjective
+ordinary: -
+organ: -
+organic: -
+organism: -
+organization: -
+organize: -
+organized: -
+orient: 
+  - verb
+orientation: -
+origin: -
+original: 
+  - adjective
+  - noun
+originally: -
+originate: -
+ornament: 
+  - noun
+orphan: 
+  - noun
+orthodox: -
+other,-,adjective/pronoun
+otherwise: -
+ought,-,modal/verb
+ounce: -
+our: -
+ours: -
+ourselves: -
+out: 
+  - adverb
+  - preposition
+outbreak: -
+outburst: -
+outcome: -
+outdoor: -
+outdoors: 
+  - adverb
+outer: -
+outfit: 
+  - noun
+outgoing: -
+outing: -
+outlet: -
+outline: 
+  - noun
+  - verb
+outlook: -
+out-of-date: -
+output: 
+  - noun
+outrage: 
+  - noun
+  - verb
+outrageous: -
+outright: 
+  - adjective
+outset: -
+outside: 
+  - adverb/preposition
+  - adjective
+  - noun
+outsider: -
+outskirts: -
+outstanding: -
+outward: -
+outwards: -
+outweigh: -
+oval: -
+oven: -
+over: 
+  - preposition
+  - adverb/adjective
+overall: 
+  - adjective
+  - adverb
+overcast: -
+overcome: -
+overcrowded: -
+overdue: -
+overestimate: 
+  - verb
+overhead: 
+  - adverb
+overhear: -
+overlap: 
+  - verb
+  - noun
+overlook: -
+overly: -
+overnight: 
+  - adverb
+  - adjective
+override: -
+overseas: 
+  - adverb
+  - adjective
+oversight: -
+overt: -
+overtake: -
+overthrow: 
+  - verb
+overtime: -
+overturn: -
+overview: -
+overweight: -
+overwhelm: -
+overwhelming: -
+overwhelmingly: -
+owe: -
+owing,-,preposition
+owl: -
+own: 
+  - adjective/pronoun
+  - verb
+owner: -
+ownership: -
+oxygen: -
+pace: 
+  - noun
+pack: 
+  - verb
+  - noun
+package: 
+  - noun
+packaging: -
+packed: -
+packet: -
+pact: -
+pad: 
+  - noun
+paddle: 
+  - noun
+page: 
+  - noun
+pain: 
+  - noun
+painful: -
+painfully: -
+painkiller: -
+painless: -
+painstaking: -
+paint: 
+  - noun
+  - verb
+paintbrush: -
+painter: -
+painting: -
+pair: 
+  - noun
+palace: -
+pale: 
+  - adjective
+palm: 
+  - noun
+pamphlet: -
+pan: 
+  - noun
+pancake: -
+panel: -
+panic: 
+  - noun
+  - verb
+pant: -
+pants: 
+  - noun
+paper: 
+  - noun
+  - adjective
+paperback: -
+paperwork: -
+parachute: 
+  - noun
+parade: 
+  - noun
+paradigm: -
+paradise: -
+paradox: -
+paradoxically: -
+paragraph: -
+parallel: 
+  - adjective
+  - noun
+parameter: -
+paramount: -
+paraphrase: 
+  - verb
+  - noun
+parcel: 
+  - noun
+pardon: 
+  - interjection
+  - verb
+  - noun
+parent: 
+  - noun
+parental: -
+parenthesis: -
+park: 
+  - noun
+  - verb
+parking: -
+parking,-,noun
+parliament: -
+parliamentary: -
+parody: 
+  - noun
+parrot: 
+  - noun
+part: 
+  - noun
+  - verb
+partial: -
+partially: -
+participant: -
+participate: -
+participation: -
+participle: -
+particle: -
+particular: 
+  - adjective
+  - noun
+particularly: -
+partly: -
+partner: 
+  - noun
+partnership: -
+part,-,speech/noun
+part-time: -
+party: 
+  - noun
+pass: 
+  - verb
+  - noun
+passage: -
+passenger: -
+passing: 
+  - noun
+  - adjective
+passion: -
+passionate: -
+passive: 
+  - adjective
+  - noun
+passport: -
+password: -
+past: 
+  - adjective
+  - preposition/adverb
+  - noun
+pasta: -
+paste: 
+  - verb
+  - noun
+pastime: -
+past,-,noun
+pastry: -
+pat: 
+  - verb
+patch: 
+  - noun
+path: -
+pathetic: -
+patience: -
+patient: 
+  - noun
+  - adjective
+patriotic: -
+patrol: 
+  - verb
+  - noun
+patron: -
+patronizing: -
+pattern: 
+  - noun
+pause: 
+  - verb
+  - noun
+pavement: -
+paw: 
+  - noun
+pay: 
+  - verb
+  - noun
+payment: -
+PC: 
+  - noun
+  - adjective
+PE: -
+pea: -
+peace: -
+peaceful: -
+peach: 
+  - noun
+peak: 
+  - noun
+  - verb
+  - adjective
+peanut: -
+pear: -
+pearl: -
+pebble: -
+peculiar: -
+pedal: 
+  - noun
+pedestrian: 
+  - noun
+pedestrian,-,noun
+peel: 
+  - verb
+  - noun
+peer: 
+  - noun
+  - verb
+peg: 
+  - noun
+pen: 
+  - noun
+penalty: -
+pencil: 
+  - noun
+pending: 
+  - preposition
+penetrate: -
+penguin: -
+peninsula: -
+penny: -
+pension: 
+  - noun
+pensioner: -
+people: 
+  - noun
+pepper: 
+  - noun
+per: -
+per,-,adverb
+perceive: -
+percent: 
+  - adjective/adverb
+  - noun
+percentage: -
+perception: -
+perch: 
+  - verb
+perfect: 
+  - adjective
+  - verb
+perfection: -
+perfectly: -
+perform: -
+performance: -
+performer: -
+perfume: 
+  - noun
+perhaps: -
+peril: -
+period: 
+  - noun
+periodic: -
+peripheral: 
+  - adjective
+permanent: 
+  - adjective
+permanently: -
+permission: -
+permit: 
+  - verb
+  - noun
+perpetual: -
+perpetuate: -
+persecution: -
+persist: -
+persistence: -
+persistent: -
+person: -
+personal: -
+personality: -
+personally: -
+personnel: -
+perspective: -
+persuade: -
+persuasion: -
+persuasive: -
+pessimistic: -
+pest: -
+pesticide: -
+pet: 
+  - noun
+petal: -
+petition: 
+  - noun
+petrol: -
+petty: -
+pharmaceutical: -
+pharmacy: -
+phase: 
+  - noun
+phenomenal: -
+phenomenon: -
+philosopher: -
+philosophical: -
+philosophy: -
+phone: 
+  - noun
+  - verb
+photo: -
+photocopy: 
+  - noun
+  - verb
+photograph: 
+  - noun
+  - verb
+photographer: -
+photographic: -
+photography: -
+phrasal,-,noun
+phrase: 
+  - noun
+physical: 
+  - adjective
+physically: -
+physician: -
+physicist: -
+physics: -
+pianist: -
+piano: 
+  - noun
+pick: 
+  - verb
+  - noun
+picnic: 
+  - noun
+picture: 
+  - noun
+  - verb
+picturesque: -
+pie: -
+piece: 
+  - noun
+  - verb
+pier: -
+pierce: -
+pig: 
+  - noun
+pigeon: -
+pile: 
+  - noun
+  - verb
+pilgrimage: -
+pill: 
+  - noun
+pillar: -
+pillow: 
+  - noun
+pilot: 
+  - noun
+pin: 
+  - noun
+  - verb
+pinch: 
+  - verb
+pine: 
+  - noun
+pineapple: -
+pink: 
+  - adjective
+  - noun
+pint: -
+pioneer: 
+  - noun
+  - verb
+pipe: 
+  - noun
+pipeline: -
+pirate: 
+  - noun
+pistol: -
+pit: 
+  - noun
+pitch: 
+  - noun
+  - verb
+pity: 
+  - noun
+  - verb
+pizza: -
+place: 
+  - noun
+  - verb
+placement: -
+plagiarism: -
+plagiarize: -
+plague: 
+  - noun
+plain: 
+  - adjective
+  - noun
+plainly: -
+plan: 
+  - noun
+  - verb
+plane: 
+  - noun
+planet: -
+planner: -
+plant: 
+  - noun
+  - verb
+plantation: -
+plaque: -
+plaster: 
+  - noun
+plastic: 
+  - adjective
+  - noun
+plate: 
+  - noun
+plateau: 
+  - noun
+platform: -
+plausible: -
+play: 
+  - verb
+  - noun
+player: -
+playground: -
+playwright: -
+plea: -
+plead: -
+pleasant: -
+please: 
+  - interjection
+  - verb
+pleased: -
+pleasure: -
+pledge: 
+  - noun
+  - verb
+plenty: 
+  - pronoun
+plight: 
+  - noun
+plot: 
+  - noun
+  - verb
+pluck: 
+  - verb
+plug: 
+  - noun
+  - verb
+plum: 
+  - noun
+plumber: -
+plump: 
+  - adjective
+plunge: 
+  - verb
+plural: 
+  - noun
+  - adjective
+plus: 
+  - preposition
+  - noun
+  - adjective
+  - conjunction
+p.m.: -
+pocket: 
+  - noun
+podcast: 
+  - noun
+poem: -
+poet: -
+poetic: -
+poetry: -
+point: 
+  - noun
+  - verb
+pointed: -
+pointer: -
+pointless: -
+point,-,view/noun
+poised: -
+poison: 
+  - noun
+  - verb
+poisonous: -
+poke: 
+  - verb
+pole: 
+  - noun
+police: 
+  - noun
+  - verb
+policeman: -
+police,-,noun
+police,-,noun
+policy: -
+polish: 
+  - verb
+  - noun
+polite: -
+political: -
+politically: -
+politician: -
+politics: -
+poll: 
+  - noun
+pollute: -
+pollution: -
+pond: -
+ponder: -
+pony: 
+  - noun
+pool: 
+  - noun
+poor: -
+poorly: 
+  - adverb
+  - adjective
+pop: 
+  - verb
+  - noun
+popcorn: -
+popular: 
+  - adjective
+popularity: -
+population: -
+porch: -
+pork: -
+port: 
+  - noun
+portable: 
+  - adjective
+portfolio: -
+portion: 
+  - noun
+portrait: 
+  - noun
+portray: -
+portrayal: -
+pose: 
+  - verb
+posh: 
+  - adjective
+position: 
+  - noun
+  - verb
+positive: 
+  - adjective
+positively: -
+possess: -
+possession: -
+possibility: -
+possible: 
+  - adjective
+possibly: -
+post: 
+  - noun
+  - verb
+postcard: -
+postcode: -
+poster: -
+post,-,noun
+postpone: -
+posture: -
+pot: 
+  - noun
+potato: -
+potent: -
+potential: 
+  - adjective
+  - noun
+potentially: -
+pottery: -
+poultry: -
+pounce: -
+pound: 
+  - noun
+  - verb
+pour: -
+poverty: -
+powder: 
+  - noun
+power: 
+  - noun
+  - verb
+powerful: -
+powerless: -
+practical: 
+  - adjective
+practically: -
+practice: -
+practise: -
+pragmatic: -
+praise: 
+  - verb
+  - noun
+prawn: -
+pray: 
+  - verb
+prayer: -
+preach: -
+preacher: -
+precaution: -
+precede: -
+precedent: -
+precious: 
+  - adjective
+precise: -
+precisely: -
+precision: 
+  - noun
+preclude: -
+predator: -
+predecessor: -
+predetermined: -
+predict: -
+predictable: -
+prediction: -
+predominantly: -
+preface: 
+  - noun
+prefer: -
+preferable: -
+preferably: -
+preference: -
+pregnancy: -
+pregnant: -
+prejudice: 
+  - noun
+prejudiced: -
+preliminary: 
+  - adjective
+premature: -
+premier: 
+  - adjective
+premise: -
+premium: 
+  - noun
+preoccupation: -
+preparation: -
+prepare: -
+prepared: -
+preposition: -
+prescribe: -
+prescription: -
+presence: -
+present: 
+  - adjective
+  - verb
+  - noun
+presentation: -
+presenter: -
+presently: -
+present,-,noun
+present,-,noun
+present,-,noun
+preservation: -
+preserve: 
+  - verb
+presidency: -
+President: -
+presidential: -
+press: 
+  - noun
+  - verb
+pressing: 
+  - adjective
+pressure: 
+  - noun
+prestige: 
+  - noun
+prestigious: -
+presumably: -
+presume: -
+presumption: -
+pretend: 
+  - verb
+pretentious: -
+pretty: 
+  - adverb
+  - adjective
+prevail: -
+prevailing: -
+prevalence: -
+prevalent: -
+prevent: -
+prevention: -
+previous: -
+previously: -
+price: 
+  - noun
+  - verb
+priceless: -
+pride: 
+  - noun
+priest: -
+primarily: -
+primary: 
+  - adjective
+primary,-,noun
+prime: 
+  - adjective
+  - noun
+Prime,-,noun
+primitive: 
+  - adjective
+prince: -
+princess: -
+principal: 
+  - adjective
+  - noun
+principally: -
+principle: -
+print: 
+  - verb
+  - noun
+printer: -
+prior: 
+  - adjective
+prioritize: -
+priority: 
+  - noun
+prison: -
+prisoner: -
+privacy: -
+private: 
+  - adjective
+privately: -
+privilege: 
+  - noun
+privileged: -
+prize: 
+  - noun
+  - verb
+pro: 
+  - noun
+probability: -
+probable: 
+  - adjective
+probably: -
+probe: 
+  - verb
+problem: -
+problematic: -
+procedure: -
+proceed: -
+proceeding: -
+proceeds: -
+process: 
+  - noun
+  - verb
+procession: -
+processor: -
+proclaim: -
+produce: 
+  - verb
+  - noun
+producer: -
+product: -
+production: -
+productive: -
+productivity: -
+profession: -
+professional: 
+  - adjective
+  - noun
+professor: -
+profile: 
+  - noun
+profit: 
+  - noun
+  - verb
+profitable: -
+profound: -
+profoundly: -
+program: 
+  - noun
+programme: 
+  - noun
+programmer: -
+programming: -
+progress: 
+  - noun
+  - verb
+progression: -
+progressive: 
+  - adjective
+progressively: -
+prohibit: -
+prohibition: -
+project: 
+  - noun
+projection: -
+prolong: -
+prolonged: -
+prominence: -
+prominent: -
+promise: 
+  - verb
+  - noun
+promising: -
+promote: -
+promotion: -
+prompt: 
+  - verb
+  - adjective
+  - noun
+promptly: -
+prone: -
+pronoun: -
+pronounce: -
+pronunciation: -
+proof: 
+  - noun
+propaganda: -
+proper: 
+  - adjective
+properly: -
+property: -
+prophet: -
+proponent: -
+proportion: 
+  - noun
+proposal: -
+propose: -
+proposed: -
+proposition: 
+  - noun
+prose: -
+prosecute: -
+prosecution: -
+prosecutor: -
+prospect: 
+  - noun
+prospective: -
+prospectus: -
+prosper: -
+prosperity: -
+prosperous: -
+protect: -
+protection: -
+protective: -
+protein: -
+protest: 
+  - noun
+  - verb
+protester: -
+protocol: -
+prototype: -
+proud: -
+prove: -
+proven: 
+  - adjective
+proverb: -
+provide: -
+provided: -
+provider: -
+providing: -
+province: -
+provincial: 
+  - adjective
+provision: 
+  - noun
+provisional: -
+provocative: -
+provoke: -
+proximity: -
+prudent: -
+PS: -
+psychiatric: -
+psychiatrist: -
+psychological: -
+psychologist: -
+psychology: -
+pub: -
+public: 
+  - adjective
+  - noun
+publication: -
+public,-,noun
+publicity: -
+publicly: -
+public,-,noun
+publish: -
+publisher: -
+publishing: -
+pudding: -
+puddle: -
+puff: 
+  - verb
+pull: 
+  - verb
+  - noun
+pulse: 
+  - noun
+pump: 
+  - noun
+  - verb
+pumpkin: -
+pun: 
+  - noun
+punch: 
+  - verb
+  - noun
+punctuation: -
+punctuation,-,noun
+punish: -
+punishment: -
+punitive: -
+pupil: -
+puppet: -
+puppy: -
+purchase: 
+  - verb
+  - noun
+pure: -
+purely: -
+purity: -
+purple: 
+  - noun
+  - adjective
+purpose: -
+purse: 
+  - noun
+pursue: -
+pursuit: -
+push: 
+  - verb
+  - noun
+put: -
+puzzle: 
+  - noun
+  - verb
+puzzled: -
+puzzling: -
+pyjamas: -
+pyramid: -
+quaint: -
+qualification: -
+qualified: -
+qualify: -
+qualitative: -
+quality: 
+  - noun
+quantify: -
+quantitative: -
+quantity: -
+quarrel: 
+  - noun
+  - verb
+quarter: 
+  - noun
+quarterly: 
+  - adjective/adverb
+queen: 
+  - noun
+query: 
+  - noun
+  - verb
+quest: -
+question: 
+  - noun
+  - verb
+questionable: -
+question,-,noun
+questionnaire: -
+queue: 
+  - noun
+  - verb
+quick: 
+  - adjective
+  - interjection
+  - adverb
+quickly: -
+quiet: 
+  - adjective
+quietly: -
+quilt: -
+quit: -
+quite,-,adverb
+quiz: 
+  - noun
+quota: -
+quotation: -
+quotation,-,noun
+quote: 
+  - verb
+  - noun
+rabbit: 
+  - noun
+race: 
+  - noun
+  - verb
+racial: -
+racing: 
+  - noun
+racism: -
+racist: -
+rack: 
+  - noun
+racket: -
+radar: -
+radiation: -
+radiator: -
+radical: 
+  - adjective
+  - noun
+radically: -
+radio: 
+  - noun
+radioactive: -
+radius: -
+raft: -
+rag: 
+  - noun
+rage: 
+  - noun
+raid: 
+  - noun
+  - verb
+rail: 
+  - noun
+railroad: 
+  - noun
+railway: -
+railway,-,noun
+rain: 
+  - noun
+  - verb
+rainbow: -
+raincoat: -
+rain,-,noun
+rainy: -
+raise: 
+  - verb
+  - noun
+rally: 
+  - noun
+ramp: 
+  - noun
+ranch: -
+random: -
+range: 
+  - noun
+  - verb
+rank: 
+  - noun
+  - verb
+rape: 
+  - verb
+  - noun
+rapid: -
+rapidly: -
+rare: -
+rarely: -
+raspberry: -
+rat: 
+  - noun
+rate: 
+  - noun
+  - verb
+rather,-,adverb
+rating: -
+ratio: -
+ration: 
+  - noun
+rational: -
+rationale: -
+rattle: 
+  - verb
+raw: 
+  - adjective
+ray: -
+razor: -
+reach: 
+  - verb
+  - noun
+react: -
+reaction: -
+reactor: -
+read: 
+  - verb
+reader: -
+readily: -
+reading: -
+ready: 
+  - adjective
+real: 
+  - adjective
+  - adverb
+real,-,noun
+realism: -
+realist: -
+realistic: -
+reality: -
+realization: -
+realize: -
+really: -
+realm: -
+reap: -
+reappear: -
+rear: 
+  - adjective
+  - noun
+  - verb
+reason: 
+  - noun
+  - verb
+reasonable: -
+reasonably: -
+reasoning: -
+reassurance: -
+reassure: -
+reassuring: -
+rebel: 
+  - noun
+  - verb
+rebellion: -
+rebellious: -
+rebuild: -
+rebuke: -
+recall: 
+  - verb
+recede: -
+receipt: -
+receive: -
+receiver: -
+recent: -
+recently: -
+reception: -
+receptionist: -
+recession: -
+recipe: -
+recipient: -
+reciprocal: -
+recite: -
+reckless: -
+reckon: -
+reclaim: -
+recognition: -
+recognize: -
+recollection: -
+recommend: -
+recommendation: -
+reconcile: -
+reconciliation: -
+reconsider: -
+reconstruct: -
+reconstruction: -
+record: 
+  - noun
+  - verb
+recorder: -
+recording: -
+recount: 
+  - verb
+recover: -
+recovery: -
+recreate: -
+recreation: -
+recruit: 
+  - verb
+  - noun
+recruitment: -
+rectangle: -
+rectangular: -
+rectify: -
+recur: -
+recurrence: -
+recycle: -
+recycling: -
+red: 
+  - adjective
+  - noun
+redeem: -
+reduce: -
+reduction: -
+redundant: -
+refer: -
+referee: 
+  - noun
+reference: 
+  - noun
+referendum: -
+refine: -
+reflect: -
+reflection: -
+reform: 
+  - noun
+  - verb
+refrain: 
+  - verb
+refresh: -
+refreshment: -
+refrigerator: -
+refuge: -
+refugee: -
+refund: 
+  - noun
+  - verb
+refusal: -
+refuse: 
+  - verb
+regain: -
+regard: 
+  - noun
+  - verb
+regarding: -
+regardless: -
+regime: -
+regiment: 
+  - noun
+region: -
+regional: -
+register: 
+  - noun
+  - verb
+registration: -
+regret: 
+  - verb
+  - noun
+regular: 
+  - adjective
+regularly: -
+regulate: -
+regulation: 
+  - noun
+rehearsal: -
+rehearse: -
+reign: 
+  - noun
+  - verb
+reinforce: -
+reiterate: -
+reject: 
+  - verb
+rejection: -
+relate: -
+related: -
+relation: -
+relationship: -
+relative: 
+  - noun
+  - adjective
+relative,-,noun
+relatively: -
+relax: -
+relaxation: -
+relaxed: -
+relaxing: -
+relay: 
+  - noun
+release: 
+  - verb
+  - noun
+relentless: -
+relevance: -
+relevant: -
+reliable: -
+reliant: -
+relic: -
+relief: -
+relieve: -
+relieved: -
+religion: -
+religious: -
+relish: 
+  - verb
+relocate: -
+reluctance: -
+reluctant: -
+rely: -
+remain: -
+remainder: -
+remaining: -
+remains: -
+remark: 
+  - noun
+  - verb
+remarkable: -
+remarkably: -
+remedy: 
+  - noun
+  - verb
+remember: -
+remind: -
+reminder: -
+reminiscent: -
+remnant: -
+remote: 
+  - adjective
+remote,-,noun
+removal: -
+remove: 
+  - verb
+render: -
+renew: -
+renewable: -
+renewal: -
+renewed: -
+renowned: -
+rent: 
+  - verb
+  - noun
+rental: -
+reopen: -
+repair: 
+  - verb
+  - noun
+repay: -
+repayment: -
+repeat: 
+  - verb
+  - noun
+repeated: -
+repeatedly: -
+repertoire: -
+repetition: -
+replace: -
+replacement: -
+replay: 
+  - noun
+replicate: -
+reply: 
+  - verb
+  - noun
+report: 
+  - noun
+  - verb
+reported,-,noun
+reporter: -
+represent: -
+representation: -
+representative: 
+  - noun
+  - adjective
+repress: -
+repression: -
+reproduce: -
+reproduction: -
+republic: -
+repulsive: -
+reputation: -
+request: 
+  - noun
+  - verb
+require: -
+requirement: -
+rescue: 
+  - verb
+  - noun
+research: 
+  - noun
+  - verb
+researcher: -
+resemblance: -
+resemble: -
+resent: -
+resentment: -
+reservation: -
+reserve: 
+  - verb
+  - noun
+reserved: -
+reservoir: -
+reside: -
+residence: -
+resident: 
+  - noun
+  - adjective
+residential: -
+residual: -
+residue: -
+resign: -
+resignation: -
+resist: -
+resistance: -
+resistant: -
+resolution: -
+resolve: 
+  - verb
+  - noun
+resort: 
+  - noun
+  - verb
+resource: 
+  - noun
+respect: 
+  - noun
+  - verb
+respectable: -
+respectful: -
+respective: -
+respectively: -
+respond: -
+response: -
+responsibility: -
+responsible: -
+responsive: -
+rest: 
+  - noun
+  - verb
+restaurant: -
+restless: -
+restoration: -
+restore: -
+restrain: -
+restraint: -
+restrict: -
+restricted: -
+restriction: -
+restrictive: -
+restructure: -
+result: 
+  - noun
+  - verb
+resume: 
+  - verb
+  - noun
+retail: 
+  - noun
+retailer: -
+retain: -
+retention: -
+retire: -
+retired: -
+retirement: -
+retort: 
+  - verb
+retreat: 
+  - verb
+  - noun
+retrieve: -
+return: 
+  - verb
+  - noun
+reunion: -
+reveal: 
+  - verb
+revelation: -
+revenge: 
+  - noun
+revenue: -
+reversal: -
+reverse: 
+  - verb
+  - noun
+  - adjective
+revert: -
+review: 
+  - noun
+  - verb
+reviewer: -
+revise: -
+revision: -
+revival: -
+revive: -
+revolt: 
+  - noun
+revolting: -
+revolution: -
+revolutionary: 
+  - adjective
+revolutionize: -
+revolve: -
+reward: 
+  - noun
+  - verb
+rewarding: -
+rewrite: -
+rhetoric: -
+rhyme: 
+  - noun
+  - verb
+rhythm: -
+rhythmic: -
+rib: 
+  - noun
+ribbon: -
+rice: -
+rich: -
+rid: 
+  - adjective
+ride: 
+  - verb
+  - noun
+rider: -
+ridge: -
+ridiculous: -
+rifle: 
+  - noun
+rift: -
+right: 
+  - adjective
+  - adverb
+  - noun
+  - interjection
+right,-,noun
+right-hand: -
+right-handed: -
+rightly: -
+right-wing: -
+rigid: -
+rigorous: -
+rim: 
+  - noun
+ring: 
+  - noun
+  - verb
+rinse: 
+  - verb
+riot: 
+  - noun
+rip: 
+  - verb
+ripe: -
+rise: 
+  - verb
+  - noun
+rising: 
+  - adjective
+risk: 
+  - noun
+  - verb
+risky: -
+rite: -
+ritual: 
+  - noun
+  - adjective
+rival: 
+  - noun
+  - verb
+rivalry: -
+river: -
+road: -
+roam: -
+roar: 
+  - verb
+  - noun
+roast: 
+  - verb
+  - adjective
+rob: -
+robber: -
+robbery: -
+robe: -
+robot: -
+robust: -
+rock: 
+  - noun
+  - verb
+rocket: 
+  - noun
+rocky: -
+rod: -
+role: -
+role,-,noun
+roll: 
+  - verb
+  - noun
+romance: 
+  - noun
+romantic: 
+  - adjective
+roof: 
+  - noun
+room: 
+  - noun
+  - verb
+roommate: -
+root: 
+  - noun
+rope: 
+  - noun
+rose: 
+  - noun
+rot: 
+  - verb
+rotate: -
+rotation: -
+rotten: 
+  - adjective
+rough: 
+  - adjective
+roughly: -
+round: 
+  - adverb/preposition
+  - adjective
+  - noun
+  - verb
+route: 
+  - noun
+routine: 
+  - noun
+  - adjective
+routinely: -
+row: 
+  - noun
+  - verb
+royal: 
+  - adjective
+rub: 
+  - verb
+rubber: -
+rubbish: 
+  - noun
+rucksack: -
+rude: -
+rug: -
+rugby: -
+rugged: -
+ruin: 
+  - verb
+  - noun
+rule: 
+  - noun
+  - verb
+ruler: -
+ruling: 
+  - noun
+rumour: -
+run: 
+  - verb
+  - noun
+runner: -
+running: 
+  - noun
+runway: -
+rural: -
+rush: 
+  - verb
+  - noun
+rush,-,noun
+rust: 
+  - noun
+rusty: -
+ruthless: -
+sack: 
+  - noun
+sacred: -
+sacrifice: 
+  - noun
+  - verb
+sad: -
+saddle: 
+  - noun
+sadly: -
+sadness: -
+safe: 
+  - adjective
+  - noun
+safeguard: 
+  - verb
+  - noun
+safely: -
+safety: -
+sail: 
+  - verb
+  - noun
+sailor: -
+saint: -
+sake: 
+  - noun
+salad: -
+salary: -
+sale: -
+salesman: -
+salesperson: -
+salmon: -
+salon: -
+salt: 
+  - noun
+salty: -
+same: 
+  - adjective
+  - pronoun
+  - adverb
+sample: 
+  - noun
+  - verb
+sanction: 
+  - noun
+  - verb
+sanctuary: -
+sand: 
+  - noun
+sandal: -
+sandwich: 
+  - noun
+sane: -
+sarcasm: -
+sarcastic: -
+satellite: -
+satire: -
+satisfaction: -
+satisfactory: -
+satisfied: -
+satisfy: -
+satisfying: -
+Saturday: -
+sauce: -
+saucepan: -
+saucer: -
+sausage: -
+savage: 
+  - adjective
+save: 
+  - verb
+saving: -
+  - noun
+  - verb
+say: 
+  - verb
+  - noun
+saying: -
+scale: 
+  - noun
+scan: 
+  - verb
+  - noun
+scandal: -
+scanner: -
+scar: 
+  - noun
+scarce: 
+  - adjective
+scarcely: -
+scare: 
+  - verb
+  - noun
+scared: -
+scarf: 
+  - noun
+scarlet: -
+scary: -
+scatter: -
+scenario: -
+scene: -
+scenery: -
+scent: 
+  - noun
+sceptical: -
+scepticism: -
+schedule: 
+  - noun
+  - verb
+scheme: 
+  - noun
+scholar: -
+scholarship: -
+school: 
+  - noun
+science: -
+science,-,noun
+scientific: -
+scientist: -
+scissors: -
+scoop: 
+  - noun
+  - verb
+scooter: -
+scope: 
+  - noun
+scorch: 
+  - verb
+score: 
+  - noun
+  - verb
+scout: 
+  - noun
+scowl: 
+  - verb
+scramble: 
+  - verb
+scrap: 
+  - noun
+scrape: 
+  - verb
+scratch: 
+  - verb
+  - noun
+scrawl: 
+  - verb
+scream: 
+  - verb
+  - noun
+screech: -
+screen: 
+  - noun
+  - verb
+screw: 
+  - noun
+  - verb
+scribble: 
+  - verb
+script: -
+scrub: 
+  - verb
+scrutiny: -
+sculpture: -
+sea: -
+seafood: -
+seal: 
+  - noun
+  - verb
+search: 
+  - noun
+  - verb
+search,-,noun
+season: 
+  - noun
+seat: 
+  - noun
+  - verb
+seat,-,noun
+second: 
+  - number
+  - noun
+  - adverb
+secondary: -
+second-hand: -
+secondly: -
+secrecy: -
+secret: 
+  - adjective
+  - noun
+secretary: -
+secretly: -
+sect: -
+section: 
+  - noun
+sector: -
+secular: -
+secure: 
+  - verb
+  - adjective
+security: -
+seduce: -
+see: 
+  - verb
+seed: 
+  - noun
+seek: -
+seem: -
+seemingly: -
+segment: 
+  - noun
+segregated: -
+segregation: -
+seize: -
+seizure: -
+seldom: -
+select: 
+  - verb
+  - adjective
+selection: -
+selective: -
+self: -
+selfish: -
+sell: 
+  - verb
+seller: -
+semantic: -
+semester: -
+semicolon: -
+seminar: -
+senate: -
+senator: -
+send: -
+senior: 
+  - adjective
+  - noun
+senior,-,noun
+sensation: -
+sensational: -
+sense: 
+  - noun
+  - verb
+sensible: -
+sensitive: -
+sensitivity: -
+sensor: -
+sentence: 
+  - noun
+  - verb
+sentiment: -
+sentimental: -
+separate: 
+  - adjective
+  - verb
+separation: -
+September: -
+sequel: -
+sequence: -
+sergeant: -
+series: -
+serious: -
+seriously: -
+sermon: -
+servant: -
+serve: 
+  - verb
+server: -
+service: 
+  - noun
+  - verb
+session: -
+set: 
+  - verb
+  - noun
+  - adjective
+setback: -
+setting: -
+settle: -
+settlement: -
+settler: -
+set-up: -
+seven: -
+seventeen: -
+seventh: 
+  - adjective
+seventy: -
+sever: -
+several: 
+  - determiner/pronoun
+severe: -
+severely: -
+sew: -
+sewing: -
+sex: 
+  - noun
+sexism: -
+sexual: -
+sexuality: -
+sexy: -
+shabby: -
+shade: 
+  - noun
+shadow: 
+  - noun
+shake: 
+  - verb
+  - noun
+shaky: -
+shall,-,verb
+shallow: -
+shame: 
+  - noun
+shampoo: 
+  - noun
+shape: 
+  - noun
+  - verb
+share: 
+  - verb
+  - noun
+shareholder: -
+shark: -
+sharp: 
+  - adjective
+sharpen: -
+sharply: -
+shatter: -
+shave: 
+  - verb
+she: 
+  - pronoun
+shed: 
+  - noun
+  - verb
+sheep: -
+sheer: 
+  - adjective
+sheet: -
+shelf: -
+shell: 
+  - noun
+  - verb
+shelter: 
+  - noun
+  - verb
+sheriff: -
+shield: 
+  - noun
+  - verb
+shift: 
+  - verb
+  - noun
+shine: 
+  - verb
+shiny: -
+ship: 
+  - noun
+  - verb
+shipment: -
+shirt: -
+shiver: 
+  - verb
+shock: 
+  - noun
+  - verb
+shocked: -
+shocking: -
+shoe: 
+  - noun
+shoot: 
+  - verb
+shooting: -
+shop: 
+  - noun
+  - verb
+shop,-,noun
+shoplifting: -
+shopper: -
+shopping: -
+shopping,-,noun
+shore: 
+  - noun
+short: 
+  - adjective
+  - noun
+  - adverb
+shortage: -
+shortcoming: -
+short,-,noun
+shorten: -
+shortfall: -
+short-lived: -
+shortly: -
+short-term: -
+shot: 
+  - noun
+should,-,verb
+shoulder: 
+  - noun
+shout: 
+  - verb
+  - noun
+shove: 
+  - verb
+shovel: 
+  - noun
+  - verb
+show: 
+  - verb
+  - noun
+shower: 
+  - noun
+shrewd: -
+shriek: 
+  - verb
+shrimp: -
+shrink: 
+  - verb
+shrub: -
+shrug: 
+  - verb
+shudder: 
+  - verb
+shuffle: 
+  - verb
+shut: 
+  - verb
+  - adjective
+shutdown: -
+shuttle: 
+  - noun
+shy: 
+  - adjective
+sibling: -
+sick: 
+  - adjective
+sickness: -
+side: 
+  - noun
+  - adjective
+side,-,noun
+sidewalk: -
+sideways: -
+siege: -
+sigh: 
+  - verb
+  - noun
+sight: 
+  - noun
+sightseeing: -
+sign: 
+  - noun
+  - verb
+signal: 
+  - noun
+  - verb
+signature: -
+significance: -
+significant: -
+significantly: -
+signify: -
+silence: 
+  - noun
+  - verb
+silent: -
+silk: -
+silly: 
+  - adjective
+silver: 
+  - noun
+  - adjective
+similar: -
+similarity: -
+similarly: -
+simile: -
+simple: -
+simplicity: -
+simplify: -
+simplistic: -
+simply: -
+simulate: -
+simulated: -
+simulation: -
+simultaneous: -
+sin: 
+  - noun
+since,-,conjunction/adverb
+sincere: -
+sincerely: -
+sing: -
+singer: -
+single: 
+  - adjective
+  - noun
+singular: 
+  - adjective
+  - noun
+sinister: -
+sink: 
+  - verb
+  - noun
+sip: 
+  - verb
+sir: -
+sister: -
+sister-in-law: -
+sit: -
+site: 
+  - noun
+  - verb
+situated: -
+situation: -
+six: -
+sixteen: -
+sixth: 
+  - adjective
+sixty: -
+size: 
+  - noun
+skate: 
+  - noun
+  - verb
+skateboard: -
+skating: -
+skeleton: -
+sketch: 
+  - noun
+  - verb
+ski: 
+  - noun
+  - verb
+skiing: -
+skilful: -
+skill: -
+skilled: -
+skin: 
+  - noun
+skinny: -
+skip: 
+  - verb
+skirt: 
+  - noun
+skull: -
+sky: -
+slab: -
+slam: 
+  - verb
+slap: 
+  - verb
+slash: 
+  - verb
+  - noun
+slaughter: 
+  - verb
+  - noun
+slave: 
+  - noun
+slavery: -
+sleep: 
+  - verb
+  - noun
+sleepy: -
+sleeve: -
+slender: -
+slice: 
+  - noun
+  - verb
+slide: 
+  - verb
+  - noun
+slight: 
+  - adjective
+slightly: -
+slim: 
+  - adjective
+slip: 
+  - verb
+  - noun
+slippery: -
+slogan: -
+slope: 
+  - noun
+slot: 
+  - noun
+slow: 
+  - adjective
+  - verb
+slowly: -
+slum: 
+  - noun
+slump: 
+  - verb
+  - noun
+small: 
+  - adjective
+smart: 
+  - adjective
+smash: 
+  - verb
+smell: 
+  - noun
+  - verb
+smile: 
+  - verb
+  - noun
+smog: -
+smoke: 
+  - noun
+  - verb
+smoker: -
+smoking: -
+smooth: 
+  - adjective
+  - verb
+smoothly: -
+smuggle: -
+snack: 
+  - noun
+snail: -
+snake: 
+  - noun
+snap: 
+  - verb
+snatch: 
+  - verb
+sneak: 
+  - verb
+sneaker: -
+sneaky: -
+sneeze: 
+  - verb
+sniff: 
+  - verb
+snob: -
+snore: -
+snort: 
+  - verb
+snow: 
+  - noun
+  - verb
+snowman: -
+snowstorm: -
+snowy: -
+so: 
+  - adverb
+  - conjunction
+soak: 
+  - verb
+soap: 
+  - noun
+soap,-,noun
+soar: -
+sob: -
+sober: 
+  - adjective
+so-called: -
+soccer: -
+social: 
+  - adjective
+socialism: -
+socialist: 
+  - adjective
+socially: -
+social,-,noun
+society: -
+sociology: -
+sock: 
+  - noun
+socket: -
+soda: -
+sofa: -
+soft: -
+soft,-,noun
+soften: -
+software: -
+soil: 
+  - noun
+solar: -
+solar,-,noun
+soldier: 
+  - noun/sold
+out,-,sole/1
+adjective,-,2
+noun: -
+solely: -
+solemn: -
+solicitor: -
+solid: 
+  - adjective
+  - noun
+solidarity: -
+solitary: 
+  - adjective
+solo: 
+  - noun
+solution: -
+solve: -
+some: 
+  - determiner
+  - pronoun
+  - adverb
+somebody: 
+  - pronoun
+someday: -
+somehow: -
+someone: 
+  - pronoun
+something: -
+sometime: 
+  - adverb
+sometimes: -
+somewhat: -
+somewhere: -
+son: -
+song: -
+songwriter: -
+son-in-law: -
+soon: -
+soothe: -
+sophisticated: -
+soppy: -
+sore: 
+  - adjective
+sorrow: 
+  - noun
+sorry: -
+sort: 
+  - noun
+  - verb
+so-so,-,adverb
+soul: -
+sound: 
+  - noun
+  - verb
+  - adjective
+soup: 
+  - noun
+sour: 
+  - adjective
+source: 
+  - noun
+south: 
+  - noun
+  - adjective
+  - adverb
+southeast: 
+  - noun
+  - adjective
+southern: -
+southwest: 
+  - noun
+  - adjective
+souvenir: -
+sovereign: 
+  - noun
+  - adjective
+sow: 
+  - verb
+spa: -
+space: 
+  - noun
+  - verb
+spacious: -
+spade: -
+spaghetti: -
+spare: 
+  - adjective
+  - verb
+spark: 
+  - noun
+  - verb
+sparkle: 
+  - verb
+speak: -
+speaker: -
+special: 
+  - adjective
+specialist: -
+speciality: -
+specialize: -
+specialized: -
+specially: -
+special,-,noun
+species: -
+specific: 
+  - adjective
+specifically: -
+specification: -
+specify: -
+specimen: -
+spectacle: -
+spectacular: 
+  - adjective
+spectator: -
+spectrum: -
+speculate: -
+speculation: -
+speech: -
+speed: 
+  - noun
+  - verb
+spell: 
+  - verb
+  - noun
+spelling: -
+spend: 
+  - verb
+spending: -
+sphere: -
+spice: 
+  - noun
+spicy: -
+spider: -
+spike: 
+  - noun
+spill: 
+  - verb
+spin: 
+  - verb
+spine: -
+spiral: 
+  - noun
+spirit: 
+  - noun
+spiritual: 
+  - adjective
+spit: 
+  - verb
+spite: 
+  - noun
+splash: 
+  - verb
+  - noun
+splendid: -
+split: 
+  - verb
+  - noun
+spoil: 
+  - verb
+  - adjective
+spokesman: -
+spokesperson: -
+spokeswoman: -
+sponge: 
+  - noun
+sponsor: 
+  - noun
+  - verb
+sponsorship: -
+spontaneous: -
+spoon: 
+  - noun
+sport: 
+  - noun
+sports,-,noun
+sports,-,noun
+spot: 
+  - noun
+  - verb
+spotlight: 
+  - noun
+spouse: -
+sprain: -
+sprawl: 
+  - verb
+spray: 
+  - verb
+  - noun
+spread: 
+  - verb
+  - noun
+spreadsheet: -
+spring: 
+  - noun
+  - verb
+sprinkle: 
+  - verb
+spy: 
+  - noun
+  - verb
+squad: -
+square: 
+  - adjective
+  - noun
+squash: 
+  - verb
+  - noun
+squat: 
+  - verb
+squeak: 
+  - verb
+squeal: 
+  - verb
+squeeze: 
+  - verb
+squirrel: 
+  - noun
+stab: 
+  - verb
+stability: -
+stabilize: -
+stable: 
+  - adjective
+  - noun
+stack: 
+  - noun
+  - verb
+stadium: -
+staff: 
+  - noun
+stage: 
+  - noun
+  - verb
+stagger: 
+  - verb
+stain: 
+  - verb
+  - noun
+stair: -
+staircase: -
+stake: 
+  - noun
+stale: -
+stall: 
+  - noun
+stamina: -
+stamp: 
+  - noun
+  - verb
+stance: -
+stand: 
+  - verb
+  - noun
+standard: 
+  - noun
+  - adjective
+standardize: -
+standard,-,living/noun
+standpoint: -
+staple: 
+  - noun
+star: 
+  - noun
+  - verb
+stare: 
+  - verb
+  - noun
+start: 
+  - verb
+  - noun
+starter: -
+startle: -
+starve: -
+state: 
+  - noun
+  - verb
+statement: 
+  - noun
+statesman: -
+static: 
+  - adjective
+station: 
+  - noun
+stationary: -
+statistic: -
+statistical: -
+statue: -
+status: -
+statute: -
+statutory: -
+stay: 
+  - verb
+  - noun
+steadily: -
+steady: 
+  - adjective
+steak: -
+steal: 
+  - verb
+steam: 
+  - noun
+  - verb
+steel: 
+  - noun
+steep: 
+  - adjective
+steer: 
+  - verb
+steering,-,noun
+stem: 
+  - noun
+step: 
+  - noun
+  - verb
+stepfather: -
+stepmother: -
+stereotype: 
+  - noun
+stern: 
+  - adjective
+stew: 
+  - noun
+stick: 
+  - verb
+  - noun
+sticker: -
+sticky: -
+stiff: 
+  - adjective
+stigma: -
+still: 
+  - adverb
+  - adjective
+stimulate: -
+stimulating: -
+stimulus: -
+sting: 
+  - verb
+  - noun
+stink: 
+  - verb
+stipulate: -
+stir: 
+  - verb
+stitch: 
+  - noun
+stock: 
+  - noun
+  - verb
+stock,-,noun
+  - adjective
+stomach: 
+  - noun
+stomachache: -
+stone: 
+  - noun
+stool: -
+stop: 
+  - verb
+  - noun
+storage: -
+store: 
+  - noun
+  - verb
+storey: -
+storm: 
+  - noun
+  - verb
+stormy: -
+story: -
+story,-,noun
+stove: 
+  - noun
+straight: 
+  - adverb
+  - adjective
+straighten: -
+straightforward: -
+strain: 
+  - noun
+  - verb
+strait: -
+strand: -
+strange: 
+  - adjective
+strangely: -
+stranger: -
+strap: 
+  - noun
+strategic: -
+strategy: -
+straw: -
+strawberry: -
+stray: 
+  - verb
+  - adjective
+streak: 
+  - noun
+stream: 
+  - noun
+  - verb
+street: 
+  - noun
+strength: -
+strengthen: -
+stress: 
+  - noun
+  - verb
+stressful: -
+stretch: 
+  - verb
+  - noun
+strict: -
+strictly: -
+stride: 
+  - noun
+  - verb
+strike: 
+  - verb
+  - noun
+striking: -
+string: 
+  - noun
+strip: 
+  - noun
+  - verb
+stripe: -
+striped: -
+strive: -
+stroke: 
+  - noun
+  - verb
+stroll: -
+strong: -
+strongly: -
+structural: -
+structure: 
+  - noun
+  - verb
+struggle: 
+  - verb
+  - noun
+stubborn: -
+  - adjective
+student: -
+studio: -
+study: 
+  - noun
+  - verb
+stuff: 
+  - noun
+  - verb
+stuffed: -
+stumble: -
+stunned: -
+stunning: -
+stupid: 
+  - adjective
+sturdy: -
+style: 
+  - noun
+stylish: -
+subject: 
+  - noun
+  - adjective
+  - verb
+subjective: -
+sublime: 
+  - adjective
+submarine: 
+  - noun
+submission: -
+submit: -
+subordinate: 
+  - adjective
+  - noun
+subscribe: -
+subscription: -
+subsection: -
+subsequent: -
+subsequently: -
+subside: -
+subsidiary: 
+  - noun
+  - adjective
+subsidize: -
+subsidy: -
+substance: -
+substantial: -
+substantially: -
+substantive: 
+  - adjective
+substitute: 
+  - noun
+  - verb
+subtitle: -
+subtle: -
+suburb: -
+subway: -
+succeed: -
+success: -
+successful: -
+succession: -
+successive: -
+successor: -
+such,-,predeterminer/prono
+suck: 
+  - verb
+sudden: -
+suddenly: -
+sue: -
+suffer: -
+suffering: -
+suffice: -
+sufficient: -
+sugar: 
+  - noun
+suggest: -
+suggestion: -
+suicide: -
+suit: 
+  - noun
+  - verb
+suitable: -
+suitably: -
+suitcase: -
+suite: -
+sum: 
+  - noun
+  - verb
+summarize: -
+summary: 
+  - noun
+summer: 
+  - noun
+summit: -
+summon: -
+sun: 
+  - noun
+Sunday: -
+sunglasses: -
+sunlight: -
+sunny: -
+sunrise: -
+sunset: -
+sunshine: -
+suntan: -
+super: 
+  - adjective
+superb: -
+superficial: -
+superior: 
+  - adjective
+  - noun
+superiority: -
+supermarket: -
+superstition: -
+superstitious: -
+superstore: -
+supervise: -
+supervision: -
+supervisor: -
+supper: -
+supplement: 
+  - noun
+  - verb
+supplementary: -
+supply: 
+  - noun
+  - verb
+support: 
+  - verb
+  - noun
+supporter: -
+supportive: -
+suppose: -
+supposed: -
+supposedly: -
+suppress: -
+supreme: -
+supremely: -
+sure: 
+  - adjective
+  - adverb
+surely: -
+surf: 
+  - verb
+surface: 
+  - noun
+surfing: -
+surge: 
+  - verb
+  - noun
+surgeon: -
+surgery: -
+surgical: -
+surname: -
+surpass: -
+surplus: 
+  - noun
+  - adjective
+surprise: 
+  - noun
+  - verb
+surprised: -
+surprising: -
+surprisingly: -
+surrender: 
+  - verb
+  - noun
+surround: 
+  - verb
+surrounding: -
+surroundings: -
+survey: 
+  - noun
+  - verb
+survival: -
+survive: -
+survivor: -
+susceptible: -
+suspect: 
+  - verb
+  - noun
+suspend: -
+suspension: -
+suspicion: -
+suspicious: -
+sustain: -
+sustainable: -
+swallow: 
+  - verb
+swamp: 
+  - noun
+swap: 
+  - verb
+sway: 
+  - verb
+swear: -
+swear,-,noun
+sweat: 
+  - verb
+  - noun
+sweater: -
+sweatshirt: -
+sweep: 
+  - verb
+sweeping: -
+sweet: 
+  - adjective
+  - noun
+sweetheart: -
+swell: 
+  - verb
+swift: 
+  - adjective
+swim: 
+  - verb
+  - noun
+swimming: -
+swimming,-,noun
+swimming,-,noun
+swimming,-,noun
+swimsuit: -
+swing: 
+  - verb
+  - noun
+swirl: 
+  - verb
+switch: 
+  - verb
+  - noun
+sword: -
+syllable: -
+symbol: -
+symbolic: -
+symbolism: -
+symbolize: -
+symmetrical: -
+symmetry: -
+sympathetic: -
+sympathy: -
+symphony: -
+symptom: -
+syndrome: -
+synonym: -
+synonymous: -
+syntax: -
+synthesis: -
+synthetic: -
+system: -
+systematic: -
+table: 
+  - noun
+tablespoon: -
+tablet: -
+tackle: 
+  - verb
+tact: -
+tactic: -
+tactical: -
+tag: 
+  - noun
+tail: 
+  - noun
+tailor: 
+  - verb
+take: 
+  - verb
+takeover: -
+tale: -
+talent: -
+talented: -
+talk: 
+  - verb
+  - noun
+talkative: -
+tall: -
+tangible: -
+tank: 
+  - noun
+tap: 
+  - noun
+  - verb
+tape: 
+  - noun
+  - verb
+target: 
+  - noun
+  - verb
+tariff: -
+task: 
+  - noun
+taste: 
+  - noun
+  - verb
+tasty: -
+tax: 
+  - noun
+  - verb
+taxation: -
+taxi: 
+  - noun
+taxpayer: -
+tea: -
+teach: -
+teacher: -
+teaching: -
+team: 
+  - noun
+  - verb
+team-mate: -
+teamwork: -
+teapot: -
+tear: 
+  - noun
+  - verb
+tease: 
+  - verb
+teaspoon: -
+technical: -
+technically: -
+technician: -
+technique: -
+technological: -
+technology: -
+tedious: -
+teen: 
+  - noun
+teenage: -
+teenager: -
+telecommunications: -
+telephone: 
+  - noun
+  - verb
+telescope: 
+  - noun
+televise: -
+television: -
+tell: -
+telly: -
+temper: 
+  - noun
+temperament: -
+temperature: -
+temple: -
+temporary: -
+tempt: -
+temptation: -
+tempting: -
+ten,-,noun
+tenant: -
+tend: -
+tendency: -
+tender: 
+  - adjective
+tennis: -
+tense: 
+  - adjective
+  - noun
+tension: -
+tent: -
+tentative: -
+tenth: 
+  - adjective
+term: 
+  - noun
+  - verb
+terminal: 
+  - noun
+  - adjective
+terminate: -
+terminology: -
+terrace: -
+terrain: -
+terrible: -
+terribly: -
+terrific: -
+terrified: -
+terrify: -
+terrifying: -
+territorial: -
+territory: -
+terror: -
+terrorism: -
+terrorist: -
+test: 
+  - noun
+  - verb
+testify: -
+testimony: -
+text: 
+  - noun
+  - verb
+textbook: 
+  - noun
+textile: -
+texture: -
+than,-,preposition
+thank: -
+thankfully: -
+thanks: 
+  - interjection
+  - noun
+Thanksgiving: -
+thank,-,interjection
+that: 
+  - determiner/pronoun
+  - conjunction
+  - adverb
+the: 
+  - definite/article/determiner
+  - adverb
+theatre: -
+theatrical: -
+theft: -
+their: -
+theirs: -
+them: 
+  - pronoun
+theme: -
+themselves: -
+then: 
+  - adverb
+theoretical: -
+theoretically: -
+theorist: -
+theory: -
+therapeutic: -
+therapist: -
+therapy: -
+there: 
+  - pronoun
+  - adverb
+  - interjection
+thereafter: -
+thereby: -
+therefore: -
+thermometer: -
+thesis: -
+they: -
+thick: 
+  - adjective
+thickness: -
+thief: -
+thigh: -
+thin: 
+  - adjective
+  - verb
+thing: -
+think: 
+  - verb
+thinker: -
+thinking: 
+  - noun
+thinly: -
+third: 
+  - adjective
+  - noun
+thirst: 
+  - noun
+thirsty: -
+thirteen: -
+thirty: -
+this: 
+  - determiner/pronoun
+  - adverb
+thorn: -
+thorough: -
+thoroughly: -
+though: 
+  - conjunction
+  - adverb
+  - noun
+thoughtful: -
+thoughtless: -
+thousand: -
+thread: 
+  - noun
+threat: -
+threaten: -
+three: -
+three-dimensional: -
+threshold: -
+thrill: 
+  - noun
+  - verb
+thrilled: -
+thriller: -
+thrilling: -
+thrive: -
+throat: -
+throne: -
+through: 
+  - preposition/adverb
+throughout,-,adverb
+throw: 
+  - verb
+  - noun
+thrust: 
+  - verb
+  - noun
+thug: -
+thumb: 
+  - noun
+thump: 
+  - verb
+thunder: 
+  - noun
+thunderstorm: -
+Thursday: -
+thus: -
+thwart: -
+tick: 
+  - verb
+ticket: 
+  - noun
+tickle: 
+  - verb
+tide: 
+  - noun
+tidy: 
+  - adjective
+  - verb
+tie: 
+  - verb
+  - noun
+tier: -
+tiger: -
+tight: 
+  - adjective
+  - adverb
+tighten: -
+tightly: -
+tile: 
+  - noun
+till: 
+  - preposition/conjunction
+tilt: 
+  - verb
+timber: -
+time: 
+  - noun
+  - verb
+time-consuming: -
+timeless: -
+timely: -
+timescale: -
+timetable: 
+  - noun
+timing: -
+tin: 
+  - noun
+tiny: -
+tip: 
+  - noun
+  - verb
+tiptoe: 
+  - noun
+  - verb
+tire: 
+  - verb
+tired: -
+tiresome: -
+tiring: -
+tissue: -
+title: -
+titled: -
+to: 
+  - -
+  - preposition
+  - adverb
+toast: 
+  - noun
+toaster: -
+tobacco: -
+today: 
+  - adverb
+toddler: -
+toe: 
+  - noun
+toenail: -
+together: 
+  - adverb
+toilet: -
+toilet,-,noun
+token: 
+  - noun
+  - adjective
+tolerance: -
+tolerant: -
+tolerate: -
+toll: 
+  - noun
+tomato: -
+tomb: -
+tomorrow: 
+  - adverb
+ton: -
+tone: 
+  - noun
+tongue: 
+  - noun
+tonight: 
+  - adverb
+too: -
+tool: 
+  - noun
+tooth: -
+toothache: -
+toothbrush: -
+toothpaste: -
+top: 
+  - noun
+  - adjective
+  - verb
+topic: -
+topple: -
+torch: 
+  - noun
+torture: 
+  - noun
+  - verb
+toss: 
+  - verb
+total: 
+  - adjective
+  - noun
+  - verb
+totally: -
+touch: 
+  - verb
+  - noun
+touchdown: -
+touching: 
+  - adjective
+tough: 
+  - adjective
+tour: 
+  - noun
+  - verb
+tourism: -
+tourist: -
+tournament: -
+tout: 
+  - verb
+tow: 
+  - verb
+towards: -
+towel: 
+  - noun
+tower: 
+  - noun
+town: -
+town,-,noun
+toxic: -
+toy: 
+  - noun
+  - verb
+trace: 
+  - verb
+  - noun
+track: 
+  - noun
+  - verb
+tract: -
+tractor: -
+trade: 
+  - noun
+  - verb
+trader: -
+trading: -
+tradition: -
+traditional: -
+traditionally: -
+traffic: 
+  - noun
+  - verb
+traffic,-,noun
+traffic,-,noun
+tragedy: -
+tragic: -
+trail: 
+  - verb
+  - noun
+trailer: -
+train: 
+  - noun
+  - verb
+trainee: -
+trainer: -
+training: -
+trait: -
+traitor: -
+tram: -
+transaction: -
+transcend: -
+transcript: -
+transfer: 
+  - verb
+  - noun
+transform: -
+transformation: -
+transit: -
+transition: 
+  - noun
+transitional: -
+translate: -
+translation: -
+translator: -
+transmission: -
+transmit: -
+transparent: -
+transplant: 
+  - noun
+transport: 
+  - noun
+  - verb
+transportation: -
+trap: 
+  - noun
+  - verb
+trash: 
+  - noun
+trauma: -
+traumatic: -
+travel: 
+  - verb
+  - noun
+traveller: -
+travelling: 
+  - adjective
+tray: -
+tread: 
+  - verb
+treasure: 
+  - noun
+treat: 
+  - verb
+  - noun
+treatment: -
+treaty: -
+tree: -
+trek: 
+  - noun
+tremble: -
+tremendous: -
+trench: -
+trend: 
+  - noun
+trial: 
+  - noun
+triangle: -
+triangular: -
+tribal: -
+tribe: -
+tribunal: -
+tribute: -
+trick: 
+  - noun
+  - verb
+tricky: -
+trigger: 
+  - verb
+  - noun
+trillion: -
+trim: 
+  - verb
+trip: 
+  - noun
+  - verb
+triple: 
+  - adjective/predeterminer
+  - verb
+triumph: 
+  - noun
+triumphant: -
+trivial: -
+trolley: -
+troop: 
+  - noun
+trophy: -
+tropical: -
+trot: 
+  - verb
+trouble: 
+  - noun
+  - verb
+troubled: -
+troublesome: -
+trousers: -
+trout: -
+truce: -
+truck: 
+  - noun
+true: 
+  - adjective
+truly: -
+trumpet: 
+  - noun
+trunk: -
+trust: 
+  - noun
+  - verb
+trustee: -
+trustworthy: -
+truth: -
+try: 
+  - verb
+  - noun
+trying: -
+T-shirt: -
+tub: -
+tube: 
+  - noun
+tuck: 
+  - verb
+Tuesday: -
+tug: 
+  - verb
+tuition: -
+tumble: 
+  - verb
+tummy: -
+tumour: -
+tuna: -
+tune: 
+  - noun
+  - verb
+tunnel: 
+  - noun
+turbulence: -
+turbulent: -
+turf: 
+  - noun
+turkey: -
+turmoil: -
+turn: 
+  - verb
+  - noun
+turnout: -
+turnover: -
+turtle: -
+tutor: 
+  - noun
+tutorial: 
+  - noun
+TV: -
+twelve: -
+twenty,-,noun
+twice,-,predeterminer
+twig: 
+  - noun
+twilight: -
+twin: 
+  - noun
+  - adjective
+twist: 
+  - verb
+  - noun
+twisted: -
+two: -
+two-dimensional: -
+type: 
+  - noun
+  - verb
+typical: -
+typically: -
+tyrant: -
+tyre: -
+ubiquitous: -
+ugly: -
+ulcer: -
+ultimate: 
+  - adjective
+ultimately: -
+ultimatum: -
+umbrella: -
+umpire: 
+  - noun
+unable: -
+unacceptable: -
+unaffected: -
+unambiguous: -
+unanimous: -
+unauthorized: -
+unavailable: -
+unavoidable: -
+unaware: -
+unbelievable: -
+uncertain: -
+uncertainty: -
+unchanging: -
+uncle: -
+unclear: -
+uncomfortable: -
+uncommon: -
+unconditional: -
+unconscious: 
+  - adjective
+unconstitutional: -
+uncover: -
+under,-,adverb
+underestimate: 
+  - verb
+undergo: -
+undergraduate: -
+underground: 
+  - adjective
+underline: -
+underlying: -
+undermine: -
+underneath: 
+  - preposition/adverb
+underpants: -
+underpin: -
+underscore: -
+understand: -
+understandable: -
+understanding: 
+  - noun
+understatement: -
+undertake: -
+undertaking: -
+underwater: -
+underway: -
+underwear: -
+undesirable: 
+  - adjective
+undo: -
+undone: -
+undoubtedly: -
+undress: 
+  - verb
+uneasy: -
+unemployed: 
+  - adjective
+unemployment: -
+unequal: -
+uneven: -
+unexpected: -
+unfair: -
+unfaithful: -
+unfamiliar: -
+unfashionable: -
+unfinished: -
+unfold: -
+unfortunate: 
+  - adjective
+unfortunately: -
+unfounded: -
+unfriendly: -
+unhappy: -
+unhealthy: -
+unhurt: -
+unification: -
+uniform: 
+  - noun
+  - adjective
+uniformity: -
+unify: -
+unilateral: -
+union: -
+unique: -
+uniquely: -
+unit: -
+unite: -
+united: -
+unity: -
+universal: -
+universally: -
+universe: -
+university: -
+unjust: -
+unkind: -
+unknown: 
+  - adjective/adverb
+unlawful: -
+unleash: -
+unless: -
+unlike: 
+  - preposition
+unlikely: -
+unlimited: -
+unload: -
+unlock: -
+unmarried: -
+unmistakable: -
+unnatural: -
+unnecessary: -
+unofficial: -
+unorthodox: -
+unpack: -
+unpaid: -
+unpleasant: -
+unplug: -
+unpopular: -
+unprecedented: -
+unpredictable: -
+unravel: -
+unreal: -
+unrealistic: -
+unreasonable: -
+unrelated: -
+unreliable: -
+unrest: -
+unsafe: -
+unsatisfactory: -
+unscrupulous: -
+unseen: 
+  - adjective
+unskilled: -
+unspecified: -
+unspoiled: -
+unstable: -
+unsuccessful: -
+unsuitable: -
+unsure: -
+until,-,conjunction
+untouched: -
+untrained: -
+unused: 
+  - adjective
+unusual: -
+unusually: -
+unveil: -
+unwanted: -
+unwell: -
+unwilling: -
+unwise: -
+unwrap: -
+unzip: -
+up: 
+  - adverb/preposition/adjective
+upbringing: -
+upcoming: -
+update: 
+  - verb
+  - noun
+upgrade: -
+upheaval: -
+uphold: -
+upload: 
+  - verb
+upon: -
+upper: 
+  - adjective
+upper,-,noun
+upright: 
+  - adjective/adverb
+uprising: -
+upset: 
+  - adjective
+  - verb
+upside,-,1/adverb
+upstairs: 
+  - adverb
+up-to-date: -
+upward: -
+upwards: -
+urban: -
+urge: 
+  - verb
+  - noun
+urgency: -
+urgent: -
+us: -
+usage: -
+use: 
+  - verb
+  - noun
+used: 
+  - adjective
+  - adjective
+used,-,modal/verb
+useful: -
+usefulness: -
+useless: -
+user: -
+user-friendly: -
+user,-,noun
+usher: 
+  - verb
+usual: -
+usually: -
+utensil: -
+utility: -
+utilize: -
+utter: 
+  - adjective
+  - verb
+utterly: -
+vacancy: -
+vacant: -
+vacation: 
+  - noun
+vaccine: -
+vacuum: 
+  - noun
+  - verb
+vague: -
+vaguely: -
+vain: -
+valid: -
+validate: -
+valley: -
+valuable: -
+value: 
+  - noun
+  - verb
+valve: -
+van: -
+vandalism: -
+vandalize: -
+vanilla: 
+  - noun
+  - adjective
+vanish: -
+vanity: -
+vapour: -
+variable: 
+  - adjective
+  - noun
+variant: -
+variation: -
+varied: -
+variety: -
+various: -
+variously: -
+vary: -
+vase: -
+vast: -
+vastly: -
+vault: 
+  - noun
+vegetable: 
+  - noun
+vegetarian: -
+vegetation: -
+vehicle: -
+veil: 
+  - noun
+vein: -
+velocity: -
+velvet: -
+vengeance: -
+venture: 
+  - noun
+  - verb
+venue: -
+verb: -
+verbal: 
+  - adjective
+verdict: -
+verge: 
+  - noun
+verify: -
+versatile: -
+verse: -
+version: -
+versus: -
+vertical: 
+  - adjective
+very: 
+  - adverb
+  - adjective
+vessel: -
+vest: 
+  - noun
+vet: 
+  - noun
+veteran: -
+veterinarian: -
+veto: 
+  - verb
+  - noun
+via: -
+viable: -
+vibrant: -
+vibrate: -
+vibration: -
+vice,-,adverb
+vicinity: -
+vicious: -
+victim: -
+victorious: -
+victory: -
+video: 
+  - noun
+view: 
+  - noun
+  - verb
+viewer: -
+viewpoint: -
+vigorous: -
+vigorously: -
+village: -
+villager: -
+villain: -
+vine: -
+vinegar: -
+vineyard: -
+vintage: 
+  - adjective
+violate: -
+violation: -
+violence: -
+violent: -
+violently: -
+violin: -
+viral: 
+  - adjective
+virtual: -
+virtually: -
+virtue: -
+virus: -
+visa: -
+visibility: -
+visible: -
+vision: -
+visit: 
+  - verb
+  - noun
+visitor: -
+visual: 
+  - adjective
+visualize: -
+visually: -
+vital: -
+vitality: -
+vitamin: -
+vivid: -
+vocabulary: -
+vocal: 
+  - adjective
+vocational: -
+voice: 
+  - noun
+  - verb
+voicemail: -
+void: 
+  - noun
+  - adjective
+volatile: -
+volcano: -
+volleyball: -
+volt: -
+voltage: -
+volume: -
+voluntarily: -
+voluntary: 
+  - adjective
+volunteer: 
+  - noun
+  - verb
+vomit: 
+  - verb
+  - noun
+vote: 
+  - verb
+  - noun
+voter: -
+voucher: -
+vow: 
+  - noun
+  - verb
+vowel: -
+voyage: 
+  - noun
+vulgar: -
+vulnerable: -
+wade: -
+wag: 
+  - verb
+wage: 
+  - noun
+wagon: -
+waist: -
+wait: 
+  - verb
+  - noun
+waiter: -
+waitress: -
+wake: 
+  - verb
+walk: 
+  - verb
+  - noun
+walker: -
+wall: 
+  - noun
+wallet: -
+wallpaper: 
+  - noun
+wander: 
+  - verb
+want: 
+  - verb
+  - noun
+wanted: -
+war: -
+ward: 
+  - noun
+wardrobe: -
+warehouse: -
+warfare: -
+warm: 
+  - adjective
+  - verb
+warmly: -
+warmth: -
+warn: -
+warning: 
+  - noun
+warrant: 
+  - noun
+  - verb
+warranty: -
+warrior: -
+wartime: -
+wary: -
+wash: 
+  - verb
+  - noun
+washing: -
+washing,-,noun
+washing,-,noun
+washing-up: -
+washing-up,-,noun
+wasp: -
+waste: 
+  - noun
+  - verb
+  - adjective
+wasteful: -
+wastepaper,-,noun
+watch: 
+  - verb
+  - noun
+water: 
+  - noun
+  - verb
+waterfall: -
+watt: -
+wave: 
+  - noun
+  - verb
+wavelength: -
+wax: 
+  - noun
+way: 
+  - noun
+  - adverb
+way,-,life/noun
+we: -
+weak: -
+weaken: -
+weakness: -
+wealth: -
+wealthy: -
+weapon: -
+wear: 
+  - verb
+  - noun
+weary: 
+  - adjective
+weather: 
+  - noun
+weave: 
+  - verb
+web: -
+webpage: -
+website: -
+wedding: -
+wedge: 
+  - noun
+Wednesday: -
+weed: 
+  - noun
+week: -
+weekend: 
+  - noun
+weekly: 
+  - adjective
+weep: -
+weigh: -
+weight: 
+  - noun
+weird: 
+  - adjective
+welcome: 
+  - interjection
+  - adjective
+  - verb
+  - noun
+welfare: -
+well: 
+  - adverb
+  - interjection
+  - adjective
+  - noun
+well-being: -
+well-established: -
+well-known: -
+west: 
+  - noun
+  - adjective
+  - adverb
+western: 
+  - adjective
+wet: 
+  - adjective
+  - verb
+whale: 
+  - noun
+what,-,determiner/predetermi
+whatever: 
+  - determiner/pronoun
+  - adverb
+whatsoever: -
+wheat: -
+wheel: 
+  - noun
+  - verb
+wheelchair: -
+when,-,conjunction/pronoun
+whenever,-,conjunction
+where,-,conjunction/pronoun
+whereabouts: 
+  - adverb
+  - noun
+whereas: -
+whereby: -
+wherever: -
+whether: -
+which,-,pronoun
+whichever,-,pronoun
+while: 
+  - conjunction
+  - noun
+whilst: -
+whip: 
+  - verb
+whisk: 
+  - verb
+whisker: -
+whisky: -
+whisper: 
+  - verb
+  - noun
+whistle: 
+  - verb
+  - noun
+white: 
+  - adjective
+  - noun
+who: -
+whoever: -
+whole: 
+  - adjective
+  - noun
+wholesale: 
+  - noun
+  - adjective
+wholly: -
+whom: -
+whoops: -
+whose,-,pronoun
+why: 
+  - adverb
+wicked: -
+wide: 
+  - adjective
+  - adverb
+widely: -
+widen: -
+wide-ranging: -
+widespread: -
+widow: -
+width: -
+wield: -
+wife: -
+wi-fi: -
+wig: 
+  - noun
+wild: 
+  - adjective
+wilderness: -
+wildlife: -
+wildly: -
+will: 
+  - modal/verb
+  - noun
+willing: -
+willingness: -
+wildlife: -
+wildly: -
+will: 
+  - modal/verb
+  - noun
+willing: -
+willingness: -
+win: 
+  - verb
+  - noun
+wind: 
+  - noun
+  - verb
+window: -
+windscreen: -
+windshield: -
+windy: -
+wine: 
+  - noun
+wing: 
+  - noun
+wink: 
+  - verb
+  - noun
+winner: -
+winning: -
+winter: 
+  - noun
+wipe: 
+  - verb
+wire: 
+  - noun
+  - verb
+wireless: 
+  - adjective
+wisdom: -
+wise: 
+  - adjective
+wish: 
+  - verb
+  - noun
+wit: -
+witch: -
+with: -
+withdraw: -
+withdrawal: -
+withhold: -
+within,-,adverb
+without,-,adverb
+withstand: -
+witness: 
+  - noun
+  - verb
+witty: -
+wizard: -
+woe: -
+wolf: 
+  - noun
+woman: -
+womb: -
+wonder: 
+  - verb
+  - noun
+wonderful: -
+wonderfully: -
+wood: -
+wooden: -
+woodland: -
+wool: -
+word: 
+  - noun
+  - verb
+wording: -
+work: 
+  - verb
+  - noun
+worker: -
+workforce: -
+working: 
+  - adjective
+working,-,noun
+workload: -
+workman: -
+work,-,art/noun
+workplace: -
+workshop: -
+workstation: -
+world: 
+  - noun
+  - adjective
+world-class: -
+worldwide,-,adverb
+worm: 
+  - noun
+  - adjective
+worried: -
+worry: 
+  - verb
+  - noun
+worrying: -
+worse: 
+  - adjective
+  - adverb
+worsen: -
+worship: 
+  - verb
+  - noun
+worst: 
+  - adjective
+  - noun
+worth: 
+  - adjective
+  - noun
+worthless: -
+worthwhile: -
+worthy: 
+  - adjective
+would,-,verb
+would-be: -
+wound: 
+  - noun
+  - verb
+wounded: -
+wow: 
+  - interjection
+wrap: 
+  - verb
+  - noun
+wreck: 
+  - verb
+  - noun
+wreckage: -
+wrestle: -
+wrist: -
+write: -
+writer: -
+writing: -
+  - adjective
+wrong: 
+  - adjective
+  - adverb
+  - noun
+wrongly: -
+X-ray: 
+  - noun
+yacht: -
+yard: -
+yarn: -
+yawn: 
+  - verb
+  - noun
+yeah: -
+year: -
+yearly: -
+yell: 
+  - verb
+yellow: 
+  - adjective
+  - noun
+yes: 
+  - adverb
+yesterday: 
+  - adverb
+yet: 
+  - adverb
+  - conjunction
+yield: 
+  - verb
+  - noun
+yogurt: -
+you: -
+young: 
+  - adjective
+youngster: -
+your: -
+yours: -
+yourself: -
+youth: -
+youthful: -
+yummy: -
+zebra,-,noun
+zero: 
+  - number
+zip: 
+  - noun
+zip,-,noun
+zipper: -
+zone: 
+  - noun
+zoo: -
+=======
 # END ORIGINAL
 
-
-# --- APPENDED: Examples/oxford.yaml mappings ---
-# Oxford 3000 
-# https://www.oxfordlearnersdictionaries.com
-# /external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000.pdf
 abroad: abraud
 achieve: acheve
 acknowledge: acknolledge
@@ -1023,11 +11764,3 @@ wool: wwl
 wolf: wwlf
 yellow: yello
 youth: yuth
-
-
-# --- APPENDED: Examples/non-oxford.yaml mappings ---
-# Words outside Oxford word list
--hood: -hwd
--ishment: ition
-crumb: crum
-tomb: toom
