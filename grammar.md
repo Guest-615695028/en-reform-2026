@@ -67,3 +67,9 @@ Why is do-support become idiomatic? Without do-support, the question
 3. In Yes-no questions, The subject is not a single pronoun.
 
 Otherwise, it is optional.
+
+## Functionals
+### The negator "not"
+Is written before the negated word/s as for clarity. One write "do not" to and onely to negate the finite lexical verb.
+
+Proscribed is the form "It is not until A that B do C" for "It is only after A that B do C", for that it can imply "B continue to do C even after A".

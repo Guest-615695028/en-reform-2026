@@ -1,7 +1,10 @@
 # Unfrenchening
-This rises aggenst the deanglization of French language.
+This rises aggenst the deänglization of French language by the French Academy as _[Don't Have Fear in Speaking French](https://www.academie-francaise.fr/actualites/nayons-pas-peur-de-parler-francais)_.
 
-|Before|Latinly|Germanically
+- \- = Not or hardly found
+- A>B = Under other reforms
+
+|Before|Latinly|Inbornly
 |-|-|-
 |assistant|assistent|_helper/helping_
 |resistant|resistent|_withstanding_
@@ -14,7 +17,7 @@ This rises aggenst the deanglization of French language.
 |plaintiff|planctive|_blamy_
 |-son|-sion/-tion|-ing
 |arson|arsion|_burning_
-|comparison|comparation|
+|comparison|comparation|-
 |garrison|-|ward
 |liaison|ligation|link/linking
 |treason|_perfidy_|betraying/_unfaith_
@@ -22,7 +25,7 @@ This rises aggenst the deanglization of French language.
 |critique|critic|-
 |mystique|mystic|-
 |physique|physic|-
-|technique|tekhnic|_craft_
+|technique|technic>technic|_craft_
 |unique|unic|onely
 |-ish|-esce|-en
 |finish|finesce|_end_
