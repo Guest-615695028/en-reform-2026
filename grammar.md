@@ -61,15 +61,9 @@ Why is do-support become idiomatic? Without do-support, the question
 
 > What eats that man?
 
-—— yet another question. Therefore, the do-support differentiate the latter question from the former, so it shall be mandated at most when:
-1. Imperative "Do not" (even before the verb _to be_)
-2. In Wh-questions, The subject contains not "I", "we", "thou", "ye", "he", "she", and "they" (only nominative forms differ from obliques other than "who"/"whom").
-3. In Yes-no questions, The subject is not a single pronoun.
+—— yet another question. Therefore, the do-support differentiate the latter question from the former. 
 
-Otherwise, it is optional.
+In this reform can one place the full verb before the subject "thou" or "ye".
 
 ## Functionals
-### The negator "not"
-Is written before the negated word/s as for clarity. One write "do not" to and onely to negate the finite lexical verb.
-
-Proscribed is the form "It is not until A that B do C" for "It is only after A that B do C", for that it can imply "B continue to do C even after A".
+[See here](vswds.md)

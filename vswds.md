@@ -1,8 +1,14 @@
 # A Proposal on English Writing Reform - Verry special words
 Sometimes known as stop-words in data-base monitors.
+
+## The negator "not"
+Is written before the negated word/s as for clarity, and so are the negative adverbs "neither", "never". One write "do not" to and only to negate the finite full verb.
+
+Proscribed is the form "It is not until A that B do C" for "It is only after A that B do C", for that it can imply "B continue to do C even after A" wordwise.
+
 ## Determiners
 ### Indefinite article - a/an
-Write "an" before vocal but "one", "once" and "oneth" (_continous letters_), "a" elsewhere.
+One write "an" before vocal (and even "onely") but "one", "once" and "oneth" (_continous letters_), "a" before consonants.
 
 |Before|After
 |-|-

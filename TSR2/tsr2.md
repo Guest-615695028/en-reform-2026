@@ -24,7 +24,7 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 |Z z|ze
 
 ### Vocals
-For single letters, uppercase stands for long vocals with loërcase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
+For single letters, uppercase stands for long vocals with lowercase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
 |Stressed vocal|Sequence
 |-|-
 |[/eː/](https://en.wikipedia.org/wiki/Pane-pain_merger)|A, ae
