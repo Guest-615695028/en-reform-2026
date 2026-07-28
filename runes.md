@@ -1,13 +1,13 @@
 # Name of Anglo-Saxon runes for Modren English.
 
-|Rune|New|Old|
-|ᚠ|Fee|(feoh)
-|ᚢ|Ure|(úr)
-|ᚦ|THorn|(þorn)
-|ᚩ|One|(ós)
+|Rune|New|Old|Sound|
+|ᚠ|Fee|(feoh)|f /f/, v /v/
+|ᚢ|Ure|(úr)|u /ʌ/ɪu̯/
+|ᚦ|THorn|(þorn)|th /θ/, dh /ð/
+|ᚩ|One|(ós)|o 
 |ᚱ|Road|(rád)
 |ᚳ|CHeen|(cén)
-|ᚷ|Jill|(gyfu)
+|ᚷ|Jif|(gyfu)/
 |ᚹ|Win|(wynn)
 |ᚻ|Hail|(hægl)
 |ᚾ|Need|(nýd)
@@ -25,7 +25,7 @@
 |ᛝ|Ing|(Ing)
 |ᛟ|Etthel|(éþel)
 |ᛞ|Day|(dæg)
-|ᚪ|Oak|(ác)
+|ᚪ|OAk|(ác)
 |ᚫ|Ash|(æsc)
 |ᚣ|Ire|(yr)
 |ᛠ|EAr|(ear)
