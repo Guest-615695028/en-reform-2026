@@ -20,8 +20,10 @@ In 2021 is there allso a proposition named [Traditional Spelling Revised](https:
 |F f|ef|G g|je|H h|aitch|I i|i|J j|ja
 |K k|ka|L l|el|M m|em|N n|en|O o|o
 |P p|pe|Q q|cu|R r|ar|S s|es|T t|te
-|U u|u|V v|ve|W w|oo|X x|ex|Y y|ye
+|U u|u|V v|ve|W w|we|X x|ex|Y y|wye
 |Z z|ze
+
+The former name for W, "dubble-u" is deprecated.
 
 ### Vocals
 For single letters, uppercase stands for long vocals with lowercase for short ones. Multigraphic vocals are moastly long, but sometimes are there short EA (/ɛ/, _head_, _meant_, _realm_), OO (/ʊ/, _book_, _foot_, _good_, _wool_), OU (/ʌ/, _southern_, _touch_), which are hard to predict. They are to be regulated into E, W, U, respectively. EU, EW, and U (/ɪʊ̯/) may turn to /uː/ after palatal consonants in more or less accents.
