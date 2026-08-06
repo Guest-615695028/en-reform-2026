@@ -3,7 +3,7 @@ Long has it been wondered if the English tung will fall internationally when the
 
 In 1828 mended Noäh Webster English spellings in the United States, such as "colour" with "color" (CUL-ler), "centre" with "center", "defence" with "defense", "plough" with "plow", "draught" with "draft" and "gaol" with "jail".
 
-In 1920, the Simplify Spelling Board published a self-shoïng Handbook of Simplified Spelling with three parts:
+In 1920, the Simplify Spelling Board published a self-showing Handbook of Simplified Spelling with three parts:
 - Part 1 narrates an outline of the history of English spelling and the reforming attempts until 1920.
 - Part 2 presents the arguments in favor of reform and replies to the objections that are communly made.
 - Part 3 contains the SSB's proposed rules for simplified spelling and a list of the words that would be changed thereby.
