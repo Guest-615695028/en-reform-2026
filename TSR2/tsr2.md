@@ -226,8 +226,8 @@ Anglo-Saxon suffixes jenerally do not trigger trisyllabic shortening. They are r
 Similarly, the ending "-ssion" dus not lengthen the preceding vocal because of the doubling of S. TSR uses "-ssion-" instead of -tion when the preceding vocal is accented, but needs to be kept short; thus are there _nation_ but **nassional**; _special_ becomes **spescial**, _pleasure_ becomes **plezzure**, _precious_ becoumes **prescious**.
 3. Some commun combinations preserved
    - Long A: -ange- (dânger, ângel), -aste (tâste, wâste), -**a**tional (compare **nassional** and **rassional**).
-   - Long I: -igm (paradigm), -ign (benign, sign); both becum -im- and -in- when folloed by vocal letter.
-   - Long O: final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ak) (folk, yolk, ...), [-oll](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Al) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orge (forge `o:rdʒ`) -orne (borne `o:r\n`)
+   - Long I: -igm (paradigm), -ign (benign, sign); both becum -im- and -in- when followed by vocal letter.
+   - Long O: final [-old](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ald) (old, gold, ...), [-olk](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Ak) (folk, yolk, ...), [-oll](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Al) (folk, yolk, ...), [-olt](https://en.wiktionary.org/wiki/Rhymes:English/%C9%99%CA%8Alt) (bolt, colt, ...), -orce (force, divorce `o:rs`), -orne (borne `o:r\n`)
    - All bâsic prepositions attached to "here", "there", and "where" are accented.
    - Others: -ould (could, should, would), war- (warm, warn), wor- (worm, worst).
    - Thus are these modal verbs considered as sign-words: could(st), should(st), would(st), shall, shalt
