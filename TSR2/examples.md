@@ -17,7 +17,7 @@
 |sh**or**n, sworn, torn, worn|shorne, sworne, torne, worne|/oːɹ/
 |s**ou**thern, touch, kn**ow**ledge, ...|suddhern, tuch, knolledge, ...|/uː/
 |gr**ou**p, soup, troupe, ...<br>st**ou**nd, wound, ...|groop, soop, troope, ...<br>stoond, woond, ...|/uː/
-|kn**ow**, low, show, ...|kno, lo, sho, ...|/oʊ̯/
+|n**ow**, down, owl, ...|nou, doun, oul, ...|/aʊ/; [Toe-tow merger](https://en.wikipedia.org/wiki/Toe-tow_merger)
 |f**u**ll, push, put, ...|fwll, pwsh, pwt, ...|/ʊ/; cut, dull, ...
-|br**o**ther, mother, other, ...|brudther, mudther, udther, ...|/ʌ/; bother, pother
+|br**o**ther, mother, ...|brudther, mudther, ...|/ʌ/; bother, pother
 |**queue**|kue|Same pronuntiation as Q
