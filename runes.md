@@ -9,7 +9,7 @@
 |ᚳ|CHeen|(cén)|ch
 |ᚷ|Jif|(gyfu)/|j
 |ᚹ|Win|(wynn)|w
-|ᚻ|Hail|(hægl)\h
+|ᚻ|Hail|(hægl)|h
 |ᚾ|Need|(nýd)|n
 |ᛁ|Ice|(ís)|i
 |ᛡ|Year|(gér)|y
