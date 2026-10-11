@@ -1,6 +1,6 @@
 # Name of Anglo-Saxon runes for Modren English.
 
-|Rune|New|Old|Sound|
+|Rune|New|Old|Latin
 |ᚠ|Fee|(feoh)|f, v
 |ᚢ|Ure|(úr)|u
 |ᚦ|THorn|(þorn)|th, dh
