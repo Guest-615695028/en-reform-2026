@@ -2,38 +2,36 @@
 
 |Rune|New|Old|Sound|
 |ᚠ|Fee|(feoh)|f /f/, v /v/
-|ᚢ|Ure|(úr)|u /ʌ/ɪu̯/
+|ᚢ|Ure|(úr)|u
 |ᚦ|THorn|(þorn)|th /θ/, dh /ð/
-|ᚩ|One|(ós)|o 
-|ᚱ|Road|(rád)
-|ᚳ|CHeen|(cén)
-|ᚷ|Jif|(gyfu)/
-|ᚹ|Win|(wynn)
-|ᚻ|Hail|(hægl)
-|ᚾ|Need|(nýd)
-|ᛁ|Ice|(ís)
-|ᛡ|Year|(gér)
-|ᛇ|Yew|(éoh)|
-|ᛈ|Perth|(peorð)
-|ᛉ|Elk|(eolhx)
-|ᛋ|Sile|(sigel)
-|ᛏ|Tue|(tír)
-|ᛒ|Birch|(beorc)
-|ᛖ|Egh|(eh)
-|ᛗ|Man|(mann)
-|ᛚ|Lake|(lagu)
-|ᛝ|Ing|(Ing)
-|ᛟ|Etthel|(éþel)
-|ᛞ|Day|(dæg)
-|ᚪ|OAk|(ác)
-|ᚫ|Ash|(æsc)
-|ᚣ|Ire|(yr)
-|ᛠ|EAr|(ear)
-|ᛣ|Calk|(calc)
-|ᚸ|Gar|(gar)
+|ᚩ|Os|(ós)|o 
+|ᚱ|Road|(rád)|r
+|ᚳ|CHeen|(cén)|ch
+|ᚷ|Jif|(gyfu)/|j
+|ᚹ|Win|(wynn)|w
+|ᚻ|Hail|(hægl)\h
+|ᚾ|Need|(nýd)|n
+|ᛁ|Ice|(ís)|i
+|ᛡ|Year|(gér)|y
+|ᛇ|Yew|(éoh)|eu, ew
+|ᛈ|Perth|(peorð)|p
+|ᛉ|Elk|(eolhx)|e
+|ᛋ|Sile|(sigel)|s
+|ᛏ|Tue|(tír)|t
+|ᛒ|Birch|(beorc)|b
+|ᛖ|Egh|(eh)|e
+|ᛗ|Man|(mann)|m
+|ᛚ|Lake|(lagu)|l
+|ᛝ|Ing|(Ing)|ng
+|ᛟ|Etthel|(éþel)|e
+|ᛞ|Day|(dæg)|d
+|ᚪ|OAk|(ác)|oa
+|ᚫ|Ash|(æsc)|a
+|ᚣ|Ire|(yr)|i
+|ᛠ|EAr|(ear)|ea
+|ᛣ|Calk|(calc)|k
+|ᚸ|Gar|(gar)|g
 
 - _Road_ ment a horse-back ride up to Shakespeare's time, but now it means a street.
-
-- _Sile_ was a hard one to overset, but I found a forebisen to follow: _stigel_>_stile_.
-
+- _Sile_ is from _stigel_>_stile_.
 - _Tue_ is from _Tuesday_.
